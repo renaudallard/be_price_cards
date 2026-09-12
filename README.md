@@ -1,5 +1,10 @@
-# Tariff cards
+# Price cards
 
-The PDF tariff cards the archive branch of homeassistant_be_electricity_prices
-refers to, one release per month, each file named by its SHA-256. Written by
-its archive_cards.yml workflow; nothing here is edited by hand.
+The original tariff cards the Belgian price integrations refer to, kept as
+release assets named by their SHA-256, one namespace per integration:
+
+- `electricity/`: homeassistant_be_electricity_prices, releases `electricity-<YYYY-MM>`.
+- `water/`: be_water_prices, releases `water-<YYYY-MM>`.
+
+Each directory holds the listings that name the files: which contract and month
+a card is, and where to download it. Nothing here is edited by hand.
