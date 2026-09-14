@@ -5,7 +5,9 @@ Each month links to what it was parsed from and to what came out of it: `pdf` is
 card itself, in the cards repository's releases, `page` the text of a page as it
 was read, and `json` the card as the integration parsed it, both on this branch.
 A month marked `(mirror)` was copied from the supplier's own archive rather than
-captured while it was current; a blank cell is a month the branch does not hold.
+captured while it was current; a month marked `(not parsed)` is a card the branch
+holds but no reader could read, so there is no JSON to link; a blank cell is a
+month the branch does not hold.
 
 | contract | region | 2026-01 | 2026-02 | 2026-03 | 2026-04 | 2026-05 | 2026-06 | 2026-07 | 2026-08 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

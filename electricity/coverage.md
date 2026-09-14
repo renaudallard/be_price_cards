@@ -6,12 +6,14 @@ Each month links to what it was parsed from and to what came out of it: `pdf` is
 card itself, in the cards repository's releases, `page` the text of a page as it
 was read, and `json` the card as the integration parsed it, both on this branch.
 A month marked `(mirror)` was copied from the supplier's own archive rather than
-captured while it was current; a blank cell is a month the branch does not hold.
+captured while it was current; a month marked `(not parsed)` is a card the branch
+holds but no reader could read, so there is no JSON to link; a blank cell is a
+month the branch does not hold.
 
 - [bolt](coverage/bolt.md): 36 rows, 2026-01 to 2026-09
 - [cociter](coverage/cociter.md): 3 rows, 2026-01 to 2026-09
 - [ebem](coverage/ebem.md): 3 rows, 2026-01 to 2026-09
-- [ecofix](coverage/ecofix.md): 6 rows, 2026-05 to 2026-05
+- [ecofix](coverage/ecofix.md): 6 rows, 2026-05 to 2026-09
 - [ecopower](coverage/ecopower.md): 2 rows, 2026-01 to 2026-08
 - [eneco](coverage/eneco.md): 7 rows, 2026-01 to 2026-09
 - [energiebe](coverage/energiebe.md): 3 rows, 2026-01 to 2026-09
