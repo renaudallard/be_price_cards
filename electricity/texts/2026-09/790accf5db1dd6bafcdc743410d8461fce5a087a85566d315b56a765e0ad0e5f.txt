@@ -1,0 +1,1 @@
+{"Response":{"Ok":"True","TariffSheet":"data:application/pdf;base64,{{card:911613ef4cd63998afaf94b495217e3f540bd4a9770891aadcfed4d667ff2b68}}"},"Request":{"CustomerNumber":"","ContractNumber":"","EGPdfTarif":"2026-03 E OCTA+FLUX RE VL FR.pdf","Canal":"website","RequestedPDF":"2026-03 E OCTA+FLUX RE VL FR.pdf"}}

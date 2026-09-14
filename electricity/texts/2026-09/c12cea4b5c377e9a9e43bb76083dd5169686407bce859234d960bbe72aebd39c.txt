@@ -1,0 +1,1 @@
+{"Response":{"Ok":"True","TariffSheet":"data:application/pdf;base64,{{card:a4d969847751e18ac64c7bc004da520528bfe965ad8f10d681f30a5079faf4ca}}"},"Request":{"CustomerNumber":"","ContractNumber":"","EGPdfTarif":"2026-04 E OCTA+ECODYNAMIC RE VL FR.pdf","Canal":"website","RequestedPDF":"2026-04 E OCTA+ECODYNAMIC RE VL FR.pdf"}}

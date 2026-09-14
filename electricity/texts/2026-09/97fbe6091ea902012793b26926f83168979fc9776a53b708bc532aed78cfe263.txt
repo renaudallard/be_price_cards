@@ -1,0 +1,1 @@
+{"Response":{"Ok":"True","TariffSheet":"data:application/pdf;base64,{{card:ba6fd96e5abd65c19cebe363660589b94a5e85a6d53acfb9dc76ab0181ffd0f8}}"},"Request":{"CustomerNumber":"","ContractNumber":"","EGPdfTarif":"2026-08 E OCTA+ECOFLUX RE WL FR.pdf","Canal":"website","RequestedPDF":"2026-08 E OCTA+ECOFLUX RE WL FR.pdf"}}
