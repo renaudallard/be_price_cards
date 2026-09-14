@@ -13,7 +13,7 @@ month the branch does not hold.
 - [bolt](coverage/bolt.md): 36 rows, 2026-01 to 2026-09
 - [cociter](coverage/cociter.md): 3 rows, 2026-01 to 2026-09
 - [ebem](coverage/ebem.md): 3 rows, 2026-01 to 2026-09
-- [ecofix](coverage/ecofix.md): 6 rows, 2026-05 to 2026-09
+- [ecofix](coverage/ecofix.md): 8 rows, 2026-05 to 2026-09
 - [ecopower](coverage/ecopower.md): 2 rows, 2026-01 to 2026-08
 - [eneco](coverage/eneco.md): 7 rows, 2026-01 to 2026-09
 - [energiebe](coverage/energiebe.md): 3 rows, 2026-01 to 2026-09
