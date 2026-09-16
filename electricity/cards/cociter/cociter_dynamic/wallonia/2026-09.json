@@ -1,18 +1,18 @@
 {
- "_cached_at": "2026-09-12T00:16:44.505808+00:00",
+ "_cached_at": "2026-09-16T10:18:38.579808+00:00",
  "_probe_key": null,
  "_schema_version": 59,
- "_seen_on": "2026-09-12",
+ "_seen_on": "2026-09-16",
  "_sources": [
   {
-   "text": "texts/2026-09/130c5e3c38000280056ff91b424a31f32ab29341fe38fb0a1f23479bbd972742.txt",
+   "text": "texts/2026-09/6689c05a1d8a0aa58f631170c812d54f98b8bdac8cab5e471580fdeba08b15ef.txt",
    "url": "https://www.cociter.be/electricite/cartes-tarifaires/",
    "variant": "text"
   },
   {
-   "pdf": "cc41958837bf7465408d17beb38105ed97a32c8d2050f5ca3a8e6b814b6e8ab8",
-   "text": "texts/2026-09/e024d6ce4e9e6f54d57ededcdfb0ebe710c5e53ffa5ee9b6d53a3e31a965bbe9.txt",
-   "url": "https://www.cociter.be/wp-content/uploads/2026/09/RCDyn_SM3_Coop-2609-fr.pdf",
+   "pdf": "125b494d3c0fe67c36c99386ec860051106b631c5923bb95510a79491086942b",
+   "text": "texts/2026-09/56d32183159e8905491b7bb19987a08dad7d5f4bd2f4507fc98e3d1abac4fedb.txt",
+   "url": "https://www.cociter.be/wp-content/uploads/RCDyn_SM3_Coop-2609-fr.pdf",
    "variant": "plain"
   }
  ],
@@ -129,7 +129,7 @@
   "vat_applies": false
  },
  "publication_label": "2026-09",
- "source_url": "https://www.cociter.be/wp-content/uploads/2026/09/RCDyn_SM3_Coop-2609-fr.pdf",
+ "source_url": "https://www.cociter.be/wp-content/uploads/RCDyn_SM3_Coop-2609-fr.pdf",
  "supplier": "cociter",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
