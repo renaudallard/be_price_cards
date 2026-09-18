@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-09-17T10:26:49.171503+00:00",
+ "_cached_at": "2026-09-18T10:04:04.388192+00:00",
  "_probe_key": null,
- "_schema_version": 61,
+ "_schema_version": 63,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -13,6 +13,12 @@
    "pdf": "12c31d04f3705660b96ad0f49b9475525b2279e83933a907a07e72bb71804afa",
    "text": "texts/2026-09/7d79937c4ec4fc905cf6047698d3ffbdcf956e62b61f9537fd10c107fa7ef63e.txt",
    "url": "https://trevion.be/tariefkaarten/Tariefkaart-LifePowrByTrevion-Particulier-202608.pdf",
+   "variant": "layout"
+  },
+  {
+   "pdf": "e0838578e8a61abf2d3ea4ce93a39abfc2c4db364c5191e9572607a58fad9c28",
+   "text": "texts/2026-09/fcd6b71de0d0ae29229e2cb7661ba5420fb87e5f75a19bec2e114c4c059cc5a0.txt",
+   "url": "https://trevion.be/tariefkaarten/Tariefkaart-LifePowrByTrevion-Particulier-202609.pdf",
    "variant": "layout"
   }
  ],
@@ -172,7 +178,7 @@
   "factor_peak": null,
   "factor_pic": null,
   "factor_transition": null,
-  "index_realised": null,
+  "index_realised": 0.13584000000000002,
   "rlp_blend": "flanders",
   "rlp_indexed": true,
   "tier_kwh": null,
@@ -187,13 +193,14 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.04138499999999999,
+  "current": 0.056199,
   "factor": 0.8999999999999999,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
   "floor_at_zero": false,
   "formula": null,
+  "index_realised": 0.07911,
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,

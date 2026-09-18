@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-09-17T10:26:49.171503+00:00",
+ "_cached_at": "2026-09-18T10:04:04.388192+00:00",
  "_probe_key": null,
- "_schema_version": 61,
- "_seen_on": "2026-09-17",
+ "_schema_version": 63,
+ "_seen_on": "2026-09-18",
  "_sources": [
   {
-   "text": "texts/2026-09/d44609ac743a1d0493fe4488ae86b48646aac3d3d8a829fa6294c5925e63661a.txt",
+   "text": "texts/2026-09/d859e64e6b3abf814f73739f3309be0d8cdcb9d7f8d5d69130f5fd928352100d.txt",
    "url": "https://eneco.be/nl/elektriciteit-gas/tariefkaarten",
    "variant": "text"
   },

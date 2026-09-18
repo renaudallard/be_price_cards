@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-09-12T00:16:44.505808+00:00",
+ "_cached_at": "2026-09-18T10:04:04.388192+00:00",
  "_probe_key": null,
- "_schema_version": 59,
+ "_schema_version": 63,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -13,6 +13,12 @@
    "pdf": "7b3bdd620f1e74bf205acd07ddb7c23fc77b4c35dfe4e6f04504c1524f381061",
    "text": "texts/2026-09/14a2fb452b6d911eaba64c160348257f4f9140715c963d34bec1d7e7fb04e4b6.txt",
    "url": "https://www.ebem.be/media/jowa3fwy/ebem_tariefkaart-elek-01-2026.pdf",
+   "variant": "layout"
+  },
+  {
+   "pdf": "13c6d50761c1352fc63d2599939bed14ba0d6615b8854656d082273120362d38",
+   "text": "texts/2026-09/ccb2e7c8bd7f392e7baa73548b49859b092656a7ab25b8521d6034abdc11078b.txt",
+   "url": "https://www.ebem.be/media/mupnelkr/ebem_tariefkaart-elek-02-2026.pdf",
    "variant": "layout"
   }
  ],
@@ -153,8 +159,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.124972,
-  "exclusive_night": 0.114807,
+  "current": 0.15260608,
+  "exclusive_night": 0.139677472,
   "formula": "mono (0.11 BelpexRLP0 + 2.2) · peak (0.12 + 2.2) · off-peak (0.099 + 2.2) c€/kWh ex-VAT",
   "formula_base": 0.023320000000000004,
   "formula_base_exclusive_night": 0.023320000000000004,
@@ -167,12 +173,12 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
-  "month_indexed": false,
-  "offpeak": 0.114807,
-  "peak": 0.134213,
-  "rlp_blend": "distinct",
-  "rlp_indexed": false,
+  "index_realised": 0.11087999999999999,
+  "month_indexed": true,
+  "offpeak": 0.139677472,
+  "peak": 0.16435936,
+  "rlp_blend": "flanders",
+  "rlp_indexed": true,
   "yearly_fixed_fee": 90.0,
   "yearly_fixed_fee_exclusive_night": 35.04
  },
@@ -182,13 +188,14 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.06789200000000001,
+  "current": 0.093098,
   "factor": 0.925,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
   "floor_at_zero": false,
   "formula": "(0.0925 BelpexSPP0 - 1,25) c€/kWh ex-VAT",
+  "index_realised": 0.11416,
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,

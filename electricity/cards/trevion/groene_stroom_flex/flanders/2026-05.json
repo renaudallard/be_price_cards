@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-09-17T10:26:49.171503+00:00",
+ "_cached_at": "2026-09-18T10:04:04.388192+00:00",
  "_probe_key": null,
- "_schema_version": 61,
+ "_schema_version": 63,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -13,6 +13,11 @@
    "pdf": "78dfd55744bbb3efc576dea0b998e1dc0a8478e1e84e195cf8e7a810a82fe421",
    "text": "texts/2026-09/2b25d271b36708ae2935166562805f84a961398e8ad9bc78c6cee03bc87051b2.txt",
    "url": "https://trevion.be/tariefkaarten/Tariefkaart-Groene-Stroom-Flex-Particulier-202605-1.pdf",
+   "variant": "layout"
+  },
+  {
+   "text": "texts/2026-09/a98de2e074cf47840bf3ec2169fa27e2e35229e9f655bfed2d1c49e18be2a632.txt",
+   "url": "https://trevion.be/tariefkaarten/Tariefkaart-Groene-Stroom-Flex-Particulier-202606-2.pdf",
    "variant": "layout"
   }
  ],
@@ -172,7 +177,7 @@
   "factor_peak": null,
   "factor_pic": null,
   "factor_transition": null,
-  "index_realised": null,
+  "index_realised": 0.09902,
   "rlp_blend": "flanders",
   "rlp_indexed": true,
   "tier_kwh": null,
@@ -187,13 +192,14 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0027114999999999986,
+  "current": 0.015251499999999994,
   "factor": 0.95,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
   "floor_at_zero": false,
   "formula": null,
+  "index_realised": 0.04237,
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,
