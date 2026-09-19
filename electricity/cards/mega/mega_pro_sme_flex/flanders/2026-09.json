@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-18T10:04:04.388192+00:00",
+ "_cached_at": "2026-09-19T09:44:35.121746+00:00",
  "_probe_key": null,
  "_schema_version": 63,
- "_seen_on": "2026-09-18",
+ "_seen_on": "2026-09-19",
  "_sources": [
   {
    "pdf": "a77b3a8185e84d119fad89f9a05673e0ce21ecf5326f86821f84f1db96360efb",
@@ -13,6 +13,7 @@
  ],
  "_via": "live",
  "contract": "mega_pro_sme_flex",
+ "direct_debit_discount_eur": null,
  "dsos": {
   "fluvius_antwerpen": {
    "brussels_osp_by_tier": null,

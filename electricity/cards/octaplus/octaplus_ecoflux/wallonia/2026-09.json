@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-18T10:04:04.388192+00:00",
+ "_cached_at": "2026-09-19T09:44:35.121746+00:00",
  "_probe_key": null,
  "_schema_version": 63,
- "_seen_on": "2026-09-18",
+ "_seen_on": "2026-09-19",
  "_sources": [
   {
    "pdf": "57e71e33228d3e46dd21da8151f76d79dc8a9b2b0f0a3ea148727350766768b3",
@@ -13,6 +13,7 @@
  ],
  "_via": "live",
  "contract": "octaplus_ecoflux",
+ "direct_debit_discount_eur": null,
  "dsos": {
   "aieg": {
    "brussels_osp_by_tier": null,

@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-18T10:04:04.388192+00:00",
+ "_cached_at": "2026-09-19T09:44:35.121746+00:00",
  "_probe_key": null,
  "_schema_version": 63,
- "_seen_on": "2026-09-18",
+ "_seen_on": "2026-09-19",
  "_sources": [
   {
    "pdf": "7501de18757015bac23127a44b02edcdbe9cde3da0e4dd0550fb8a46a338c861",
@@ -13,6 +13,7 @@
  ],
  "_via": "live",
  "contract": "mega_pro_cosy_fixed",
+ "direct_debit_discount_eur": null,
  "dsos": {
   "sibelga": {
    "brussels_osp_by_tier": {

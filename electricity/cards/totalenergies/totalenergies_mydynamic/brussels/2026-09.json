@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-18T10:04:04.388192+00:00",
+ "_cached_at": "2026-09-19T09:44:35.121746+00:00",
  "_probe_key": null,
  "_schema_version": 63,
- "_seen_on": "2026-09-18",
+ "_seen_on": "2026-09-19",
  "_sources": [
   {
    "pdf": "ce7adc5b11cf661c12afd06e410231abebae5a52188f3d99fbea93a45b3bb753",
@@ -13,6 +13,7 @@
  ],
  "_via": "live",
  "contract": "totalenergies_mydynamic",
+ "direct_debit_discount_eur": null,
  "dsos": {
   "sibelga": {
    "brussels_osp_by_tier": {

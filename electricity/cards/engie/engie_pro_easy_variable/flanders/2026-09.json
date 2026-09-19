@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-18T10:04:04.388192+00:00",
+ "_cached_at": "2026-09-19T09:44:35.121746+00:00",
  "_probe_key": null,
  "_schema_version": 63,
- "_seen_on": "2026-09-18",
+ "_seen_on": "2026-09-19",
  "_sources": [
   {
    "pdf": "88f759178b5739735a2b8b5ef3d7675f312421e2b8e097a0461fcc20bb8b6d5c",
@@ -13,6 +13,7 @@
  ],
  "_via": "live",
  "contract": "engie_pro_easy_variable",
+ "direct_debit_discount_eur": null,
  "dsos": {
   "fluvius_antwerpen": {
    "brussels_osp_by_tier": null,

@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-18T10:04:04.388192+00:00",
+ "_cached_at": "2026-09-19T09:44:35.121746+00:00",
  "_probe_key": null,
  "_schema_version": 63,
- "_seen_on": "2026-09-18",
+ "_seen_on": "2026-09-19",
  "_sources": [
   {
    "pdf": "aac3cf83b71cde636dce0527b4190b3e64f833779691e11f597bfc75f90894a8",
@@ -13,6 +13,7 @@
  ],
  "_via": "live",
  "contract": "bolt_plenty_fix",
+ "direct_debit_discount_eur": null,
  "dsos": {
   "aieg": {
    "brussels_osp_by_tier": null,

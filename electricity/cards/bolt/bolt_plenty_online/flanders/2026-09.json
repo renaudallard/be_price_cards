@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-09-18T10:04:04.388192+00:00",
+ "_cached_at": "2026-09-19T09:44:35.121746+00:00",
  "_probe_key": null,
  "_schema_version": 63,
- "_seen_on": "2026-09-18",
+ "_seen_on": "2026-09-19",
  "_sources": [
   {
-   "text": "texts/2026-09/12aa6bdab39a75217e240bf0ae8bc0069bd33f53dae690d92375320d0cfc85be.txt",
+   "text": "texts/2026-09/bd9d2880b94389b95b56ba59cf4129a1f087db4053920982810b1f0590588112.txt",
    "url": "https://www.boltenergie.be/fr/listes-des-prix",
    "variant": "text"
   },
@@ -18,6 +18,7 @@
  ],
  "_via": "live",
  "contract": "bolt_plenty_online",
+ "direct_debit_discount_eur": null,
  "dsos": {
   "fluvius_antwerpen": {
    "brussels_osp_by_tier": null,

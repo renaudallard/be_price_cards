@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-09-18T10:04:04.388192+00:00",
+ "_cached_at": "2026-09-19T09:44:35.121746+00:00",
  "_probe_key": null,
  "_schema_version": 63,
- "_seen_on": "2026-09-18",
+ "_seen_on": "2026-09-19",
  "_sources": [
   {
-   "text": "texts/2026-09/5c5788c3fa11b0a81f8aa52ea295c46d67ff28d6a5270f51ecf2d860d0a73977.txt",
+   "text": "texts/2026-09/060d7576f6d075a87ab799c336b49485e17a0942f0614c75494db048303cd2f2.txt",
    "url": "https://www.ebem.be/tarieven/",
    "variant": "text"
   },
@@ -18,6 +18,7 @@
  ],
  "_via": "live",
  "contract": "ebem_variable",
+ "direct_debit_discount_eur": null,
  "dsos": {
   "fluvius_antwerpen": {
    "brussels_osp_by_tier": null,

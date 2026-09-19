@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-09-18T10:04:04.388192+00:00",
+ "_cached_at": "2026-09-19T09:44:35.121746+00:00",
  "_probe_key": null,
  "_schema_version": 63,
- "_seen_on": "2026-09-18",
+ "_seen_on": "2026-09-19",
  "_sources": [
   {
-   "text": "texts/2026-09/ce8e721b3fdcb598f292bae0d63274ba138d6ba1e13db4e2d7cea1791be123c8.txt",
+   "text": "texts/2026-09/b56389ede7696bd512334fb90e43c44f312ae358f98e93165bbbbd98ddf193ed.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
@@ -18,6 +18,7 @@
  ],
  "_via": "live",
  "contract": "mega_online_flex",
+ "direct_debit_discount_eur": null,
  "dsos": {
   "fluvius_antwerpen": {
    "brussels_osp_by_tier": null,

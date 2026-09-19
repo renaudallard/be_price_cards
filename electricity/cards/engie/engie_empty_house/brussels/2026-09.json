@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-18T10:04:04.388192+00:00",
+ "_cached_at": "2026-09-19T09:44:35.121746+00:00",
  "_probe_key": null,
  "_schema_version": 63,
- "_seen_on": "2026-09-18",
+ "_seen_on": "2026-09-19",
  "_sources": [
   {
    "pdf": "0f09efa915d0b02b77acec2cac81f53846d85cfb7026fde4144e8d5e85a3f349",
@@ -13,6 +13,7 @@
  ],
  "_via": "live",
  "contract": "engie_empty_house",
+ "direct_debit_discount_eur": null,
  "dsos": {
   "sibelga": {
    "brussels_osp_by_tier": {

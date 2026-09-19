@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-09-18T10:04:04.388192+00:00",
+ "_cached_at": "2026-09-19T09:44:35.121746+00:00",
  "_probe_key": null,
  "_schema_version": 63,
  "_seen_on": "2026-09-12",
@@ -13,6 +13,7 @@
  ],
  "_via": "archive",
  "contract": "engie_pro_easy_fixed",
+ "direct_debit_discount_eur": null,
  "dsos": {
   "sibelga": {
    "brussels_osp_by_tier": {

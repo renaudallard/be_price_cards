@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-09-18T10:04:04.388192+00:00",
+ "_cached_at": "2026-09-19T09:44:35.121746+00:00",
  "_probe_key": null,
  "_schema_version": 63,
- "_seen_on": "2026-09-18",
+ "_seen_on": "2026-09-19",
  "_sources": [
   {
-   "text": "texts/2026-09/2f706cb8331f7162024e0af4e5a0a6e17dad24a4ca025aab49bfa2d25799b381.txt",
+   "text": "texts/2026-09/c39e670678e0f1b5ffac988d695f66967920f951be0c13773b348e36e0ca5441.txt",
    "url": "https://ecopower.be/groene-stroom/prijs-nieuw",
    "variant": "text"
   },
@@ -18,6 +18,7 @@
  ],
  "_via": "live",
  "contract": "ecopower_burgerstroom",
+ "direct_debit_discount_eur": null,
  "dsos": {
   "fluvius_antwerpen": {
    "brussels_osp_by_tier": null,

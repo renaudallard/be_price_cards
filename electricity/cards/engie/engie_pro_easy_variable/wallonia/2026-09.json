@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-18T10:04:04.388192+00:00",
+ "_cached_at": "2026-09-19T09:44:35.121746+00:00",
  "_probe_key": null,
  "_schema_version": 63,
- "_seen_on": "2026-09-18",
+ "_seen_on": "2026-09-19",
  "_sources": [
   {
    "pdf": "0b485ee96c6340c9e8622d1c02fbc24940fde6fdf9cc12e7dcca055075fea38e",
@@ -13,6 +13,7 @@
  ],
  "_via": "live",
  "contract": "engie_pro_easy_variable",
+ "direct_debit_discount_eur": null,
  "dsos": {
   "aieg": {
    "brussels_osp_by_tier": null,
