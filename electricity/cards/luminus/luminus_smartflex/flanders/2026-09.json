@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-19T09:44:35.121746+00:00",
+ "_cached_at": "2026-09-20T10:07:07.067233+00:00",
  "_probe_key": null,
- "_schema_version": 63,
- "_seen_on": "2026-09-19",
+ "_schema_version": 67,
+ "_seen_on": "2026-09-20",
  "_sources": [
   {
    "pdf": "352628bf6ba8acc40a91a6a218594414e967127cc566f61c514bf1a12a94b9fe",
@@ -27,7 +27,7 @@
    "distribution_peak": null,
    "distribution_pic": null,
    "distribution_single": 0.0535,
-   "network_ceiling_eur_per_kwh": null,
+   "network_ceiling_eur_per_kwh": 0.3472738,
    "prosumer_eur_per_kva_year": 54.63,
    "transport": 0.0
   },
@@ -43,7 +43,7 @@
    "distribution_peak": null,
    "distribution_pic": null,
    "distribution_single": 0.0564,
-   "network_ceiling_eur_per_kwh": null,
+   "network_ceiling_eur_per_kwh": 0.3472738,
    "prosumer_eur_per_kva_year": 62.66,
    "transport": 0.0
   },
@@ -59,7 +59,7 @@
    "distribution_peak": null,
    "distribution_pic": null,
    "distribution_single": 0.0554,
-   "network_ceiling_eur_per_kwh": null,
+   "network_ceiling_eur_per_kwh": 0.3472738,
    "prosumer_eur_per_kva_year": 60.12,
    "transport": 0.0
   },
@@ -75,7 +75,7 @@
    "distribution_peak": null,
    "distribution_pic": null,
    "distribution_single": 0.0528,
-   "network_ceiling_eur_per_kwh": null,
+   "network_ceiling_eur_per_kwh": 0.3472738,
    "prosumer_eur_per_kva_year": 59.23,
    "transport": 0.0
   },
@@ -91,7 +91,7 @@
    "distribution_peak": null,
    "distribution_pic": null,
    "distribution_single": 0.0634,
-   "network_ceiling_eur_per_kwh": null,
+   "network_ceiling_eur_per_kwh": 0.3472738,
    "prosumer_eur_per_kva_year": 67.79,
    "transport": 0.0
   },
@@ -107,7 +107,7 @@
    "distribution_peak": null,
    "distribution_pic": null,
    "distribution_single": 0.0575,
-   "network_ceiling_eur_per_kwh": null,
+   "network_ceiling_eur_per_kwh": 0.3472738,
    "prosumer_eur_per_kva_year": 62.38,
    "transport": 0.0
   },
@@ -123,7 +123,7 @@
    "distribution_peak": null,
    "distribution_pic": null,
    "distribution_single": 0.067,
-   "network_ceiling_eur_per_kwh": null,
+   "network_ceiling_eur_per_kwh": 0.3472738,
    "prosumer_eur_per_kva_year": 69.59,
    "transport": 0.0
   },
@@ -139,7 +139,7 @@
    "distribution_peak": null,
    "distribution_pic": null,
    "distribution_single": 0.0587,
-   "network_ceiling_eur_per_kwh": null,
+   "network_ceiling_eur_per_kwh": 0.3472738,
    "prosumer_eur_per_kva_year": 65.51,
    "transport": 0.0
   }
@@ -199,6 +199,9 @@
   "wallonia_renewables": 0.0
  },
  "valid_until": null,
+ "welcome_credit_cap_eur": null,
+ "welcome_credit_direct_debit_eur": null,
  "welcome_credit_eur": null,
+ "welcome_credit_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata"
 }

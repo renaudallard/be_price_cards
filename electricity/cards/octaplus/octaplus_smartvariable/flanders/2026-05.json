@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-09-19T09:44:35.121746+00:00",
+ "_cached_at": "2026-09-20T10:07:07.067233+00:00",
  "_probe_key": null,
- "_schema_version": 63,
+ "_schema_version": 67,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -214,7 +214,7 @@
   "energy_fund_eur_per_month": 0.0,
   "federal_excise": 0.050329,
   "federal_excise_bands": null,
-  "flanders_renewables": 0.0043,
+  "flanders_renewables": 0.01596,
   "published_vat_rate": 0.0,
   "region_connection_fee": 0.0,
   "region_connection_fee_unavailable": false,
@@ -222,6 +222,9 @@
   "wallonia_renewables": 0.0
  },
  "valid_until": "2026-05-31",
+ "welcome_credit_cap_eur": null,
+ "welcome_credit_direct_debit_eur": null,
  "welcome_credit_eur": null,
+ "welcome_credit_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata"
 }

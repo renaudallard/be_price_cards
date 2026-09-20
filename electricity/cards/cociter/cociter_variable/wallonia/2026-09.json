@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-09-19T09:44:35.121746+00:00",
+ "_cached_at": "2026-09-20T10:07:07.067233+00:00",
  "_probe_key": null,
- "_schema_version": 63,
- "_seen_on": "2026-09-19",
+ "_schema_version": 67,
+ "_seen_on": "2026-09-20",
  "_sources": [
   {
-   "text": "texts/2026-09/5189f4d0b8f956ab618d345d52a49ae84775ce6b24582534f0c9ba73d3a7be75.txt",
+   "text": "texts/2026-09/fd03bb82f243f5daf0631466957736ae93581543b847ff49c04e5e0c3e2a887b.txt",
    "url": "https://www.cociter.be/electricite/cartes-tarifaires/",
    "variant": "text"
   },
@@ -169,6 +169,9 @@
   "wallonia_renewables": 0.029679999999999998
  },
  "valid_until": "2026-09-30",
+ "welcome_credit_cap_eur": null,
+ "welcome_credit_direct_debit_eur": null,
  "welcome_credit_eur": null,
+ "welcome_credit_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata"
 }

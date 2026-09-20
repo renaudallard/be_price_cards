@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-09-19T09:44:35.121746+00:00",
+ "_cached_at": "2026-09-20T10:07:07.067233+00:00",
  "_probe_key": null,
- "_schema_version": 63,
- "_seen_on": "2026-09-19",
+ "_schema_version": 67,
+ "_seen_on": "2026-09-20",
  "_sources": [
   {
-   "text": "texts/2026-09/b56389ede7696bd512334fb90e43c44f312ae358f98e93165bbbbd98ddf193ed.txt",
+   "text": "texts/2026-09/dd9470f8adace7d5fd8d1ea3edbb3509b5c0469da71b54a25af4ec83fbfd3cf0.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
@@ -92,6 +92,9 @@
   "wallonia_renewables": 0.0
  },
  "valid_until": "2026-09-30",
+ "welcome_credit_cap_eur": null,
+ "welcome_credit_direct_debit_eur": null,
  "welcome_credit_eur": null,
- "welcome_credit_kind": "pro_rata"
+ "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_kind": "anniversary"
 }
