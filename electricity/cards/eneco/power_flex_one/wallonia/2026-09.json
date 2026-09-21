@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-09-20T10:07:07.067233+00:00",
+ "_cached_at": "2026-09-21T11:07:07.111902+00:00",
  "_probe_key": null,
- "_schema_version": 67,
- "_seen_on": "2026-09-20",
+ "_schema_version": 69,
+ "_seen_on": "2026-09-21",
  "_sources": [
   {
-   "text": "texts/2026-09/4bafd86f5a1154aa66f40cb89081d8a990ee0cc6ed83415e0edc8bf2eb9abc3f.txt",
+   "text": "texts/2026-09/c8c8c19c7ea82dc5dd7027d714b30e83954602d668da13df8539bb069551d49f.txt",
    "url": "https://eneco.be/nl/elektriciteit-gas/tariefkaarten",
    "variant": "text"
   },
@@ -297,9 +297,11 @@
   "wallonia_renewables": 0.0322
  },
  "valid_until": "2026-09-30",
+ "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
  "welcome_credit_eur": null,
  "welcome_credit_eur_per_kwh": null,
- "welcome_credit_kind": "pro_rata"
+ "welcome_credit_kind": "pro_rata",
+ "welcome_credit_requires_direct_debit": false
 }

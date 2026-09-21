@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-09-20T10:07:07.067233+00:00",
+ "_cached_at": "2026-09-21T11:07:07.111902+00:00",
  "_probe_key": null,
- "_schema_version": 67,
- "_seen_on": "2026-09-20",
+ "_schema_version": 69,
+ "_seen_on": "2026-09-21",
  "_sources": [
   {
-   "text": "texts/2026-09/0b67363c4d198f64c51654a5d6e14d5154cb0937b16f825f897b18bfa0a9a135.txt",
+   "text": "texts/2026-09/c4989335c50f66678e6d80eb893562be5c7f06cc554d4505ad702d29c5ed2f78.txt",
    "url": "https://www.brusol.be/nl/%C3%A9lectricit%C3%A9-et-gaz/schrijf-je-in-voor-goedkope-stroom-van-brusol",
    "variant": "text"
   },
@@ -119,9 +119,11 @@
   "wallonia_renewables": 0.0
  },
  "valid_until": "2026-09-30",
+ "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
  "welcome_credit_eur": null,
  "welcome_credit_eur_per_kwh": null,
- "welcome_credit_kind": "pro_rata"
+ "welcome_credit_kind": "pro_rata",
+ "welcome_credit_requires_direct_debit": false
 }

@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-20T10:07:07.067233+00:00",
+ "_cached_at": "2026-09-21T11:07:07.111902+00:00",
  "_probe_key": null,
- "_schema_version": 67,
- "_seen_on": "2026-09-20",
+ "_schema_version": 69,
+ "_seen_on": "2026-09-21",
  "_sources": [
   {
    "pdf": "fc58a22eb0a19aa34ede1fcb696bfdeb61005b97c3241883496dc95ebfe59578",
@@ -49,14 +49,14 @@
   "current": 0.201,
   "exclusive_night": 0.1937,
   "formula": null,
-  "formula_base": 0.041100000000000005,
-  "formula_base_exclusive_night": 0.0401,
-  "formula_base_offpeak": 0.041100000000000005,
-  "formula_base_peak": 0.041100000000000005,
-  "formula_factor": 0.001099,
-  "formula_factor_exclusive_night": 0.001056,
-  "formula_factor_offpeak": 0.001,
-  "formula_factor_peak": 0.001212,
+  "formula_base": 0.043566,
+  "formula_base_exclusive_night": 0.042506,
+  "formula_base_offpeak": 0.043566,
+  "formula_base_peak": 0.043566,
+  "formula_factor": 1.16494,
+  "formula_factor_exclusive_night": 1.1193600000000001,
+  "formula_factor_offpeak": 1.06,
+  "formula_factor_peak": 1.28472,
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
@@ -109,9 +109,11 @@
   "wallonia_renewables": 0.0
  },
  "valid_until": null,
+ "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
  "welcome_credit_eur": null,
  "welcome_credit_eur_per_kwh": null,
- "welcome_credit_kind": "pro_rata"
+ "welcome_credit_kind": "pro_rata",
+ "welcome_credit_requires_direct_debit": false
 }

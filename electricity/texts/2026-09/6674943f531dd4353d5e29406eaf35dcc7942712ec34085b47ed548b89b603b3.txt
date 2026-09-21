@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html lang="nl" dir="ltr">
+  <head>
+    <!-- Server Side Tracking by Taggrs.io -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://alfa-solar.brusol.be/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TF8CZ4G');</script>
+    <!-- End Server Side Tracking by Taggrs.io -->
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><meta name="description" content="Kies voor groene stroom van Brusol en geniet van een duurzaam, transparant energiecontract. Schrijf je in en draag bij aan een groenere stad." />
+<link rel="canonical" href="https://www.brusol.be/nl/schrijf-je-in-voor-groene-stroom-van-brusol" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="format-detection" content="telephone=no" />
+<link rel="icon" href="/themes/custom/dms_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.brusol.be/en/sign-up-for-green-energy-from-brusol" />
+<link rel="alternate" hreflang="nl" href="https://www.brusol.be/nl/schrijf-je-in-voor-groene-stroom-van-brusol" />
+<link rel="alternate" hreflang="fr" href="https://www.brusol.be/fr/inscrivezvous-pour-beneficier-de-lelectricite-verte-de-brusol" />
+
+    <title>Schrijf je in voor 100% groene stroom van Brusol</title>
+    <link rel="stylesheet" media="all" href="/modules/contrib/ajax_loader/css/throbber-general.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/ajax-progress.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/align.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/autocomplete-loading.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/fieldgroup.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/container-inline.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/clearfix.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/details.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/hidden.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/item-list.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/js.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/nowrap.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/position-container.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/progress.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/reset-appearance.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/resize.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/sticky-header.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-counter.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-report-counters.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-report-general-info.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/tabledrag.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/tablesort.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/tree-child.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/themes/base/core.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/themes/base/accordion.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/views/views.module.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.form.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.element.details.toggle.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/modules/webform_clientside_validation/css/webform_clientside_validation.ife.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.element.message.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/modules/contrib/antibot/css/antibot.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.element.date.css?teyuyo" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" />
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.element.select2.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/modules/contrib/eu_cookie_compliance/css/eu_cookie_compliance.bare.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/modules/contrib/ajax_loader/css/three-bounce.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/modules/contrib/dms_core/css/gin/dms_core.gin.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/themes/base/theme.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/modules/contrib/captcha/css/captcha.css?teyuyo" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Inter:wght@300;500;700&amp;display=swap" />
+<link rel="stylesheet" media="all" href="/themes/custom/dms_theme/fonts/dmsicons.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/custom/dms_theme/css/styles.css?teyuyo" />
+<link rel="stylesheet" media="print" href="/themes/custom/dms_theme/css/print.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/custom/dms_theme/js/libs/fancybox/jquery.fancybox.min.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/custom/dms_theme/js/libs/slick/slick.css?teyuyo" />
+<link rel="stylesheet" media="all" href="/themes/contrib/gin/dist/css/components/ajax.css?teyuyo" />
+
+    
+  </head>
+  <body class="no-sidebars not-front lang-nl logged-out path-node node-type-page has-paragraphs has-hero node-id-371 mm-right">
+      <!-- Server Side Tracking by Taggrs.io (noscript) -->
+      <noscript><iframe src=https://alfa-solar.brusol.be/ns.html?id=GTM-TF8CZ4G height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Server Side Tracking by Taggrs.io (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TF8CZ4G"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="wrapper">
+
+  <header class="page_header">
+    <div class="page_header__top">
+      <div class="container container-l">
+        <div class="page_header__top__inner">
+            <div class="region region--header__top__left region-header--top--left">
+    
+<nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="main-menu--top--block block block--menu-block block--menu-block--main">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+  
+
+        
+              <ul class="menu menu--main menu__list">
+                    <li class="menu__item menu__item--collapsed menu__item--active">
+              <a href="/nl/verlaag-je-energiefactuur-in-brussel-dankzij-brusol" data-drupal-link-system-path="node/5">Home</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/over-ons" data-drupal-link-system-path="node/76">Over ons</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/producten-diensten" data-drupal-link-system-path="node/82">Producten &amp; Diensten</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/nieuws" data-drupal-link-system-path="node/81">Nieuws</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/veelgestelde-vragen" data-drupal-link-system-path="node/289">FAQ</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+            <div class="region region--header__top__right region-header--top--right">
+    
+<nav role="navigation" aria-labelledby="block-secondarymenu-2-menu" id="block-secondarymenu-2" class="main-menu--top--right--secondary block block--menu-block block--menu-block--secondary-menu">
+            
+  <h2 class="visually-hidden" id="block-secondarymenu-2-menu">Secondary navigation: My Brusol</h2>
+  
+
+        
+              <ul class="menu menu--secondary-menu menu__list">
+                    <li class="menu__item">
+              <a href="/nl/inloggen-op-mybrusol" class="login" data-drupal-link-system-path="node/299">MyBrusol Login</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+
+<div class="language-switcher-language-url language-selection--block block block--language-block block--language-block--language-interface block-language block-language-blocklanguage-interface" id="block-languageswitcher" role="navigation">
+      <select class="links"><option hreflang="en" data-drupal-link-system-path="node/371" class="en"  class="language-link" value="en" data-url="/en/sign-up-for-green-energy-from-brusol"><a href="/en/sign-up-for-green-energy-from-brusol" class="language-link" value="en" data-url="/en/sign-up-for-green-energy-from-brusol" hreflang="en" data-drupal-link-system-path="node/371">en</a></option><option hreflang="nl" data-drupal-link-system-path="node/371" class="nl is-active" value="nl" selected="selected" data-url="/nl/schrijf-je-in-voor-groene-stroom-van-brusol"><a href="/nl/schrijf-je-in-voor-groene-stroom-van-brusol" class="language-link is-active" value="nl" selected="selected" data-url="/nl/schrijf-je-in-voor-groene-stroom-van-brusol" hreflang="nl" data-drupal-link-system-path="node/371">nl</a></option><option hreflang="fr" data-drupal-link-system-path="node/371" class="fr"  class="language-link" value="fr" data-url="/fr/inscrivezvous-pour-beneficier-de-lelectricite-verte-de-brusol"><a href="/fr/inscrivezvous-pour-beneficier-de-lelectricite-verte-de-brusol" class="language-link" value="fr" data-url="/fr/inscrivezvous-pour-beneficier-de-lelectricite-verte-de-brusol" hreflang="fr" data-drupal-link-system-path="node/371">fr</a></option></select>
+  </div>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="page_header__bottom">
+      <div class="container container-l">
+        <div class="page_header__bottom__inner">
+          <div class="logo-container">
+            <a href="/nl/verlaag-je-energiefactuur-in-brussel-dankzij-brusol" title="Home" rel="home" class="logo">
+              <img src="/themes/custom/dms_theme/img/logo.svg" onerror="this.src='/themes/custom/dms_theme/img/logo.png'; this.onerror=null;" alt="Home" />
+            </a>
+            <a href="/nl/verlaag-je-energiefactuur-in-brussel-dankzij-brusol" title="Home" rel="home" class="logo-neg">
+              <img src="/themes/custom/dms_theme/img/logo--neg.svg" onerror="this.src='/themes/custom/dms_theme/img/logo--neg.png'; this.onerror=null;" alt="Home" />
+            </a>
+          </div>
+            <header class="region region--header region-header" id="header">
+
+      
+<nav role="navigation" aria-labelledby="block-mainnav-submenu-menu" id="block-mainnav-submenu" class="main-menu--submenu--block block block--menu-block block--menu-block--main">
+            
+  <h2 class="visually-hidden" id="block-mainnav-submenu-menu">Main navigation: Submenu</h2>
+  
+
+        
+              <ul class="menu menu--main menu__list">
+                    <li class="menu__item">
+              <a href="/nl/zonnepanelen" data-drupal-link-system-path="node/77">Zonnepanelen</a>
+              </li>
+                <li class="menu__item menu__item--expanded">
+              <a href="/nl/elektriciteit-en-gas" data-drupal-link-system-path="node/399">Elektriciteit en gas</a>
+                                <ul class="menu__list">
+                    <li class="menu__item">
+              <a href="/nl/%C3%A9lectricit%C3%A9-et-gaz/schrijf-je-in-voor-goedkope-stroom-van-brusol" data-drupal-link-system-path="node/216">Goedkope Stroom</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu__item">
+              <a href="/nl/hoe-kunnen-we-je-helpen" class="btn" title="Contact Brusol" data-drupal-link-system-path="node/303">Contact</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/zonnepanelen/contact" class="btn" data-drupal-link-system-path="node/94">Inschrijven voor gratis zonnepanelen</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+              <a href="#" rel="nofollow" class="mm-toggle mm-toggle--wrapper js-mm-toggle"><i class="fa fa-bars"></i></a>
+      
+  </header>
+
+        </div>
+      </div>
+    </div>
+  </header>
+
+  
+
+  <div class="page_content">
+    
+
+    <main role="main" id="main">
+        <div class="region region--system region-system" id="system">
+    <div class="container">
+      <div data-drupal-messages-fallback class="hidden"></div>
+
+
+
+<div id="block-dms-theme-breadcrumbs" class="breadcrumb--block block block--system-breadcrumb-block block--system-breadcrumb-block-- block-system block-system-breadcrumb-block">
+  
+    
+      
+  </div>
+
+    </div>
+  </div>
+
+        <div class="region region--content region-content" id="content">
+    
+
+
+<div id="block-dms-theme-page-title" class="block block--page-title-block block--page-title-block-- block-core block-page-title-block">
+  
+    
+      
+  </div>
+
+
+
+<div id="block-dms-theme-content" class="block block--system-main-block block--system-main-block-- block-system block-system-main-block">
+  
+    
+      
+
+<article class="node node--page node--page--full node--type-page node--view-mode-full">
+  <div class="node__hero">
+    
+
+
+
+<div class="field field--name-field-hero field--type-entity-reference-revisions field--label-above">
+      
+  <section class="paragraph paragraph--hero paragraph--type--hero paragraph--view-mode--default">
+    <div class="hero__images">
+      
+
+
+
+  <div class="field field--name-field-hero-image field--type-entity-reference field--label-hidden">
+                    <img loading="lazy" src="/sites/default/files/styles/pg_hero_default/public/2025-05/ev_westende_0047_aangepast_brusol_2.jpg?h=94530aba&amp;itok=Pc1itOuv" width="1920" height="640" alt="Wij plaatsen gratis zonnepanelen bij alle inwoners van Brussel" />
+
+
+
+            </div>
+
+    </div>
+
+    <div class="hero__content">
+      <div class="container">
+        <div class="hero__content-wrapper">
+          <div class="hero__content-text">
+            <h1>Schrijf je in voor Groene Stroom van Brusol</h1>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  </div>
+
+  </div>
+  <div class="node__content">
+          <div class="container">
+      
+      </div>
+    
+    
+
+
+
+<div class="field field--name-field-paragraphs field--type-entity-reference-revisions field--label-hidden" id="sections-container">
+      
+  <section class="paragraph paragraph--form first last paragraph--type--form paragraph--view-mode--default pg-bg--none paragraph--form--subscribe-groene-stroom-2-0 pg--has-text pg-layout--form-text">
+  
+          <div class="paragraph--intro">
+        
+
+
+
+  <div class="field field--name-field-intro field--type-text-long field--label-hidden">
+                  <h4><span class="orange">Groene stroom van Brusol:</span><span> 100% groen dat wel, maar niet onze meest voordelige formule</span></h4>
+<p class="subtitle"> </p>
+<h4>Je factuur structureel verlagen? Kies voor het Brusol ecosysteem:<br /><span class="orange">Goedkope Stroom + gratis plaatsing van zonnepanelen</span></h4>
+<p class="subtitle"> </p>
+<p>Heb je al gratis zonnepanelen van Brusol? Schrijf je in voor Brusol Goedkope Stroom en geniet van het goedkoopste energiecontract op de Brusselse markt. </p>
+<p><a class="btn btn--bg-aware" href="https://www.brusol.be/nl/schrijf-je-in-voor-goedkope-stroom-van-brusol">Schrijf me in voor Goedkope Stroom</a></p>
+
+            </div>
+
+      </div>
+        <div class="paragraph__inner container">
+          <div class="pg-form__form">
+        
+
+
+
+  <div class="field field--name-field-form field--type-webform field--label-hidden">
+                  <form class="webform-submission-form webform-submission-add-form webform-submission-subscribe-groene-stroom-2-0-form webform-submission-subscribe-groene-stroom-2-0-add-form webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-form webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form js-webform-details-toggle webform-details-toggle antibot" data-drupal-selector="webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form" data-action="/nl/schrijf-je-in-voor-groene-stroom-van-brusol" action="/antibot" method="post" id="webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form" accept-charset="UTF-8">
+  
+  <noscript>
+  <div class="antibot-no-js antibot-message antibot-message-warning">JavaScript moet ingeschakeld zijn om dit formulier te kunnen gebruiken.</div>
+</noscript>
+  <div data-drupal-selector="edit-fields" data-msg-required="This field is een verplicht veld." data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}},&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" id="edit-fields" class="js-form-wrapper form-wrapper"><fieldset data-drupal-selector="edit-contact" id="edit-contact" class="js-webform-type-fieldset webform-type-fieldset js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend">Contact</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div class="js-form-item form-item js-form-type-textfield form-item-first-name js-form-item-first-name">
+      <label for="edit-first-name">Je voornaam</label>
+        <input data-drupal-selector="edit-first-name" data-msg-maxlength="Je voornaam field has a maximum length of 255." data-msg-required="Je voornaam is een verplicht veld." type="text" id="edit-first-name" name="first_name" value="" size="60" maxlength="255" class="form-text" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-textfield form-item-last-name js-form-item-last-name">
+      <label for="edit-last-name">Je familienaam</label>
+        <input data-drupal-selector="edit-last-name" data-msg-maxlength="Je familienaam field has a maximum length of 255." data-msg-required="Je familienaam is een verplicht veld." type="text" id="edit-last-name" name="last_name" value="" size="60" maxlength="255" class="form-text" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-date form-item-birth-date js-form-item-birth-date">
+      <label for="edit-birth-date">Je geboortedatum</label>
+        <input max="2008-09-21" data-max-year="2008" type="date" data-drupal-selector="edit-birth-date" data-msg-max="The value in Je geboortedatum has to be less than 2008-09-21." data-msg-required="Je geboortedatum is een verplicht veld." id="edit-birth-date" name="birth_date" value="" class="form-date" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-email form-item-email js-form-item-email">
+      <label for="edit-email">Je e-mailadres</label>
+        <input data-drupal-selector="edit-email" data-msg-email="Je e-mailadres bevat geen geldig e-mailadres." data-msg-maxlength="Je e-mailadres field has a maximum length of 254." data-msg-required="Je e-mailadres is een verplicht veld." type="email" id="edit-email" name="email" value="" size="60" maxlength="254" class="form-email" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-tel form-item-phone js-form-item-phone">
+      <label for="edit-phone">Je telefoonnummer</label>
+        <input data-drupal-selector="edit-phone" data-msg-maxlength="Je telefoonnummer field has a maximum length of 128." data-msg-required="Je telefoonnummer is een verplicht veld." type="tel" id="edit-phone" name="phone" value="" size="30" maxlength="128" class="form-tel" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-email form-item-invoice-email js-form-item-invoice-email">
+      <label for="edit-invoice-email">E-mail adres waarop je de facturen wil ontvangen (indien anders dan vorig mail adres)</label>
+        <input data-drupal-selector="edit-invoice-email" data-msg-email="E-mail adres waarop je de facturen wil ontvangen (indien anders dan vorig mail adres) bevat geen geldig e-mailadres." data-msg-maxlength="E-mail adres waarop je de facturen wil ontvangen (indien anders dan vorig mail adres) field has a maximum length of 254." type="email" id="edit-invoice-email" name="invoice_email" value="" size="60" maxlength="254" class="form-email" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-textfield form-item-street js-form-item-street">
+      <label for="edit-street">Adres (Straat + huisnummer)</label>
+        <input data-drupal-selector="edit-street" data-msg-maxlength="Adres (Straat + huisnummer) field has a maximum length of 255." data-msg-required="Adres (Straat + huisnummer) is een verplicht veld." type="text" id="edit-street" name="street" value="" size="60" maxlength="255" class="form-text" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-select form-item-city js-form-item-city">
+      <label for="edit-city">Stad</label>
+        <select class="js-webform-select2 webform-select2 form-select" data-drupal-selector="edit-city" data-msg-required="Stad is een verplicht veld." id="edit-city" name="city" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}"><option value="" selected="selected">- Selecteren -</option><option value="1000">1000 Stad Brussel</option><option value="1020">1020 Laken</option><option value="1030">1030 Schaarbeek</option><option value="1040">1040 Etterbeek</option><option value="1050">1050 Elsene</option><option value="1060">1060 Sint-Gillis</option><option value="1070">1070 Anderlecht</option><option value="1080">1080 Sint-Jans-Molenbeek</option><option value="1081">1081 Koekelberg</option><option value="1082">1082 Sint-Agatha-Berchem</option><option value="1083">1083 Ganshoren</option><option value="1090">1090 Jette</option><option value="1120">1120 Neder-Over-Heembeek</option><option value="1130">1130 Haren</option><option value="1140">1140 Evere</option><option value="1150">1150 Sint-Pieters-Woluwe</option><option value="1160">1160 Oudergem</option><option value="1170">1170 Watermaal-Bosvoorde</option><option value="1180">1180 Ukkel</option><option value="1190">1190 Vorst</option><option value="1200">1200 Sint-Lambrechts-Woluwe</option><option value="1210">1200 Sint-Lambrechts-Woluwe</option></select>
+        </div>
+
+          </div>
+</fieldset>
+<fieldset data-drupal-selector="edit-bank-account" id="edit-bank-account" class="js-webform-type-fieldset webform-type-fieldset js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend">Bankgegevens</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div class="js-form-item form-item js-form-type-textfield form-item-iban js-form-item-iban">
+      <label for="edit-iban">Je IBAN</label>
+        <input data-inputmask-mask="BE99999999999999" class="js-webform-input-mask form-text" pattern="^[A-Z]{2}[0-9]{2}[A-Z0-9]{9,30}$" data-drupal-selector="edit-iban" data-msg-maxlength="Je IBAN field has a maximum length of 255." data-msg-required="Je IBAN is een verplicht veld." data-msg-pattern="Je IBAN does not meet the requirements." type="text" id="edit-iban" name="iban" value="" size="60" maxlength="255" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+
+        </div>
+
+          </div>
+</fieldset>
+<fieldset data-drupal-selector="edit-contract" id="edit-contract" class="js-webform-type-fieldset webform-type-fieldset js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend">Contract</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div class="js-form-item form-item js-form-type-select form-item-contract-reason js-form-item-contract-reason">
+      <label for="edit-contract-reason">Reden contract</label>
+        <select data-drupal-selector="edit-contract-reason" data-msg-required="Reden contract is een verplicht veld." id="edit-contract-reason" name="contract_reason" class="form-select" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}"><option value="" selected="selected">- Selecteren -</option><option value="Ik wil veranderen van energieleverancier">Ik wil veranderen van energieleverancier</option><option value="Mijn meter is gesloten, er is nog geen stroom">Mijn meter is gesloten, er is nog geen stroom</option><option value="Ik verhuis en wil een nieuwe aansluiting">Ik verhuis en wil een nieuwe aansluiting</option></select>
+        </div>
+<div data-drupal-states="{&quot;visible&quot;:{&quot;:input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik wil veranderen van energieleverancier&quot;}}}" class="js-webform-states-hidden js-form-item form-item js-form-type-date form-item-contract-supplier-change-start-date js-form-item-contract-supplier-change-start-date">
+      <label for="edit-contract-supplier-change-start-date">Startdatum</label>
+        <input min="2026-10-12" data-min-year="2026" type="date" data-drupal-selector="edit-contract-supplier-change-start-date" data-msg-min="The value in Startdatum has to be greater than 2026-10-12." data-msg-required="Startdatum is een verplicht veld." id="edit-contract-supplier-change-start-date" name="contract_supplier_change_start_date" value="" class="form-date" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik wil veranderen van energieleverancier&quot;}},&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik wil veranderen van energieleverancier&quot;}}}" />
+
+        </div>
+<div data-drupal-states="{&quot;visible&quot;:{&quot;:input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Mijn meter is gesloten, er is nog geen stroom&quot;}}}" class="js-webform-states-hidden js-form-item form-item js-form-type-date form-item-contract-open-meter-start-date js-form-item-contract-open-meter-start-date">
+      <label for="edit-contract-open-meter-start-date">Startdatum</label>
+        <input min="2026-10-12" data-min-year="2026" type="date" data-drupal-selector="edit-contract-open-meter-start-date" data-msg-min="The value in Startdatum has to be greater than 2026-10-12." data-msg-required="Startdatum is een verplicht veld." id="edit-contract-open-meter-start-date" name="contract_open_meter_start_date" value="" class="form-date" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Mijn meter is gesloten, er is nog geen stroom&quot;}},&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Mijn meter is gesloten, er is nog geen stroom&quot;}}}" />
+
+        </div>
+<div data-drupal-states="{&quot;visible&quot;:{&quot;:input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik verhuis en wil een nieuwe aansluiting&quot;}}}" class="js-webform-states-hidden js-form-item form-item js-form-type-date form-item-contract-moved-start-date js-form-item-contract-moved-start-date">
+      <label for="edit-contract-moved-start-date">Startdatum</label>
+        <input min="2026-10-12" data-min-year="2026" type="date" data-drupal-selector="edit-contract-moved-start-date" data-msg-min="The value in Startdatum has to be greater than 2026-10-12." data-msg-required="Startdatum is een verplicht veld." id="edit-contract-moved-start-date" name="contract_moved_start_date" value="" class="form-date" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik verhuis en wil een nieuwe aansluiting&quot;}},&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik verhuis en wil een nieuwe aansluiting&quot;}}}" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-select form-item-timeframe js-form-item-timeframe">
+      <label for="edit-timeframe">Type meter</label>
+        <select data-drupal-selector="edit-timeframe" data-msg-required="Type meter is een verplicht veld." id="edit-timeframe" name="timeframe" class="form-select" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}"><option value="" selected="selected">- Selecteren -</option><option value="Enkelvoudige meter">Enkelvoudige meter</option><option value="Meter met dag- en nachttarief">Meter met dag- en nachttarief</option></select>
+        </div>
+<div class="js-form-item form-item js-form-type-checkbox form-item-night-exclusive js-form-item-night-exclusive">
+        <input data-drupal-selector="edit-night-exclusive" type="checkbox" id="edit-night-exclusive" name="night_exclusive" value="1" class="form-checkbox" />
+
+        <label for="edit-night-exclusive" class="option">Exclusief nachtmeter</label>
+      </div>
+<div class="js-form-item form-item js-form-type-textfield form-item-ean js-form-item-ean">
+      <label for="edit-ean">EAN nummer</label>
+        <input data-inputmask-mask="549999999999999999" class="js-webform-input-mask form-text" pattern="^54[0-9]{16}$" data-drupal-selector="edit-ean" data-msg-maxlength="EAN nummer field has a maximum length of 255." data-msg-required="EAN nummer is een verplicht veld." data-msg-pattern="EAN nummer does not meet the requirements." type="text" id="edit-ean" name="ean" value="" size="60" maxlength="255" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+
+        </div>
+
+          </div>
+</fieldset>
+<div class="js-form-item form-item js-form-type-checkbox form-item-ik-ga-akkoord-met-de-algemene-voorwaarden- js-form-item-ik-ga-akkoord-met-de-algemene-voorwaarden-">
+        <input data-drupal-selector="edit-ik-ga-akkoord-met-de-algemene-voorwaarden-" data-msg-required="Ik ga akkoord met de  Algemene Voorwaarden. (zie Algemene Voorwaarden van EnergyVision) is een verplicht veld." type="checkbox" id="edit-ik-ga-akkoord-met-de-algemene-voorwaarden-" name="ik_ga_akkoord_met_de_algemene_voorwaarden_" value="1" class="form-checkbox" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+
+        <label for="edit-ik-ga-akkoord-met-de-algemene-voorwaarden-" class="option">Ik ga akkoord met de  <a href="https://www.brusol.be/sites/default/files/2025-01/EnergyVision-Algemene-Voorwaarden_01-2025.pdf " target="_blank">Algemene Voorwaarden</a>. (zie Algemene Voorwaarden van EnergyVision)</label>
+      </div>
+<div class="js-form-item form-item js-form-type-checkbox form-item-i-agree-to-the-rate-card- js-form-item-i-agree-to-the-rate-card-">
+        <input data-drupal-selector="edit-i-agree-to-the-rate-card-" data-msg-required="Ik ga akkoord met de tariefkaart. is een verplicht veld." type="checkbox" id="edit-i-agree-to-the-rate-card-" name="i_agree_to_the_rate_card_" value="1" class="form-checkbox" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+
+        <label for="edit-i-agree-to-the-rate-card-" class="option">Ik ga akkoord met de <a href="https://www.brusol.be/sites/default/files/2026-08/EV-0926-GRS-BXL-nl.pdf" target="_blank">tariefkaart</a>.</label>
+      </div>
+</div>
+<input data-drupal-selector="edit-language" type="hidden" name="language" value="NL" />
+  <div data-drupal-selector="edit-actions" class="form-actions webform-actions js-form-wrapper form-wrapper" data-drupal-states="{&quot;enabled&quot;:null,&quot;visible&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" id="edit-actions"><input class="webform-button--submit button button--primary js-form-submit form-submit" data-drupal-selector="edit-actions-submit" type="submit" id="edit-actions-submit" name="op" value="Indienen" />
+
+</div>
+<div class="recaptcha-v3-policy">This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy" target="_blank">Privacy Policy</a> and <a href="https://policies.google.com/terms" target="_blank">Terms of Service</a> apply.</div><input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="" />
+<input data-drupal-selector="edit-honeypot-time" type="hidden" name="honeypot_time" value="34bBbnqcjiS8OEBaFMg6F_XQzFljQNUGQsa-CC9G86g" />
+<input autocomplete="off" data-drupal-selector="form-9cogcc5vt0f4zn-icqy4yagmzhxw-pak3a0gua-l2l8" type="hidden" name="form_build_id" value="form-9cOgcc5vT0f4zn_IcQy4yAGMZHxW-PAk3a0Gua_l2l8" />
+<input data-drupal-selector="edit-webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form" type="hidden" name="form_id" value="webform_submission_subscribe_groene_stroom_2_0_paragraph_7565_add_form" />
+
+
+                      <div  data-drupal-selector="edit-captcha" class="captcha captcha-type-challenge--recaptcha-v3">
+                  <div class="captcha__element">
+            <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="897635" />
+<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="7Hfv25dvWqLpmyJDHC1-MzsBjzMt53aeB8DXNDNvRJ0" />
+<input id="recaptcha-v3-token" class="recaptcha-v3-token" data-recaptcha-v3-action="recaptcha_v3" data-recaptcha-v3-site-key="6LfiUmIeAAAAAAe8Nisj2ME17FvtB_rBJ91n1DyL" data-drupal-selector="edit-captcha-response" type="hidden" name="captcha_response" value="" />
+<input data-drupal-selector="edit-is-recaptcha-v3" type="hidden" name="is_recaptcha_v3" value="1" />
+
+          </div>
+                        </div>
+              <div class="hp-function-textfield js-form-wrapper form-wrapper" style="display: none !important;"><div class="js-form-item form-item js-form-type-textfield form-item-hp-function js-form-item-hp-function">
+      <label for="edit-hp-function">Laat dit veld leeg</label>
+        <input autocomplete="off" data-drupal-selector="edit-hp-function" data-msg-maxlength="Laat dit veld leeg field has a maximum length of 128." type="text" id="edit-hp-function" name="hp-function" value="" size="20" maxlength="128" class="form-text" />
+
+        </div>
+</div>
+
+
+  
+</form>
+<div class="recaptcha-v3-description"></div>
+            </div>
+
+      </div>
+      
+
+
+
+  <div class="field field--name-field-text-optional field--type-text-long field--label-hidden">
+                  <h3><span><strong>Brusol Groene Stroom - 100% groen, 100% duurzaam en 100% made in Brussels.</strong></span></h3>
+<p>Kies voor onze groene stroom-formule en steun volledig hernieuwbare energiebronnen in Brussel. Deze formule is ontworpen voor klanten die bewust willen bijdragen aan een groenere stad.</p>
+<p>Via onze tariefkaart kan je snel en eenvoudig de actuele elektriciteitstarieven bekijken. Het biedt een gedetailleerd overzicht van de kosten op basis van jouw energieverbruik. Via de simulatie van <a href="https://brugel.brussels/outils/brusim-2">Brugel</a> vind je hoe dit aanbod zich vertaald volgens jouw energieverbruik. </p>
+<p>Huidige tariefkaart "Groene Stroom"</p>
+<p><a class="btn btn--bg-aware" href="https://www.brusol.be/sites/default/files/2026-08/EV-0926-GRS-BXL-nl.pdf " target="_blank">Tariefkaart 09/2026</a></p>
+<h3 class="field field--name-field-usp-title field--type-string field--label-hidden">De energietransitie die je factuur verlaagt</h3>
+<p>Bij Brusol willen we de energietransitie mogelijk maken voor iedereen. Dankzij ons ecosysteem combineren we de goedkoopste energieformule van Brussel met de gratis plaatsing van zonnepanelen. Ons doel? Brusselaars helpen de energietransitie te maken zonder investering en zo hun energiefactuur te laten dalen. Het resultaat: minder kosten en meer overhouden voor wat echt telt.</p>
+<p><a class="btn btn--bg-aware" href="/nl/zonnepanelen" data-entity-type="node" data-entity-uuid="2af48d74-1558-4e11-852d-d939bba077fa" data-entity-substitution="canonical" title="Zonnepanelen">Gratis zonnepanelen</a></p>
+
+            </div>
+
+        </div>
+  </section>
+
+  </div>
+  </div>
+</article>
+
+  </div>
+
+  </div>
+
+    </main>
+  </div>
+  <footer class="layout-footer" role="contentinfo">
+    <div class="container container-l">
+        <div class="region region--footer-top region-footer-top">
+    
+
+
+<div id="block-brandingvandewebsite" class="footer-branding block block--system-branding-block block--system-branding-block-- block-system block-system-branding-block">
+  
+    
+        <a href="/nl" rel="home">
+      <img src="/themes/custom/dms_theme/logo.svg" alt="Home" />
+    </a>
+      
+</div>
+
+  </div>
+
+        <div class="region region--footer region-footer" id="footer">
+    
+
+
+<div id="block-dmsthemingfootertext" class="footer-text--block block block--dms-theming__footer-text block--dms-theming__footer-text-- block-dms-theming block-dms-theming__footer-text">
+  
+    
+      	<div class="block footer-text">
+		<p><strong>Contacteer ons</strong><br />Laarbeeklaan 74<br />1090 Brussel<br /><a href="tel:+3224119047">+32 (0)2 411 90 47</a><br /><a href="mailto:hello@brusol.be">hello@brusol.be</a></p>
+<p>HQ: Kortrijksesteenweg 1071<br />9051 Gent</p>
+
+					<div class="social_media">
+				<div class="socials">
+											<div class="social">
+							<a href="https://www.instagram.com/brusolbxl/" class="social__link" target="_blank">
+								<div class="icon">
+									<span class="fa fa-instagram"></span>
+								</div>
+							</a>
+						</div>
+											<div class="social">
+							<a href="https://www.facebook.com/BrusolBE/" class="social__link" target="_blank">
+								<div class="icon">
+									<span class="fa fa-facebook-square"></span>
+								</div>
+							</a>
+						</div>
+											<div class="social">
+							<a href="https://www.linkedin.com/company/brusol-panneaux-solaires-gratuits-gratis-zonnepanelen/" class="social__link" target="_blank">
+								<div class="icon">
+									<span class="fa fa-linkedin"></span>
+								</div>
+							</a>
+						</div>
+											<div class="social">
+							<a href="https://twitter.com/BrusolBXL" class="social__link" target="_blank">
+								<div class="icon">
+									<span class="fa fa-twitter-square"></span>
+								</div>
+							</a>
+						</div>
+									</div>
+			</div>
+			</div>
+
+  </div>
+
+<nav role="navigation" aria-labelledby="block-mainnavigation-footer-menu" id="block-mainnavigation-footer" class="footer-main-navigation block block--menu-block block--menu-block--main">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-footer-menu">Main navigation: Footer</h2>
+  
+
+        
+              <ul class="menu menu--main menu__list">
+                    <li class="menu__item menu__item--collapsed menu__item--active">
+              <a href="/nl/verlaag-je-energiefactuur-in-brussel-dankzij-brusol" data-drupal-link-system-path="node/5">Home</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/over-ons" data-drupal-link-system-path="node/76">Over ons</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/producten-diensten" data-drupal-link-system-path="node/82">Producten &amp; Diensten</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/nieuws" data-drupal-link-system-path="node/81">Nieuws</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/veelgestelde-vragen" data-drupal-link-system-path="node/289">FAQ</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+<nav role="navigation" aria-labelledby="block-mainnavigation-submenu-footer-menu" id="block-mainnavigation-submenu-footer" class="footer-submenu block block--menu-block block--menu-block--main">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-submenu-footer-menu">Main navigation: Submenu - Footer</h2>
+  
+
+        
+              <ul class="menu menu--main menu__list">
+                    <li class="menu__item">
+              <a href="/nl/zonnepanelen" data-drupal-link-system-path="node/77">Zonnepanelen</a>
+              </li>
+                <li class="menu__item menu__item--collapsed">
+              <a href="/nl/elektriciteit-en-gas" data-drupal-link-system-path="node/399">Elektriciteit en gas</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/hoe-kunnen-we-je-helpen" class="btn" title="Contact Brusol" data-drupal-link-system-path="node/303">Contact</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/zonnepanelen/contact" class="btn" data-drupal-link-system-path="node/94">Inschrijven voor gratis zonnepanelen</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+
+<div class="views-element-container footer-logos--block block block--views-block block--views-block--general-settings-views-block-1 block-views block-views-blockgeneral-settings-views-block-1" id="block-views-block-general-settings-views-block-1">
+  
+    
+        
+
+
+<div class="views-view views-view--general-settings-views views-view--general-settings-views--block-1 view view-general-settings-views view-id-general_settings_views view-display-id-block_1 js-view-dom-id-52d00f2024f2ea7612ed2f488be139494c99763060854a18f5476442919dbf1e">
+  
+  
+  
+
+  
+    
+
+      <div class="views-rows">    <div class="views-row-first views-row-last views-row-odd">
+    <div class="general-settings general-settings--footer-logos general_settings">
+  
+
+
+<div class="field field--name-field-logos-green-certificates field--type-entity-reference-revisions field--label-hidden">
+  <span class="lbl">Dit systeem is mede mogelijk gemaakt door groenestroomcertificaten.</span>
+  <div class="items">
+          
+
+
+
+  <div class="field field--name-field-footer-logo field--type-entity-reference field--label-hidden">
+                    <img loading="lazy" src="/sites/default/files/styles/footer_logo/public/2022-02/be_logo_fb.png?itok=GeJ3bXn3" width="87" height="40" />
+
+
+
+            </div>
+
+          
+
+
+
+  <div class="field field--name-field-footer-logo field--type-entity-reference field--label-hidden">
+                    <img loading="lazy" src="/sites/default/files/styles/footer_logo/public/2022-02/brugel_logo_1.png?itok=yxcf5P2A" width="112" height="40" />
+
+
+
+            </div>
+
+      </div>
+</div>
+
+
+
+<div class="field field--name-field-logos field--type-entity-reference-revisions field--label-hidden">
+  <span class="lbl"></span>
+  <div class="items">
+          
+
+
+
+  <div class="field field--name-field-footer-logo field--type-entity-reference field--label-hidden">
+                    <img loading="lazy" src="/sites/default/files/styles/footer_logo/public/2022-05/energyvision_logo_square.png?itok=wt93XesD" width="40" height="40" />
+
+
+
+            </div>
+
+          
+
+
+
+  <div class="field field--name-field-footer-logo field--type-entity-reference field--label-hidden">
+                    <img loading="lazy" src="/sites/default/files/styles/footer_logo/public/2022-02/iso.jpg?itok=Vtp-IoPf" width="132" height="40" />
+
+
+
+            </div>
+
+          
+
+
+
+  <div class="field field--name-field-footer-logo field--type-entity-reference field--label-hidden">
+                    <img loading="lazy" src="/sites/default/files/styles/footer_logo/public/2022-02/vca_0.png?itok=FTE_zIeX" width="87" height="40" />
+
+
+
+            </div>
+
+      </div>
+</div>
+</div>
+
+  </div>
+</div>
+      
+  
+
+  
+  
+
+  
+  
+</div>
+
+
+  </div>
+
+  </div>
+
+    </div>
+  </footer>
+
+      <div class="layout-bottom">
+      <div class="container container-l">
+          <div class="region region--bottom region-bottom" id="bottom">
+    
+<nav role="navigation" aria-labelledby="block-bottommenu-menu" id="block-bottommenu" class="bottom-menu--menu-block block block--menu-block block--menu-block--bottom-menu">
+            
+  <h2 class="visually-hidden" id="block-bottommenu-menu">Bottom menu</h2>
+  
+
+        
+              <ul class="menu menu--bottom-menu menu__list">
+                    <li class="menu__item">
+              <span>© Brusol</span>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/privacy-policy" data-drupal-link-system-path="node/4">Privacy policy</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/algemene-voorwaarden" data-drupal-link-system-path="node/355">Algemene Voorwaarden</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/cookieverklaring" data-drupal-link-system-path="node/73">Cookieverklaring</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/disclaimer" data-drupal-link-system-path="node/3">Disclaimer</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/herroepingsformulier" data-drupal-link-system-path="node/348">Herroepingsformulier</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+<nav role="navigation" aria-labelledby="block-dmsmenu-menu" id="block-dmsmenu" class="bottom-dms-menu block block--menu-block block--menu-block--dms-menu">
+            
+  <h2 class="visually-hidden" id="block-dmsmenu-menu">DMS menu</h2>
+  
+
+        
+              <ul class="menu menu--dms-menu menu__list">
+                    <li class="menu__item">
+              <a href="https://www.dms.be" target="_blank">Site by D’M&amp;S</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="region region--off-canvas region-off-canvas off-canvas">
+    <a href="#" rel="nofollow" class="mm-toggle mm-toggle--offcanvas js-mm-toggle"><i class="fa fa-close"></i></a>
+    
+<nav role="navigation" aria-labelledby="block-hoofdnavigatie-menu" id="block-hoofdnavigatie" class="mobile-main-menu--top--block block block--menu-block block--menu-block--main">
+            
+  <h2 class="visually-hidden" id="block-hoofdnavigatie-menu">Hoofdnavigatie</h2>
+  
+
+        
+              <ul class="menu menu--main menu__list">
+                    <li class="menu__item menu__item--collapsed menu__item--active">
+              <a href="/nl/verlaag-je-energiefactuur-in-brussel-dankzij-brusol" data-drupal-link-system-path="node/5">Home</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/over-ons" data-drupal-link-system-path="node/76">Over ons</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/producten-diensten" data-drupal-link-system-path="node/82">Producten &amp; Diensten</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/nieuws" data-drupal-link-system-path="node/81">Nieuws</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/veelgestelde-vragen" data-drupal-link-system-path="node/289">FAQ</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+<nav role="navigation" aria-labelledby="block-secondarymenu-3-menu" id="block-secondarymenu-3" class="mobile-main-menu--submenu--block block block--menu-block block--menu-block--secondary-menu">
+            
+  <h2 class="visually-hidden" id="block-secondarymenu-3-menu">Secondary navigation: My Brusol</h2>
+  
+
+        
+              <ul class="menu menu--secondary-menu menu__list">
+                    <li class="menu__item">
+              <a href="/nl/inloggen-op-mybrusol" class="login" data-drupal-link-system-path="node/299">MyBrusol Login</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+<nav role="navigation" aria-labelledby="block-hoofdnavigatie-2-menu" id="block-hoofdnavigatie-2" class="mobile-main-menu--submenu--block block block--menu-block block--menu-block--main">
+            
+  <h2 class="visually-hidden" id="block-hoofdnavigatie-2-menu">Main navigation: Submenu</h2>
+  
+
+        
+              <ul class="menu menu--main menu__list">
+                    <li class="menu__item">
+              <a href="/nl/zonnepanelen" data-drupal-link-system-path="node/77">Zonnepanelen</a>
+              </li>
+                <li class="menu__item menu__item--expanded">
+              <a href="/nl/elektriciteit-en-gas" data-drupal-link-system-path="node/399">Elektriciteit en gas</a>
+                                <ul class="menu__list">
+                    <li class="menu__item">
+              <a href="/nl/%C3%A9lectricit%C3%A9-et-gaz/schrijf-je-in-voor-goedkope-stroom-van-brusol" data-drupal-link-system-path="node/216">Goedkope Stroom</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu__item">
+              <a href="/nl/hoe-kunnen-we-je-helpen" class="btn" title="Contact Brusol" data-drupal-link-system-path="node/303">Contact</a>
+              </li>
+                <li class="menu__item">
+              <a href="/nl/zonnepanelen/contact" class="btn" data-drupal-link-system-path="node/94">Inschrijven voor gratis zonnepanelen</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+
+<div class="language-switcher-language-url mobile-language-switcher block block--language-block block--language-block--language-interface block-language block-language-blocklanguage-interface" id="block-taalkeuze" role="navigation">
+      <select class="links"><option hreflang="en" data-drupal-link-system-path="node/371" class="en"  class="language-link" value="en" data-url="/en/sign-up-for-green-energy-from-brusol"><a href="/en/sign-up-for-green-energy-from-brusol" class="language-link" value="en" data-url="/en/sign-up-for-green-energy-from-brusol" hreflang="en" data-drupal-link-system-path="node/371">en</a></option><option hreflang="nl" data-drupal-link-system-path="node/371" class="nl is-active" value="nl" selected="selected" data-url="/nl/schrijf-je-in-voor-groene-stroom-van-brusol"><a href="/nl/schrijf-je-in-voor-groene-stroom-van-brusol" class="language-link is-active" value="nl" selected="selected" data-url="/nl/schrijf-je-in-voor-groene-stroom-van-brusol" hreflang="nl" data-drupal-link-system-path="node/371">nl</a></option><option hreflang="fr" data-drupal-link-system-path="node/371" class="fr"  class="language-link" value="fr" data-url="/fr/inscrivezvous-pour-beneficier-de-lelectricite-verte-de-brusol"><a href="/fr/inscrivezvous-pour-beneficier-de-lelectricite-verte-de-brusol" class="language-link" value="fr" data-url="/fr/inscrivezvous-pour-beneficier-de-lelectricite-verte-de-brusol" hreflang="fr" data-drupal-link-system-path="node/371">fr</a></option></select>
+  </div>
+
+  </div>
+
+
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"nl\/","currentPath":"node\/371","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"nl"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ajax_loader\/ajax_loader.throbber,antibot\/antibot.form,captcha\/base,clientside_validation_jquery\/cv.jquery.ife,clientside_validation_jquery\/cv.jquery.validate,clientside_validation_jquery\/cv.pattern.method,core\/internal.jquery.form,dms_core\/gin,dms_theme\/fonts,dms_theme\/global_scripts,dms_theme\/global_styles,dms_theme\/icon_fonts,eu_cookie_compliance\/eu_cookie_compliance_bare,google_tag\/gtag,google_tag\/gtag.ajax,google_tag\/gtm,paragraphs\/drupal.paragraphs.unpublished,recaptcha_v3\/recaptcha_v3,system\/base,views\/views.module,webform\/webform.element.date,webform\/webform.element.details.save,webform\/webform.element.details.toggle,webform\/webform.element.inputmask,webform\/webform.element.message,webform\/webform.element.select,webform\/webform.element.select2,webform\/webform.form,webform_clientside_validation\/webform_clientside_validation.ife","theme":"dms_theme","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/nl\/schrijf-je-in-voor-groene-stroom-van-brusol?ajax_form=1":true},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"","blocklist_classes":"","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-TF8CZ4G"]},"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-flow\u0022\u003E\n              \u003Cdiv class=\u0022sk-flow-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-flow-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-flow-dot\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":true,"throbberPosition":"body"},"clientside_validation_jquery":{"validate_all_ajax_forms":2,"force_validate_on_blur":false,"messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":false,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":false,"use_mobile_message":false,"mobile_popup_html_info":false,"mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":true,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/nl\/cookieverklaring","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"nl","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"categories","automatic_cookies_removal":false,"allowed_cookies":"functional:rc::c\r\nfunctional:_ga\r\nanalytics:_gid\r\nanalytics:_gat_UA-123326901-1\r\nanalytics:_ga_GWXVQYHVQD","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy-instellingen\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":["functional","analytics","advertisement","social_media"],"cookie_categories_details":{"functional":{"uuid":"33329b74-a172-4193-a1e8-79c6de020f82","langcode":"en","status":true,"dependencies":[],"id":"functional","label":"Functionele en statistische cookies","description":"Om de website te laten te functioneren en inzicht te krijgen in basisstatistieken, zonder dat er persoonsgegevens worden doorgezonden.","checkbox_default_state":"required","weight":0},"analytics":{"uuid":"180ef5a1-a79b-4a88-a59d-d5933b0a1c52","langcode":"en","status":true,"dependencies":[],"id":"analytics","label":"Analytische cookies","description":"Zo krijgen we inzicht in hoe je de website gebruikt en kunnen we deze verbeteren.","checkbox_default_state":"unchecked","weight":1},"advertisement":{"uuid":"9a41fb57-0f31-49d3-b68f-bb4e79f065b5","langcode":"en","status":true,"dependencies":[],"id":"advertisement","label":"Advertenties op maat","description":"Je krijgt relevante advertenties op basis van jouw surfgedrag.","checkbox_default_state":"unchecked","weight":2},"social_media":{"uuid":"aa4e0ce9-07e7-4456-bbc0-2c3beed7a9e8","langcode":"en","status":true,"dependencies":[],"id":"social_media","label":"Social media koppelingen","description":"Een optimale wisselwerking met sociale media zoals Youtube, Facebook of Instagram","checkbox_default_state":"unchecked","weight":3}},"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":false,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"antibot":{"forms":{"webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form":{"id":"webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form","key":"k3OZYKoTkGJ5V0SDNo4sIqFIrQ6sGVzHB6PRn3XqJKe"}}},"ajax":{"edit-captcha-response":{"callback":"recaptcha_v3_ajax_callback","event":"change","url":"\/nl\/schrijf-je-in-voor-groene-stroom-van-brusol?ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"captcha_response"}}},"webform":{"dateFirstDay":1},"user":{"uid":0,"permissionsHash":"686b6396f6047d3e866d4dce63ce48a925edda663b3bbd90c5237b7aacfa85ae"}}</script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LfiUmIeAAAAAAe8Nisj2ME17FvtB_rBJ91n1DyL" defer async></script>
+<script src="/sites/default/files/js/js_4pxfyIUOAop0KMCZAJUcdb-WC7x0TX2mdk4YQuZO1X4.js?scope=footer&amp;delta=1&amp;language=nl&amp;theme=dms_theme&amp;include=eJyNUlluAyEMvRACqT0QMuAwTtmKPdPm9mWSqZJm7Q_2e95tYA_fNlUI2A2cdS1Tr85hVyGz9bWjiVQUH1gwGweMR4NMmNHsahG-wORrsddkTNVBsiyHhPd436mNAJxHtfpBOERuiaB4NPdI66CjirXGhFYgmij5L4R4jfU6oVoIv9gcX51rmBOqBh1ihzaxCX1ukPSZ0XNps0vEEwb1hW5Xezab1OtzQ2IagxXRAQUosWZY8KWT1Dha_XWzPtGwMgW0CyQKIFSLeWrVtHtcJiMzRFRQhFwVs8nTAHfT2f3njP1g_KJPmt5s-F__tR8PTfwEpy_TcYN2eTeXQB1_GBXBXsbyt_iny6VxFcnAHy-7aSBr3rECmertCX8T8lC8PL7TOvjz2LcfNwJKQw"></script>
+<script src="https://maps.googleapis.com/maps/api/js?libraries=places&amp;key=AIzaSyDe4rq7-qLnnEehCuGTTvh9HXfe2O3MXDk&amp;callback=Drupal.geolocation.google.load" defer="defer" async="async"></script>
+<script src="/sites/default/files/js/js_n3zhnnmXhbUWiagWg5FE006ew1nMMPLWwtbhWioQAj8.js?scope=footer&amp;delta=3&amp;language=nl&amp;theme=dms_theme&amp;include=eJyNUlluAyEMvRACqT0QMuAwTtmKPdPm9mWSqZJm7Q_2e95tYA_fNlUI2A2cdS1Tr85hVyGz9bWjiVQUH1gwGweMR4NMmNHsahG-wORrsddkTNVBsiyHhPd436mNAJxHtfpBOERuiaB4NPdI66CjirXGhFYgmij5L4R4jfU6oVoIv9gcX51rmBOqBh1ihzaxCX1ukPSZ0XNps0vEEwb1hW5Xezab1OtzQ2IagxXRAQUosWZY8KWT1Dha_XWzPtGwMgW0CyQKIFSLeWrVtHtcJiMzRFRQhFwVs8nTAHfT2f3njP1g_KJPmt5s-F__tR8PTfwEpy_TcYN2eTeXQB1_GBXBXsbyt_iny6VxFcnAHy-7aSBr3rECmertCX8T8lC8PL7TOvjz2LcfNwJKQw"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.min.js?v=10.1.8" defer></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?teyuyo"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?teyuyo"></script>
+<script src="/sites/default/files/js/js_ScTbQK2wh_GxGqdxUXBK5EVEJXprn_CzJtB0cHeLWiE.js?scope=footer&amp;delta=7&amp;language=nl&amp;theme=dms_theme&amp;include=eJyNUlluAyEMvRACqT0QMuAwTtmKPdPm9mWSqZJm7Q_2e95tYA_fNlUI2A2cdS1Tr85hVyGz9bWjiVQUH1gwGweMR4NMmNHsahG-wORrsddkTNVBsiyHhPd436mNAJxHtfpBOERuiaB4NPdI66CjirXGhFYgmij5L4R4jfU6oVoIv9gcX51rmBOqBh1ihzaxCX1ukPSZ0XNps0vEEwb1hW5Xezab1OtzQ2IagxXRAQUosWZY8KWT1Dha_XWzPtGwMgW0CyQKIFSLeWrVtHtcJiMzRFRQhFwVs8nTAHfT2f3njP1g_KJPmt5s-F__tR8PTfwEpy_TcYN2eTeXQB1_GBXBXsbyt_iny6VxFcnAHy-7aSBr3rECmertCX8T8lC8PL7TOvjz2LcfNwJKQw"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.min.js"></script>
+<script src="/sites/default/files/js/js_kHYDUSBFyHNSBo4muoE0vgPunsQ3xo8GZ1N7xrTHSvs.js?scope=footer&amp;delta=9&amp;language=nl&amp;theme=dms_theme&amp;include=eJyNUlluAyEMvRACqT0QMuAwTtmKPdPm9mWSqZJm7Q_2e95tYA_fNlUI2A2cdS1Tr85hVyGz9bWjiVQUH1gwGweMR4NMmNHsahG-wORrsddkTNVBsiyHhPd436mNAJxHtfpBOERuiaB4NPdI66CjirXGhFYgmij5L4R4jfU6oVoIv9gcX51rmBOqBh1ihzaxCX1ukPSZ0XNps0vEEwb1hW5Xezab1OtzQ2IagxXRAQUosWZY8KWT1Dha_XWzPtGwMgW0CyQKIFSLeWrVtHtcJiMzRFRQhFwVs8nTAHfT2f3njP1g_KJPmt5s-F__tR8PTfwEpy_TcYN2eTeXQB1_GBXBXsbyt_iny6VxFcnAHy-7aSBr3rECmertCX8T8lC8PL7TOvjz2LcfNwJKQw"></script>
+<script src="https://cdn.jsdelivr.net/gh/RobinHerbots/Inputmask@5.0.8/dist/jquery.inputmask.min.js"></script>
+<script src="/sites/default/files/js/js_dTwZjZgvJ_tBS40ov-GcVY0_zX5WRqS14cLpWItg8Yo.js?scope=footer&amp;delta=11&amp;language=nl&amp;theme=dms_theme&amp;include=eJyNUlluAyEMvRACqT0QMuAwTtmKPdPm9mWSqZJm7Q_2e95tYA_fNlUI2A2cdS1Tr85hVyGz9bWjiVQUH1gwGweMR4NMmNHsahG-wORrsddkTNVBsiyHhPd436mNAJxHtfpBOERuiaB4NPdI66CjirXGhFYgmij5L4R4jfU6oVoIv9gcX51rmBOqBh1ihzaxCX1ukPSZ0XNps0vEEwb1hW5Xezab1OtzQ2IagxXRAQUosWZY8KWT1Dha_XWzPtGwMgW0CyQKIFSLeWrVtHtcJiMzRFRQhFwVs8nTAHfT2f3njP1g_KJPmt5s-F__tR8PTfwEpy_TcYN2eTeXQB1_GBXBXsbyt_iny6VxFcnAHy-7aSBr3rECmertCX8T8lC8PL7TOvjz2LcfNwJKQw"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
+<script src="/sites/default/files/js/js_ZaG8igpflYNDiiOkiXnEoNXMT8KTO6s5frLJvsObTLM.js?scope=footer&amp;delta=13&amp;language=nl&amp;theme=dms_theme&amp;include=eJyNUlluAyEMvRACqT0QMuAwTtmKPdPm9mWSqZJm7Q_2e95tYA_fNlUI2A2cdS1Tr85hVyGz9bWjiVQUH1gwGweMR4NMmNHsahG-wORrsddkTNVBsiyHhPd436mNAJxHtfpBOERuiaB4NPdI66CjirXGhFYgmij5L4R4jfU6oVoIv9gcX51rmBOqBh1ihzaxCX1ukPSZ0XNps0vEEwb1hW5Xezab1OtzQ2IagxXRAQUosWZY8KWT1Dha_XWzPtGwMgW0CyQKIFSLeWrVtHtcJiMzRFRQhFwVs8nTAHfT2f3njP1g_KJPmt5s-F__tR8PTfwEpy_TcYN2eTeXQB1_GBXBXsbyt_iny6VxFcnAHy-7aSBr3rECmertCX8T8lC8PL7TOvjz2LcfNwJKQw"></script>
+
+  </body>
+</html>

@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-20T10:07:07.067233+00:00",
+ "_cached_at": "2026-09-21T11:07:07.111902+00:00",
  "_probe_key": null,
- "_schema_version": 67,
- "_seen_on": "2026-09-20",
+ "_schema_version": 69,
+ "_seen_on": "2026-09-21",
  "_sources": [
   {
    "pdf": "a94a29655e5f6fb7510ae8c88d3c7ca0f00e9baaecc4d6944fd4a801cb0c0c0c",
@@ -157,9 +157,11 @@
   "wallonia_renewables": 0.02959
  },
  "valid_until": "2026-09-30",
+ "welcome_credit_after_months": 14,
  "welcome_credit_cap_eur": 800.0,
  "welcome_credit_direct_debit_eur": 40.0,
  "welcome_credit_eur": 70.0,
  "welcome_credit_eur_per_kwh": 0.05,
- "welcome_credit_kind": "anniversary"
+ "welcome_credit_kind": "anniversary",
+ "welcome_credit_requires_direct_debit": false
 }
