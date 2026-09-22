@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-09-21T11:07:07.111902+00:00",
+ "_cached_at": "2026-09-22T10:21:09.503164+00:00",
  "_probe_key": null,
- "_schema_version": 69,
- "_seen_on": "2026-09-21",
+ "_schema_version": 70,
+ "_seen_on": "2026-09-22",
  "_sources": [
   {
-   "text": "texts/2026-09/e66f05bee3602800732f7a146d07ba6da4d7ef1f1a59857a9421b89b48880f77.txt",
+   "text": "texts/2026-09/da17d64a119f63aadf2885e596abb372f2630643687f20f506d55c688e18f1c0.txt",
    "url": "https://trevion.be/tariefkaarten/",
    "variant": "text"
   },
@@ -200,6 +200,9 @@
  "welcome_credit_direct_debit_eur": null,
  "welcome_credit_eur": null,
  "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_excludes_night_meter": false,
  "welcome_credit_kind": "pro_rata",
+ "welcome_credit_kwh": null,
+ "welcome_credit_pct_of_energy": null,
  "welcome_credit_requires_direct_debit": false
 }

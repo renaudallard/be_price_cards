@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-21T11:07:07.111902+00:00",
+ "_cached_at": "2026-09-22T10:21:09.503164+00:00",
  "_probe_key": null,
- "_schema_version": 69,
- "_seen_on": "2026-09-21",
+ "_schema_version": 70,
+ "_seen_on": "2026-09-22",
  "_sources": [
   {
    "pdf": "f0d0905924a52264547348a890cca539eaa6a1a015a4829b173fec194853f514",
@@ -197,6 +197,9 @@
  "welcome_credit_direct_debit_eur": null,
  "welcome_credit_eur": null,
  "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_excludes_night_meter": false,
  "welcome_credit_kind": "pro_rata",
+ "welcome_credit_kwh": null,
+ "welcome_credit_pct_of_energy": null,
  "welcome_credit_requires_direct_debit": false
 }
