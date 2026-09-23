@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-09-22T10:21:09.503164+00:00",
+ "_cached_at": "2026-09-23T11:58:37.211814+00:00",
  "_probe_key": null,
- "_schema_version": 70,
+ "_schema_version": 71,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -123,6 +123,7 @@
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
+  "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "Le prix de votre injection est indexé tous les quarts d'heure sur base des cotations quart-horaires Day Ahead Epex Baseload. La formule tarifaire HTVA est la suivante (en €/MWh) : Epex 15' * 1 - 13,89",
   "minimum": null,

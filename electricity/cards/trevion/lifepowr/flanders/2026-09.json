@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-09-22T10:21:09.503164+00:00",
+ "_cached_at": "2026-09-23T11:58:37.211814+00:00",
  "_probe_key": null,
- "_schema_version": 70,
- "_seen_on": "2026-09-22",
+ "_schema_version": 71,
+ "_seen_on": "2026-09-23",
  "_sources": [
   {
-   "text": "texts/2026-09/da17d64a119f63aadf2885e596abb372f2630643687f20f506d55c688e18f1c0.txt",
+   "text": "texts/2026-09/cff35822563d4a13e016497f6f3f5952cbfca515d27c5ec96d6ca2bbac85f6be.txt",
    "url": "https://trevion.be/tariefkaarten/",
    "variant": "text"
   },
@@ -193,6 +193,7 @@
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
+  "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": null,
   "minimum": null,

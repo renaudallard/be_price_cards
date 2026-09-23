@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-22T10:21:09.503164+00:00",
+ "_cached_at": "2026-09-23T11:58:37.211814+00:00",
  "_probe_key": null,
- "_schema_version": 70,
- "_seen_on": "2026-09-22",
+ "_schema_version": 71,
+ "_seen_on": "2026-09-23",
  "_sources": [
   {
    "pdf": "f4fd7330ad254457829d8108575d79e0abadd28f712a6dce3ecae6c9e4ba354e",
@@ -183,6 +183,7 @@
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
+  "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "-1.5470 + (0.0449 x EPEXDAM)",
   "minimum": null,

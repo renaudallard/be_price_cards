@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-22T10:21:09.503164+00:00",
+ "_cached_at": "2026-09-23T11:58:37.211814+00:00",
  "_probe_key": null,
- "_schema_version": 70,
- "_seen_on": "2026-09-22",
+ "_schema_version": 71,
+ "_seen_on": "2026-09-23",
  "_sources": [
   {
    "pdf": "205d997b7307f7e42311127e7c760aaa07e9de2310cd1e8e42be15579be30efa",
@@ -161,6 +161,7 @@
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
+  "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "formule suivante (HTVA) : Day Ahead EPEX SPOT Belgium * 1 – 4 c€/kWh",
   "minimum": null,

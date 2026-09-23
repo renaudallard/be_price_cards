@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-09-22T10:21:09.503164+00:00",
+ "_cached_at": "2026-09-23T11:58:37.211814+00:00",
  "_probe_key": null,
- "_schema_version": 70,
- "_seen_on": "2026-09-22",
+ "_schema_version": 71,
+ "_seen_on": "2026-09-23",
  "_sources": [
   {
-   "text": "texts/2026-09/b141f6ec034060c630496243143396522a9a20683cc7a4542c47fd24e404102c.txt",
+   "text": "texts/2026-09/7e2394dd61484e2ae3c7ed7907420d9dcb403cc51d28bc114851b94ad029909f.txt",
    "url": "https://www.cociter.be/electricite/cartes-tarifaires/",
    "variant": "text"
   },
@@ -129,6 +129,7 @@
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
+  "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "Le prix de l'injection varie chaque quart d'heure. Il est calculé en fonction de l'indice QUARTER HOURL Y BELPEX *** avec \nla formule suivante : \nType de compteur FORMULE DE PRIX \nCompteur pouvant effectuer des mesures par quart d'heure (0,097 x QUARTER HOURL Y BELPEX – 2,1)",
   "minimum": null,

@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-09-22T10:21:09.503164+00:00",
+ "_cached_at": "2026-09-23T11:58:37.211814+00:00",
  "_probe_key": null,
- "_schema_version": 70,
+ "_schema_version": 71,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -125,23 +125,24 @@
  },
  "energy_kind": "tou_impact",
  "injection": {
-  "base": null,
+  "base": -0.01339,
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
   "current": 0.0296,
-  "factor": null,
+  "factor": 0.852,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
+  "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": null,
+  "formula": "Belpex SPP x 0,852 - 13,39",
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,
   "peak": null,
   "slot_indexed": false,
-  "spp_indexed": false,
+  "spp_indexed": true,
   "transition": null,
   "vat_applies": false
  },

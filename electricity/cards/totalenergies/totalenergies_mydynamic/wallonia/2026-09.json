@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-22T10:21:09.503164+00:00",
+ "_cached_at": "2026-09-23T11:58:37.211814+00:00",
  "_probe_key": null,
- "_schema_version": 70,
- "_seen_on": "2026-09-22",
+ "_schema_version": 71,
+ "_seen_on": "2026-09-23",
  "_sources": [
   {
    "pdf": "827d8dfa78e8009b03ff8bad6b9e86b748ce1ac8df8f88c6faa8b5ef3c866425",
@@ -113,6 +113,7 @@
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
+  "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "Injection*** (Compensation pour la rétrocession)\n9,65 9,65 9,65\n0.1 * BELPEXH -1.3",
   "minimum": null,

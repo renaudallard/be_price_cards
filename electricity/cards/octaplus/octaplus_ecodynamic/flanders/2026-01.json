@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-09-22T10:21:09.503164+00:00",
+ "_cached_at": "2026-09-23T11:58:37.211814+00:00",
  "_probe_key": null,
- "_schema_version": 70,
+ "_schema_version": 71,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -162,17 +162,18 @@
  },
  "energy_kind": "dynamic",
  "injection": {
-  "base": 0.0116,
+  "base": -0.013890000000000001,
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
   "current": null,
-  "factor": 1.02,
+  "factor": 1.0,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
+  "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": "Le prix de votre injection est indexé tous les quarts d'heure sur base des cotations horaires Day Ahead Epex Baseload. La formule tarifaire HTVA est la suivante (en €/MWh) : Belpex 15' * 1 - 13,89\nConditions Spécifiques relatives aux Produits Dynamiques\n1. Objet\n1.1. Les présentes conditions s’appliquent lorsque vous avez un Contrat chez OCTA+ pour le prélèvement et/ou l’injection d’électricité, dont les Conditions Particulières ou tarifaires prévoient une\nindexation (quart)horaire du ou des prix. Nous parlons dans ce cas d’un Produit Dynamique.\n1.2. Pour pouvoir bénéficier de l’application des prix (quart)horaires en fonction des volumes quart-horaires réels que vous avez prélevés et/ou injectés, vous devez disposer d’un compteur intelligent,\nétant un compteur numérique permettant de mesurer l’électricité consommée ou produite en temps-réel, communicant de manière bidirectionnelle et pouvant être actionné à distance. Ce compteur\ndoit également permettre la configuration Smart Meter Regime 3 (SMR3 ; étant un mesurage de votre prélèvement et/ou injection d’électricité par quart d’heures). En souscrivant à un Produit\nDynamique, vous confirmez qu’un tel compteur est bien installé à votre Point de raccordement et que celui-ci est en parfait état de fonctionnement. Vous confirmez également avoir réalisé les\ndémarches nécessaires afin d’obtenir une configuration SMR3. A défaut, vous autorisez OCTA+ à les effectuer pour vous (à condition que votre compteur soit compatible et que vous ayez donné, au cas\noù votre gestionnaire de réseau le requerrait, votre consentement à ce dernier pour activer la fonction communicante).\n1.3. Les Conditions Générales de votre Contrat s’appliquent. En cas de contradiction entre les Conditions Générales et les présentes Conditions Spécifiques, ces dernières prévalent.\n2. Prix\nVous reconnaissez être conscient des risques liés à un Produit Dynamique, et notamment des risques de fluctuation du prix, suivant, entre autre, vos moments de consommation et l’évolution globale du\nmarché de l’électricité.\n3. Facturation\nSous un Produit Dynamique, vous acceptez de ne pas recevoir des factures d’acompte, et de recevoir des factures mensuelles réelles basées sur les volumes quart-horaires effectivement prélevés et/ou\ninjectés à votre Point de raccordement.\n4. Indisponibilité de la configuration SMR3\nSi votre contrat s'applique ou devient applicable à un compteur AMR (relevé automatique à distance toutes les quinze minutes), nous nous réservons le droit de facturer l’électricité sous la rubrique\n'Énergie & livraison' sur la base d’un prix dynamique,\nselon la formule Epex 15' * 1,02 + 11,60",
+  "formula": "Le prix de votre injection est indexé tous les quarts d'heure sur base des cotations horaires Day Ahead Epex Baseload. La formule tarifaire HTVA est la suivante (en €/MWh) : Belpex 15' * 1 - 13,89",
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,

@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-09-22T10:21:09.503164+00:00",
+ "_cached_at": "2026-09-23T11:58:37.211814+00:00",
  "_probe_key": null,
- "_schema_version": 70,
+ "_schema_version": 71,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -161,7 +161,28 @@
   "yearly_fixed_fee": 130.0
  },
  "energy_kind": "dynamic",
- "injection": null,
+ "injection": {
+  "base": -0.013890000000000001,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": null,
+  "factor": 1.0,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": false,
+  "floor_at_zero": false,
+  "formula": "Le prix de votre injection est indexé tous les quarts d'heure sur base des cotations horaires Day Ahead Epex Baseload. La formule tarifaire HTVA est la suivante (en €/MWh) : Belpex 15' * 1 - 13,89",
+  "minimum": null,
+  "month_indexed": false,
+  "offpeak": null,
+  "peak": null,
+  "slot_indexed": false,
+  "spp_indexed": false,
+  "transition": null,
+  "vat_applies": false
+ },
  "publication_label": "02/2026",
  "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2026-02 E OCTA+ECODYNAMIC RE VL FR.pdf",
  "supplier": "octaplus",
