@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-09-23T11:58:37.211814+00:00",
+ "_cached_at": "2026-09-25T11:29:53.671296+00:00",
  "_probe_key": null,
- "_schema_version": 71,
- "_seen_on": "2026-09-23",
+ "_schema_version": 72,
+ "_seen_on": "2026-09-25",
  "_sources": [
   {
    "pdf": "a77b3a8185e84d119fad89f9a05673e0ce21ecf5326f86821f84f1db96360efb",
@@ -232,6 +232,7 @@
  "welcome_credit_eur": null,
  "welcome_credit_eur_per_kwh": null,
  "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "anniversary",
  "welcome_credit_kwh": null,
  "welcome_credit_pct_of_energy": null,

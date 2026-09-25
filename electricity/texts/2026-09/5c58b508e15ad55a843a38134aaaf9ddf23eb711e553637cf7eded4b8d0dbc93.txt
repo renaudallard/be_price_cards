@@ -334,7 +334,7 @@
         </div>
 <div class="js-form-item form-item js-form-type-date form-item-birth-date js-form-item-birth-date">
       <label for="edit-birth-date">Je geboortedatum</label>
-        <input max="2008-09-23" data-max-year="2008" type="date" data-drupal-selector="edit-birth-date" data-msg-max="The value in Je geboortedatum has to be less than 2008-09-23." data-msg-required="Je geboortedatum is een verplicht veld." id="edit-birth-date" name="birth_date" value="" class="form-date" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+        <input max="2008-09-25" data-max-year="2008" type="date" data-drupal-selector="edit-birth-date" data-msg-max="The value in Je geboortedatum has to be less than 2008-09-25." data-msg-required="Je geboortedatum is een verplicht veld." id="edit-birth-date" name="birth_date" value="" class="form-date" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
 
         </div>
 <div class="js-form-item form-item js-form-type-email form-item-email js-form-item-email">
@@ -388,17 +388,17 @@
         </div>
 <div data-drupal-states="{&quot;visible&quot;:{&quot;:input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik wil veranderen van energieleverancier&quot;}}}" class="js-webform-states-hidden js-form-item form-item js-form-type-date form-item-contract-supplier-change-start-date js-form-item-contract-supplier-change-start-date">
       <label for="edit-contract-supplier-change-start-date">Startdatum</label>
-        <input min="2026-10-14" data-min-year="2026" type="date" data-drupal-selector="edit-contract-supplier-change-start-date" data-msg-min="The value in Startdatum has to be greater than 2026-10-14." data-msg-required="Startdatum is een verplicht veld." id="edit-contract-supplier-change-start-date" name="contract_supplier_change_start_date" value="" class="form-date" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik wil veranderen van energieleverancier&quot;}},&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik wil veranderen van energieleverancier&quot;}}}" />
+        <input min="2026-10-16" data-min-year="2026" type="date" data-drupal-selector="edit-contract-supplier-change-start-date" data-msg-min="The value in Startdatum has to be greater than 2026-10-16." data-msg-required="Startdatum is een verplicht veld." id="edit-contract-supplier-change-start-date" name="contract_supplier_change_start_date" value="" class="form-date" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik wil veranderen van energieleverancier&quot;}},&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik wil veranderen van energieleverancier&quot;}}}" />
 
         </div>
 <div data-drupal-states="{&quot;visible&quot;:{&quot;:input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Mijn meter is gesloten, er is nog geen stroom&quot;}}}" class="js-webform-states-hidden js-form-item form-item js-form-type-date form-item-contract-open-meter-start-date js-form-item-contract-open-meter-start-date">
       <label for="edit-contract-open-meter-start-date">Startdatum</label>
-        <input min="2026-10-14" data-min-year="2026" type="date" data-drupal-selector="edit-contract-open-meter-start-date" data-msg-min="The value in Startdatum has to be greater than 2026-10-14." data-msg-required="Startdatum is een verplicht veld." id="edit-contract-open-meter-start-date" name="contract_open_meter_start_date" value="" class="form-date" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Mijn meter is gesloten, er is nog geen stroom&quot;}},&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Mijn meter is gesloten, er is nog geen stroom&quot;}}}" />
+        <input min="2026-10-16" data-min-year="2026" type="date" data-drupal-selector="edit-contract-open-meter-start-date" data-msg-min="The value in Startdatum has to be greater than 2026-10-16." data-msg-required="Startdatum is een verplicht veld." id="edit-contract-open-meter-start-date" name="contract_open_meter_start_date" value="" class="form-date" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Mijn meter is gesloten, er is nog geen stroom&quot;}},&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Mijn meter is gesloten, er is nog geen stroom&quot;}}}" />
 
         </div>
 <div data-drupal-states="{&quot;visible&quot;:{&quot;:input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik verhuis en wil een nieuwe aansluiting&quot;}}}" class="js-webform-states-hidden js-form-item form-item js-form-type-date form-item-contract-moved-start-date js-form-item-contract-moved-start-date">
       <label for="edit-contract-moved-start-date">Startdatum</label>
-        <input min="2026-10-14" data-min-year="2026" type="date" data-drupal-selector="edit-contract-moved-start-date" data-msg-min="The value in Startdatum has to be greater than 2026-10-14." data-msg-required="Startdatum is een verplicht veld." id="edit-contract-moved-start-date" name="contract_moved_start_date" value="" class="form-date" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik verhuis en wil een nieuwe aansluiting&quot;}},&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik verhuis en wil een nieuwe aansluiting&quot;}}}" />
+        <input min="2026-10-16" data-min-year="2026" type="date" data-drupal-selector="edit-contract-moved-start-date" data-msg-min="The value in Startdatum has to be greater than 2026-10-16." data-msg-required="Startdatum is een verplicht veld." id="edit-contract-moved-start-date" name="contract_moved_start_date" value="" class="form-date" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik verhuis en wil een nieuwe aansluiting&quot;}},&quot;required&quot;:{&quot;.webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;value&quot;:&quot;Ik verhuis en wil een nieuwe aansluiting&quot;}}}" />
 
         </div>
 <div class="js-form-item form-item js-form-type-select form-item-timeframe js-form-item-timeframe">
@@ -434,15 +434,15 @@
 
 </div>
 <div class="recaptcha-v3-policy">This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy" target="_blank">Privacy Policy</a> and <a href="https://policies.google.com/terms" target="_blank">Terms of Service</a> apply.</div><input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="" />
-<input data-drupal-selector="edit-honeypot-time" type="hidden" name="honeypot_time" value="lGfk870llvrDcWGkcIJBhgqKfVK-mJMRSsebWj0YDYg" />
-<input autocomplete="off" data-drupal-selector="form-vuawufho4q7dpzikhb4rflgql6tamh9bwfjcgovxgpi" type="hidden" name="form_build_id" value="form-vUawufHO4q7DPZIkhB4RfLGqL6tAmh9BWfjcgOvxgpI" />
+<input data-drupal-selector="edit-honeypot-time" type="hidden" name="honeypot_time" value="nGBIBu4_gKLslmHyqwXFQp2XzWYKsk3TjPkUZfR2Tys" />
+<input autocomplete="off" data-drupal-selector="form-osd-lweei7tebcg8doclmwratozq00t1jproilb0ixu" type="hidden" name="form_build_id" value="form-OsD_LwEeI7tEBcG8DocLMWrAtOZQ00T1JPRoilb0IxU" />
 <input data-drupal-selector="edit-webform-submission-subscribe-groene-stroom-2-0-paragraph-7565-add-form" type="hidden" name="form_id" value="webform_submission_subscribe_groene_stroom_2_0_paragraph_7565_add_form" />
 
 
                       <div  data-drupal-selector="edit-captcha" class="captcha captcha-type-challenge--recaptcha-v3">
                   <div class="captcha__element">
-            <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="898408" />
-<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="kS68pkSu_dllP5vLxUyZHwlleXrMqeuxjMPPFAe4c7Q" />
+            <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="899091" />
+<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="K_tBcoz6bc1h9n7_L2BeyB1WY-iy121ZR5b2hi1ASD4" />
 <input id="recaptcha-v3-token" class="recaptcha-v3-token" data-recaptcha-v3-action="recaptcha_v3" data-recaptcha-v3-site-key="6LfiUmIeAAAAAAe8Nisj2ME17FvtB_rBJ91n1DyL" data-drupal-selector="edit-captcha-response" type="hidden" name="captcha_response" value="" />
 <input data-drupal-selector="edit-is-recaptcha-v3" type="hidden" name="is_recaptcha_v3" value="1" />
 
@@ -616,7 +616,7 @@
         
 
 
-<div class="views-view views-view--general-settings-views views-view--general-settings-views--block-1 view view-general-settings-views view-id-general_settings_views view-display-id-block_1 js-view-dom-id-6989311c0ec1fcdbf8e5e14aa40c1c1d5cab0765967a0ce4fdcd63a121b2f638">
+<div class="views-view views-view--general-settings-views views-view--general-settings-views--block-1 view view-general-settings-views view-id-general_settings_views view-display-id-block_1 js-view-dom-id-cc97f00d01b0403f4b2a2c6326da5a532cb30e6348cd5ce28652c71884e3a37b">
   
   
   

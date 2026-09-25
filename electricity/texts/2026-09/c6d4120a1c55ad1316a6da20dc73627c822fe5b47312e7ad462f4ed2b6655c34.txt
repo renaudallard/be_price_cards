@@ -35,7 +35,7 @@
 						<title>Cartes tarifaires pour le gaz et l’électricité | Mega</title>
 			
 	<!-- Styles -->
-	<link rel="preload" as="style" href="../../css/dist/input.css?v=149319">
+	<link rel="preload" as="style" href="../../css/dist/input.css?v=149286">
 
 	<!-- Splide -->
 	<link href="../../css/src/splide.min.css" rel="stylesheet">
@@ -48,7 +48,7 @@
 
 	<!-- preload css / css -->
 	<link rel="preload" href="../../css/dist/input.css" as="style">
-	<link rel="stylesheet" href="../../css/dist/input.css?v=149319">
+	<link rel="stylesheet" href="../../css/dist/input.css?v=149286">
 
 	<!-- Favicon -->
 	<link rel="icon" type="image/x-icon" href="images/favicon/favicon.ico?v=1.1">
@@ -1597,8 +1597,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Type d’énergie		</label>
 		<div class="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-4">
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="e5609d77" type="checkbox" name="elec" />
-				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="e5609d77">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="80431089" type="checkbox" name="elec" />
+				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="80431089">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1611,8 +1611,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</label>
 			</div>
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="e5609d771" type="checkbox" name="gas" />
-				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="e5609d771">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="804310891" type="checkbox" name="gas" />
+				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="804310891">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1629,12 +1629,12 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Code postal		</label>
 		<div class="flex md:flex-row flex-col items-start md:items-center gap-4 sm:gap-6">
 			<div class="flex flex-col [&_div]:flex-1 w-full md:basis-6/12">
-				<input data-zipCode="e5609d77" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
-				<div data-zipcodelist="e5609d77" class="input rounded-xs px-0 hidden">
+				<input data-zipCode="80431089" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
+				<div data-zipcodelist="80431089" class="input rounded-xs px-0 hidden">
 					<ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
 					</ul>
 				</div>
-				<p data-zipcode-badnumber='e5609d77' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+				<p data-zipcode-badnumber='80431089' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
 				<div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
 					<img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
 					<div>
@@ -1642,8 +1642,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</div>
 			</div>
 			<div class="flex flex-row items-end relative md:basis-6/12">
-									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="e5609d772" type="checkbox" />
-								<label class="cbx rounded-xs flex gap-1" for="e5609d772">
+									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="804310892" type="checkbox" />
+								<label class="cbx rounded-xs flex gap-1" for="804310892">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1805,8 +1805,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Type d’énergie		</label>
 		<div class="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-4">
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="2cf36e8b" type="checkbox" name="elec" />
-				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="2cf36e8b">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="97188275" type="checkbox" name="elec" />
+				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="97188275">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1819,8 +1819,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</label>
 			</div>
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="2cf36e8b1" type="checkbox" name="gas" />
-				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="2cf36e8b1">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="971882751" type="checkbox" name="gas" />
+				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="971882751">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1837,12 +1837,12 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Code postal		</label>
 		<div class="flex md:flex-row flex-col items-start md:items-center gap-4 sm:gap-6">
 			<div class="flex flex-col [&_div]:flex-1 w-full md:basis-6/12">
-				<input data-zipCode="2cf36e8b" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
-				<div data-zipcodelist="2cf36e8b" class="input rounded-xs px-0 hidden">
+				<input data-zipCode="97188275" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
+				<div data-zipcodelist="97188275" class="input rounded-xs px-0 hidden">
 					<ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
 					</ul>
 				</div>
-				<p data-zipcode-badnumber='2cf36e8b' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+				<p data-zipcode-badnumber='97188275' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
 				<div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
 					<img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
 					<div>
@@ -1850,8 +1850,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</div>
 			</div>
 			<div class="flex flex-row items-end relative md:basis-6/12">
-									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="2cf36e8b2" type="checkbox" checked />
-								<label class="cbx rounded-xs flex gap-1" for="2cf36e8b2">
+									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="971882752" type="checkbox" checked />
+								<label class="cbx rounded-xs flex gap-1" for="971882752">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2010,8 +2010,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 	<label class="block italic" for="">Type d’énergie</label>
 	<div class="flex flex-col sm:flex-row gap-2 sm:gap-5 mb-2">
 		<div class="flex-1 relative">
-			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="e711b1d1" type="checkbox" checked />
-			<label class="cbx border-2 border-grey bg-greyLight  p-4 pr-0 rounded-xs flex" for="e711b1d1">
+			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="ce1e2116" type="checkbox" checked />
+			<label class="cbx border-2 border-grey bg-greyLight  p-4 pr-0 rounded-xs flex" for="ce1e2116">
 				<span class="min-w-[22px] ml-[-27px] bg-white outline outline-2 outline-white outline-offset-0">
 					<svg width="18px" height="15px" viewbox="0 0 12 10">
 						<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2022,8 +2022,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			</label>
 		</div>
 		<div class="flex-1 relative">
-			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="e711b1d11" type="checkbox" />
-			<label class="cbx border-2 border-grey bg-greyLight p-4 pr-0 rounded-xs flex" for="e711b1d11">
+			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="ce1e21161" type="checkbox" />
+			<label class="cbx border-2 border-grey bg-greyLight p-4 pr-0 rounded-xs flex" for="ce1e21161">
 				<span class="min-w-[22px] ml-[-27px] bg-white outline outline-2 outline-white outline-offset-0">
 					<svg width="18px" height="15px" viewbox="0 0 12 10">
 						<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2059,8 +2059,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Type d’énergie		</label>
 		<div class="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-4">
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="c06dc321" type="checkbox" name="elec" />
-				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="c06dc321">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="c36bd9fa" type="checkbox" name="elec" />
+				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="c36bd9fa">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2073,8 +2073,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</label>
 			</div>
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="c06dc3211" type="checkbox" name="gas" />
-				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="c06dc3211">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="c36bd9fa1" type="checkbox" name="gas" />
+				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="c36bd9fa1">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2091,12 +2091,12 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Code postal		</label>
 		<div class="flex md:flex-row flex-col items-start md:items-center gap-4 sm:gap-6">
 			<div class="flex flex-col [&_div]:flex-1 w-full md:basis-6/12">
-				<input data-zipCode="c06dc321" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
-				<div data-zipcodelist="c06dc321" class="input rounded-xs px-0 hidden">
+				<input data-zipCode="c36bd9fa" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
+				<div data-zipcodelist="c36bd9fa" class="input rounded-xs px-0 hidden">
 					<ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
 					</ul>
 				</div>
-				<p data-zipcode-badnumber='c06dc321' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+				<p data-zipcode-badnumber='c36bd9fa' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
 				<div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
 					<img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
 					<div>
@@ -2104,8 +2104,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</div>
 			</div>
 			<div class="flex flex-row items-end relative md:basis-6/12">
-									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="c06dc3212" type="checkbox" />
-								<label class="cbx rounded-xs flex gap-1" for="c06dc3212">
+									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="c36bd9fa2" type="checkbox" />
+								<label class="cbx rounded-xs flex gap-1" for="c36bd9fa2">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2361,25 +2361,24 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
 </section>
 
 <script defer type="text/javascript" src="./js/question_tree.js"></script><!-- header_tarifs -->
-<section class="relative mx-auto max-w-[1920px]">
-    <div class="container">
-        <div class="lg:w-7/12">
-			<h1 class="h2 mb-6">
-				Prix de l’électricité et du gaz : découvrez les tarifs énergie Mega			</h1>
-			<div class="content mb-6">
-				<p>Tarif fixe, variable, variable plafonné ou encore dynamique : Mega vous propose des offres d’électricité et de gaz moins chères adaptées à tous les besoins.</p>
-<p>Comparez nos offres en quelques clics et réduisez votre facture d’énergie sans effort. Aucune paperasse, aucun frais caché : on s’occupe de tout pour vous.</p>			</div>
-                    </div>
+<section class="relative min-h-[575px] md:flex flex-row items-start">
+    <div class="container max-md:mb-6">
+        <div class="md:w-7/12 md:pr-10">
+                            <h1 class="h1 mb-4">
+                    Prix de l’électricité et du gaz : découvrez les tarifs énergie Mega                </h1>
+                                                    <div class="content mb-6">
+                    <p>Tarif fixe, variable, variable plafonné ou encore dynamique : Mega vous propose des offres d’électricité et de gaz moins chères adaptées à tous les besoins.</p>
+<p>Comparez nos offres en quelques clics et réduisez votre facture d’énergie sans effort. Aucune paperasse, aucun frais caché : on s’occupe de tout pour vous.</p>                </div>
+                                </div>
     </div>
-    <div class="block max-lg:ml-auto lg:absolute right-0 top-12 w-fit lg:z-[-1]">
+    <div class="block max-md:ml-auto md:absolute right-0 bottom-0 top-0 w-[80%] md:w-[45%] lg:block lg:z-[-1]">
         <picture>
             <source srcset="../../images/tarif-card-banana.webp" type="image/webp">
             <source srcset="../../images/tarif-card-banana.png" type="image/png">
-            <img class="max-w-xl w-full" src="../../images/tarif-card-banana.png" alt="Alt Text!">
+            <img class="w-full" src="../../images/tarif-card-banana.png" alt="Alt Text!">
         </picture>
     </div>
 </section>
-
 <section class="pt-0">
 	<div class="container">
 		<div class="flex flex-row items-start justify-between relative">
@@ -2398,12 +2397,12 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 <form data-check='form' action="" method="post">
                     <label class="block h4 mb-4" for="contact-zipCode">
                         Code postal                    </label>
-                    <input data-zipCode="da7574e9" data-check='zipCode' data-input-card="tarifCard" class="h-11 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
-                    <div data-zipcodelist="da7574e9" class="input rounded-xs px-0 hidden max-w-[400px]">
+                    <input data-zipCode="76b96fe3" data-check='zipCode' data-input-card="tarifCard" class="h-11 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
+                    <div data-zipcodelist="76b96fe3" class="input rounded-xs px-0 hidden max-w-[400px]">
                         <ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
                         </ul>
                     </div>
-                    <p data-zipcode-badnumber='da7574e9' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+                    <p data-zipcode-badnumber='76b96fe3' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
                     <div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
                         <img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
                         <div>
@@ -2471,8 +2470,8 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 <h2 class="h2 text-2xl m-0 px-2 md:px-4 py-2 bg-grey rounded text-center flex flex-col items-center font-black">
                                     Smart Fixed                                </h2>
                                                                     <!-- Rajout de la ligne avantages avec la réduction annuelle  -->
-                                    <div class="rounded py-2 px-4 bg-pink text-white font-medium">
-                                        4 mois gratuits<sup>*</sup>                                    </div>
+                                    <button data-modal-trigger="16-cond" class="rounded py-2 px-4 bg-pink text-white font-bold modal-trigger">
+                                        4 mois gratuits<sup>*</sup>                                    </button>
                                                             </div>
                             <div class="content">
                                 <p>Avec Smart Fixed vous bénéficiez de la sécurité d’un prix fixe garanti 2 ans et d’un service complet.</p>                            </div>
@@ -2569,8 +2568,8 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 <h2 class="h2 text-2xl m-0 px-2 md:px-4 py-2 bg-grey rounded text-center flex flex-col items-center font-black">
                                     Cosy Flex                                </h2>
                                                                     <!-- Rajout de la ligne avantages avec la réduction annuelle  -->
-                                    <div class="rounded py-2 px-4 bg-pink text-white font-medium">
-                                        Jusqu'à 1696 € de réduction*                                    </div>
+                                    <button data-modal-trigger="20-cond" class="rounded py-2 px-4 bg-pink text-white font-bold modal-trigger">
+                                        Jusqu'à 1696 € de réduction*                                    </button>
                                                             </div>
                             <div class="content">
                                 <p>Accompagnement en ligne ou par téléphone, facturation par e‑mail ou par courrier : avec le contrat variable Cosy Flex, c'est vous qui décidez !</p>                            </div>
@@ -2667,8 +2666,8 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 <h2 class="h2 text-2xl m-0 px-2 md:px-4 py-2 bg-grey rounded text-center flex flex-col items-center font-black">
                                     Smart Flex                                </h2>
                                                                     <!-- Rajout de la ligne avantages avec la réduction annuelle  -->
-                                    <div class="rounded py-2 px-4 bg-pink text-white font-medium">
-                                        4 mois gratuits<sup>*</sup>                                    </div>
+                                    <button data-modal-trigger="17-cond" class="rounded py-2 px-4 bg-pink text-white font-bold modal-trigger">
+                                        4 mois gratuits<sup>*</sup>                                    </button>
                                                             </div>
                             <div class="content">
                                 <!--<p>Smart Flex vous offre un tarif variable  mélange de flexibilité, de durabilité et de qualité de service.</p>-->
@@ -2766,8 +2765,8 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 <h2 class="h2 text-2xl m-0 px-2 md:px-4 py-2 bg-grey rounded text-center flex flex-col items-center font-black">
                                     Zen Fixed                                </h2>
                                                                     <!-- Rajout de la ligne avantages avec la réduction annuelle  -->
-                                    <div class="rounded py-2 px-4 bg-pink text-white font-medium">
-                                        Jusqu’à 1696 € de réduction*                                    </div>
+                                    <button data-modal-trigger="30-cond" class="rounded py-2 px-4 bg-pink text-white font-bold modal-trigger">
+                                        Jusqu’à 1696 € de réduction*                                    </button>
                                                             </div>
                             <div class="content">
                                 <p>Vous n'avez pas envie de surveiller votre contrat d'énergie ? Zen Fixed vous offre la sérénité absolue avevc un prix fixe garanti 3 ans.</p>                            </div>
@@ -2858,8 +2857,8 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 <h2 class="h2 text-2xl m-0 px-2 md:px-4 py-2 bg-grey rounded text-center flex flex-col items-center font-black">
                                     Cosy Fixed                                </h2>
                                                                     <!-- Rajout de la ligne avantages avec la réduction annuelle  -->
-                                    <div class="rounded py-2 px-4 bg-pink text-white font-medium">
-                                        Jusqu'à 1696 € de réduction*                                    </div>
+                                    <button data-modal-trigger="21-cond" class="rounded py-2 px-4 bg-pink text-white font-bold modal-trigger">
+                                        Jusqu'à 1696 € de réduction*                                    </button>
                                                             </div>
                             <div class="content">
                                 <p>Cosy Fixed allie la sécurité d’un prix fixe garanti 2 ans à un service complet.</p>                            </div>
@@ -2956,8 +2955,8 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 <h2 class="h2 text-2xl m-0 px-2 md:px-4 py-2 bg-grey rounded text-center flex flex-col items-center font-black">
                                     Online Fixed                                </h2>
                                                                     <!-- Rajout de la ligne avantages avec la réduction annuelle  -->
-                                    <div class="rounded py-2 px-4 bg-pink text-white font-medium">
-                                        Jusqu’à 1696 € de réduction*                                    </div>
+                                    <button data-modal-trigger="24-cond" class="rounded py-2 px-4 bg-pink text-white font-bold modal-trigger">
+                                        Jusqu’à 1696 € de réduction*                                    </button>
                                                             </div>
                             <div class="content">
                                 <p>Online Fixed c'est la solution 100% digitale, 100% stable pour une année relax.</p>                            </div>
@@ -3462,8 +3461,8 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 <h2 class="h2 text-2xl m-0 px-2 md:px-4 py-2 bg-grey rounded text-center flex flex-col items-center font-black">
                                     Online Flex                                </h2>
                                                                     <!-- Rajout de la ligne avantages avec la réduction annuelle  -->
-                                    <div class="rounded py-2 px-4 bg-pink text-white font-medium">
-                                        Jusqu’à 1696 € de réduction*                                    </div>
+                                    <button data-modal-trigger="23-cond" class="rounded py-2 px-4 bg-pink text-white font-bold modal-trigger">
+                                        Jusqu’à 1696 € de réduction*                                    </button>
                                                             </div>
                             <div class="content">
                                 <p>Online Flex offre un contrat variable avec une gestion simplifiée 100% en ligne.</p>                            </div>
@@ -3835,6 +3834,380 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
 		Zen Fixed<br>Smarts Fixed<br>Smart Fixed<br>Smart Flex<br>Prepaid Fixed<br>Prepaid Flex<br>Online Flex<br>Online Fixed<br>Off-peak Impact<br>Off-peak Fixed<br>Off-peak Flex<br>Dynamic<br>Cosyp Flex<br>Cosy Flex<br>Cosy Fixed<br>SME Fixed<br>SME Flex<br>Smarts Flex<br>	</div>
 </section>
 
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="16-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                    Info et conditions du produit Smart Fixed 09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                En tant que nouveau client souscrivant un nouveau contrat <span class="font-bold">Smart Fixed</span>, vous profitez d'une <span class="font-bold">ristourne de bienvenue composée des promotions suivantes </span> :
+<ul class="checkList pl-0 mt-4">
+<li><span class="font-bold">9,434 c€/kWh TVAC (6%) </span>sur votre consommation d’électricité ;</li>
+<li><span class="font-bold">2,173 c€/kWh TVAC (6%)</span>sur votre consommation de gaz ;</li>
+<li><span class="font-bold">153,7  € TVAC (6%) de réduction</span> sur votre facture d’électricité.</li>
+<li><span class="font-bold">153,7 € TVAC (6%) de réduction</span> sur votre facture de gaz naturel ;</li>
+</ul>
+<p>
+Le montant total de la ristourne de bienvenue est plafonné à 848€ par énergie (TVA de 6% incluse).<br><br>
+Cette ristourne est unique et n’est pas cumulable avec d’autres promotions.
+
+<p>La promotion de 4 mois gratuits, correspondant à environ 120 jours d'électricité gratuits (hors coûts de réseau, taxes et surcharges) lors de la conclusion d'un nouveau contrat Smart Fixed pour un client résidentiel. Elle porte exclusivement sur le prix de l'énergie (TVA de 6% incluse). Cette réduction est valable pour la première année de souscription à ce produit et elle sera octroyée sur la première facture de régularisation au pro rata de votre consommation pendant la période contractuelle, et ce, pour autant que vous ayez payé toutes vos factures sans le moindre retard. Cette promotion est unique et n’est pas cumulable avec d'autres réductions, sauf mention contraire.</p>
+La ristourne pour l'électricité de 153,7 € TVAC (6%) et/ou la ristourne pour le gaz de 153,7 € TVAC (6%) vous est octroyée sur la redevance fixe durant votre première année de contrat.
+Elle sera déduite de votre facture de régularisation uniquement après 12 mois ininterrompus de consommation au tarif Smart Fixed de Mega, à condition que, tout au long du contrat, vous ayez payé vos factures sans le moindre retard par domiciliation bancaire.            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="20-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                    Info et conditions du produit Cosy Green Flex 09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                <p>En tant que nouveau client souscrivant un nouveau contrat <span class="font-bold">Cosy Flex</span>, vous profitez des promotions suivantes :</p>
+<ul class="checkList pl-0 mt-4">
+<li>
+<span class="font-bold">10,388 c€/kWh TVAC (6%)</span> sur votre consommation d’électricité ;
+</li>
+<li>
+<span class="font-bold">2,491 c€/kWh TVAC (6%)</span> sur votre consommation de gaz ;
+</li>
+<li><span class="font-bold">159 € TVAC (6%)</span> de réduction sur votre facture d’électricité.</li>
+<li><span class="font-bold">159€ TVAC (6%)</span> de réduction sur votre facture de gaz naturel ;</li>
+<li>
+<span class="font-bold">5,3 € TVAC (6%)</span> de réduction par contrat si vous optez pour le paiement par domiciliation
+</li>
+</ul>
+<p>
+Cette ristourne sera déduite de votre facture de régularisation uniquement après 12 mois ininterrompus de consommation au tarif Cosy Flex de Mega, pour autant que vous ayez payé toutes vos factures sans le moindre retard par domiciliation bancaire.
+Cette ristourne est unique et n’est pas cumulable avec d’autres promotions ou réductions. Cette ristourne de bienvenue est unique et n’est pas cumulable avec d’autres promotions ou réductions. Le montant total de la ristourne de bienvenue est plafonné à 848 € par énergie (TVA de 6% incluse).            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="17-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                    Info et conditions du produit Smart Flex  09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                En tant que nouveau client souscrivant un nouveau contrat Smart Flex, vous profitez d’une ristourne de bienvenue composée des promotions suivantes : 
+
+<ul class="checkList">
+<li>
+<span class="font-bold"> 6,148 c€/kWh TVAC (6%)</span> sur votre consommation d’électricité
+</li>
+<li>
+<span class="font-bold">1,643 c€/kWh TVAC (6%)</span> sur votre consommation de gaz
+</li>
+<li>
+<span class="font-bold">100,7€ TVAC (6%) sur la redevance fixe</span> de votre contrat d’électricité
+</li>
+<li>
+<span class="font-bold">100,7 € TVAC (6%) sur la redevance fixe</span> de votre contrat de gaz
+</li>
+</ul>
+<p>La promotion de 4 mois gratuits, correspondant à environ 120 jours d'électricité gratuits (hors coûts de réseau, taxes et surcharges), est valable lors de la conclusion d'un nouveau contrat Smart Flex pour un client résidentiel. Elle porte exclusivement sur le prix de l'énergie (TVA de 6% incluse). Cette réduction est valable pour la première année de souscription à ce produit et elle sera octroyée sur la première facture de régularisation au pro rata de votre consommation pendant la période contractuelle. Cette promotion est unique et n’est pas cumulable avec d'autres réductions, sauf mention contraire.</p>
+La ristourne pour l'électricité de 100,7 € TVAc<small>(6%)</small> et/ou la ristourne pour le gaz de 100,7€ TVAc<small>(6%)</small> vous est octroyée sur la redevance fixe durant votre première année de contrat.
+Elle sera déduite de votre facture de régularisation uniquement après 12 mois ininterrompus de consommation au tarif Smart Flex de Mega.
+<br><br>Le montant total de la ristourne de bienvenue est plafonné à 848 € par énergie (TVA de 6% incluse).<br>
+            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="30-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                    Info et conditions du produit Zen Fixed 09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                <p>En tant que nouveau client souscrivant un nouveau contrat <span class="font-bold">Zen Fixed</span> sur notre site, vous profitez des promotions suivantes :</p>
+<ul class="checkList pl-0 mt-4">
+<li>
+<span class="font-bold"> 5,83  c€/kWh TVAC (6%)</span> sur votre consommation d’électricité
+</li>
+<li>
+<span class="font-bold">2,332 c€/kWh TVAC (6%)</span> sur votre consommation de gaz
+</li>
+<li><span class="font-bold">74,2€ €  TVAC (6%)</span> de réduction sur votre facture de gaz naturel</li>
+<li><span class="font-bold">74,2 € TVAC (6%)</span> de réduction sur votre facture d’électricité</li>
+<li>
+<span class="font-bold"> 42,4 € TVAC (6%)</span> de réduction par contrat si vous optez pour le paiement par domiciliation
+</li>
+</ul>
+<p>
+Le montant total de la ristourne de bienvenue est plafonné à 848 € par énergie (TVA de 6% incluse).
+Elle sera déduite de votre facture de régularisation uniquement après quatorze mois ininterrompus de consommation au tarif Zen Fixed de Mega, à condition que, tout au long du contrat, vous ayez payé vos factures sans le moindre retard.</p>            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="21-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                    Info et conditions du produit Cosy Green Fixed 09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                <p>En tant que nouveau client souscrivant un nouveau contrat <span class="font-bold">Cosy Fixed</span>, vous profitez des promotions suivantes :</p>
+<ul class="checkList pl-0 mt-4">
+<li>
+<span class="font-bold">4,028 c€/kWh TVAC (6%)</span> sur votre consommation d’électricité
+</li>
+<li>
+<span class="font-bold">1,007 c€/kWh TVAC (6%)</span> sur votre consommation de gaz
+</li>
+<li><span class="font-bold">31,8 € TVAC (6%)</span> de réduction sur votre facture de gaz naturel</li>
+<li><span class="font-bold">31,8 € TVAC (6%)</span> de réduction sur votre facture d’électricité</li>
+<li>
+<span class="font-bold">42,4 € TVAC (6%)</span> de réduction par contrat si vous optez pour le paiement par domiciliation
+</li>
+</ul>
+<p>
+Le montant total de la ristourne de bienvenue est plafonné à 848 € par énergie (TVA de 6% incluse)
+Elle sera déduite de votre facture de régularisation uniquement après une année ininterrompue de consommation au tarif Cosy Fixed de Mega, à condition que, tout au long du contrat, vous ayez payé vos factures sans le moindre retard.
+</p>
+            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="24-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                    Info et conditions du produit Online Fixed 09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                <p>En tant que nouveau client souscrivant un nouveau contrat <span class="font-bold">Online Fixed</span>, vous profitez de la <span class="font-bold">promotion</span> suivante :</p>
+<ul class="checkList pl-0 mt-4">
+<li><span class="font-bold">4,187 c€/kWh TVAC (6%) </span>sur votre consommation d’électricité ;</li>
+<li><span class="font-bold">1,219 c€/kWh TVAC (6%)</span>sur votre consommation de gaz ;</li>
+<li><span class="font-bold"> 74,2 € TVAC (6%)</span> de réduction sur votre facture d’électricité.</li>
+<li><span class="font-bold"> 74,2 € TVAC (6%)</span> de réduction sur votre facture de gaz.</li>
+<li>
+<span class="font-bold">5,3€ TVAC (6%)</span> de réduction par contrat si vous optez pour le paiement par domiciliation
+</li>
+</ul>
+<p>
+Cette ristourne sera déduite de votre facture de régularisation uniquement après une année ininterrompue de consommation au tarif Online Fixed de Mega pour autant que vous ayez payé toutes vos factures sans le moindre retard.
+
+<br><br>Cette ristourne de bienvenue est unique et n’est pas cumulable avec d’autres promotions ou réductions.
+<br><br>Le montant total de la ristourne de bienvenue est plafonné à 848 € par énergie (TVA de 6% incluse).
+</p>            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="25-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                    Info et conditions du produit Prepaid Fixed  09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="28-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                    Info et conditions du produit Dynamic 09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="32-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                     09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="31-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                     09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="22-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                    Info et conditions du produit Prepaid Flex 09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="29-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                    Info et conditions du produit Mega Cap 09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                En tant que nouveau client souscrivant un nouveau contrat Cap, vous profitez d'une ristourne de bienvenue composée des promotions suivantes :<ul class="checkList">
+<li><strong> 0,212 c€/kWh TVAC (6%) </strong> sur votre consommation d’électricité ;
+
+<li><strong> 0,212 c€/kWh TVAC (6%) </strong>sur votre consommation de gaz ;.</li>
+
+<li><strong>63,6 € TVAC (6%) </strong>de réduction sur votre facture d’électricité;.</li>
+
+<li><strong>63,6 € TVAC (6%) </strong>de réduction sur votre facture de gaz naturel ;.</li>
+
+<li><strong>un bonus de 1c€/kWh </strong>pour votre électricité injectée.</li></ul>
+
+La ristourne pour l'électricité de 63,6 € TVAC (6%) et/ou la ristourne pour le gaz de 63,6 € TVAC (6%) vous est octroyée sur la redevance fixe durant votre première année de contrat (soit une réduction de base de 58,3 € + 5,3 € supplémentaires en cas de paiement par domiciliation bancaire). Elle sera déduite de votre facture de régularisation uniquement après 12 mois ininterrompus de consommation au tarif Cap de Mega, à condition que, tout au long du contrat, vous ayez payé vos factures sans le moindre retard par domiciliation bancaire.
+<br><br>
+Le montant total de la ristourne de bienvenue est plafonné à 848€ par énergie (TVA de 6% incluse).
+<br><br>
+Cette ristourne est unique et n’est pas cumulable avec d’autres promotions ou réductions.
+<br><br>
+Le bonus de 1c€ (TVAC) par kWh injecté s'ajoute au tarif d'injection appliqué par Mega et repris sur votre carte tarifaire. Le bonus vous est uniquement accordé après une année ininterrompue d’injection au tarif Cap de Mega et est octroyée sur la première facture de régularisation après cette année, pour autant que, tout au long du contrat, vous ayez payé vos factures sans le moindre retard. Ce bonus est unique et ne peut être cumulé avec d’autres promotions ou réductions.
+<br><br>
+Avec Cap, la composante énergie facturée est plafonnée à un prix maximum pour une durée de 1 an. Pour l’électricité: (c€/kWh) Compteur mono-horaire : 16,23; Jour : 17,9; Nuit : 15,1; Exclusif nuit : 15,1. Pour le gaz: 5,47 c€/kWh.
+<br><br>
+Le produit Cap comprend un service dédié en ligne ou par téléphone. Vous recevez vos factures par e-mail uniquement.            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="23-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                    Info et conditions du produit Online Flex 09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                <p>En tant que nouveau client souscrivant un nouveau contrat <span class="font-bold">Online Flex</span>, vous profitez de la <span class="font-bold">promotion</span> suivante :</p>
+<ul class="checkList pl-0 mt-4">
+<li><span class="font-bold">4,929 c€/kWh TVAC (6%) </span>sur votre consommation d’électricité ;</li>
+<li><span class="font-bold">1,219 c€/kWh TVAC (6%)</span>sur votre consommation de gaz ;</li>
+<li><span class="font-bold"> 37,1  € TVAC (6%)</span> de réduction sur votre facture d’électricité.</li>
+<li><span class="font-bold"> 37,1  € TVAC (6%)</span> de réduction sur votre facture de gaz.</li>
+<li>
+<span class="font-bold">5,3 € TVAC (6%)</span> de réduction par contrat si vous optez pour le paiement par domiciliation
+</li>
+</ul>
+<p>
+Cette ristourne sera déduite de votre facture de régularisation uniquement après 12 mois ininterrompus de consommation au tarif Online de Mega, à condition que, tout au long du contrat, vous ayez payé vos factures sans le moindre retard.  Cette ristourne est unique et n’est pas cumulable avec d’autres promotions ou réductions. Cette ristourne de bienvenue est unique et n’est pas cumulable avec d’autres promotions ou réductions. Le montant total de la ristourne de bienvenue est plafonné à 848 € par énergie (TVA de 6% incluse).
+</p>
+<br><br>Le bonus de 1c€ (TVAC) par kWh injecté s'ajoute au tarif d'injection appliqué par Mega et repris sur votre carte tarifaire.  Le bonus vous est uniquement accordé après une année ininterrompue d’injection au tarif Smart Flex de Mega et est octroyée sur la première
+facture de régularisation après cette année, pour autant que, tout au long du contrat, vous ayez payé vos factures sans le moindre retard. Ce bonus est unique et ne peut être cumulé avec d’autres promotions ou réductions.            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="34-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                     09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="35-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                     09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                            </div>
+        </article>
+    </div>
+    <!-----------------------------
+        Fenêtre modal 
+    ---------------------------------->
+    <!--- Product conditions -->
+    <div class="modal" data-modal="36-cond">
+        <article class="modal-content-wrapper"><button class="close"></button>
+            <header class="text-center">
+                <p class="h3 mt-0">
+                     09/26.                </p>
+            </header>
+            <span class="h-[1px] w-full bg-grey block mb-4"></span>
+            <div>
+                            </div>
+        </article>
+    </div>
+
 <!--- FIXED -->
 <div class="modal" data-modal="trigger-eco-cond">
 	<article class="modal-content-wrapper"><button class="close z-50" aria-label="Fermer"></button>
@@ -3872,12 +4245,12 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
 		<span class="h-[1px] w-full bg-grey block mb-4"></span>
 		<div>
                         <form data-check='form' action="" method="post">
-                <input data-zipCode="81bb5340" data-check='zipCode' data-input-card="tarifCard" data-modal-close="postcode_modal" class="h-8 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
-                <div data-zipcodelist="81bb5340" class="input rounded-xs px-0 hidden max-w-[400px]">
+                <input data-zipCode="f0d059af" data-check='zipCode' data-input-card="tarifCard" data-modal-close="postcode_modal" class="h-8 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
+                <div data-zipcodelist="f0d059af" class="input rounded-xs px-0 hidden max-w-[400px]">
                     <ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
                     </ul>
                 </div>
-                <p data-zipcode-badnumber='81bb5340' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+                <p data-zipcode-badnumber='f0d059af' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
                 <div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
                     <img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
                     <div>

@@ -702,6 +702,28 @@
       
       </div>
 
+      
+  <div class="paragraph paragraph--list-item paragraph--type--list-item paragraph--view-mode--default pg-bg--none" id="content-block--21587">
+    
+      
+                              
+                  
+        
+                  
+
+
+
+  <div class="field field--name-field-list-item-text field--type-text-long field--label-hidden">
+                  <h5>Historiek voor zakelijke contracten</h5>
+<p><a class="btn btn-outline-primary" href="https://www.energyvision.be/nl-be/historiek-tariefkaarten-pro">Klik hier</a></p>
+
+            </div>
+
+        
+        
+      
+      </div>
+
   </div>
 
         </div>

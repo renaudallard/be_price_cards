@@ -638,7 +638,7 @@
         </div>
 <div class="js-form-item form-item js-form-type-date form-item-birth-date js-form-item-birth-date">
       <label for="edit-birth-date">Je geboortedatum</label>
-        <input max="2008-09-23" data-max-year="2008" type="date" data-drupal-selector="edit-birth-date" data-msg-max="The value in Je geboortedatum has to be less than 2008-09-23." data-msg-required="Je geboortedatum is een verplicht veld." id="edit-birth-date" name="birth_date" value="" class="form-date" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-nrj-paragraph-7017-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+        <input max="2008-09-25" data-max-year="2008" type="date" data-drupal-selector="edit-birth-date" data-msg-max="The value in Je geboortedatum has to be less than 2008-09-25." data-msg-required="Je geboortedatum is een verplicht veld." id="edit-birth-date" name="birth_date" value="" class="form-date" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-nrj-paragraph-7017-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
 
         </div>
 <div class="js-form-item form-item js-form-type-email form-item-email js-form-item-email">
@@ -764,7 +764,7 @@
         </div>
 <div data-drupal-states="{&quot;visible&quot;:{&quot;:input[name=\u0022contract_reason\u0022]&quot;:{&quot;checked&quot;:true}}}" class="js-webform-states-hidden js-form-item form-item js-form-type-date form-item-contract-supplier-change-start-date js-form-item-contract-supplier-change-start-date">
       <label for="edit-contract-supplier-change-start-date">Startdatum</label>
-        <input min="2026-10-14" data-min-year="2026" type="date" data-drupal-selector="edit-contract-supplier-change-start-date" data-msg-min="The value in Startdatum has to be greater than 2026-10-14." data-msg-required="Startdatum is een verplicht veld." id="edit-contract-supplier-change-start-date" name="contract_supplier_change_start_date" value="" class="form-date" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-subscribe-nrj-paragraph-7017-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;checked&quot;:true}},&quot;required&quot;:{&quot;.webform-submission-subscribe-nrj-paragraph-7017-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+        <input min="2026-10-16" data-min-year="2026" type="date" data-drupal-selector="edit-contract-supplier-change-start-date" data-msg-min="The value in Startdatum has to be greater than 2026-10-16." data-msg-required="Startdatum is een verplicht veld." id="edit-contract-supplier-change-start-date" name="contract_supplier_change_start_date" value="" class="form-date" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-subscribe-nrj-paragraph-7017-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;checked&quot;:true}},&quot;required&quot;:{&quot;.webform-submission-subscribe-nrj-paragraph-7017-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;checked&quot;:true}}}" />
 
         </div>
 
@@ -786,15 +786,15 @@
 
 </div>
 <div class="recaptcha-v3-policy">This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy" target="_blank">Privacy Policy</a> and <a href="https://policies.google.com/terms" target="_blank">Terms of Service</a> apply.</div><input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="" />
-<input data-drupal-selector="edit-honeypot-time" type="hidden" name="honeypot_time" value="eJX2qdm5GyTDTwJT3dGyNwSW4Ucv_Ac8kTb4iKnBu_Q" />
-<input autocomplete="off" data-drupal-selector="form-kzi3jyz0omqz0hpdchfczjoijd7tsy3tcxgfeeey2-w" type="hidden" name="form_build_id" value="form-KzI3jyz0oMqZ0hpDChfCZjoiJd7TsY3tCXgFeEEy2_w" />
+<input data-drupal-selector="edit-honeypot-time" type="hidden" name="honeypot_time" value="1e7kRv9u-M69-_8XJJg0xpdp8B75xeZxpu-s19CWPPs" />
+<input autocomplete="off" data-drupal-selector="form-xajbq359qiege-z8mxqqselfjeg-tcr861id9tcnbdc" type="hidden" name="form_build_id" value="form-xaJBQ359QIeGE-Z8mXqQSElFjeG_tcr861id9TCNbDc" />
 <input data-drupal-selector="edit-webform-submission-subscribe-nrj-paragraph-7017-add-form" type="hidden" name="form_id" value="webform_submission_subscribe_nrj_paragraph_7017_add_form" />
 
 
                       <div  data-drupal-selector="edit-captcha" class="captcha captcha-type-challenge--recaptcha-v3">
                   <div class="captcha__element">
-            <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="898407" />
-<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="p7KvnDMZTu1WP8MJMlkUYl1EoYw3LgQxp0PxLNo7oaU" />
+            <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="899090" />
+<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="l8B9EJB0rjfZ_IcrSsOryIioYSByXk0at0AZs1BYro4" />
 <input id="recaptcha-v3-token" class="recaptcha-v3-token" data-recaptcha-v3-action="recaptcha_v3" data-recaptcha-v3-site-key="6LfiUmIeAAAAAAe8Nisj2ME17FvtB_rBJ91n1DyL" data-drupal-selector="edit-captcha-response" type="hidden" name="captcha_response" value="" />
 <input data-drupal-selector="edit-is-recaptcha-v3" type="hidden" name="is_recaptcha_v3" value="1" />
 
@@ -1049,7 +1049,7 @@
         
 
 
-<div class="views-view views-view--general-settings-views views-view--general-settings-views--block-1 view view-general-settings-views view-id-general_settings_views view-display-id-block_1 js-view-dom-id-6989311c0ec1fcdbf8e5e14aa40c1c1d5cab0765967a0ce4fdcd63a121b2f638">
+<div class="views-view views-view--general-settings-views views-view--general-settings-views--block-1 view view-general-settings-views view-id-general_settings_views view-display-id-block_1 js-view-dom-id-cc97f00d01b0403f4b2a2c6326da5a532cb30e6348cd5ce28652c71884e3a37b">
   
   
   
