@@ -14,6 +14,9 @@ written daily by its `archive_cards.yml` workflow.
 - `pdfs.json`: which release holds each card, by SHA-256.
 - `unparsed.json`: the cards kept that no reader could read, by the row they
   would have become.
+- `vat.json`: per month, the VAT rate the cards agree on (three suppliers or
+  more stating one rate and none another), residential and professional; a
+  month they disagree on is listed as disputed and read by no installation.
 
 The PDFs themselves are the assets of the `electricity-<YYYY-MM>` releases of
 this repository, one release per month of cards, each file named by its SHA-256.

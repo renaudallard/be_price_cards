@@ -1,0 +1,155 @@
+{
+ "residential": {
+  "2026-01": {
+   "rate": 0.06,
+   "suppliers": [
+    "cociter",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "energyvision",
+    "engie",
+    "frank",
+    "luminus",
+    "mega",
+    "octaplus"
+   ]
+  },
+  "2026-02": {
+   "rate": 0.06,
+   "suppliers": [
+    "cociter",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "energyvision",
+    "engie",
+    "frank",
+    "luminus",
+    "mega",
+    "octaplus",
+    "trevion"
+   ]
+  },
+  "2026-03": {
+   "rate": 0.06,
+   "suppliers": [
+    "cociter",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "energyvision",
+    "engie",
+    "luminus",
+    "mega",
+    "octaplus",
+    "trevion"
+   ]
+  },
+  "2026-04": {
+   "rate": 0.06,
+   "suppliers": [
+    "cociter",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "energyvision",
+    "engie",
+    "frank",
+    "luminus",
+    "mega",
+    "octaplus",
+    "trevion"
+   ]
+  },
+  "2026-05": {
+   "rate": 0.06,
+   "suppliers": [
+    "cociter",
+    "ebem",
+    "ecofix",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "energyvision",
+    "engie",
+    "frank",
+    "luminus",
+    "mega",
+    "octaplus",
+    "trevion"
+   ]
+  },
+  "2026-06": {
+   "rate": 0.06,
+   "suppliers": [
+    "cociter",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "energyvision",
+    "engie",
+    "frank",
+    "luminus",
+    "mega",
+    "trevion"
+   ]
+  },
+  "2026-07": {
+   "rate": 0.06,
+   "suppliers": [
+    "cociter",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "energyvision",
+    "engie",
+    "frank",
+    "luminus",
+    "mega",
+    "trevion"
+   ]
+  },
+  "2026-08": {
+   "rate": 0.06,
+   "suppliers": [
+    "cociter",
+    "ebem",
+    "ecofix",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "energyvision",
+    "engie",
+    "frank",
+    "luminus",
+    "mega",
+    "trevion"
+   ]
+  },
+  "2026-09": {
+   "rate": 0.06,
+   "suppliers": [
+    "cociter",
+    "ebem",
+    "ecofix",
+    "eneco",
+    "energyknights",
+    "energyvision",
+    "engie",
+    "frank",
+    "luminus",
+    "mega",
+    "totalenergies",
+    "trevion"
+   ]
+  }
+ },
+ "standard": {}
+}
