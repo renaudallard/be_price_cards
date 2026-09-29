@@ -1,0 +1,117 @@
+{
+ "_cached_at": "2026-09-29T13:43:55.349934+00:00",
+ "_probe_key": null,
+ "_schema_version": 73,
+ "_seen_on": "2026-09-29",
+ "_sources": [
+  {
+   "pdf": "58109b34003197c1052d0d0c9bba8328a1f6f8e061993c92029886688d9a0f47",
+   "text": "texts/2026-09/2f7b90efed7b91bf76108585f889ad976bd5561b3faa4725baf786f36bcd3084.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-092025-Smart0109.pdf",
+   "variant": "plain"
+  },
+  {
+   "pdf": "fcda3ed4f9d2dd6949400a0b25f8e60c5517d959ec072a1b496ca2ca52dae634",
+   "text": "texts/2026-09/ec42a68b57668737080beb16ee3d26e81a6a6deb3db0aa8b87b8af3a1a34785b.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-102025-Smart0110.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "mega_pro_smart_flex",
+ "direct_debit_discount_eur": null,
+ "dsos": {},
+ "energy": {
+  "ceiling_exclusive_night": null,
+  "ceiling_offpeak": null,
+  "ceiling_peak": null,
+  "ceiling_single": null,
+  "current": 0.1058,
+  "exclusive_night": 0.095,
+  "formula": null,
+  "formula_base": 0.031,
+  "formula_base_exclusive_night": 0.031,
+  "formula_base_offpeak": 0.031,
+  "formula_base_peak": 0.031,
+  "formula_factor": 1.11,
+  "formula_factor_exclusive_night": 0.949,
+  "formula_factor_offpeak": 0.949,
+  "formula_factor_peak": 1.31,
+  "impact_eco": null,
+  "impact_medium": null,
+  "impact_pic": null,
+  "index_realised": null,
+  "month_indexed": true,
+  "offpeak": 0.095,
+  "peak": 0.1193,
+  "rlp_blend": "distinct",
+  "rlp_indexed": true,
+  "yearly_fixed_fee": 55.0,
+  "yearly_fixed_fee_exclusive_night": null
+ },
+ "energy_kind": "variable",
+ "injection": {
+  "base": -0.0335,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": -0.0008,
+  "factor": 0.85,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": false,
+  "floor_at_zero": false,
+  "formula": "Epex SPP * 0,85 – 3,35 c€/kWh",
+  "minimum": null,
+  "month_indexed": false,
+  "offpeak": null,
+  "peak": null,
+  "slot_indexed": false,
+  "spp_indexed": true,
+  "transition": null,
+  "vat_applies": true
+ },
+ "publication_label": "septembre 2025",
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-092025-Smart0109.pdf",
+ "supplier": "mega",
+ "supplier_prosumer_eur_per_kva_year": 76.80000000000001,
+ "taxes": {
+  "brussels_renewables": 0.0,
+  "energy_contribution": 0.0019261,
+  "energy_fund_eur_per_month": 0.0,
+  "federal_excise": 0.01421,
+  "federal_excise_bands": [
+   [
+    20000.0,
+    0.01421
+   ],
+   [
+    50000.0,
+    0.01209
+   ],
+   [
+    1000000.0,
+    0.01139
+   ]
+  ],
+  "flanders_renewables": 0.0,
+  "published_vat_rate": 0.0,
+  "region_connection_fee": 0.00075,
+  "region_connection_fee_unavailable": false,
+  "vat_rate": 0.21,
+  "wallonia_renewables": 0.028380000000000002
+ },
+ "valid_until": "2025-09-30",
+ "welcome_credit_after_months": 14,
+ "welcome_credit_cap_eur": 800.0,
+ "welcome_credit_direct_debit_eur": 20.0,
+ "welcome_credit_eur": 65.0,
+ "welcome_credit_eur_per_kwh": 0.039,
+ "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": 0.01,
+ "welcome_credit_kind": "anniversary",
+ "welcome_credit_kwh": null,
+ "welcome_credit_pct_of_energy": null,
+ "welcome_credit_requires_direct_debit": false
+}

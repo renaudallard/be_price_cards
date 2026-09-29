@@ -1,0 +1,87 @@
+{
+ "_cached_at": "2026-09-29T13:43:55.349934+00:00",
+ "_probe_key": null,
+ "_schema_version": 73,
+ "_seen_on": "2026-09-29",
+ "_sources": [
+  {
+   "text": "texts/2026-09/de584bff9c51fcb9aaecbaa02195c2fc1a62cd68db0adc0047c05d3c8eb2a91d.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTarifArchive?Lang=FR&Region=WL&AnneeMois=202510&Nrj=E&Canal=website&TypeContrat=RE",
+   "variant": "text"
+  },
+  {
+   "text": "texts/2026-09/4d8a974df1f3699cef7626c2f307b598d0389bff60abc821c8f9690cc1fca573.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-10+E+OCTA%2BECODYNAMIC+RE+WL+FR.pdf",
+   "variant": "text"
+  },
+  {
+   "pdf": "5f0ee5d4103f28b6f006c76c7e12dc48e5a90e14585a595c82ccaa855d985470",
+   "text": "texts/2026-09/d180a0bd8c21d67128e1ed5be3684462ea5313cfcd03e6f6f16481c311db3282.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-10 E OCTA+ECODYNAMIC RE WL FR.pdf",
+   "variant": "aligned"
+  }
+ ],
+ "_via": "archive",
+ "contract": "octaplus_ecodynamic",
+ "direct_debit_discount_eur": null,
+ "dsos": {},
+ "energy": {
+  "base": 0.013186400000000001,
+  "factor": 1.1077,
+  "quarter_hourly": false,
+  "yearly_fixed_fee": 130.0
+ },
+ "energy_kind": "dynamic",
+ "injection": {
+  "base": -0.016829999999999998,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": null,
+  "factor": 0.988,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": false,
+  "floor_at_zero": false,
+  "formula": "Le prix de votre injection est indexé toutes les heures sur base des cotations horaires Day Ahead Belpex Baseload. La formule tarifaire HTVA est la suivante (en €/MWh) : Belpex Hourly * 0,988 - 16,83",
+  "minimum": null,
+  "month_indexed": false,
+  "offpeak": null,
+  "peak": null,
+  "slot_indexed": false,
+  "spp_indexed": false,
+  "transition": null,
+  "vat_applies": false
+ },
+ "publication_label": "10/2025",
+ "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-10 E OCTA+ECODYNAMIC RE WL FR.pdf",
+ "supplier": "octaplus",
+ "supplier_prosumer_eur_per_kva_year": null,
+ "taxes": {
+  "brussels_renewables": 0.0,
+  "card_vat_rate": 0.06,
+  "energy_contribution": 0.002042,
+  "energy_fund_eur_per_month": 0.0,
+  "federal_excise": 0.050329,
+  "federal_excise_bands": null,
+  "flanders_renewables": 0.0,
+  "published_vat_rate": 0.0,
+  "region_connection_fee": 0.00075,
+  "region_connection_fee_unavailable": false,
+  "vat_rate": 0.0,
+  "wallonia_renewables": 0.030950000000000002
+ },
+ "valid_until": "2025-10-31",
+ "welcome_credit_after_months": 12,
+ "welcome_credit_cap_eur": null,
+ "welcome_credit_direct_debit_eur": null,
+ "welcome_credit_eur": null,
+ "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": null,
+ "welcome_credit_kind": "pro_rata",
+ "welcome_credit_kwh": null,
+ "welcome_credit_pct_of_energy": null,
+ "welcome_credit_requires_direct_debit": false
+}

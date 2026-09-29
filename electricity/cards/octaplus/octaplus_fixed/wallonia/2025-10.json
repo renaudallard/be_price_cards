@@ -1,0 +1,89 @@
+{
+ "_cached_at": "2026-09-29T13:43:55.349934+00:00",
+ "_probe_key": null,
+ "_schema_version": 73,
+ "_seen_on": "2026-09-29",
+ "_sources": [
+  {
+   "text": "texts/2026-09/de584bff9c51fcb9aaecbaa02195c2fc1a62cd68db0adc0047c05d3c8eb2a91d.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTarifArchive?Lang=FR&Region=WL&AnneeMois=202510&Nrj=E&Canal=website&TypeContrat=RE",
+   "variant": "text"
+  },
+  {
+   "text": "texts/2026-09/40f15e38793830026a66ba6f92981e585fe838ef19fdf6b00bc5edc5a49c2d1f.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-10+E+OCTA%2BFIXED+RE+WL+FR.pdf",
+   "variant": "text"
+  },
+  {
+   "pdf": "2e3c35e0635b520d598241a0a46fe18b6ec79b3361dcf87621ac057ad7940a6a",
+   "text": "texts/2026-09/e13361b29506f282c3a5d4f666a3d94f6d20ce9250f36efff6a7367662f89eea.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-10 E OCTA+FIXED RE WL FR.pdf",
+   "variant": "aligned"
+  }
+ ],
+ "_via": "archive",
+ "contract": "octaplus_fixed",
+ "direct_debit_discount_eur": null,
+ "dsos": {},
+ "energy": {
+  "exclusive_night": 0.11,
+  "offpeak": 0.109,
+  "peak": 0.1411,
+  "single": 0.1251,
+  "yearly_fixed_fee": 65.0,
+  "yearly_fixed_fee_exclusive_night": null
+ },
+ "energy_kind": "fixed",
+ "injection": {
+  "base": -0.03401,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": 0.0138,
+  "factor": 0.908,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": false,
+  "floor_at_zero": false,
+  "formula": "Belpex SPP * 0,908 – 34,01",
+  "minimum": null,
+  "month_indexed": false,
+  "offpeak": null,
+  "peak": null,
+  "slot_indexed": false,
+  "spp_indexed": true,
+  "transition": null,
+  "vat_applies": false
+ },
+ "publication_label": "10/2025",
+ "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-10 E OCTA+FIXED RE WL FR.pdf",
+ "supplier": "octaplus",
+ "supplier_prosumer_eur_per_kva_year": 89.03999999999999,
+ "taxes": {
+  "brussels_renewables": 0.0,
+  "card_vat_rate": 0.06,
+  "energy_contribution": 0.002042,
+  "energy_fund_eur_per_month": 0.0,
+  "federal_excise": 0.050329,
+  "federal_excise_bands": null,
+  "flanders_renewables": 0.0,
+  "published_vat_rate": 0.0,
+  "region_connection_fee": 0.00075,
+  "region_connection_fee_unavailable": false,
+  "vat_rate": 0.0,
+  "wallonia_renewables": 0.030950000000000002
+ },
+ "valid_until": "2025-10-31",
+ "welcome_credit_after_months": 12,
+ "welcome_credit_cap_eur": null,
+ "welcome_credit_direct_debit_eur": null,
+ "welcome_credit_eur": null,
+ "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": null,
+ "welcome_credit_kind": "pro_rata",
+ "welcome_credit_kwh": null,
+ "welcome_credit_pct_of_energy": null,
+ "welcome_credit_requires_direct_debit": false
+}

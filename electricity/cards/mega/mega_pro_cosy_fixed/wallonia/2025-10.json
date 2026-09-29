@@ -1,0 +1,91 @@
+{
+ "_cached_at": "2026-09-29T13:43:55.349934+00:00",
+ "_probe_key": null,
+ "_schema_version": 73,
+ "_seen_on": "2026-09-29",
+ "_sources": [
+  {
+   "pdf": "29c44ed19f26ba0f401a0ce19bac8b6fd3626ba92da106fb190a5700e94fad29",
+   "text": "texts/2026-09/d5588c8844f1dd36f58d0b6bf83a27c3c2ef08abea326c30e6d3093deaf828d8.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-102025-Cosy0110-Fixed.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "mega_pro_cosy_fixed",
+ "direct_debit_discount_eur": null,
+ "dsos": {},
+ "energy": {
+  "exclusive_night": 0.12619999999999998,
+  "offpeak": 0.12619999999999998,
+  "peak": 0.1589,
+  "single": 0.1408,
+  "yearly_fixed_fee": 135.0,
+  "yearly_fixed_fee_exclusive_night": null
+ },
+ "energy_kind": "fixed",
+ "injection": {
+  "base": null,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": 0.0121,
+  "factor": null,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": true,
+  "floor_at_zero": false,
+  "formula": null,
+  "minimum": null,
+  "month_indexed": false,
+  "offpeak": null,
+  "peak": null,
+  "slot_indexed": false,
+  "spp_indexed": false,
+  "transition": null,
+  "vat_applies": true
+ },
+ "publication_label": "octobre 2025",
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-102025-Cosy0110-Fixed.pdf",
+ "supplier": "mega",
+ "supplier_prosumer_eur_per_kva_year": 74.88,
+ "taxes": {
+  "brussels_renewables": 0.0,
+  "energy_contribution": 0.0019261,
+  "energy_fund_eur_per_month": 0.0,
+  "federal_excise": 0.01421,
+  "federal_excise_bands": [
+   [
+    20000.0,
+    0.01421
+   ],
+   [
+    50000.0,
+    0.01209
+   ],
+   [
+    1000000.0,
+    0.01139
+   ]
+  ],
+  "flanders_renewables": 0.0,
+  "published_vat_rate": 0.0,
+  "region_connection_fee": 0.00075,
+  "region_connection_fee_unavailable": false,
+  "vat_rate": 0.21,
+  "wallonia_renewables": 0.028380000000000002
+ },
+ "valid_until": "2025-10-31",
+ "welcome_credit_after_months": 12,
+ "welcome_credit_cap_eur": 800.0,
+ "welcome_credit_direct_debit_eur": null,
+ "welcome_credit_eur": 35.0,
+ "welcome_credit_eur_per_kwh": 0.003,
+ "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": 0.01,
+ "welcome_credit_kind": "anniversary",
+ "welcome_credit_kwh": null,
+ "welcome_credit_pct_of_energy": null,
+ "welcome_credit_requires_direct_debit": false
+}

@@ -1,0 +1,97 @@
+Tariefkaart december 2025
+Goedkope stroom 3 jaar vast
+Deze tariefkaart is geldig voor het product “Goedkope stroom 3 jaar vast” van december 2025 voor levering van groene stroom aan particulieren in Vlaanderen.
+Alle prijzen en tarieven zijn inclusief 6% BTW. (EV-1225-GS3JV-nl)
+Van harte welkom! Je krijgt 165 euro welkomstkorting.
+Energieprijs
+Groene stroom
+Eenmalige welkomstkorting 165 €
+Vaste vergoeding 75€/jaar
+Groene stroom - vast tarief 13,57 €cent/kWh
+Injectie – variabel 1,59€cent/kWh
+EnergyVision NV - www.energyvision.be - hello@energyvision.be - Bankrekening: BE82 7310 6308 8468 (KBC) - BIC: KREDBEBB Pagina 1
+Tariefkaart december 2025
+Goedkope stroom 3 jaar vast
+Toelichting
+De geleverde groene stroom bestaat uit groene stroom afkomstig van zon en wind.
+“Goedkope stroom 3 jaar vast” is een contract van bepaalde duur van 3 jaar waarbij de energieprijs vast is.
+a/ De vaste afname tariefcomponent van het product "Goedkope stroom 3 jaar vast" ligt vast voor 3 jaar.
+b/ Het variabele injectietarief bestaat uit volgende formule: 0,6 x Belpex-SPP-M - 15 EUR/MWh. De indexatieparameter is
+gebaseerd op het gewogen gemiddelde van de dagelijkse quoteringen Day Ahead Belpex Baseload (beschikbaar op
+www.epexspot.com) tijdens de maand van levering. Voor injectie gewogen met een SPP (Synthetic Production Profile). Deze SPP
+weging is gebaseerd op het rekenkundig gemiddelde van de SPP profielen stroom van de verschillende distributienetbeheerders van
+Vlaanderen (publicatie door Synergrid) . De waarde van Belpex-SPP-M van de lopende maand is pas gekend aan het einde van de
+maand. Indexatieparameters kan je steeds vinden op https://www.energyvision.be/nl-be/indexatieparameters.
+c/ de weergegeven prijzen zijn berekend volgens methodologie Vlaamse Nutsregulator die een inschatting maakt op jaarbasis. Wij
+behouden ons het recht voor om nieuwe parameters of nieuwe componenten te gebruiken om de prijsformule te berekenen als
+de huidige parameters veranderen, worden afgeschaft of niet langer beschikbaar zouden zijn. EnergyVision zal trachten om het
+gemiddelde prijsniveau gelijk te houden.
+d/ Zowel de prijzen van “Groene stroom” dienen verhoogd te worden met de toepasselijke belastingen, heffingen, toeslagen en
+alle opgelegde bedragen voor het gebruik van de netten alsook met de bijdrage groene energie en/of warmtekrachtkoppeling, die
+EnergyVision kan of moet aanrekenen.
+e/ We kennen je een eenmalige welkomstkorting toe als je een nieuw contract aangaat. Dit geldt enkel tijdens je eerste
+inschrijvingsjaar voor deze productversie. De korting wordt zowel verkregen bij het afsluiten van het contract door een nieuwe
+klant als door een bestaande klant. De korting wordt pas toegekend na één ononderbroken jaar verbruik en wordt toegepast op de
+afrekeningsfactuur. Deze eenmalige korting is niet cumuleerbaar met andere promoties of kortingen.
+Voorwaarden
+1/ Het Contract bestaat uit product “Goedkope stroom 3 jaar vast”, de Algemene Voorwaarden, de tariefkaart
+“Goedkope stroom 3 jaar vast”, samen genoemd de Overeenkomst.
+2/ Voor dit product verloopt de dienstverlening online of telefonisch. Je ontvangt jouw facturen uitsluitend via e-mail.
+3/ Het aanbod is enkel geldig voor Huishoudelijke Afnemers. De prijzen zijn van toepassing op laagspanningsaansluitingen voor
+elektriciteit met een maximaal jaarlijks verbruik van 10.000 kWh.
+4/ Energiedelen kan mits administratieve kost van € 100/jaar en wordt pro rata per dag in rekening gebracht.
+5/ Bij ons is zonne-energie nooit waardeloos. Als de berekening van onze formule lager zou uitkomen dan 0 €cent/kWh, dan
+garanderen wij in elk geval 0 €cent/kWh. Dat wordt berekend op maandbasis.
+EnergyVision NV - www.energyvision.be - hello@energyvision.be - Bankrekening: BE82 7310 6308 8468 (KBC) - BIC: KREDBEBB Pagina 2
+Tariefkaart december 2025
+Goedkope stroom 3 jaar vast
+Nettarieven elektriciteit
+(voor gebruik van distributie en transmissienet)
+Nettarieven worden integraal doorgestort aan je netbeheerder.
+Vlaams Gewest Digitale Meter
+Distributie
+Distributie Capaciteitstarief Totaal kWh-tarief
+Totaal kWh-tarief Tarief databeheer Maximumtarief
+netbeheerder gemiddelde maandpiek exclusief nacht
+€/kW/jaar €cent/kWh €cent/kWh €/jaar €/jaar
+FLUVIUS ANTWERPEN 53,2565 5,99008 4,97793 18,56 34,72738
+FLUVIUS HALLE-VILVOORDE 59,5556 6,20395 5,22782 18,56 34,72738
+FLUVIUS IMEWO 56,4367 6,24373 5,21055 18,56 34,72738
+FLUVIUS KEMPEN 56,2987 6,43857 5,33659 18,56 34,72738
+FLUVIUS LIMBURG 51,8057 6,79740 5,63360 18,56 34,72738
+FLUVIUS MIDDEN-VLAANDEREN 51,9852 5,60719 4,72563 18,56 34,72738
+FLUVIUS WEST 60,3483 7,46648 6,13985 18,56 34,72738
+FLUVIUS ZENNE-DIJLE 59,1475 6,42466 5,40730 18,56 34,72738
+Vlaams Gewest Analoge Meter
+Distributie
+Distributie Capaciteitstarief Totaal kWh-tarief
+Totaal kWh-tarief Tarief databeheer Prosumententarief
+netbeheerder vast bedrag exclusief nacht
+€/jaar €cent/kWh €cent/kWh €/jaar €/kW/jaar
+FLUVIUS ANTWERPEN 133,14 8,64814 7,63599 18,56 58,42
+FLUVIUS HALLE-VILVOORDE 148,89 9,68844 8,71231 18,56 65,45
+FLUVIUS IMEWO 141,09 9,39683 8,36364 18,56 63,48
+FLUVIUS KEMPEN 140,75 9,71250 8,61053 18,56 65,61
+FLUVIUS LIMBURG 129,51 10,09205 8,92825 18,56 68,18
+FLUVIUS MIDDEN-VLAANDEREN 129,96 8,84414 7,96258 18,56 59,75
+FLUVIUS WEST 150,87 10,79441 9,46777 18,56 72,92
+FLUVIUS ZENNE-DIJLE 147,87 9,92945 8,91210 18,56 67,08
+EnergyVision NV - www.energyvision.be - hello@energyvision.be - Bankrekening: BE82 7310 6308 8468 (KBC) - BIC: KREDBEBB Pagina 3
+Tariefkaart december 2025
+Goedkope stroom 3 jaar vast
+Bijdrage groene stroom en WKK Vlaanderen
+Bijdrage groene stroom en warmtekrachtkoppeling worden onder de vorm van quota ingeleverd bij de Vlaamse Nutsregulator.
+De quotum verplichting bedraagt voor GSC en WKC resp. 11% en 14%.
+Kosten GSC en WKC geldig voor 1,554 €cent/kWh.
+Bijdrage energiefonds / toeslagen en federale accijns
+Bijdrage energiefonds worden integraal doorgestort aan de Vlaamse Overheid.
+Standaard tarief gedomicilieerd: 0 €/maand
+Standaard tarief niet-gedomicilieerd: 9,88 €/maand
+Toeslagen
+Energiebijdrage 0,20417 €cent/kWh
+Federale Accijns
+Verbruik tussen 0 & 3.000 kWh 5,03288 €cent/kWh
+Verbruik tussen 3.000 & 20.000 kWh 5,03288 €cent/kWh
+Verbruik tussen 20.000 & 50.000 kWh 4,81876 €cent/kWh
+Verbruik tussen 50.000 & 1.000.000 kWh 4,74668 €cent/kWh
+EnergyVision NV - www.energyvision.be - hello@energyvision.be - Bankrekening: BE82 7310 6308 8468 (KBC) - BIC: KREDBEBB Pagina 4

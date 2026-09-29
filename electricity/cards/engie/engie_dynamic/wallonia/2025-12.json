@@ -1,0 +1,94 @@
+{
+ "_cached_at": "2026-09-29T13:43:55.349934+00:00",
+ "_probe_key": null,
+ "_schema_version": 73,
+ "_seen_on": "2026-09-29",
+ "_sources": [
+  {
+   "pdf": "87f2a3cb7ad61161c0fdacf1165dd2810df3590d11385ba48e7f3074baef177d",
+   "text": "texts/2026-09/9d792a47e40a5a26cbdbb7bdfd8731c89a34879db0fc419d2ad6fc712bd5c3f0.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_DYNAMIC_R_GREY_C_I_12_W_F&monthOffset=9&segment=R&language=F",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "engie_dynamic",
+ "direct_debit_discount_eur": null,
+ "dsos": {},
+ "energy": {
+  "base": 0.011254020000000002,
+  "factor": 1.08014,
+  "quarter_hourly": true,
+  "yearly_fixed_fee": 100.7
+ },
+ "energy_kind": "dynamic",
+ "injection": {
+  "base": -0.012964999999999999,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": 0.0645,
+  "factor": 1.0,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": false,
+  "floor_at_zero": false,
+  "formula": "Formule de prix\nhors TVA -1,2965 + (0,1000 x eSpot_15)",
+  "minimum": null,
+  "month_indexed": false,
+  "offpeak": null,
+  "peak": null,
+  "slot_indexed": false,
+  "spp_indexed": false,
+  "transition": null,
+  "vat_applies": false
+ },
+ "publication_label": "Décembre 2025",
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF",
+ "supplier": "engie",
+ "supplier_prosumer_eur_per_kva_year": null,
+ "taxes": {
+  "brussels_renewables": 0.0,
+  "card_vat_rate": 0.06,
+  "energy_contribution": 0.0020417,
+  "energy_fund_eur_per_month": 0.0,
+  "federal_excise": 0.05032879999999999,
+  "federal_excise_bands": [
+   [
+    3000.0,
+    0.05032879999999999
+   ],
+   [
+    20000.0,
+    0.05032879999999999
+   ],
+   [
+    50000.0,
+    0.048187600000000004
+   ],
+   [
+    1000000.0,
+    0.047466799999999996
+   ]
+  ],
+  "flanders_renewables": 0.0,
+  "published_vat_rate": 0.0,
+  "region_connection_fee": 0.00075,
+  "region_connection_fee_unavailable": false,
+  "vat_rate": 0.0,
+  "wallonia_renewables": 0.030950000000000002
+ },
+ "valid_until": "2025-12-31",
+ "welcome_credit_after_months": 12,
+ "welcome_credit_cap_eur": null,
+ "welcome_credit_direct_debit_eur": null,
+ "welcome_credit_eur": null,
+ "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": null,
+ "welcome_credit_kind": "pro_rata",
+ "welcome_credit_kwh": null,
+ "welcome_credit_pct_of_energy": null,
+ "welcome_credit_requires_direct_debit": false
+}

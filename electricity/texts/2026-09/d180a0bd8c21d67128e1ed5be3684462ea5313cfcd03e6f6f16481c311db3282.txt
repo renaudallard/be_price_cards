@@ -1,0 +1,141 @@
+Tarif : Eco Dynamic
+Clients résidentiels en Wallonie - 10/2025 - Tarifs 6% TVAC
+Votre facture d'énergie
+Votre facture d'électricité se compose de plusieurs parties*:
+Coût de l'énergie OCTA+
+Coûts de Réseaux
+OCTA
+Taxes et surcharges fixées par les pouvoirs publics
+Coûts énergie verte
+TVA
+* Basé sur une consommation moyenne de 3.500 kWh/an d'une famille (ayant un compteur
+monohoraire), et le prix moyen des gestionnaires de réseaux.
+Le coût de l'énergie 100% belge
+(c€/kWh)
+Le coût de l’énergie se compose d’une redevance fixe annuelle et du prix de l’énergie.
+Consommation Injection
+Le prix de l'énergie est indexé sur base horaire et suit les prix du marché
+Durée Indéterminé
+Redevance fixe (€/an)
+130,00 Gratuit
+Tarifs Prix estimés
+Smart Meter Regime (SMR) 3 10,79 6,03
+Si votre gestionnaire de réseau nous informe que vous avez de l’Injection sur votre Point de
+raccordement, qui ne vient pas directement en compensation de votre prélèvement, nous
+Injection
+achèterons votre Injection sur base de nos prix d’Injection.
+Vous pouvez recevoir vos factures gratuitement par e-mail ou via Zoomit.
+Facturation Pour des factures papier, nous facturons 2 € par envoi.
+Paiement Par domiciliation, virement ou Zoomit.
+Vous choississez votre mode de gestion : dans nos bureaux auprès de notre service clientèle, via
+Service 5 étoiles
+téléphone ou Online (e-mail, site internet, Facebook, Twitter, Whatsapp).
+Si vous participez à un système de partage d’énergie, que ce soit en tant que producteur ou en
+tant qu’utilisateur d’énergie partagée, nous facturerons la composante « Partage de l’énergie »
+de 12 €/mois (21% TVAC) par EAN. Ce coût administratif permet de couvrir nos coûts
+supplémentaires générés par la complexité de la facturation liée à ce système.
+Partage de l'énergie
+Par « Partage de l’énergie » nous faisons référence à toutes les formes de participation à un
+système de partage de l’énergie. Sont considérés comme des formes de partage d’énergie : le
+partage d’énergie simple, la vente de pair à pair, les communautés d’énergie, le partage au sein
+d’une copropriété, …
+La colonne « Prix estimés » contient les moyennes des prix estimés pour les douze mois à venir. Celles-ci proviennent d’un modèle de calcul du régulateur flamand
+(Vlaamse Nutsregulator) et vous permettent de mieux anticiper le montant de votre future facture énergétique.
+OCTA+ Energie s.a.
+1/3
+Schaarbeeklei 600 1800 Vilvoorde T. 0800/43.002 (appel gratuit) energie@octaplus.be www.octaplus.beLes tarifs des réseaux
+(c€/kWh)
+Ces surcharges sont intégralement reversées aux gestionnaires de réseaux de distribution et de transport.
+Gestionnaire du réseau Distribution Tarifprosume)r
+Terme fixe (€/an) Transport
+de distribution Monohoraire Bihoraire jour Bihoraire nuit Exclu77555555565sif nuit (€/kVA/an
+Aieg 9,46 9,56 7,65 ,00 19,08 22222222222,98 798888888888,99
+Aiesh 12,79 14,21 7,76 ,76 18,21 ,98 7,68
+ORES (Brabant wallon) 10,79 11,46 6,64 ,41 13,84 ,98 6,96
+ORES (Est) 10,79 11,46 6,64 ,41 13,84 ,98 6,96
+ORES (Hainaut Electricité) 10,79 11,46 6,64 ,41 13,84 ,98 6,96
+ORES (Luxembourg) 10,79 11,46 6,64 ,41 13,84 ,98 6,96
+ORES (Mouscron) 10,79 11,46 6,64 ,41 13,84 ,98 6,96
+ORES (Namur) 10,79 11,46 6,64 ,41 13,84 ,98 6,96
+ORES (Verviers) 10,79 11,46 6,64 ,41 13,84 ,98 6,96
+Régie de Wavre 11,48 11,65 7,21 ,17 28,09 ,98 9,91
+RESA 10,62 12,00 5,98 ,04 26,50 ,98 5,93
+Les surcharges
+(c€/kWh)
+Ces surcharges sont intégralement reversées aux autorités publiques.
+Droits d'accise Cotisation sur
+Accise fédérale (c€/kWh)
+spéciaux l'énergie
+Consommation entre 0 & 3.000 kWh 5,0329 0,2042
+Consommation entre 3.000 & 20.000 kWh 5,0329 0,2042
+Consommation entre 20.000 & 50.000 kWh 4,8188 0,2042
+Consommation entre 50.000 & 1.000.000 kWh 4,7467 0,2042
+Redevance raccordement Wallonie (c€/kWh) 0,075
+Coûts énergie verte
+(c€/kWh)
+Les coûts énergie verte couvrent les dépenses liées à la production d'énergie renouvelable. Ces tarifs sont déterminés et fluctueront selon les quotas fixés
+par les Régions .
+Région wallonne
+3,095
+Coûts énergie verte
+Les prix affichés du coût de l'énergie sont d'application pour les points de raccordement résidentiels qui disposent d’un compteur Smart et configuré en SMR3 et un raccordement basse tension. Ils sont
+valables pour tout contrat signé entre le 01/10/2025 et le 31/10/2025 par un client résidentiel.
+Le prix de l'électricité OCTA+ Dynamic est indexé toutes les heures. Le paramètre d’indexation correspond aux cotations horaires Day Ahead Belpex Baseload. La formule tarifaire HTVA (en €/MWh) est la
+suivante: Belpex Hourly * 1,045 + 12,44. Chaque jour, vous pouvez consulter les cotations Belpex Horaire pour le lendemain via https://www.octaplus.be/tarif-dynamique-electricite-prix-par-heure.
+La redevance fixe est facturée au prorata du nombre de jours livrés, sauf si le contrat prend fin endéans les 6 premiers mois qui suivent son commencement, auquel cas la redevance est facturée pour une
+période de 6 mois.
+Tous les frais liés à l’utilisation des réseaux, tout comme les taxes, les redevances, les surcharges, sont variables, modifiables et sont intégralement répercutés au client, même rétroactivement. Ces éléments
+du prix sont ceux approuvés par les Régulateurs au moment de l’élaboration de la carte tarifaire pour un compteur à relevé annuel. En cas de contradiction entre les tarifs d'OCTA+ d'une part et ceux des
+Régulateurs d'autre part, ce sont ces derniers qui prévalent.
+Toutes les mentions sur cette carte tarifaire concernent des coûts dont vous nous êtes redevable, sauf les composantes dans la colonne « Injection » que nous déduirons de votre facture (voir conditions ci-
+dessous). Ces composantes de prix ne sont pas soumises à la TVA.
+Par « Injection » nous désignons l’électricité produite et injectée par vos soins au même Point de raccordement qui celui pour lequel vous avez un contrat chez nous pour votre prélèvement d’électricité.
+Nous achetons votre Injection aux conditions suivantes : (a) votre installation est conforme à toutes les dispositions légales et réglementaires applicables, y compris au contrôle RGIE, (b) vous avez signalé
+votre installation auprès du gestionnaire de réseau, (c) votre installation est correctement raccordée conformément au Règlement de raccordement et n’a pas été mise hors service, (d) le réseau est
+disponible et/ou l’accès au réseau est possible et (e) les volumes de votre Injection nous sont correctement alloués par le gestionnaire de réseau.
+Les éventuels frais de réseau et surcharges, à majorer le cas échéant de la TVA, vous seront facturés par OCTA+ de manière transparente. Nous pouvons modifier le mécanisme d’indexation et les coefficients y
+correspondants à condition que la réglementation ou le modèle de marché changent ou soient abrogés, ou à condition que les indices concernés changent fondamentalement ou qu’ils ne soient plus
+représentatifs de la valeur économique de l’électricité injectée ou qu’elles ne soient plus publiées (régulièrement). Ces modifications vous seront alors répercutées entièrement et ce, le cas échéant,
+rétroactivement.
+Le volume injecté sera toujours comptabilisé sur base des montants en vigueur aux moments concernés, le cas échéant rétroactivement.
+Le prix de votre injection est indexé toutes les heures sur base des cotations horaires Day Ahead Belpex Baseload. La formule tarifaire HTVA est la suivante (en €/MWh) : Belpex Hourly * 0,988 - 16,83
+OCTA+ Energie s.a.
+2/3
+Schaarbeeklei 600 1800 Vilvoorde T. 0800/43.002 (appel gratuit) energie@octaplus.be www.octaplus.beConditions Spécifiques relatives aux Produits Dynamiques
+1. Objet
+1.1. Les présentes conditions s’appliquent lorsque vous avez un Contrat chez OCTA+ pour le prélèvement et/ou l’injection d’électricité, dont les Conditions Particulières ou tarifaires
+prévoient une indexation horaire du ou des prix. Nous parlons dans ce cas d’un Produit Dynamique.
+1.2. Pour pouvoir bénéficier de la formule d’indexation horaire prévue par les Conditions Particulières ou tarifaires de votre Produit Dynamique, vous devez disposer d’un compteur
+intelligent, étant un compteur numérique permettant de mesurer l’électricité consommée ou produite en temps-réel, communicant de manière bidirectionnelle et pouvant être
+actionné à distance. Ce compteur doit également pouvoir être configuré de façon à permettre une configuration Smart Meter Regime 3 (SMR3 ; étant un mesurage de votre
+prélèvement et/ou injection d’électricité par quart d’heures). En souscrivant à un Produit Dynamique, vous confirmez qu’un tel compteur est bien installé à votre Point de
+raccordement et que celui-ci est en parfait état de fonctionnement. Vous confirmez également avoir réalisé les démarches nécessaires afin d’obtenir une configuration SMR3 ou,
+dans le cas contraire, donnez votre accord pour qu’OCTA+ réalise ces démarches pour votre compte auprès du gestionnaire de réseau.
+1.3. Sans préjudice aux dispositions des Conditions Générales relatives à l’entrée en vigueur et à la date de début de fourniture de l’énergie, les Conditions Particulières ou tarifaires
+d’un Produit Dynamique ne pourront entrer en application qu’une fois que le Gestionnaire de réseau aura confirmé l’activation du SMR3 à OCTA+. L’électricité qui vous serait
+éventuellement fournie et/ou que vous auriez éventuellement injectée avant la confirmation de l’activation du SMR3 par le gestionnaire de réseau sera à facturer, au pro rata, sur
+base des Conditions Particulières de notre produit variable à durée indéterminée le meilleur marché tel que mis en vente sur notre site www.octaplus.be pendant le mois de votre
+souscription.
+1.4. Dans l’hypothèse où, pendant la durée du Contrat, le SMR3 ne serait plus possible, pour quelque raison que ce soit (par exemple une défectuosité du compteur ou un
+déménagement), l’électricité prélevée et/ou l’électricité injectée sera à facturer sur la base des Conditions Particulières de notre produit variable à durée indéterminée le meilleur
+marché tel que mis en vente sur notre site www.octaplus.be pendant le mois du changement de la configuration, et ce, à partir de la date à laquelle le SMR3 s’est arrêté, comme
+indiqué dans la notification envoyée par le gestionnaire de réseau à cet effet à OCTA+, et (sauf autre accord) jusqu’au terme du Contrat. Ce produit sera également d’application
+pour tout éventuel compteur « exclusif nuit » qui serait présent au Point de raccordement faisant l’objet de votre contrat dynamique
+1.5. Les Conditions Générales de votre Contrat s’appliquent. En cas de contradiction entre les Conditions Générales et les présentes Conditions Spécifiques, ces dernières prévalent.
+2. Prix
+Vous reconnaissez être conscient des risques liés à un Produit Dynamique, et notamment des risques de fluctuation du prix, suivant, entre autre, vos moments de consommation et
+l’évolution globale du marché de l’électricité.
+3. Facturation
+Sous un Produit Dynamique, vous acceptez de ne pas recevoir des factures d’acompte, et de recevoir des factures mensuelles réelles basées sur les volumes horaires effectivement
+prélevés et/ou injectés à votre Point de raccordement.
+4. Responsabilité
+OCTA+ ne peut être tenue pour responsable des éventuelles erreurs affectant les cotations boursières ou en cas d’absence de publications de celles-ci par les plateformes
+boursières. De la même manière, OCTA+ ne peut en aucun cas être tenue responsable des problèmes techniques ou informatiques, ni de la perte de données qui sont la
+conséquence des limites techniques du matériel informatique ou des moyens de communication électronique que vous avez choisis, ou des limites techniques de la technologie en
+tant que telle, comme le wifi.
+5. Contact
+En cas de plainte, celle-ci peut être introduite via https://www.octaplus.be/fr/contact.
+Nos conditions générales de vente s’appliquent. Elles sont disponibles sur www.octaplus.be – Tarifs & documents.
+OCTA+ Energie s.a.
+3/3
+Schaarbeeklei 600 1800 Vilvoorde T. 0800/43.002 (appel gratuit) energie@octaplus.be www.octaplus.be
