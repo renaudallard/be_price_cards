@@ -10,6 +10,7 @@ captured while it was current; a month marked `(not parsed)` is a card the archi
 holds but no reader could read, so there is no JSON to link; a blank cell is a
 month the archive does not hold.
 
+- [aspiravi](coverage/aspiravi.md): 1 rows, 2026-09 to 2026-09
 - [bolt](coverage/bolt.md): 36 rows, 2026-01 to 2026-09
 - [cociter](coverage/cociter.md): 3 rows, 2026-01 to 2026-09
 - [ebem](coverage/ebem.md): 3 rows, 2026-01 to 2026-09
