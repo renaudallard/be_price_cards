@@ -6,6 +6,7 @@
     "aspiravi",
     "cociter",
     "ebem",
+    "ecopower",
     "eneco",
     "energyknights",
     "engie",
@@ -213,6 +214,7 @@
     "cociter",
     "ebem",
     "ecofix",
+    "ecopower",
     "eneco",
     "energyknights",
     "energyvision",
@@ -223,6 +225,13 @@
     "totalenergies",
     "trevion"
    ]
+  },
+  "2026-10": {
+   "too_few": {
+    "0.06": [
+     "ebem"
+    ]
+   }
   }
  },
  "standard": {}

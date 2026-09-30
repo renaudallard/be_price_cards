@@ -13,9 +13,9 @@ month the archive does not hold.
 - [aspiravi](coverage/aspiravi.md): 1 rows, 2025-09 to 2026-09
 - [bolt](coverage/bolt.md): 36 rows, 2025-09 to 2026-09
 - [cociter](coverage/cociter.md): 3 rows, 2025-09 to 2026-09
-- [ebem](coverage/ebem.md): 3 rows, 2025-09 to 2026-09
+- [ebem](coverage/ebem.md): 3 rows, 2025-09 to 2026-10
 - [ecofix](coverage/ecofix.md): 8 rows, 2026-05 to 2026-09
-- [ecopower](coverage/ecopower.md): 2 rows, 2025-09 to 2026-08
+- [ecopower](coverage/ecopower.md): 2 rows, 2025-09 to 2026-09
 - [eneco](coverage/eneco.md): 7 rows, 2025-09 to 2026-09
 - [energiebe](coverage/energiebe.md): 3 rows, 2025-12 to 2026-09
 - [energyknights](coverage/energyknights.md): 6 rows, 2025-09 to 2026-09
