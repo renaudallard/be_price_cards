@@ -1,0 +1,69 @@
+Koning Albert II -laan 7, 1210 Brussel
+BE0476.243.769 Energie.be
+Gas particulier online – september 2026
+Tariefkaart geldig voor de levering van aardgas aan particuliere klanten in
+Vlaanderen. Alle prijzen zijn inclusief btw tenzij anders vermeld.
+Energieprijs en vaste vergoeding
+De energieprijs is variabel en volgt de groothandelsprijzen volgens de
+Energieprijs
+6,88 formule (excl. btw): (1,014x TTF_RLP+ 0,16) c€/kWh . Weergegeven prijs
+(c€/kWh)
+op basis van de ingeschatte index (VNR methodologie): 6,24 c€/kWh.
+Vaste vergoeding
+35
+(€/jaar)
+Nettarieven
+Distributiekosten (c€/kWh)
+Klein verbruik Gemiddeld verbruik Transport - Databeheer
+Netbeheerder (<= 5000 kWh) (> 5000 kWh en <= 150 000 kosten
+kWh) (c€/kWh) (€/jaar)
+Variabel Vast Variabel Vast
+(c€/kWh) (€/jaar) (c€/kWh) (€/jaar)
+Vlaanderen
+Fluvius (Antwerpen ) 2,26 15,68 0,91 83,22 0,1654 18,92
+Fluvius (Halle-Vilvoorde) 2,50 17,59 0,98 93,38 0,1654 18,92
+Fluvius (Imewo) 2,63 18,61 1,02 98,81 0,1654 18,92
+Fluvius (Kempen) 2,27 16,17 0,88 85,83 0,1654 18,92
+Fluvius (Limburg) 2,24 14,59 0,98 77,46 0,1654 18,92
+Fluvius (Midden-Vlaanderen ) 2,32 16,33 0,91 86,71 0,1654 18,92
+Fluvius (West) 2,69 19,03 1,05 101,02 0,1654 18,92
+Fluvius (Zenne-Dijle) 2,60 18,40 1,02 97,72 0,1654 18,92
+Taksen en heffingen
+Bijzondere accijns op Energie (c€/kWh) kleiner dan 12.000kWh 1,0929
+Bijzondere accijns op Energie (c€/kWh) groter dan 12.000kWh 1,1830
+Bijdrage op de Energie (c€/kWh) 0
+1
+Koning Albert II -laan 7, 1210 Brussel
+BE0476.243.769 Energie.be
+Gas particulier online – september 2026
+Duur van de Leveringsovereenkomst Andere onderdelen van de factuur
+De Leveringsovereenkomst heeft een duurtijd van 1 jaar. Zoals beschreven in de Algemene Voorwaarden, wordt de energieprijs die u betaalt voor het
+aardgas dat u afneemt, verhoogd met andere onderdelen. De nettarieven voor distributie en
+Informatie over uw tariefformule transport die hierboven worden vermeld, zijn de tarieven die zijn goedgekeurd door de
+bevoegde regulator. De bedragen en berekeningswijze van de belastingen en heffingen,
+De energieprijs voor verbruik wordt geïndexeerd op basis van de TTF_RLP parameter. bijdragen, toeslagen en kosten zijn de meest recente op het moment waarop deze
+De parameter TTF_RLP wordt als volgt gedefinieerd: de RLP -gewogen TTF dagprijzen bijzondere voorwaarden zijn opgesteld. Wij kunnen alle wijzigingen van deze onderdelen
+op de TTF Day Ahead Market (publicatie op epexspot.com) De RLP -weging gebeurt volledig aan u doorrekenen, ook retroactief, zoals bepaald in de Algemene Voorwaarden.
+met het verbruiksprofiel RLP (Real load profile) wat wordt gepubliceerd door
+Synergrid .. De bovenstaande tabel toont de energieprijs die is gebaseerd op de Communicatie en betalingen
+methodologie van de VNR.
+Dit is een online contract waarbij u Energie.be enkel via digitale kanalen (chat, online) kan
+Als de huidige parameters worden afgeschaft, niet langer beschikbaar zijn, niet of bereiken. U ontvangt eveneens uw facturen steeds via e -mail. De betalingswijze
+onregelmatig worden gepubliceerd of niet langer representatief zijn voor de (overschrijving of domiciliering) kan u vrij kiezen.
+economische waarde, kunnen wij nieuwe parameters of componenten toepassen.
+Kosten voor herinneringen en ingebrekestellingen
+De energieprijs, die varieert naargelang de evolutie van de parameters waaruit de
+tariefformule bestaat, worden berekend op basis van de index die van toepassing is De kosten van een herinnering bedragen €7,50, met uitzondering van de eerste herinnering
+tijdens de periode waarvoor u wordt gefactureerd bij de afrekening van uw reële die volledig gratis is. De kost van een ingebrekestelling bedraagt €10.
+verbruik. De bedragen die in uw afrekeningsfactuur worden vermeld, kunnen dus
+afwijken van de hierboven vermelde prijzen. Overzicht actief aanbod Energie.be
+Vaste vergoeding • Elektriciteit particulier online –Elektriciteit vast particulier online
+• Elektriciteit professioneel online –Elektriciteit vast professioneel online
+De vaste vergoeding is een forfaitaire jaarlijkse vergoeding voor onze operationele • Elektriciteit dynamisch particulier online –Elektriciteit dynamisch professioneel online
+kosten. Tijdens de eerste 6 maanden dat men klant is bij Energie.be is de vaste • Gas particulier online –Gas vast particulier online
+vergoeding integraal verschuldigd voor een periode van 6 maanden, ook als u tijdens • Gas professioneel online –Gas vast professioneel online
+deze eerste 6 maanden overstapt naar een andere leverancier. Vanaf de 7 demaand
+wordt de vaste vergoeding enkel aangerekend in verhouding tot de werkelijke U kan ons actief aanbod altijd vergelijken met andere tarieven op https://vtest.vreg.be/ ) of
+verdere duur van onafgebroken contractuele relatie met Energie.be. op https://www.creg.be/nl/consumenten/prijzen -en-tarieven/vergelijking -van-prijzen-voor-
+elektriciteit -en-aardgas .
+2

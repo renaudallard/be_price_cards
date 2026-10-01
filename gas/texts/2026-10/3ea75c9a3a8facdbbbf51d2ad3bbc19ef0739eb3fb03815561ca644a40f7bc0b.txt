@@ -1,0 +1,77 @@
+Eneco Aardgas Flex
+Tariefkaart oktober 2026 van Eneco Belgium nv voor de levering van 
+aardgas aan particulieren in Vlaanderen en Wallonië.
+Alle prijzen en tarieven zijn inclusief 6% btw
+Energieprijs
+VASTE VERGOEDING
+(€/jaar)
+VERBRUIK 
+(€cent/kWh)
+65,00
+8,46 Geschatte jaarprijs
+9,12 Maandprijs
+(0,1 X TTFDAW-RLP-M + 1,074) X 1,06 Tariefformule
+Externe toeslagen en belastingen op geleverde energie
+NETTARIEVEN AARDGAS:
+Gebruik van distributienetten
+(doorgestort aan jouw netbeheerder)
+Netbeheerder
+T1 > 0 - 5.000 kWh T2 > 5.001 - 150.000 kWh Meteropname
+(€/jaar)Vaste term  
+(€/jaar)
+Proportionele term  
+(€cent/kWh)
+Vaste term  
+(€/jaar)
+Proportionele term  
+(€cent/kWh)
+FLUVIUS HALLE VILVOORDE 17,59 2,50 93,38 0,98 18,92
+FLUVIUS ANTWERPEN 15,68 2,26 83,22 0,91 18,92
+FLUVIUS IMEWO 18,61 2,63 98,81 1,02 18,92
+FLUVIUS LIMBURG 14,59 2,24 77,46 0,98 18,92
+FLUVIUS WEST 19,03 2,69 101,02 1,05 18,92
+FLUVIUS MIDDEN VLAANDEREN 
+(INTERGEM) 16,33 2,32 86,71 0,91 18,92
+FLUVIUS KEMPEN (IVEKA) 16,17 2,27 85,83 0,88 18,92
+FLUVIUS ZENNE DIJLE 18,40 2,60 97,72 1,02 18,92
+ORES (Brabant Wallon) 31,91 4,29 140,93 2,21 -
+ORES (Hainaut gaz) 31,91 4,29 140,93 2,21 -
+ORES (Luxembourg) 31,91 4,29 140,93 2,21 -
+ORES (Mouscron) 31,91 4,29 140,93 2,21 -
+ORES (Namur) 31,91 4,29 140,93 2,21 -
+TECTEO RESA 34,59 4,64 122,05 2,53 -
+AARDGASHEFFINGEN
+(doorgestort aan de overheid)
+Aardgasheffingen Wallonië (*)
+Aansluitingsvergoeding  0 - 100 kWh/jaar 0,0075 €
+Aansluitingsvergoeding  < 1 GWh 0,0075 €cent/kWh
+Federale Accijns
+(€cent/kWh)
+Bijzondere 
+accijns
+Energie- 
+bijdrage
+Verbruik tussen 
+0 en 12.000 kWh 1,0929 0,0000
+Verbruik > 12.000 kWh 1,1830 0,0000
+TRANSPORTKOST AARDGAS
+(doorgestort aan jouw netbeheerder)
+Voor het jaar 2026 raamt Fluxys deze kosten 
+op 0,165 €cent/kWh (incl. btw). 
+Voor meer info zie www.fluxys.com.
+Eneco Aardgas Flex is een contract van onbepaalde duur waarbij de energieprijs variabel is en maandelijks wordt geïndexeerd op basis van de indexatieparameter TTFDAW-RLP-M. Meer informatie over deze 
+indexatieparameter vind je op eneco.be/indexatie. De weergegeven prijzen op deze tariefkaart zijn een prijsinschatting; enerzijds de maandprijs berekend op basis van de laatst gekende waarde van TTFDAW-
+RLP-M (09/2026: €75,3015/MWh), anderzijds de jaarlijkse geraamde kostprijs op basis van een inschatting van TTFDAW-RLP-M (€69,0864/MWh). Eneco kan het indexatiemechanisme en de bijhorende 
+coëfficiënten wijzigen op voorwaarde dat de reglementering terzake wordt gewijzigd of afgeschaft, of op voorwaarde dat de betrokken indexen inhoudelijk wijzigen of niet langer representatief zijn voor de 
+economische waarde van het geleverde aardgas of niet langer of op onregelmatige wijze worden gepubliceerd. De energieprijs wordt verhoogd met de toepasselijke belastingen, heffingen, toeslagen en alle 
+opgelegde bedragen voor het gebruik van de netten die Eneco kan of moet aanrekenen. De vermelde bedragen zijn de laatst gekende bedragen. Het verbruik zal steeds aan de op dat ogenblik geldende bedragen 
+worden afgerekend, desgevallend met terugwerkende kracht. Eneco behoudt zich het recht voor deze kosten aan te passen conform de wijzigingen aan het regelgevend kader. De aanpassingen aan deze 
+elementen, waar Eneco niet verantwoordelijk voor is, worden volledig op de klant verhaald (dit kan retroactief gebeuren). De opgegeven prijzen zijn enkel van toepassing voor klanten met huishoudelijk verbruik 
+en met een gemeten jaarlijks aardgasverbruik kleiner dan of gelijk aan 100 MWh en een aansluiting op het lagedrukaardgasnet. In andere gevallen behoudt Eneco zich het recht voor om je prijs aan te passen. 
+De vaste vergoeding is een jaarlijkse kost per gasaansluiting. Deze vaste vergoeding is forfaitair en integraal verschuldigd vanaf levering tenzij de wetgeving beperkingen oplegt of anders bepaalt. In dat geval zal 
+de vaste vergoeding conform de geldige wettelijke bepalingen verschuldigd zijn (en blijven). De vaste vergoeding wordt aangerekend op elke afrekenings- en/of slotfactuur.
+(*) Niet aan btw onderworpen
+Tariefkaart versie 012610 voor Vlaanderen en Wallonië. / Geldig van 1 oktober 2026 t.e.m 31 oktober 2026. / BC_032_012610_NL_ENECO_GAS_FLEX 
+BC/0090/102026/NL
+V.U.: Eneco Belgium nv – Blarenberglaan 2c – 2800 Mechelen – Tel. 015 25 66 66 – Fax 015 40 41 49 – service@eneco.be
+RPR Antwerpen afdeling Mechelen – btw BE 0683.948.879 – eneco.be

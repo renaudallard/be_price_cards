@@ -1,0 +1,198 @@
+{
+ "_seen_on": "2026-10-01",
+ "_sources": [
+  {
+   "text": "texts/2026-10/faed579400c3097b2bacbd4a9fcf13e3ef378c8023ba20282dcd75140bb9645f.txt",
+   "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
+   "variant": "text"
+  },
+  {
+   "pdf": "f9aa1a5f5d277ad13615899b9197e17cb558daf37f65be6acc1ceee6262134fb",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "text": "texts/2026-10/ee6757e83372e6748225488a9f93a1192fc5f68dd0067d7916716a86d5b1a304.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-102026-Cosy0110.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "live",
+ "contract": "mega_cosy_flex",
+ "dsos": {
+  "fluvius_antwerpen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     15.68,
+     0.0226
+    ],
+    "t2": [
+     83.22,
+     0.0091
+    ],
+    "t3": [
+     562.63,
+     0.0059
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_halle_vilvoorde": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     17.59,
+     0.025
+    ],
+    "t2": [
+     93.38,
+     0.0098
+    ],
+    "t3": [
+     631.27,
+     0.0062
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_imewo": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     18.61,
+     0.0263
+    ],
+    "t2": [
+     98.81,
+     0.0102
+    ],
+    "t3": [
+     668.02,
+     0.0064
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_kempen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     16.16,
+     0.0227
+    ],
+    "t2": [
+     85.83,
+     0.0088
+    ],
+    "t3": [
+     580.25,
+     0.0055000000000000005
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_limburg": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     14.59,
+     0.022400000000000003
+    ],
+    "t2": [
+     77.46,
+     0.0098
+    ],
+    "t3": [
+     523.72,
+     0.0069
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_midden_vlaanderen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     16.33,
+     0.0232
+    ],
+    "t2": [
+     86.71,
+     0.0091
+    ],
+    "t3": [
+     586.19,
+     0.0058
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_west": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     19.03,
+     0.0269
+    ],
+    "t2": [
+     101.02,
+     0.0105
+    ],
+    "t3": [
+     682.96,
+     0.0067
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_zenne_dijle": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     18.4,
+     0.026000000000000002
+    ],
+    "t2": [
+     97.72,
+     0.0102
+    ],
+    "t3": [
+     660.64,
+     0.0064
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.012190000000000001,
+  "factor": 0.0011448,
+  "fee": 105.0,
+  "formula": "ZTP x 1,08 + 1,15 c€/kWh",
+  "index": "ZTP mensuel",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0984,
+  "settled": false
+ },
+ "publication_label": "2026-10",
+ "schema": 1,
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-102026-Cosy0110.pdf",
+ "supplier": "mega",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0,
+  "excise": [
+   [
+    12000.0,
+    0.0109286
+   ],
+   [
+    null,
+    0.011829600000000001
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-10-31"
+}

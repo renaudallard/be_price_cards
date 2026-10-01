@@ -1,0 +1,77 @@
+{
+ "_seen_on": "2026-10-01",
+ "_sources": [
+  {
+   "pdf": "7307cb3bac48d5d03c9d253cd12652c6d8fc690fa95dcb4c8aacd6e4c4015dd0",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "text": "texts/2026-10/261b15ad72b70fd7d85e1793d52f53283779b46cc32ebc541b0b302613ac464e.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT_GAS_BXL_FR.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "live",
+ "contract": "totalenergies_mycomfort_variable",
+ "dsos": {
+  "sibelga": {
+   "metering": 24.96,
+   "tiers": {
+    "t1": [
+     15.9,
+     0.0199
+    ],
+    "t2": [
+     43.07,
+     0.014499999999999999
+    ],
+    "t3": [
+     1001.55,
+     0.008100000000000001
+    ]
+   },
+   "transport": 0.0017000000000000001
+  }
+ },
+ "energy": {
+  "base": 0.015052,
+  "factor": 0.0010674200000000001,
+  "fee": 90.0,
+  "formula": "0.1007 * TTF_M_RLP + 1.42",
+  "index": "TTF_M_RLP",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0809,
+  "settled": false
+ },
+ "publication_label": "2026-09",
+ "schema": 1,
+ "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT_GAS_BXL_FR.pdf",
+ "supplier": "totalenergies",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0011,
+  "excise": [
+   [
+    12000.0,
+    0.0109
+   ],
+   [
+    null,
+    0.0118
+   ]
+  ],
+  "osp": {
+   "gt160": 970.41,
+   "q100": 522.79,
+   "q10_gt5000": 12.59,
+   "q10_le5000": 3.56,
+   "q16": 30.4,
+   "q160": 671.36,
+   "q25": 75.18,
+   "q40": 150.35,
+   "q65": 376.0
+  },
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-09-30"
+}

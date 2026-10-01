@@ -1,0 +1,72 @@
+{
+ "_seen_on": "2026-10-01",
+ "_sources": [
+  {
+   "text": "texts/2026-10/f5d5332c8e0871b9663bd6126f8fb3f11af0aa5af10fbeb4962eef9f260c672a.txt",
+   "url": "https://www.boltenergie.be/fr/listes-des-prix",
+   "variant": "text"
+  },
+  {
+   "pdf": "53cba1defce24d6509bca68a93a7ce3be52838832fb82d04b88c06c3d77079d0",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "text": "texts/2026-10/0b4888961cb7d1c7f2d28a22c7b5b8acb9b6fb5ffeff21375d8f40e78cc04ecb.txt",
+   "url": "https://files.boltenergie.be/pricelists/fix/fix_res_ng_fr_202610.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "live",
+ "contract": "bolt_fix",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.04198
+    ],
+    "t2": [
+     140.93,
+     0.021150000000000002
+    ]
+   },
+   "transport": 0.0016539999999999999
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.02259
+    ]
+   },
+   "transport": 0.0016539999999999999
+  }
+ },
+ "energy": {
+  "fee": 107.88,
+  "kind": "fixed",
+  "price": 0.08960000000000001
+ },
+ "publication_label": "2026-10",
+ "schema": 1,
+ "source_url": "https://files.boltenergie.be/pricelists/fix/fix_res_ng_fr_202610.pdf",
+ "supplier": "bolt",
+ "taxes": {
+  "card_vat_rate": null,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0,
+  "excise": [
+   [
+    null,
+    0.0109286
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-10-31"
+}

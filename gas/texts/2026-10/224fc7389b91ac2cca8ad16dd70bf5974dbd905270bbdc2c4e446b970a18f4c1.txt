@@ -1,0 +1,87 @@
+FlexOnline September 2026
+T A R I E F K A A R T  ·  P A R T I C U L I E R  ·  V L A A N D E R E N
+GAS
+Tariefkaart geldig voor de levering van gas aan residentiële klanten in Vlaanderen. Alle prijzen zijn
+inclusief BTW tenzij anders vermeld.
+Volgt de markt
+Een variabele prijs die de
+groothandelsprijzen op de TTF-markt
+volgt.
+Één jaar looptijd
+De Leveringsovereenkomst heeft een
+duurtijd van één jaar.
+Heel Vlaanderen
+Geldig voor alle Fluvius-netbeheerders in
+Vlaanderen.
+S A M E N S T E L L I N G  V A N  J E  G A S P R I J S
++ +
+Tarieven excl. btw
+E N E R G I E P R I J S  G A S  ·  € c / k W h
+6,84
+*
+Ingeschat tarief volgende 12
+maanden (VREG)
+6,77
+**
+Op basis van historische
+maandprijs
+F O R M U L E
+(TTF_RLP × 1,04) + € 3,5/MWh
+TTF_RLP is de RLP gewogen gemiddelde
+dagprijs op de TTF Day Ahead markt.
+Jaarlijkse abonnementskost * (incl. btw) € 50/jaar
+* Ingeschat tarief volgende 12 maanden volgens methodologie VREG (excl. BTW) · ** Ingeschat tarief op basis van historische maandprijs (laatst gekende
+waarde van TTF-DAM 8/2026: €61,729/MWh) · De gasprijs is een variabele prijs, excl. BTW in de formule, waarbij TTF_RLP gedeﬁnieerd is als RLP
+gewogen gemiddelde dagprijs op de TTF Day Ahead markt.
+* De abonnementskost is een vergoeding voor onze operationele kosten. Tijdens de eerste zes maanden dat men klant is, is de abonnementskost
+integraal verschuldigd voor een periode van zes maanden, ook als je tijdens deze eerste zes maanden overstapt naar een andere leverancier. Vanaf de
+zevende maand wordt de abonnementskost enkel aangerekend in verhouding tot de werkelijke verdere duur van onafgebroken contractuele relatie.
+Taksen en hefﬁngen incl. btw
+Bijzondere accijns op Energie < 12.000 kWh €c 0,8724/kWh
+Bijzondere accijns op Energie > 12.000 kWh €c 0,9457/kWh
+Bijdrage op Energie €c 0,1057/kWh
+Belvus BV · Frankrijklei 5, 2000 Antwerpen · BE 1020 490 973 · klantendienst@belvus.be · belvus.be 1
+Energieprijs Nettarieven & transport Taksen & hefﬁngen
+Tariefkaart · Particulier Gas FlexOnline — September 2026
+Nettarieven incl. btw
+D ATA B E H E E R TA R I E F  ¹
+€  18,92/jaar
+T R A N S P O R T K O S T E N
+€ c 0,165/kW jaar
+G E L D I G  V O O R
+Alle Fluvius-netbeheerders in
+Vlaanderen (Antwerpen,
+Limburg, West, Imewo, Midden-
+Vlaanderen, Kempen, Zenne-Dijle
+en Halle-Vilvoorde).
+¹ Databeheertarief: de kosten van alle activiteiten die de databeheerder moet uitvoeren op data geregistreerd door alle types meters.
+Distributiekosten incl. btw
+NETBEHEERDER
+VLAANDEREN FLUVIUS
+KLEINVERBRUIK
+< 5.000 kWh
+GEMIDDELD VERBRUIK
+> 5.000 en ≤ 150.000 kWh
+Variabel €c/kWh Vast €/jaar Variabel €c/kWh Vast €/jaar
+Fluvius Antwerpen 2,26 15,68 0,91 83,22
+Fluvius Limburg 2,50 17,59 0,98 93,38
+Fluvius West 2,63 18,61 1,02 98,81
+Fluvius Imewo 2,27 16,17 0,88 85,83
+Fluvius Midden-Vlaanderen 2,24 14,59 0,98 77,46
+Fluvius Kempen 2,32 16,33 0,91 86,71
+Fluvius Zenne-Dijle 2,69 19,03 1,06 101,02
+Fluvius Halle-Vilvoorde 2,60 18,40 1,02 97,72
+Hoe wordt de kost van mijn gas bepaald?
+De gasprijs is een variabele prijs die de groothandelsprijzen
+volgt volgens de formule, excl. BTW, waarbij de
+indexatieparameter TTF_RLP gedeﬁnieerd is als RLP
+gewogen gemiddelde dagprijs op de TTF Day Ahead markt.
+F O R M U L E (TTF_RLP × 1,04) + € 3,5/MWh
+Duur van de Leveringsovereenkomst
+De Leveringsovereenkomst heeft een duurtijd van één
+jaar.
+Algemene Voorwaarden
+Klik hier om deze te lezen op onze website.
+Belvus BV · Frankrijklei 5, 2000 Antwerpen · BE 1020 490 973 · klantendienst@belvus.be · belvus.be 2
+VRAGEN? WIJ HELPEN JE GRAAG.
+klantendienst@belvus.be 03 393 06 83 www.belvus.be

@@ -1,0 +1,86 @@
+Empower (Type :Fixe)
+Prix fixes gaz naturel pour les contrats conclus en Octobre 2026 durée indéterminée
+Pour les particuliers en Région Wallonne
+Prix, 6% de tva comprise(9)
+Composition du prix de votre énergie(6)
+Vos avantages
+- Prix garanti pendant 1 an
+Services gratuits
+- Service client en ligne et
+hors ligne 5 étoiles
+- Suivez les prix et contrôlez
+votre consommation grâce à
+la Smart App
+Prix de l'énergie fixe (10)
+Redevance fixe (€/an)(11) Prix par kWh(1) (c€/kWh)
+60,00 10,385
+Coûts de réseaux (distribution et transport)(2)
+Gestionnaire
+du réseau de distribution
+Distribution
+TransportPetite consommation
+<= 5 000 kWh/an
+Moyenne consommation
+5 001 - 150 000 kWh/an
+Grande consommation
+>= 150 001 kWh/an
+Terme fixe
+€/an
+Terme
+proportionnel
+c€/kWh
+Terme fixe
+€/an
+Terme
+proportionnel
+c€/kWh
+Terme fixe
+€/an
+Terme
+proportionnel
+c€/kWh
+c€/kWh
+ORES (Brabant Wallon) 31,91 4,289 140,93 2,206 889,48 1,639 0,165
+ORES (Hainaut Gaz) 31,91 4,289 140,93 2,206 889,48 1,639 0,165
+ORES (Luxembourg) 31,91 4,289 140,93 2,206 889,48 1,639 0,165
+ORES (Mouscron) 31,91 4,289 140,93 2,206 889,48 1,639 0,165
+ORES (Namur) 31,91 4,289 140,93 2,206 889,48 1,639 0,165
+TECTEO - RESA 34,59 4,640 122,05 2,529 962,74 2,241 0,165
+
+Empower (Type :Fixe)
+Prix fixes gaz naturel pour les contrats conclus en Octobre 2026 durée indéterminée
+Pour les particuliers en Région Wallonne
+Prix, 6% de tva comprise(9)
+Suppléments
+Suppléments (c€/kWh)
+Redevance raccordement(3) 0,00750
+Accise fédérale(8) (c€/kWh)
+Consommation entre 0 & 12.000 kWh 1,09286
+Consommation > 12.000 kWh 1,18296
+(1) Le prix offert peut être modifié dans le courant du mois (p.ex. suite
+à des variations dans la disponibilité d’électricité du gaz naturel sur
+le marché). Le prix valable est celui qui est affiché sur engie.be à la
+date de souscription du contrat. Les formules de prix sont valables
+pour tous les contrats conclus en Octobre 2026 et débutant au plus
+tard le dernier jour du 6e mois après la souscription du contrat.
+(2) Les coûts de réseau sont approuvés par la CREG et par la CWaPE.
+(3) Vous ne payez pas de TVA sur ces coûts.
+(6) Le calcul a été effectué en janvier 2024 pour un contrat EASY
+Variable sur la base d'une consommation privée de 16000 kWh/an
+en Walllonie. Prix 6% de tva comprise.
+(7) Vous trouverez plus d'informations sur vos paiements sur
+www.engie.be/fr/support/faq/facture/paiements.
+(8) Le droit d’accises spécial est calculé sur base annuelle.
+(9) La TVA peut être adaptée en fonction des modifications légales.
+(10) Nous nous réservons le droit d’adapter chaque année votre prix de
+l’énergie variable ou fixe conformément à la procédure prévue par
+l'article "Modification des conditions et des prix" des Conditions
+Générales pour consommateurs, indépendamment d'une éventuelle
+durée minimale du Contrat.
+(11) Sauf disposition contraire dans les conditions, la redevance fixe est
+facturée au prorata du nombre de jours effectifs de livraison (sur
+365 jours ou sur 366 jours lors d'une année bissextile).
+Frais de rappel et de mise en demeure (3) (7)
+Montants d’application à partir du 1er décembre 2023
+Frais de rappel (3 premiers gratuits) 7,50 €
+Mise en demeure 15,00 €

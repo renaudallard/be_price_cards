@@ -1,0 +1,119 @@
+Flow (Type : Variable)
+Prix variables gaz naturel pour les contrats conclus en Octobre 2026 (durée de 2 ans)
+Pour les particuliers en Région Flamande
+Prix, 6% de tva comprise(9)
+Composition du prix de votre énergie(6)
+Vos avantages
+- Prix variable, adapté
+mensuellement
+- Formule de prix garantie 2
+ans
+Services gratuits
+- Service client en ligne et
+hors ligne 5 étoiles
+- Suivez les prix et contrôlez
+votre consommation grâce à
+la Smart App
+- Facture électronique par
+défaut
+Prix d'énergie Variable
+Redevance fixe (€/an)(11) Prix par kWh(1) (c€/kWh)
+Prix mensuels
+9,187
+50,00 Prix par kWh(1) (c€/kWh)
+Prix annuels estimés
+8,512
+Coûts de réseaux (distribution et transport)(2)
+Gestionnaire
+du réseau
+de
+distribution
+Distribution
+TransportPetite consommation
+<= 5 000 kWh/an
+Moyenne consommation
+5 001 - 150 000 kWh/an
+Grande consommation
+>= 150 001 kWh/an
+Tarif Gestion
+données
+Terme fixe
+€/an
+Terme
+proportionnel
+c€/kWh
+Terme fixe
+€/an
+Terme
+proportionnel
+c€/kWh
+Terme fixe
+€/an
+Terme
+proportionnel
+c€/kWh
+Mensuel/Annuel
+€/an c€/kWh
+FLUVIUS ANTWERPEN 15,68 2,257 83,22 0,905 562,63 0,586 18,92 0,165
+FLUVIUS HALLE-VILVOORDE 17,59 2,496 93,38 0,981 631,27 0,621 18,92 0,165
+FLUVIUS IMEWO 18,61 2,628 98,81 1,024 668,02 0,644 18,92 0,165
+FLUVIUS KEMPEN 16,17 2,275 85,83 0,882 580,25 0,552 18,92 0,165
+FLUVIUS LIMBURG 14,59 2,240 77,46 0,983 523,72 0,686 18,92 0,165
+FLUVIUS MIDDEN-VLAANDEREN 16,33 2,317 86,71 0,909 586,19 0,577 18,92 0,165
+FLUVIUS WEST 19,03 2,695 101,02 1,055 682,96 0,667 18,92 0,165
+FLUVIUS ZENNE-DIJLE 18,40 2,602 97,72 1,017 660,65 0,641 18,92 0,165
+
+Flow (Type : Variable)
+Prix variables gaz naturel pour les contrats conclus en Octobre 2026 (durée de 2 ans)
+Pour les particuliers en Région Flamande
+Prix, 6% de tva comprise(9)
+Suppléments
+Accise fédérale(8) (c€/kWh)
+Consommation entre 0 & 12.000 kWh 1,09286
+Consommation > 12.000 kWh 1,18296
+(1) Le prix variable offert peut être modifié dans le courant du mois
+(p.ex. suite à des variations dans la disponibilité du gaz naturel sur
+le marché). Le prix valable est celui qui est affiché sur engie.be à la
+date de souscription du contrat. Les formules de prix sont valables
+pour tous les contrats conclus en Octobre 2026 et débutant au plus
+tard le dernier jour du 6e mois après la souscription du contrat.
+Le prix du gaz de votre Contrat est indexé mensuellement. Le
+paramètre d’indexation est la moyenne arithmétique des cotations
+journalières du gaz naturel sur les "European Spot Gas Markets"
+("ESGM") publiées par ICIS-Heren Energy Ltd., sous le titre "ZTP
+Price Assessment Day-Ahead" pour les jours de la semaine et sous
+le titre "ZTP Price Assessment Weekend" pour les jours du weekend
+durant le mois de fourniture. Le paramètre ZTPDAM (Heren),
+exprimé en €/MWh, est calculé et publié sur engie.be.
+La valeur du ZTPDAM (Heren) du mois en cours ne sera connue
+qu'en fin de mois. À titre informatif, les prix indiqués sont basés sur
+la dernière valeur du ZTPDAM (Heren) connue (Septembre 2026:
+75,4010 €/MWh).
+Les valeurs historiques du ZTPDAM (Heren) peuvent être consultées
+sur engie.be.
+Le paramètre ZTPDAM (Heren) annuel estimé s’élève à 69,1580
+€/MWh pour ce mois-ci selon la méthodologie de la Vlaamse
+Nutsregulator :
+https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/energ
+ieprijzen-en-facturen/waaruit-bestaat-de-energieprijs-voor-elektricite
+it-en-aardgas
+La formule hors TVA d'application pour Octobre 2026 est la
+suivante:
+Prélèvement: 0,9765 + (0,1020 x ZTPDAM (Heren)
+Le résultat de ces formules est un montant exprimé en c€/kWh.
+(2) Les coûts de réseau sont approuvés par la CREG et par la Vlaamse
+Nutsregulator.
+(3) Vous ne payez pas de TVA sur ces coûts.
+(6) Le calcul a été effectué en janvier 2024 pour un contrat EASY
+Variable sur la base d'une consommation privée de 16000 kWh/an
+en Flandre. Prix 6% de tva comprise.
+(7) Vous trouverez plus d'informations sur vos paiements sur
+www.engie.be/fr/support/faq/facture/paiements.
+(8) Le droit d’accises spécial est calculé sur base annuelle.
+(9) La TVA peut être adaptée en fonction des modifications légales.
+(11) Sauf disposition contraire dans les conditions, la redevance fixe est
+facturée au prorata du nombre de jours effectifs de livraison (sur
+365 jours ou sur 366 jours lors d'une année bissextile).
+Frais de rappel et de mise en demeure (3) (7)
+Montants d’application à partir du 1er décembre 2023
+Frais de rappel (3 premiers gratuits) 7,50 €

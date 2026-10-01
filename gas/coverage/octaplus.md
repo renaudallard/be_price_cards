@@ -1,0 +1,21 @@
+# octaplus
+
+One row per contract and region, one column per month the archive holds.
+Each month links to what it was parsed from and to what came out of it: `pdf` is the
+card itself, in the releases of this repository, `page` the text of a page as it was
+read, and `json` the card as the integration parsed it. A month marked `(mirror)` was
+copied from the supplier's own archive rather than captured while it was current; a
+blank cell is a month the archive does not hold.
+
+| contract | region | 2026-09 | 2026-10 |
+| --- | --- | --- | --- |
+| octaplus_ecofixed | flanders | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-09/697f54b1100cda15b85057786b6646aa2161b747bb11e04d9077041024b14b2f.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/octaplus/octaplus_ecofixed/flanders/2026-09.json) |  |
+| octaplus_ecofixed | wallonia | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-09/5560aabadf8323e389f98b3d6962c7dae88454a5a1d830ad76bee92b02687af9.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/octaplus/octaplus_ecofixed/wallonia/2026-09.json) |  |
+| octaplus_ecoflux | flanders | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-09/05a1897c6759a618547c3491f5046a451fb980050c8e765d6b91bd5de5a23328.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/octaplus/octaplus_ecoflux/flanders/2026-09.json) |  |
+| octaplus_ecoflux | wallonia | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-09/48c9bf0c647450c37a5c02234013b91cec13e57d07c79c5cdde2373a37e26923.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/octaplus/octaplus_ecoflux/wallonia/2026-09.json) |  |
+| octaplus_fixed | flanders | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-09/a13be4a4a508b05cfec60357bf0bf006eeb3b3a8a47b5c6ed2505b59035f64d7.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/octaplus/octaplus_fixed/flanders/2026-09.json) |  |
+| octaplus_fixed | wallonia | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-09/b0d84ee66a4dfd2ae874c7af63652dbb34d86498d53aa26569d2ebc6696db96e.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/octaplus/octaplus_fixed/wallonia/2026-09.json) |  |
+| octaplus_flux | flanders | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-09/3baef0de3fa0e129cb4eb971209ea0926caeedd810a6b36a3237b3c67263e002.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/octaplus/octaplus_flux/flanders/2026-09.json) |  |
+| octaplus_flux | wallonia | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-09/d8c470b70c410bad6600c9e9031887a5932f3edcd0720bdb1b7204bb22aed8f0.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/octaplus/octaplus_flux/wallonia/2026-09.json) |  |
+| octaplus_smartvariable | flanders |  | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-10/5b7c7bdbf73fec0ecdac0438d47caa280f58353cf8bf359b7895cf49516cb475.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/octaplus/octaplus_smartvariable/flanders/2026-10.json) |
+| octaplus_smartvariable | wallonia |  | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-10/8866c24d1243e87409a16997230c1641ae63f5977cc3d6aaf8b1cb514109eecb.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/octaplus/octaplus_smartvariable/wallonia/2026-10.json) |

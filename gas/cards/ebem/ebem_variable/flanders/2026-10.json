@@ -1,0 +1,198 @@
+{
+ "_seen_on": "2026-10-01",
+ "_sources": [
+  {
+   "text": "texts/2026-10/000c2f24d1ee9a19ec37a0b6dabe5b8e4303dba79d6f5e9c8d0b989cc6bcbbc4.txt",
+   "url": "https://www.ebem.be/tarieven/",
+   "variant": "text"
+  },
+  {
+   "pdf": "4026256044d28612f634e818a2032691bfd51afc3e5355c9043068b6cf017266",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "text": "texts/2026-10/eab320483590b7eeb13573c04202860de3eb446c908c10e3ff145e0051683f22.txt",
+   "url": "https://www.ebem.be/media/ovshqyki/ebem_tariefkaart-gas-10-2026.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "live",
+ "contract": "ebem_variable",
+ "dsos": {
+  "fluvius_antwerpen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     15.68,
+     0.0226
+    ],
+    "t2": [
+     83.22,
+     0.0091
+    ],
+    "t3": [
+     562.63,
+     0.0059
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_halle_vilvoorde": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     17.59,
+     0.025
+    ],
+    "t2": [
+     93.38,
+     0.0098
+    ],
+    "t3": [
+     631.27,
+     0.0062
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_imewo": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     18.61,
+     0.0262
+    ],
+    "t2": [
+     98.81,
+     0.0102
+    ],
+    "t3": [
+     668.02,
+     0.006500000000000001
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_kempen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     16.17,
+     0.0212
+    ],
+    "t2": [
+     85.83,
+     0.0088
+    ],
+    "t3": [
+     580.25,
+     0.0055000000000000005
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_limburg": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     14.59,
+     0.022400000000000003
+    ],
+    "t2": [
+     77.46,
+     0.0098
+    ],
+    "t3": [
+     523.72,
+     0.0069
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_midden_vlaanderen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     16.33,
+     0.0232
+    ],
+    "t2": [
+     86.71,
+     0.0091
+    ],
+    "t3": [
+     586.19,
+     0.0058
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_west": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     19.03,
+     0.0269
+    ],
+    "t2": [
+     101.02,
+     0.0106
+    ],
+    "t3": [
+     682.96,
+     0.0067
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_zenne_dijle": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     18.4,
+     0.026000000000000002
+    ],
+    "t2": [
+     97.72,
+     0.0102
+    ],
+    "t3": [
+     660.65,
+     0.0064
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.007155000000000001,
+  "factor": 0.001113,
+  "fee": 70.0,
+  "formula": "0,105 ZTP +0,675 c€/kWh excl. BTW",
+  "index": "ZTP-RLP0",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.09091900000000001,
+  "settled": false
+ },
+ "publication_label": "2026-10",
+ "schema": 1,
+ "source_url": "https://www.ebem.be/media/ovshqyki/ebem_tariefkaart-gas-10-2026.pdf",
+ "supplier": "ebem",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0,
+  "excise": [
+   [
+    12000.0,
+    0.0109286
+   ],
+   [
+    null,
+    0.011829600000000001
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-10-31"
+}

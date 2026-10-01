@@ -1,0 +1,77 @@
+{
+ "_seen_on": "2026-10-01",
+ "_sources": [
+  {
+   "pdf": "8866c24d1243e87409a16997230c1641ae63f5977cc3d6aaf8b1cb514109eecb",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "text": "texts/2026-10/7c583e64e243f137d0d02b5ff4002c08226969309b950d57b0d301eba63336ba.txt",
+   "url": "https://files.octaplus.be/tariffs/G_OCTA_SMARTVARIABLE_RE_WL_FR.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "live",
+ "contract": "octaplus_smartvariable",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.0429
+    ],
+    "t2": [
+     140.93,
+     0.022099999999999998
+    ]
+   },
+   "transport": 0.00165
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.0253
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.0106,
+  "factor": 0.001219,
+  "fee": 160.0,
+  "formula": "ZTP RLP M* 1,15+ 10",
+  "index": "ZTP RLP M",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0949,
+  "settled": false
+ },
+ "publication_label": "2026-10",
+ "schema": 1,
+ "source_url": "https://files.octaplus.be/tariffs/G_OCTA_SMARTVARIABLE_RE_WL_FR.pdf",
+ "supplier": "octaplus",
+ "taxes": {
+  "card_vat_rate": null,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010580000000000001,
+  "excise": [
+   [
+    12000.0,
+    0.010929
+   ],
+   [
+    null,
+    0.01183
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-10-31"
+}

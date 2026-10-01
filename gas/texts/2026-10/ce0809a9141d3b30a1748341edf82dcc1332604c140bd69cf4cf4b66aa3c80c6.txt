@@ -1,0 +1,139 @@
+Carte tarifaire
+• Gaz en Région de Région wallonne
+• TVA % incluse
+Avantages de la formule * Coût de l’énergie
+fournie par TotalEnergies
+Coût de transport et distribution
+de l’énergie
+Taxes et surcharges
+TVA
+Conditions particulières applicables aux consommateurs 1. Tarifs fournisseur :
+résidentiels en Région wallonne.
+1.1 [Coût de l’énergie fournie par TotalEnergies] :
+Ces conditions sont applicables aux nouveaux contrats à durée
+Le prix variable de l’énergie et de la redevance fixe
+indéterminée** établis en
+2. Tarifs régulés [Coûts de réseaux et prélèvements] :
+2.1 [ Coût de transport et distribution de l’énergie]
+(intégralement restitués aux GRD/GRT)
+2.2 [ Taxes et surcharges]
+(intégralement restituées aux entités concernées)
+Coûts de l’énergie
+71:5
+5202
+erbmetpes
+81
+| RF_ZAG_elbairaV
+laitnessEym_LAWR-C2B
+| TSAF
+TotalEnergies myEssential Variable
+septembre 2026
+Conditions particulières relatives à la formule variable myEssential Variable
+6
+"myEssential Variable"
+• Durée indéterminée
+• Gérez votre contrat dans l'app
+• Téléphonez et chattez avec un expert en énergie
+• Facturation par e-mail
+*Basé sur une consommation moyenne de 12.000 kWh/an d'une famille, et le prix moyen
+des gestionnaires de réseaux.
+septembre 2026
+L'offre "TotalEnergies myEssential Variable" est une formule tarifaire
+accessible aux consommateurs résidentiels avec des compteurs à
+relevé annuel.
+Les prix qui vous sont facturés en vertu de votre contrat sont
+constitués de 2 parties :
+Redevance
+Consommation ***
+fixe 0
+(c€/kWh)
+(€/an)
+7,32 Tarif mensuel
+35,00
+0.1009 * TTF_M_RLP + 0.604 Formule tarifaire
+La formule (HTVA) présentée dans le tableau ci-dessus va permettre à TotalEnergies de calculer le prix de l'énergie à deux moments de l'année. 1/Au moment de
+déterminer le montant de la facture d'acompte, le prix de l'électricité sera déterminé sur base de la valeur de l’indice repris dans cette formule. 2/Au moment de la
+régularisation annuelle, la formule de prix est utilisée pour calculer le prix final.
+Qu'est-ce que l'indice ? L’indice TTF_M_RLP représente la moyenne pondérée des cotations journalières « Day Ahead Baseload » par le profil RLP durant le mois de
+fourniture. Les valeurs du TTF sont disponibles sur le site https://www.eex.com/en/.
+Qu'est-ce que le profil RLP ? Le profil RLP correspond à la moyenne arithmétique des profils de consommations RLP (=Real Load Profiles) de tous les gestionnaires
+de réseau en Belgique publiés par Synergrid.
+***Les prix repris dans le tableau ci-dessus et indexés mensuellement sont estimés pour le prélèvement de l'énergie selon la méthodologie du Vlaamse
+Nutsregulator : https://www.vlaamsenutsregulator.be/nl/faq/hoe-berekent-de-v-testr-de-geschatte-jaarkost-voor-variabele-contracten. La valeur exacte de l’indice
+repris dans votre formule n’est connue qu’à la fin du mois en cours. Cette méthodologie nous permet de calculer une estimation des prix futurs afin d'être au plus
+proche des évolutions des prix de l'énergie.
+A titre indicatif, ci-dessous le prix mensuel calculé sur base de la dernière valeur connue du TTF_M_RLP (du mois précédent) :
+Compteur Simple : 7,24 € cent/kWh
+71:5
+5202
+erbmetpes
+81
+| RF_ZAG_elbairaV
+laitnessEym_LAWR-C2B
+| TSAF
+Carte tarifaire
+TotalEnergies myEssential Variable
+septembre 2026
+Coûts de réseaux et prélèvements
+Taxes et
+surcharges 3
+Coûts de transport et de distribution
+Ces surcharges sont intégralement reversées aux gestionnaires de réseaux de distribution et de transport. Ces surcharges sont
+intégralement reversées
+aux autorités publiques.
+Coûts de distribution - Terme variable2 Coûts de distribution - Terme fixe2
+(c€/kWh) (€/an) Coût activité Redevance Cotisation
+Gestionnaire
+Transport1 de mesure de sur
+de réseau 5001- 150.001- 5001- 150.001-
+0-5000 0-5000 (c€/kWh) et comptage raccordement l’énergie
+de distribution 150.000 400.000 150.000 400.000
+KWh KWh (€/an) (c€/kWh) (c€/kWh)
+KWh KWh KWh KWh
+Région wallonne
+RESA SA 4,64 2,53 2,24 34,59 122,05 962,74 0,17 0,00 0,01 0,11
+ORES (Namur - Namen) 4,29 2,21 1,64 31,91 140,93 889,48 0,17 0,00 0,01 0,11
+ORES (Hainaut - Henegouwen) 4,29 2,21 1,64 31,91 140,93 889,48 0,17 0,00 0,01 0,11
+ORES (Luxembourg - Luxemburg) 4,29 2,21 1,64 31,91 140,93 889,48 0,17 0,00 0,01 0,11
+ORES (Waals-Brabant Wallon) 4,29 2,21 1,64 31,91 140,93 889,48 0,17 0,00 0,01 0,11
+ORES (Mouscron - Moeskroen) 4,29 2,21 1,64 31,91 140,93 889,48 0,17 0,00 0,01 0,11
+Accise fédérale 4 c€/kWh
+Consommation entre 0 et 12.000 kWh 1,09
+> 12.000 kWh 1,18
+L’offre TotalEnergies myEssential Variable est soumise aux conditions particulières du produit myEssential Variable
+(https://totalenergies.be/fr/files/CGV-myEssential.pdf) ainsi qu’aux conditions générales de TotalEnergies. En cas de contradiction entre les
+présentes conditions contractuelles et les conditions générales de TotalEnergies
+(https://totalenergies.be/fr/particuliers/conditions-generales-totalenergies-groupe), les présentes conditions
+prévalent.
+• Rendez-vous sur votre espace client
+• Consultez notre FAQ
+Besoin d’aide?
+https://totalenergies.be/fr/particuliers/aide-et-contact/
+questions-frequentes
+• Posez vos questions via notre chat
+** TotalEnergies s'engage à ne pas augmenter les prix de l'énergie fournie par TotalEnergies pendant les 12 premiers mois de livraison. Après cette période, TotalEnergies pourra réviser les
+prix de l'énergie conformément à l'article 2.2. des Conditions spécifiques (https://totalenergies.be/fr/files/CGV-myEssential.pdf), sans préjudice des droits du client décrits dans ce même article.
+0 La redevance fixe est une indemnité forfaitaire par raccordement au gaz. En cas de résiliation anticipée par le Client six mois après le début de la fourniture conformément au contrat de
+fourniture initial ou en cas de résiliation à partir de la deuxième année, une redevance fixe sera facturée au prorata du nombre de jours de fourniture.
+1 TotalEnergies intervient dans la collecte des coûts de réseau de transport en tant qu'intermédiaire. Les sommes perçues sont intégralement restituées au Gestionnaire de Réseau de
+Transport (GRT), Fluxys. Tarifs de réseau de transport tels qu'approuvés par le régulateur fédéral (CREG) et publiés sur son site officiel (www.creg.be).
+2 TotalEnergies intervient dans la collecte des coûts de réseau de distribution en tant qu'intermédiaire. Les sommes perçues sont intégralement restituées aux Gestionnaires de Réseau de
+Distribution (GRD). Tarifs de réseau de distribution tels qu'approuvés par le régulateur régional (CWaPE) et publiés sur son site officiel (www.cwape.be).
+3 Les contributions, taxes et surcharges telles qu'en vigueur à la date de l'établissement de cette carte tarifaire (publiés sur le site officiel www.cwape.be). Toute modification légale des
+taxes, cotisations ou contributions sera répercutée au client sans majoration.
+4 Le produit de cette cotisation fédérale est destiné au financement de trois fonds gérés par la CREG : le fonds CREG, le fonds social énergie et le fonds clients protégés. Le montant de cette
+cotisation est fixé par arrêté en application de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations. La CREG est habilitée à contrôler la correcte
+application des dispositions relatives à la cotisation fédérale.
+Conformément à l'article 6.4. des conditions générales de vente pour la fourniture d'électricité et/ou de gaz naturel aux particuliers, le Client qui remplit les conditions du Tarif Social
+conformément à l'article 2 de l'arrêté ministériel du 30 mars 2007, ou conformément à l'article 4 de la Loi Programme du 27 avril 2007, ou conformément à la législation qui les remplacerait,
+peut bénéficier du Tarif Social. A compter du moment où le Tarif Social est appliqué, le Client bénéficie de ce tarif spécifique et les conditions particulières de ce Tarif Social s'appliqueront au
+Client.
+Conformément à la réglementation européenne, à partir du 1er janvier 2027, TotalEnergies est tenu de restituer chaque année un volume de quotas d’émission correspondant aux émissions de CO₂ liées à la
+consommation de gaz naturel de ses clients finaux. Cette obligation entraîne un coût supplémentaire, qui sera répercuté au client selon la formule suivante dans le respect de la réglementation en vigueur :
+Coût ETS2 = Consommation de gaz naturel (en MWh) × Facteur d’émission (tonnes de CO₂/MWh) × Prix du quota ETS2 (€/tonne de CO₂)
+- Le facteur d’émission est déterminé par l’autorité compétente.
+- Le prix du quota ETS2 est établi sur la base du prix de marché des quotas d’émission de CO₂, majoré des frais de sourcing de TotalEnergies.
+Le coût ETS2 sera mentionné de manière distincte et transparente sur la facture du client, hors TVA. La valeur du prix du quota ETS2 sera publiée sur le site internet de TotalEnergies dès que le marché des
+quotas ETS2 sera opérationnel.
+La présente disposition est sujette à modification en fonction de l’évolution de la législation et de la réglementation applicables. TotalEnergies se réserve le droit d’adapter la méthode de calcul et/ou les
+paramètres applicables conformément à toute évolution légale ou réglementaire future.

@@ -1,0 +1,87 @@
+Tariefkaart particulier gas - september 2026
+1.   Abonnementsvergoeding/jaar
+Jaarlijkse abonnementskost €60
+2.   Energieprijsberekening
+*€c7,54/kWh
+**€c7,47/kWh
+*Ingeschat tarief volgende 12 maanden volgens methodologie vlaamsenutsregulator (excl. BTW)
+**Ingeschat tarief op basis van historische maandprijs (laatst gekende waarde van TTF-DAM 8/2026: €61,72903/MWh)
+De gasprijs is een variabele prijs die de groothandelsprijzen volgt volgens onderstaande 
+formule, excl. BTW, waarbij de indexatieparameter TTF_RLP gedefinieerd is als RLP gewogen 
+gemiddelde dagprijs op de TTF Day Ahead markt. 
+Formule (TTF_RLP x 1) + €13/MWh
+Tariefkaart geldig voor de levering van gas aan residentiële klanten in Vlaanderen. 
+Alle prijzen zijn inclusief BTW tenzij anders vermeld.
+De abonnementskost is een vergoeding voor onze operationele kosten. 
+*Tijdens de eerste zes maanden dat men klant is, is de abonnementskost integraal 
+verschuldigd voor een periode van zes maanden, ook als je tijdens deze eerste zes maanden 
+overstapt naar een andere leverancier. Vanaf de zevende maand wordt de abonnementskost 
+________________________
+evident  energie
+www.evidentenergie.be
+Energy Together bv | Puursesteenweg 390 C, 2880 Bornem 
+BE 0800 104 795 | klantenservice@evidentenergie.be P. 1 / 3
+3.  Taksen en heffingen
+Bijzondere accijns op Energie < 12.000 kWh €c0,8724
+Bijzondere accijns op Energie > 12.000 kWh €c0,9457
+Bijdrage op Energie €c0,1057
+4. Databeheer - en transportkosten
+FLUVIUS ANTWERPEN
+FLUVIUS LIMBURG
+FLUVIUS WEST
+FLUVIUS IMEWO
+FLUVIUS MIDDEN-VLAANDEREN
+FLUVIUS KEMPEN
+FLUVIUS ZENNE-DIJLE
+FLUVIUS HALLE-VILVOORDE
+Netbeheerder
+Vlaanderen
+Fluvius
+Databeheer
+tarief
+(€/jaar)1
+Transportkosten
+(€c/kW jaar)
+18,92 0,165
+1 Databeheertarief: de kosten van alle  activiteiten die de databeheerder moet uitvoeren 
+op data geregistreerd door alle types meters. 
+________________________
+evident  energie
+www.evidentenergie.be
+Energy Together bv | Puursesteenweg 390 C, 2880 Bornem 
+BE 0800 104 795 | klantenservice@evidentenergie.be P. 2 / 3
+5.   Distributiekosten
+Variabel
+(€c/kWh)
+Vast
+(€/jaar)
+Variabel
+(€c/kWh)
+Vast
+(€/jaar)
+FLUVIUS ANTWERPEN 2,26 15,68 0,91 83,22
+FLUVIUS LIMBURG 2,50 17,59 0,98 93,38
+FLUVIUS WEST 2,63 18,61 1,02 98,81
+FLUVIUS IMEWO 2,27 16,17 0,88 85,83
+FLUVIUS MIDDEN-VLAANDEREN 2,24 14,59 0,98 77,46
+FLUVIUS KEMPEN 2,32 16,33 0,91 86,71
+FLUVIUS ZENNE-DIJLE 2,69 19,03 1,06 101,02
+FLUVIUS HALLE-VILVOORDE 2,60 18,4 1,02 97,72
+6. Duur van de (Terug)Leveringsovereenkomst 
+De (Terug)Leveringsovereenkomst heeft een duurtijd van één  jaar.
+7. Algemene Voorwaarden
+Klik hier om deze lezen op onze website.
+Netbeheerder
+Vlaanderen
+Fluvius
+Distributiekosten
+Kleinverbruik
+< 5000 kWh
+Gemiddeld verbruik
+> 5000 kWh
+en <= 150.000 kWh
+________________________
+evident  energie
+www.evidentenergie.be
+Energy Together bv | Puursesteenweg 390 C, 2880 Bornem 
+BE 0800 104 795 | klantenservice@evidentenergie.be P. 3 / 3

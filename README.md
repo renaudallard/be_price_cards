@@ -1,10 +1,11 @@
 # Price cards
 
-Everything the Belgian price integrations read off a supplier's tariff card:
-the card itself, kept as a release asset named by its SHA-256, and what was
-parsed out of it. One namespace per integration:
+The tariff cards the Belgian price integrations read, kept as release assets
+named by their SHA-256. One namespace per integration, whose own README says
+what it keeps beside the cards:
 
 - `electricity/`: homeassistant_be_electricity_prices, releases `electricity-<YYYY-MM>`.
-- `water/`: be_water_prices, releases `water-<YYYY-MM>`.
+- `gas/`: homeassistant_be_gas_prices, releases `gas-<YYYY-MM>`.
+- `water/`: homeassistant_be_water_prices, releases `water-<YYYY-MM>`.
 
 Nothing here is edited by hand.

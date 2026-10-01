@@ -1,0 +1,77 @@
+{
+ "_seen_on": "2026-10-01",
+ "_sources": [
+  {
+   "pdf": "57d6f7b5880166843db93af1a26df2a151c9ad6e38c18e095327a69456bfc13a",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "text": "texts/2026-10/1a07099992798395f473b35b5f11f58d5b0584fa60113c4788c169fbc5bb4888.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_FLOW_R_GREY_C_I_48_B_F&monthOffset=0&segment=R&language=F",
+   "variant": "plain"
+  }
+ ],
+ "_via": "live",
+ "contract": "engie_flow",
+ "dsos": {
+  "sibelga": {
+   "metering": 24.95,
+   "tiers": {
+    "t1": [
+     15.9,
+     0.0199
+    ],
+    "t2": [
+     43.07,
+     0.01447
+    ],
+    "t3": [
+     1001.55,
+     0.00808
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.010350900000000001,
+  "factor": 0.0010811999999999998,
+  "fee": 50.0,
+  "formula": "Prélèvement: 0,9765 + (0,1020 x ZTPDAM (Heren)",
+  "index": "ZTPDAM",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.09187,
+  "settled": false
+ },
+ "publication_label": "2026-10",
+ "schema": 1,
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF",
+ "supplier": "engie",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0,
+  "excise": [
+   [
+    12000.0,
+    0.0109286
+   ],
+   [
+    null,
+    0.011829600000000001
+   ]
+  ],
+  "osp": {
+   "gt160": 970.41,
+   "q100": 522.79,
+   "q10_gt5000": 12.59,
+   "q10_le5000": 3.56,
+   "q16": 30.4,
+   "q160": 671.36,
+   "q25": 75.18,
+   "q40": 150.35,
+   "q65": 376.0
+  },
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-10-31"
+}
