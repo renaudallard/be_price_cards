@@ -10,7 +10,7 @@ captured while it was current; a month marked `(not parsed)` is a card the archi
 holds but no reader could read, so there is no JSON to link; a blank cell is a
 month the archive does not hold.
 
-- [aspiravi](coverage/aspiravi.md): 1 rows, 2025-10 to 2026-09
+- [aspiravi](coverage/aspiravi.md): 1 rows, 2025-10 to 2026-10
 - [bolt](coverage/bolt.md): 36 rows, 2025-10 to 2026-10
 - [cociter](coverage/cociter.md): 3 rows, 2025-10 to 2026-09
 - [ebem](coverage/ebem.md): 3 rows, 2025-10 to 2026-10
@@ -19,7 +19,7 @@ month the archive does not hold.
 - [eneco](coverage/eneco.md): 7 rows, 2025-10 to 2026-10
 - [energiebe](coverage/energiebe.md): 3 rows, 2025-12 to 2026-09
 - [energyknights](coverage/energyknights.md): 6 rows, 2025-10 to 2026-09
-- [energyvision](coverage/energyvision.md): 9 rows, 2025-11 to 2026-09
+- [energyvision](coverage/energyvision.md): 9 rows, 2025-11 to 2026-10
 - [engie](coverage/engie.md): 53 rows, 2025-10 to 2026-10
 - [frank](coverage/frank.md): 5 rows, 2025-10 to 2026-10
 - [luminus](coverage/luminus.md): 20 rows, 2025-10 to 2026-10

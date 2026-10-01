@@ -385,14 +385,14 @@ L'injection sera payée en même temps que la facture de régularisation, en
 soustraction du volume consommé. Sur demande du client professionnel, une
 facture séparée peut également être générée par autofacturation.
 Réduction
-Si vous souscrivez à un nouveau contrat Plenty Fixe au cours du mois
-d’octobre 2026, vous bénéficiez d’une réduction de 10,0 c€/kWh (TVA
-comprise), ainsi que d’une compensation d’injection supplémentaire
-de 1,0 c€/kWh (hors TVA) pendant toute la durée du contrat. La
-réduction sur l’injection s’applique à la quantité brute d’électricité
-injectée ; elle est appliquée au prorata selon la formule : réduction =
-(kWh injectés × 1,0 c€/kWh). La réduction est octroyée lors de la facture
-de décompte annuelle.
+Si vous souscrivez à un nouveau contrat Plenty Fixe en Flandre au cours
+du mois d’octobre 2026, vous bénéficiez d’une réduction de 10,0 c€/
+kWh (TVA comprise), ainsi que d’une compensation d’injection
+supplémentaire de 1,0 c€/kWh (hors TVA) pendant toute la durée du
+contrat. La réduction sur l’injection s’applique à la quantité brute
+d’électricité injectée ; elle est appliquée au prorata selon la formule :
+réduction = (kWh injectés × 1,0 c€/kWh). La réduction est octroyée lors
+de la facture de décompte annuelle.
 Conditions
 Pour ce produit, vous devez détenir au moins une part de la coopérative de 250
 euros auprès de Plenty Coop SC (https://plenty.be/), au plus tard dans le mois

@@ -23,6 +23,30 @@
       "pdf": "f51a4b5171756c7cd779bf42e8974a98227d9fd231132a4194d9574a5a2c7a67"
     }
   ],
+  "totalenergies/totalenergies_electricite_variable/brussels/2026-10": [
+    {
+      "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/ELECTRICITE-VARIABLE_ELECTRICITY_BXL_FR.pdf",
+      "pdf": "9a6ac0224c3a9993b5cf67a44bace151b1fcf9f6d06d768382478a7d5c69300f"
+    }
+  ],
+  "totalenergies/totalenergies_electricite_variable/flanders/2026-10": [
+    {
+      "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/ELECTRICITE-VARIABLE_ELECTRICITY_VL_FR.pdf",
+      "pdf": "92c06190ffb72480a470f57c3a325e045bcc3e557278506747aacee7665e1a99"
+    }
+  ],
+  "totalenergies/totalenergies_electricite_variable/wallonia/2026-10": [
+    {
+      "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/ELECTRICITE-VARIABLE_ELECTRICITY_WAL_FR.pdf",
+      "pdf": "ea28b260d4a4c6610a4f595c4692f45f402fbda50796c5a60b093fef6e70e2b5"
+    }
+  ],
+  "totalenergies/totalenergies_impact/wallonia/2026-10": [
+    {
+      "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/IMPACT_ELECTRICITY_WAL_FR.pdf",
+      "pdf": "99c38381a904ff9aa83a6ee84bb9ca2e57528c0a1be47b4df8c4fc6afa67db47"
+    }
+  ],
   "totalenergies/totalenergies_mycomfort_fixed/brussels/2026-10": [
     {
       "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_BXL_FR.pdf",
@@ -57,6 +81,24 @@
     {
       "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL-FIXED_ELECTRICITY_WAL_FR.pdf",
       "pdf": "300a81c81e2f0bf6279774b4a8d9cf2e0e48bfab0d0d85d3748b8fc80d715e81"
+    }
+  ],
+  "trevion/energreen/flanders/2026-10": [
+    {
+      "url": "https://trevion.be/tariefkaarten/Tariefkaart-EnergreenByTrevion-Particulier-202610.pdf",
+      "pdf": "83d254e5b2e0ed699c6f3c2362896f35110b2127e43f19c21a659d2cb77db315"
+    }
+  ],
+  "trevion/groene_energie_dynamisch/flanders/2026-10": [
+    {
+      "url": "https://trevion.be/tariefkaarten/Tariefkaart-Groene-Energie-Dynamisch-Particulier-202610.pdf",
+      "pdf": "4b59d54e2df6b36132e354a9332998ac77a3c19c5044d24fbdacd89359ce3c64"
+    }
+  ],
+  "trevion/groene_energie_dynamisch_plus/flanders/2026-10": [
+    {
+      "url": "https://trevion.be/tariefkaarten/Tariefkaart-Groene-Energie-Dynamisch-Plus-Particulier-202610.pdf",
+      "pdf": "4140aa08f907eaceb0a61a4136d5506f05ac372c497f6cb3d11310b4b827bad3"
     }
   ]
 }

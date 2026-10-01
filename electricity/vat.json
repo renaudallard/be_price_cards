@@ -213,8 +213,10 @@
   "2026-10": {
    "rate": 0.06,
    "suppliers": [
+    "aspiravi",
     "ebem",
     "eneco",
+    "energyvision",
     "engie",
     "frank",
     "luminus",
