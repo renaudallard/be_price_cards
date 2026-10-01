@@ -1,0 +1,62 @@
+{
+  "mega/mega_cosy_flex/flanders/2026-10": [
+    {
+      "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-102026-Cosy0110.pdf",
+      "pdf": "e0510ce8244e56d73993b2ea966a6cfa14c12e1b1bf4257ddd0b891a5fc56465"
+    }
+  ],
+  "totalenergies/totalenergies_electricite_fixe/brussels/2026-10": [
+    {
+      "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/ELECTRICITE-FIXE_ELECTRICITY_BXL_FR.pdf",
+      "pdf": "54d622a757910f4a870aadf64005ed395b0435be6097b892b527d969f1ef9d76"
+    }
+  ],
+  "totalenergies/totalenergies_electricite_fixe/flanders/2026-10": [
+    {
+      "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/ELECTRICITE-FIXE_ELECTRICITY_VL_FR.pdf",
+      "pdf": "bfcd89d0d9df825b8c66b8c070b05ca95e2e76374736a1de7e7797e3e3a3550e"
+    }
+  ],
+  "totalenergies/totalenergies_electricite_fixe/wallonia/2026-10": [
+    {
+      "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/ELECTRICITE-FIXE_ELECTRICITY_WAL_FR.pdf",
+      "pdf": "f51a4b5171756c7cd779bf42e8974a98227d9fd231132a4194d9574a5a2c7a67"
+    }
+  ],
+  "totalenergies/totalenergies_mycomfort_fixed/brussels/2026-10": [
+    {
+      "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_BXL_FR.pdf",
+      "pdf": "53b9cd5f98a4e240e331e0adbf73b6e59336e4e6c02088604bfb05a76506dba5"
+    }
+  ],
+  "totalenergies/totalenergies_mycomfort_fixed/flanders/2026-10": [
+    {
+      "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_VL_FR.pdf",
+      "pdf": "452cd5fd6943f2ebd89b2c76350ecf237aee384f4531163519a8f5f6a5db83a7"
+    }
+  ],
+  "totalenergies/totalenergies_mycomfort_fixed/wallonia/2026-10": [
+    {
+      "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_WAL_FR.pdf",
+      "pdf": "8cb02eba596683198d93135f2cb5c8612347afb172081d8c3b6e080b4edc2fb5"
+    }
+  ],
+  "totalenergies/totalenergies_myessential_fixed/brussels/2026-10": [
+    {
+      "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL-FIXED_ELECTRICITY_BXL_FR.pdf",
+      "pdf": "1bade46e4449b39f25f6e97d1581a6c629df508dc668e2b7979b17268f5b2947"
+    }
+  ],
+  "totalenergies/totalenergies_myessential_fixed/flanders/2026-10": [
+    {
+      "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL-FIXED_ELECTRICITY_VL_FR.pdf",
+      "pdf": "bb51fe3eefe8df26de5157275779fd182277e6ea982d9b44ac7fb55cb6619d1a"
+    }
+  ],
+  "totalenergies/totalenergies_myessential_fixed/wallonia/2026-10": [
+    {
+      "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL-FIXED_ELECTRICITY_WAL_FR.pdf",
+      "pdf": "300a81c81e2f0bf6279774b4a8d9cf2e0e48bfab0d0d85d3748b8fc80d715e81"
+    }
+  ]
+}

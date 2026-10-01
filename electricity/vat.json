@@ -1,21 +1,5 @@
 {
  "residential": {
-  "2025-09": {
-   "rate": 0.06,
-   "suppliers": [
-    "aspiravi",
-    "cociter",
-    "ebem",
-    "ecopower",
-    "eneco",
-    "energyknights",
-    "engie",
-    "frank",
-    "luminus",
-    "mega",
-    "octaplus"
-   ]
-  },
   "2025-10": {
    "rate": 0.06,
    "suppliers": [
@@ -227,11 +211,16 @@
    ]
   },
   "2026-10": {
-   "too_few": {
-    "0.06": [
-     "ebem"
-    ]
-   }
+   "rate": 0.06,
+   "suppliers": [
+    "ebem",
+    "eneco",
+    "engie",
+    "frank",
+    "luminus",
+    "mega",
+    "trevion"
+   ]
   }
  },
  "standard": {}

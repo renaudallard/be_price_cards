@@ -10,20 +10,20 @@ captured while it was current; a month marked `(not parsed)` is a card the archi
 holds but no reader could read, so there is no JSON to link; a blank cell is a
 month the archive does not hold.
 
-- [aspiravi](coverage/aspiravi.md): 1 rows, 2025-09 to 2026-09
-- [bolt](coverage/bolt.md): 36 rows, 2025-09 to 2026-09
-- [cociter](coverage/cociter.md): 3 rows, 2025-09 to 2026-09
-- [ebem](coverage/ebem.md): 3 rows, 2025-09 to 2026-10
+- [aspiravi](coverage/aspiravi.md): 1 rows, 2025-10 to 2026-09
+- [bolt](coverage/bolt.md): 36 rows, 2025-10 to 2026-10
+- [cociter](coverage/cociter.md): 3 rows, 2025-10 to 2026-09
+- [ebem](coverage/ebem.md): 3 rows, 2025-10 to 2026-10
 - [ecofix](coverage/ecofix.md): 8 rows, 2026-05 to 2026-09
-- [ecopower](coverage/ecopower.md): 2 rows, 2025-09 to 2026-09
-- [eneco](coverage/eneco.md): 7 rows, 2025-09 to 2026-09
+- [ecopower](coverage/ecopower.md): 2 rows, 2025-10 to 2026-09
+- [eneco](coverage/eneco.md): 7 rows, 2025-10 to 2026-10
 - [energiebe](coverage/energiebe.md): 3 rows, 2025-12 to 2026-09
-- [energyknights](coverage/energyknights.md): 6 rows, 2025-09 to 2026-09
+- [energyknights](coverage/energyknights.md): 6 rows, 2025-10 to 2026-09
 - [energyvision](coverage/energyvision.md): 9 rows, 2025-11 to 2026-09
-- [engie](coverage/engie.md): 53 rows, 2025-09 to 2026-09
-- [frank](coverage/frank.md): 5 rows, 2025-09 to 2026-09
-- [luminus](coverage/luminus.md): 20 rows, 2025-09 to 2026-09
-- [mega](coverage/mega.md): 61 rows, 2025-09 to 2026-09
-- [octaplus](coverage/octaplus.md): 15 rows, 2025-09 to 2026-09
-- [totalenergies](coverage/totalenergies.md): 25 rows, 2026-09 to 2026-09
-- [trevion](coverage/trevion.md): 6 rows, 2026-02 to 2026-09
+- [engie](coverage/engie.md): 53 rows, 2025-10 to 2026-10
+- [frank](coverage/frank.md): 5 rows, 2025-10 to 2026-10
+- [luminus](coverage/luminus.md): 20 rows, 2025-10 to 2026-10
+- [mega](coverage/mega.md): 61 rows, 2025-10 to 2026-10
+- [octaplus](coverage/octaplus.md): 15 rows, 2025-10 to 2026-10
+- [totalenergies](coverage/totalenergies.md): 25 rows, 2026-09 to 2026-10
+- [trevion](coverage/trevion.md): 6 rows, 2026-02 to 2026-10
