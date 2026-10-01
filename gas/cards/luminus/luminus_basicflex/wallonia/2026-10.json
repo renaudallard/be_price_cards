@@ -1,0 +1,85 @@
+{
+ "_seen_on": "2026-10-01",
+ "_sources": [
+  {
+   "pdf": "e9247943ac5039770e455f6f9cf51d285b8d2768ad0c10d63f7b336c88cba602",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "text": "texts/2026-10/aeb32d8b9e24a4b458667623fb6114c3ed8377f99f0889babb439e48189ce225.txt",
+   "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicflex&energyType=gas&language=fr&tabValue=Wallonia",
+   "variant": "plain"
+  }
+ ],
+ "_via": "live",
+ "contract": "luminus_basicflex",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.0429
+    ],
+    "t2": [
+     140.93,
+     0.022099999999999998
+    ],
+    "t3": [
+     889.48,
+     0.016399999999999998
+    ]
+   },
+   "transport": 0.0016539999999999999
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.0253
+    ],
+    "t3": [
+     962.74,
+     0.022400000000000003
+    ]
+   },
+   "transport": 0.0016539999999999999
+  }
+ },
+ "energy": {
+  "base": 0.00594554,
+  "factor": 0.00106106,
+  "fee": 20.0,
+  "formula": "0,1001 x TTF DAH RLP M + 0,5609",
+  "index": "TTF DAH RLP M",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.07139999999999999,
+  "settled": false
+ },
+ "publication_label": "2026-10",
+ "schema": 1,
+ "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicflex&energyType=gas&language=fr&tabValue=Wallonia",
+ "supplier": "luminus",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0,
+  "excise": [
+   [
+    12000.0,
+    0.010929
+   ],
+   [
+    null,
+    0.01183
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-10-31"
+}

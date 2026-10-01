@@ -1,0 +1,90 @@
+{
+ "_seen_on": "2026-10-01",
+ "_sources": [
+  {
+   "text": "texts/2026-10/fcf286b2f326e4548e5527a2c29345b9a453c529b82cc614830524005601ee49.txt",
+   "url": "https://www.energyvision.be/nl-be/tariefkaart",
+   "variant": "text"
+  },
+  {
+   "pdf": "75fb7bd7a6502f339e30b5b80ee4d28fe301a4504f65628b57970547b3b5d5b2",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "text": "texts/2026-10/ac9998191c514afa3715a888f86c54be9fff89d2ad8f1df786d40d58e03b3137.txt",
+   "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1026-GSG-WAL-fr.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "live",
+ "contract": "energyvision_gas",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.042800000000000005
+    ],
+    "t2": [
+     140.93,
+     0.022000000000000002
+    ],
+    "t3": [
+     889.48,
+     0.0163
+    ]
+   },
+   "transport": 0.00165
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0463
+    ],
+    "t2": [
+     122.05,
+     0.0252
+    ],
+    "t3": [
+     962.74,
+     0.022400000000000003
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.004770000000000001,
+  "factor": 0.0010812000000000003,
+  "fee": 70.0,
+  "formula": "1,02 x ZTP-RLP-M + 4,5 EUR/MWh",
+  "index": "ZTP-RLP-M",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0796,
+  "settled": false
+ },
+ "publication_label": "2026-10",
+ "schema": 1,
+ "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1026-GSG-WAL-fr.pdf",
+ "supplier": "energyvision",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.00075,
+  "contribution": 0.0,
+  "excise": [
+   [
+    12000.0,
+    0.0109286
+   ],
+   [
+    null,
+    0.011829600000000001
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-10-31"
+}

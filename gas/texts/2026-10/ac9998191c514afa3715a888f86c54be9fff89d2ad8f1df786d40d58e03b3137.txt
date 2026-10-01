@@ -1,0 +1,59 @@
+Carte tarifaire octobre 2026
+Électricité bon marché - gaz
+Cette carte tarifaire est valable pour le produit « Électricité bon marché - gaz fossile » de octobre 2026 pour la fourniture de gaz fossile aux clients résidentiels
+en Wallonie. Tous les prix et tarifs incluent la TVA à 6 %. (EV-1026-GSG-WAL-fr)
+Bienvenue!
+Prix de l'énergie
+Gaz fossile
+Frais fixes 70 €/an
+Gaz fossile – variable 7,96€cent/kWh
+EnergyVision NV - www.energyvision.be - hello@energyvision.be - Compte bancaire : BE82 7310 6308 8468 (KBC) - BIC : KREDBEBB Page 1
+Carte tarifaire octobre 2026
+Électricité bon marché - gaz
+Explication
+« Électricité bon marché - gaz fossile » est un contrat à durée indéterminée dans lequel le prix de gaz fossile est variable.
+a/ La composante tarifaire variable « Gaz fossile » est indexée chaque mois. Le tarif variable « Gaz fossile » est calculé selon
+la formule suivante : 1,02 x ZTP-RLP-M + 4,5 EUR/MWh. Le paramètre d’indexation est basé sur l’indice quotidien ZTP EGSI
+(disponible sur www.eex.com) pendant le mois de livraison. Pour la consommation, pondérée selon un RLP (Real Load Profile).
+Ce poids RLP est basé sur la moyenne arithmétique des profils de consommation RLP gaz fossile des différents gestionnaires de
+réseau de distribution (publication par Synergrid). La valeur de ZTP-RLP-M du mois en cours n’est connue qu’à la fin du mois. Les
+paramètres d’indexation sont consultables sur https://www.energyvision.be/fr-be/parametres-dindexation.
+b/ Les prix du « Électricité bon marché - gaz fossile » doivent être majorés des taxes, redevances, suppléments et tous montants
+imposés pour l’utilisation des réseaux, ainsi que de la contribution pour l’énergie verte et/ou la cogénération, que EnergyVision peut
+ou doit facturer.
+Conditions
+1/ Le Contrat se compose du produit « Électricité bon marché - gaz fossile », des Conditions Générales, de la grille tarifaire «
+Électricité bon marché - gaz fossile », ensemble appelés le Contrat.
+2/ Pour ce produit, le service est assuré en ligne ou par téléphone. Vous recevez vos factures exclusivement par e-mail.
+3/ L’offre est uniquement valable pour les Clients Résidentiels. Les prix s’appliquent aux raccordements basse pression pour le gaz
+fossile avec une consommation annuelle maximale de 50 000 kWh.
+EnergyVision NV - www.energyvision.be - hello@energyvision.be - Compte bancaire : BE82 7310 6308 8468 (KBC) - BIC : KREDBEBB Page 2
+2026
+Tarifs du réseau
+Taxes, redevances et cotisations
+Tarifs de réseau gaz fossile
+(pour l'utilisation du réseau de distribution et de transport)
+Les tarifs de réseau sont intégralement reversés à votre gestionnaire de réseau. Toutes les charges liées à l’utilisation du réseau, ainsi que les taxes, redevances,
+contributions et surtaxes, restent variables, adaptables et entièrement répercutables sur le client, même avec effet rétroactif. Ces composantes tarifaires sont celles
+approuvées par les Régulateurs au moment de l’élaboration de cette grille tarifaire pour un compteur relevé annuellement. En cas de différence entre les tarifs
+indiqués dans cette grille tarifaire et les contributions légales et/ou les tarifs de réseau, seuls ces derniers prévalent.
+la Région Wallonne Coûts de distribution
+Petite consommation Consommation moyenne Grande consommation Coûts de
+Gestionnaire 0 - 5 000 kWh/an 5 001 - 150 000 kWh/an > 150 000 kWh/an transport
+de réseau
+Consommation Terme fixe Consommation Terme fixe Consommation Terme fixe
+€cent/kWh
+€cent/kWh €/an €cent/kWh €/an €cent/kWh €/an
+BRABANT WALLON 4,28 31,91 2,20 140,93 1,63 889,48 0,165
+HAINAUT GAZ 4,28 31,91 2,20 140,93 1,63 889,48 0,165
+ORES LUXEMBOURG 4,28 31,91 2,20 140,93 1,63 889,48 0,165
+MOUSCRON 4,28 31,91 2,20 140,93 1,63 889,48 0,165
+NAMUR 4,28 31,91 2,20 140,93 1,63 889,48 0,165
+TECTEO RESA 4,63 34,59 2,52 122,05 2,24 962,74 0,165
+Suppléments et accise fédérale
+Suppléments (€cent/kWh)
+Redevance de raccordement 0,07500 €cent/kWh
+Accise fédérale (€cent/kWh)
+Consommation entre 0 & 12.000 kWh 1,09286 €cent/kWh
+Consommation entre 12.000 & 150.000 kWh 1,18296 €cent/kWh
+EnergyVision NV - www.energyvision.be - hello@energyvision.be - Compte bancaire : BE82 7310 6308 8468 (KBC) - BIC : KREDBEBB

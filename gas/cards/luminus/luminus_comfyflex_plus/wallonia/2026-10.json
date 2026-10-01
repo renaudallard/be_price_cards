@@ -1,0 +1,85 @@
+{
+ "_seen_on": "2026-10-01",
+ "_sources": [
+  {
+   "pdf": "135af55134e807f8a22b2663bf6501daf74627e1b6d15041854b5aba836b4cea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "text": "texts/2026-10/880c09e6de49bb6d61f87a6692e50f61fe6b4ee0666a53d9774618b6717763fe.txt",
+   "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex-plus&energyType=gas&language=fr&tabValue=Wallonia",
+   "variant": "plain"
+  }
+ ],
+ "_via": "live",
+ "contract": "luminus_comfyflex_plus",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.0429
+    ],
+    "t2": [
+     140.93,
+     0.022099999999999998
+    ],
+    "t3": [
+     889.48,
+     0.016399999999999998
+    ]
+   },
+   "transport": 0.0016539999999999999
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.0253
+    ],
+    "t3": [
+     962.74,
+     0.022400000000000003
+    ]
+   },
+   "transport": 0.0016539999999999999
+  }
+ },
+ "energy": {
+  "base": 0.025391240000000002,
+  "factor": 0.0010642400000000002,
+  "fee": 50.0,
+  "formula": "0,1004 x TTF DAHW + 0,0000 x TTF 1-0-3 + 2,3954",
+  "index": "TTF DAHW",
+  "kind": "indexed",
+  "period": "quarter",
+  "price": 0.07400000000000001,
+  "settled": false
+ },
+ "publication_label": "2026-10",
+ "schema": 1,
+ "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex-plus&energyType=gas&language=fr&tabValue=Wallonia",
+ "supplier": "luminus",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0,
+  "excise": [
+   [
+    12000.0,
+    0.010929
+   ],
+   [
+    null,
+    0.01183
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-10-31"
+}
