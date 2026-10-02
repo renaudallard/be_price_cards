@@ -1,17 +1,17 @@
 {
- "_cached_at": "2026-09-28T12:00:16.956160+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-09-28",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "text": "texts/2026-09/47cf5c1ee94e2af37d773f5fccf4dc3ddef64f302231bffe661de397fe23ab9e.txt",
+   "text": "texts/2026-10/fe94b154700a7259c33aad95a9fb774fe89dd3c13841db79e83e5da1138448a0.txt",
    "url": "https://trevion.be/tariefkaarten/",
    "variant": "text"
   },
   {
    "pdf": "e0838578e8a61abf2d3ea4ce93a39abfc2c4db364c5191e9572607a58fad9c28",
-   "text": "texts/2026-09/fcd6b71de0d0ae29229e2cb7661ba5420fb87e5f75a19bec2e114c4c059cc5a0.txt",
+   "text": "texts/2026-10/fcd6b71de0d0ae29229e2cb7661ba5420fb87e5f75a19bec2e114c4c059cc5a0.txt",
    "url": "https://trevion.be/tariefkaarten/Tariefkaart-LifePowrByTrevion-Particulier-202609.pdf",
    "variant": "layout"
   }
@@ -233,6 +233,8 @@
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

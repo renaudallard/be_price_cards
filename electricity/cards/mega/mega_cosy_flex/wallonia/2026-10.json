@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-01T06:53:42.551846+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-10-01",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "text": "texts/2026-10/9466957ba4d2c8bea1fa7c645051439706486792aa8565eee29ba039c24090a1.txt",
+   "text": "texts/2026-10/98af465457c4bba0b6e946178679b307ffd887c5cc7274cc09c06cfa17fb3189.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
@@ -174,12 +174,14 @@
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
- "welcome_credit_eur": null,
- "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_eur": 20.0,
+ "welcome_credit_eur_per_kwh": 0.04769999999999999,
  "welcome_credit_excludes_night_meter": false,
- "welcome_credit_injection_eur_per_kwh": null,
- "welcome_credit_kind": "anniversary",
+ "welcome_credit_injection_eur_per_kwh": 0.0053,
+ "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

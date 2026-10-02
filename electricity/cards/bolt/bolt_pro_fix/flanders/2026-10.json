@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-01T06:53:42.551846+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-10-01",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "pdf": "30a9af9bf0dfabe0da93feb8098f362e1954aeb236cf04e069e1f8fdf5ce510f",
-   "text": "texts/2026-10/34114ad4556f05ba0641ef82284813ed55ad9962fdbf5165b82389a736b3d906.txt",
+   "pdf": "88db5ed18ca13e2987921b3cf4929ed4fd4ae550dc4ae225851df80bdf3280d1",
+   "text": "texts/2026-10/38d8379a7577a86432124002f7507ea1e498b39cfb5903eb2028be73507a1c2c.txt",
    "url": "https://files.boltenergie.be/pricelists/fix/fix_pro_el_fr_202610.pdf",
    "variant": "layout"
   }
@@ -202,6 +202,8 @@
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

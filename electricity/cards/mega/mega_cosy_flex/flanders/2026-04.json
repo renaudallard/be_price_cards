@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-09-28T12:00:16.956160+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
+ "_schema_version": 75,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -13,6 +13,11 @@
    "pdf": "51c235587ff2cda562df7d86c38fe91c9824bf13b2b4c16fe882ed01a8ddc97b",
    "text": "texts/2026-09/e5d4f9fefbeaf8d722cfacec0cdd00be7b1a46976bc554a396f512c9e8726a7f.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-042026-Cosy0804.pdf",
+   "variant": "plain"
+  },
+  {
+   "text": "texts/2026-09/7191777e4457b48627ae609622a11eec8301d9e8b8ec90211b8ade6994009ada.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-052026-Cosy0105.pdf",
    "variant": "plain"
   }
  ],
@@ -154,8 +159,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.1534,
-  "exclusive_night": 0.1416,
+  "current": 0.1381,
+  "exclusive_night": 0.1278,
   "formula": null,
   "formula_base": 0.03816,
   "formula_base_exclusive_night": 0.03816,
@@ -170,8 +175,8 @@
   "impact_pic": null,
   "index_realised": null,
   "month_indexed": true,
-  "offpeak": 0.1416,
-  "peak": 0.1671,
+  "offpeak": 0.1278,
+  "peak": 0.15,
   "rlp_blend": "distinct",
   "rlp_indexed": true,
   "yearly_fixed_fee": 90.1,
@@ -183,7 +188,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0232,
+  "current": 0.0018,
   "factor": 0.85,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -245,6 +250,8 @@
  "welcome_credit_injection_eur_per_kwh": 0.0106,
  "welcome_credit_kind": "anniversary",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": true
+ "welcome_credit_requires_direct_debit": true,
+ "welcome_credit_signing_month": null
 }

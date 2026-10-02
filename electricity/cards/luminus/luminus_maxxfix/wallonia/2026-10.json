@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-01T06:53:42.551846+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-10-01",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "pdf": "0a8b1ad5edb52a3e5d430240d75e1920a5734b79855223d1d0cf9277e6fa0723",
-   "text": "texts/2026-10/695706e5b96f9f8fd43c26d1d00e4d991604e426f6cc328f1c58ca7821883564.txt",
+   "pdf": "25f3c8515e961186a08ba72c039bd16c3a95aa1ac1615807c584a50029a92274",
+   "text": "texts/2026-10/0901040ab0093cbdc4c3f68e511a384894723c24bde5c9e36f6a36a729b38e38.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxfix&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"
   }
@@ -110,7 +110,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0558,
+  "current": 0.0688,
   "factor": 0.481,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -155,6 +155,8 @@
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "anniversary",
  "welcome_credit_kwh": 675.0,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

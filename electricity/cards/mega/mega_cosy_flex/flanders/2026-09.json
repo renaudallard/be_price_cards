@@ -1,22 +1,28 @@
 {
- "_cached_at": "2026-09-28T12:00:16.956160+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-09-28",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "text": "texts/2026-09/d4f6afaa34b32a52740bd8803de9acd8e5745450872e7f718825b003f1a4e2df.txt",
+   "text": "texts/2026-10/98af465457c4bba0b6e946178679b307ffd887c5cc7274cc09c06cfa17fb3189.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
-   "pdf": "e5ddb09b58ab253eaa0dbf29d9d7b46d7946cc3f78d5e3f3e14a3041dd856d40",
-   "text": "texts/2026-09/d20c152bb32bd043481c28bb9d64506c88a782cc0fcb89b04aee33deda8a1905.txt",
-   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-092026-Cosy0809.pdf",
+   "pdf": "e9ab59590edd15194a57c3ae3a7db3e7835add3903ae28d8a31582e4cd44286f",
+   "text": "texts/2026-10/4448bcdfc315d7b847527b692f48bfb50dbc06090f0a512100d4920fc99ef11e.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-092026-Cosy0109.pdf",
+   "variant": "plain"
+  },
+  {
+   "pdf": "e0510ce8244e56d73993b2ea966a6cfa14c12e1b1bf4257ddd0b891a5fc56465",
+   "text": "texts/2026-10/cf9095754d96f91afdbbf49dcd1edf76ae4fed24261bfdbe967f0c4102da45ab.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-102026-Cosy0110.pdf",
    "variant": "plain"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "mega_cosy_flex",
  "direct_debit_discount_eur": null,
  "dsos": {
@@ -154,8 +160,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.1948,
-  "exclusive_night": 0.17850000000000002,
+  "current": 0.2297,
+  "exclusive_night": 0.20989999999999998,
   "formula": null,
   "formula_base": 0.03551,
   "formula_base_exclusive_night": 0.03551,
@@ -170,8 +176,8 @@
   "impact_pic": null,
   "index_realised": null,
   "month_indexed": true,
-  "offpeak": 0.17850000000000002,
-  "peak": 0.2138,
+  "offpeak": 0.20989999999999998,
+  "peak": 0.2529,
   "rlp_blend": "distinct",
   "rlp_indexed": true,
   "yearly_fixed_fee": 106.0,
@@ -183,7 +189,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0433,
+  "current": 0.0604,
   "factor": 0.8,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -201,7 +207,7 @@
   "vat_applies": false
  },
  "publication_label": "septembre 2026",
- "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-092026-Cosy0809.pdf",
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-092026-Cosy0109.pdf",
  "supplier": "mega",
  "supplier_prosumer_eur_per_kva_year": 99.60000000000001,
  "taxes": {
@@ -222,12 +228,14 @@
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": 848.0,
  "welcome_credit_direct_debit_eur": null,
- "welcome_credit_eur": 159.0,
+ "welcome_credit_eur": 137.8,
  "welcome_credit_eur_per_kwh": 0.10388,
  "welcome_credit_excludes_night_meter": false,
  "welcome_credit_injection_eur_per_kwh": 0.0106,
  "welcome_credit_kind": "anniversary",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": true
+ "welcome_credit_requires_direct_debit": true,
+ "welcome_credit_signing_month": null
 }

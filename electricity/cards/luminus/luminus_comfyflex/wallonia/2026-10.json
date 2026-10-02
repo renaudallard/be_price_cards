@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-01T06:53:42.551846+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-10-01",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "pdf": "017a97084803107f421e4bdba52f9d9ccbf9669db60acafba0af2415585269cf",
-   "text": "texts/2026-10/c70ff67f562b914394f934151f1badc21c7fad7676b69fac78e54b8cb4c80116.txt",
+   "pdf": "82fe895f59a336e80bb24bb53c527ccff0fb32817c9050671315ef6f5c153eeb",
+   "text": "texts/2026-10/d241bebc06efdd66bffc2dcff5111fb5cfd756379493246b200a6423bc82751d.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"
   }
@@ -101,8 +101,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.1628,
-  "exclusive_night": 0.1426,
+  "current": 0.2061,
+  "exclusive_night": 0.1797,
   "formula": null,
   "formula_base": null,
   "formula_base_exclusive_night": null,
@@ -117,8 +117,8 @@
   "impact_pic": null,
   "index_realised": null,
   "month_indexed": false,
-  "offpeak": 0.1426,
-  "peak": 0.1885,
+  "offpeak": 0.1797,
+  "peak": 0.2394,
   "rlp_blend": "distinct",
   "rlp_indexed": false,
   "yearly_fixed_fee": 65.0,
@@ -130,7 +130,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.038900000000000004,
+  "current": 0.056799999999999996,
   "factor": null,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -175,6 +175,8 @@
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
- "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_kwh_rate": null,
+ "welcome_credit_pct_of_energy": 0.27,
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

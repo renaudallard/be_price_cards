@@ -1,22 +1,23 @@
 {
- "_cached_at": "2026-09-28T12:00:16.956160+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-09-28",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "text": "texts/2026-09/e441fffc898458cdd557c54dcb5fe95820c64965b3f02ee0f4db9c677e9fd3c4.txt",
-   "url": "https://eneco.be/nl/elektriciteit-gas/tariefkaarten",
-   "variant": "text"
+   "pdf": "cbca11920fbf8fd6bd5b960fdbab5afe97f97850ac4f9b06e15fcf2aface4a86",
+   "text": "texts/2026-10/7f9b5350d336ead99e6de7310af7613cc8181a39aff4d6ab990d130557ff8ea3.txt",
+   "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012609_NL_ENECO_POWER_FLEX.pdf",
+   "variant": "plain"
   },
   {
-   "pdf": "cbca11920fbf8fd6bd5b960fdbab5afe97f97850ac4f9b06e15fcf2aface4a86",
-   "text": "texts/2026-09/7f9b5350d336ead99e6de7310af7613cc8181a39aff4d6ab990d130557ff8ea3.txt",
-   "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012609_NL_ENECO_POWER_FLEX.pdf",
+   "pdf": "7e8ed1e141a93fb1d0047bbaef08c0865489e2744c6fe61b9ec185e312015f45",
+   "text": "texts/2026-10/ca4e4114e4b8ef457c536631005256f7eec23d70785e58a5d1a00fb2c1665398.txt",
+   "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012610_NL_ENECO_POWER_FLEX.pdf",
    "variant": "plain"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "power_flex",
  "direct_debit_discount_eur": null,
  "dsos": {
@@ -234,7 +235,7 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.1761,
+  "current": 0.20791645599999997,
   "exclusive_night": null,
   "formula": "(0,102 X BELPEX-RLP-M + 3,001)",
   "formula_base": 0.0318106,
@@ -248,7 +249,7 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
+  "index_realised": 0.16288,
   "month_indexed": true,
   "offpeak": null,
   "peak": null,
@@ -308,6 +309,8 @@
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

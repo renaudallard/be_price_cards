@@ -1,17 +1,23 @@
 {
- "_cached_at": "2026-10-01T06:53:42.551846+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-10-01",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "text": "texts/2026-10/f5d5332c8e0871b9663bd6126f8fb3f11af0aa5af10fbeb4962eef9f260c672a.txt",
+   "text": "texts/2026-10/1dbf25068653d7b834a415db12e119e1843ddebedaa3fa4b93959b0e27bc6fe5.txt",
    "url": "https://www.boltenergie.be/fr/listes-des-prix",
    "variant": "text"
   },
   {
-   "pdf": "093a8ed6e9572e1a407e2a55520d496bd775c4efa61302943b731613e281c2f2",
-   "text": "texts/2026-10/668e1a64e84ee15fbc98e9c75fc05cfd8a746e50eb974e9a61b2d1bf92161a6c.txt",
+   "pdf": "a4f8907c554ff7ab4328ecdd6fea50b1a03268ed5ab201deb8718aa19a0bdef1",
+   "text": "texts/2026-10/39b0912627d6be77e12a091a181d203d0c7c64a46d0818c7d6fe9bcb1b9d68a9.txt",
+   "url": "https://files.boltenergie.be/pricelists/var/online_res_el_fr_14.pdf",
+   "variant": "layout"
+  },
+  {
+   "pdf": "8dbdd590c20a5af8aa9cb03f8cd03e21a217bbde855a0e82e29570232493c7eb",
+   "text": "texts/2026-10/aa8e3e6b3b2c91b1c7d94e05c0ccb51552c0bf9675a5757ba313e1132d38905b.txt",
    "url": "https://files.boltenergie.be/pricelists/var/plenty_online_res_el_fr_14.pdf",
    "variant": "layout"
   }
@@ -154,8 +160,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.1905,
-  "exclusive_night": 0.1815,
+  "current": 0.1866244743150685,
+  "exclusive_night": 0.17780170034246576,
   "formula": "Belpex * 1.2137 + 0.017437",
   "formula_base": 0.017437,
   "formula_base_exclusive_night": null,
@@ -165,13 +171,13 @@
   "formula_factor_exclusive_night": null,
   "formula_factor_offpeak": null,
   "formula_factor_peak": null,
-  "impact_eco": 0.097043583,
-  "impact_medium": 0.15315293399999996,
-  "impact_pic": 0.188410919,
+  "impact_eco": 0.141744154,
+  "impact_medium": 0.203509347,
+  "impact_pic": 0.23698319299999998,
   "index_realised": null,
   "month_indexed": false,
-  "offpeak": 0.1815,
-  "peak": 0.2009,
+  "offpeak": 0.17780170034246576,
+  "peak": 0.19681967979452053,
   "rlp_blend": "distinct",
   "rlp_indexed": false,
   "yearly_fixed_fee": 11.879999999999999,
@@ -223,11 +229,13 @@
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
  "welcome_credit_eur": null,
- "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_eur_per_kwh": 0.09,
  "welcome_credit_excludes_night_meter": false,
- "welcome_credit_injection_eur_per_kwh": null,
- "welcome_credit_kind": "pro_rata",
+ "welcome_credit_injection_eur_per_kwh": 0.01,
+ "welcome_credit_kind": "anniversary",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": "2026-10-01"
 }

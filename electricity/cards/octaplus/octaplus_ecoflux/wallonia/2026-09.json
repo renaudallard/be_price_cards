@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-09-28T12:00:16.956160+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-09-28",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
    "pdf": "57e71e33228d3e46dd21da8151f76d79dc8a9b2b0f0a3ea148727350766768b3",
-   "text": "texts/2026-09/e3afd4500fc3eed4fd0dc658300fb4819c432a6cff296476889279dfb76d3c1f.txt",
+   "text": "texts/2026-10/e3afd4500fc3eed4fd0dc658300fb4819c432a6cff296476889279dfb76d3c1f.txt",
    "url": "https://files.octaplus.be/tariffs/E_OCTA_ECOFLUX_RE_WL_FR.pdf",
    "variant": "aligned:1.0"
   }
@@ -175,6 +175,8 @@
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

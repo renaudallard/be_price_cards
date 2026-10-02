@@ -1,18 +1,24 @@
 {
- "_cached_at": "2026-10-01T06:53:42.551846+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-10-01",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "text": "texts/2026-10/f5d5332c8e0871b9663bd6126f8fb3f11af0aa5af10fbeb4962eef9f260c672a.txt",
+   "text": "texts/2026-10/1dbf25068653d7b834a415db12e119e1843ddebedaa3fa4b93959b0e27bc6fe5.txt",
    "url": "https://www.boltenergie.be/fr/listes-des-prix",
    "variant": "text"
   },
   {
-   "pdf": "dc08ec4069a746d72163b8903f6d00a2387a90242af43a061b4413a04ee89b94",
-   "text": "texts/2026-10/8188a5394c5f116341b9a39cad755f6b650c47f17f80d8918d17e967f597c9d0.txt",
+   "pdf": "e7c454f6cadde948b71d556b7badf202d2e7ecb209c917d45c7c9edee38d2edf",
+   "text": "texts/2026-10/86e5cfda7dc1a5d4e262bf336a794069e1bd8bba5dcb963f1543c5e1bdb8889c.txt",
    "url": "https://files.boltenergie.be/pricelists/var/plenty_online_pro_el_fr_14.pdf",
+   "variant": "layout"
+  },
+  {
+   "pdf": "49096b0b469a969841fcc3e073e1bea4717d0752043cff1d24a2f0f71f7f4aec",
+   "text": "texts/2026-10/ff23d5b90c503ca72a2d402e959aeaade5b8562d3dc3111323502bd29b9d6fcf.txt",
+   "url": "https://files.boltenergie.be/pricelists/var/plenty_online_pro_el_nl_14.pdf",
    "variant": "layout"
   }
  ],
@@ -165,9 +171,9 @@
   "formula_factor_exclusive_night": null,
   "formula_factor_offpeak": null,
   "formula_factor_peak": null,
-  "impact_eco": 0.09155055,
-  "impact_medium": 0.14448389999999997,
-  "impact_pic": 0.17774615,
+  "impact_eco": 0.1337209,
+  "impact_medium": 0.19198995,
+  "impact_pic": 0.22356904999999996,
   "index_realised": null,
   "month_indexed": false,
   "offpeak": 0.1677,
@@ -222,11 +228,13 @@
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
  "welcome_credit_eur": null,
- "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_eur_per_kwh": 0.1,
  "welcome_credit_excludes_night_meter": false,
- "welcome_credit_injection_eur_per_kwh": null,
- "welcome_credit_kind": "pro_rata",
+ "welcome_credit_injection_eur_per_kwh": 0.01,
+ "welcome_credit_kind": "anniversary",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": "2026-10-01"
 }

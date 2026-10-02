@@ -1,17 +1,23 @@
 {
- "_cached_at": "2026-09-28T12:00:16.956160+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-09-28",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
    "pdf": "8c642049e01ccccfefd6f72f34a71f6f60a7aeebdd0a7b498669ebd1f7ac587b",
-   "text": "texts/2026-09/70d43a910b22135aae8c078ffa2132966db62cb1b4e117c8f17e3fa07547d279.txt",
+   "text": "texts/2026-10/70d43a910b22135aae8c078ffa2132966db62cb1b4e117c8f17e3fa07547d279.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-092026-Smart0109.pdf",
+   "variant": "plain"
+  },
+  {
+   "pdf": "07c68e7f81b80f60692702356cc7c241e027b8b11dfb8a245edf7e33e8b3be00",
+   "text": "texts/2026-10/0f83d9776f3113355902d0e57ae67fdfd8ba27c6a6f80a6fc69845106e6f7913.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-102026-Smart0110.pdf",
    "variant": "plain"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "mega_pro_smart_flex",
  "direct_debit_discount_eur": null,
  "dsos": {
@@ -149,8 +155,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.1778,
-  "exclusive_night": 0.1624,
+  "current": 0.2107,
+  "exclusive_night": 0.192,
   "formula": null,
   "formula_base": 0.0275,
   "formula_base_exclusive_night": 0.0275,
@@ -165,8 +171,8 @@
   "impact_pic": null,
   "index_realised": null,
   "month_indexed": true,
-  "offpeak": 0.1624,
-  "peak": 0.1957,
+  "offpeak": 0.192,
+  "peak": 0.23260000000000003,
   "rlp_blend": "distinct",
   "rlp_indexed": true,
   "yearly_fixed_fee": 65.0,
@@ -178,7 +184,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0433,
+  "current": 0.0604,
   "factor": 0.8,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -235,6 +241,8 @@
  "welcome_credit_injection_eur_per_kwh": 0.01,
  "welcome_credit_kind": "anniversary",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

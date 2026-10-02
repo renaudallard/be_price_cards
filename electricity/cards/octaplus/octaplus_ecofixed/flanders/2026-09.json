@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-09-28T12:00:16.956160+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-09-28",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
    "pdf": "ba0f5d9c481726da15338b3dbcea8da67d224bb013a97049cc031c0c7e4cf9ba",
-   "text": "texts/2026-09/ef57a89f9c2ca67e1506dd42922f16410e20f4ba9d34035cb22f6eb561004b1b.txt",
+   "text": "texts/2026-10/ef57a89f9c2ca67e1506dd42922f16410e20f4ba9d34035cb22f6eb561004b1b.txt",
    "url": "https://files.octaplus.be/tariffs/E_OCTA_ECOFIXED_RE_VL_FR.pdf",
    "variant": "aligned:1.0"
   }
@@ -202,6 +202,8 @@
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

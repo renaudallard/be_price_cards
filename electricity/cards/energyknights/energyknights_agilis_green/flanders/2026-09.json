@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-09-28T12:00:16.956160+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
+ "_schema_version": 75,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "69e56816e5469416a46aa381126c0388a668f082f9adcb8da36f40844360b83c",
    "text": "texts/2026-09/bd5ca7cfa8cc7e2e13d255f260cb85158ce15483d0f79c976283d96e69b7465c.txt",
-   "url": "https://www.energyknights.be/website/getCurrentTariffchart/agilisonlinegreen/nl",
+   "url": "https://www.energyknights.be/website/getCurrentTariffchart/par/agilisonlinegreen/nl",
    "variant": "layout"
   }
  ],
@@ -174,7 +174,7 @@
   "vat_applies": false
  },
  "publication_label": "2026-09",
- "source_url": "https://www.energyknights.be/website/getCurrentTariffchart/agilisonlinegreen/nl",
+ "source_url": "https://www.energyknights.be/website/getCurrentTariffchart/par/agilisonlinegreen/nl",
  "supplier": "energyknights",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
@@ -201,6 +201,8 @@
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

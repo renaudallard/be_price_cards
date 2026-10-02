@@ -1,22 +1,28 @@
 {
- "_cached_at": "2026-09-28T12:00:16.956160+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-09-28",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "text": "texts/2026-09/47cf5c1ee94e2af37d773f5fccf4dc3ddef64f302231bffe661de397fe23ab9e.txt",
+   "text": "texts/2026-10/fe94b154700a7259c33aad95a9fb774fe89dd3c13841db79e83e5da1138448a0.txt",
    "url": "https://trevion.be/tariefkaarten/",
    "variant": "text"
   },
   {
    "pdf": "38228b4777398bac7e402c185f2db3cecfb85f6c3f7fc0f9183569371a601be7",
-   "text": "texts/2026-09/70599056b2d20ef20af170421a30998f9b3cb2cb1d9697bbb3e537434758992e.txt",
+   "text": "texts/2026-10/70599056b2d20ef20af170421a30998f9b3cb2cb1d9697bbb3e537434758992e.txt",
    "url": "https://trevion.be/tariefkaarten/Tariefkaart-Groene-Stroom-Flex-Particulier-202609.pdf",
+   "variant": "layout"
+  },
+  {
+   "pdf": "9bfab76697580568a3961e029c4fd31828b57c4899761c07f8f9ea873a570ff8",
+   "text": "texts/2026-10/d3587a5dd32c8c13e94dff1f13b92266b60c28a5e58ddb4a869951ea3fe45aff.txt",
+   "url": "https://trevion.be/tariefkaarten/Tariefkaart-Groene-Stroom-Flex-Particulier-202610.pdf",
    "variant": "layout"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "groene_stroom_flex",
  "direct_debit_discount_eur": null,
  "dsos": {
@@ -173,7 +179,7 @@
   "factor_peak": null,
   "factor_pic": null,
   "factor_transition": null,
-  "index_realised": null,
+  "index_realised": 0.16547,
   "rlp_blend": "flanders",
   "rlp_indexed": true,
   "tier_kwh": null,
@@ -188,7 +194,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0501545,
+  "current": 0.0705035,
   "factor": 0.95,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -196,6 +202,7 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": null,
+  "index_realised": 0.10053,
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,
@@ -233,6 +240,8 @@
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

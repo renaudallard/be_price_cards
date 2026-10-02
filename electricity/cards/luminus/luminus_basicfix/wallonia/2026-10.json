@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-01T06:53:42.551846+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-10-01",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "pdf": "9bda9d107f00622d39d281010ff36519ca282ded17d5aceb6beee2398504befa",
-   "text": "texts/2026-10/465d6fb7ae188d9010b5633062c200ceb4ea42e802de9d2ba298eef356d6b67e.txt",
+   "pdf": "a592e8a57bf6a6b1e3c982de406b08411e57134b3457fe2317d448ad529c3519",
+   "text": "texts/2026-10/2ff728606ef5cd1a716a814c0c2f4ac6c854c5a21b7722c62243d8e337fc0efd.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicfix&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"
   }
@@ -110,7 +110,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0508,
+  "current": 0.0638,
   "factor": 0.481,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -155,6 +155,8 @@
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

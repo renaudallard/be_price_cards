@@ -214,13 +214,17 @@
    "rate": 0.06,
    "suppliers": [
     "aspiravi",
+    "cociter",
     "ebem",
+    "ecofix",
     "eneco",
+    "energyknights",
     "energyvision",
     "engie",
     "frank",
     "luminus",
     "mega",
+    "totalenergies",
     "trevion"
    ]
   }

@@ -1,22 +1,28 @@
 {
- "_cached_at": "2026-09-28T12:00:16.956160+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-09-28",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "text": "texts/2026-09/3a04c54a85489a264f5dd67faa51361f99fd10cd289c29a769340e547ef4a157.txt",
+   "text": "texts/2026-10/6b903789262002692ccec37c2f874d44195ec2cb95ea3d1d7f083e3aa09867cd.txt",
    "url": "https://www.ebem.be/tarieven/",
    "variant": "text"
   },
   {
+   "pdf": "fa98c3f6dbde10d5fc772d9e2a12dc152e855939f6a6a8a769486bc8a6141ce3",
+   "text": "texts/2026-10/0a8fe0ae2a4da93eea1c5f9d6ca52ba813cddd38544226ba5145e68752f2a830.txt",
+   "url": "https://www.ebem.be/media/c1bb5li4/ebem_tariefkaart-elek-10-2026.pdf",
+   "variant": "layout"
+  },
+  {
    "pdf": "9aee93d14325f11a9fafa849293905dc290ecaff9baef4dcdfd16e6954ed835c",
-   "text": "texts/2026-09/4d40fb56327c26be0530e7090ee7269bebf6723644eba3b2ab9b12d421b39cb8.txt",
+   "text": "texts/2026-10/4d40fb56327c26be0530e7090ee7269bebf6723644eba3b2ab9b12d421b39cb8.txt",
    "url": "https://www.ebem.be/media/rb2bzwop/ebem_tariefkaart-elek-09-2026.pdf",
    "variant": "layout"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "ebem_basic_plus",
  "direct_debit_discount_eur": null,
  "dsos": {
@@ -154,7 +160,7 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.179589,
+  "current": 0.21413802000000004,
   "exclusive_night": null,
   "formula": "(0.11 BelpexRLP0 + 2.0) c€/kWh ex-VAT",
   "formula_base": 0.0212,
@@ -168,7 +174,7 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
+  "index_realised": 0.16547,
   "month_indexed": true,
   "offpeak": null,
   "peak": null,
@@ -183,7 +189,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.060677,
+  "current": 0.08049025,
   "factor": 0.925,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -191,6 +197,7 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "(0.0925 BelpexSPP0 - 1,25) c€/kWh ex-VAT",
+  "index_realised": 0.10053,
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,
@@ -228,6 +235,8 @@
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

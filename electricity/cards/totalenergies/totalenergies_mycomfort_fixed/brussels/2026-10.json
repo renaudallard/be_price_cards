@@ -1,0 +1,85 @@
+{
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
+ "_probe_key": null,
+ "_schema_version": 75,
+ "_seen_on": "2026-10-15",
+ "_sources": [
+  {
+   "pdf": "53b9cd5f98a4e240e331e0adbf73b6e59336e4e6c02088604bfb05a76506dba5",
+   "text": "texts/2026-10/ae05ff3c86c73f13f9048cdfba8a8f54b968ea6d80c3e2f1fcbd326872a3eadf.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_BXL_FR.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "live",
+ "contract": "totalenergies_mycomfort_fixed",
+ "direct_debit_discount_eur": null,
+ "dsos": {
+  "sibelga": {
+   "brussels_osp_by_tier": {
+    "gt56": 173.25,
+    "le13": 26.71,
+    "le18": 39.94,
+    "le1_44": 0.0,
+    "le36": 53.3,
+    "le56": 106.59,
+    "le6": 13.36,
+    "le9_6": 21.37
+   },
+   "brussels_power_term_above_13kva": 114.88000000000001,
+   "capacity_eur_per_kw_year": null,
+   "data_management_per_year": 64.8,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0753,
+   "distribution_medium": null,
+   "distribution_offpeak": 0.0753,
+   "distribution_peak": 0.09960000000000001,
+   "distribution_pic": null,
+   "distribution_single": 0.09960000000000001,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": null,
+   "transport": 0.0227
+  }
+ },
+ "energy": {
+  "exclusive_night": 0.2207,
+  "offpeak": 0.213,
+  "peak": 0.2423,
+  "single": 0.22769999999999999,
+  "yearly_fixed_fee": 90.0,
+  "yearly_fixed_fee_exclusive_night": null
+ },
+ "energy_kind": "fixed",
+ "injection": null,
+ "publication_label": "octobre 2026",
+ "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_BXL_FR.pdf",
+ "supplier": "totalenergies",
+ "supplier_prosumer_eur_per_kva_year": null,
+ "taxes": {
+  "brussels_renewables": 0.0285,
+  "energy_contribution": 0.002,
+  "energy_fund_eur_per_month": 0.0,
+  "federal_excise": 0.048799999999999996,
+  "federal_excise_bands": null,
+  "flanders_renewables": 0.0,
+  "published_vat_rate": 0.0,
+  "region_connection_fee": 0.0,
+  "region_connection_fee_unavailable": false,
+  "vat_rate": 0.0,
+  "wallonia_renewables": 0.0
+ },
+ "valid_until": null,
+ "welcome_credit_after_months": 12,
+ "welcome_credit_cap_eur": null,
+ "welcome_credit_direct_debit_eur": null,
+ "welcome_credit_eur": null,
+ "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": null,
+ "welcome_credit_kind": "pro_rata",
+ "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
+ "welcome_credit_pct_of_energy": null,
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
+}

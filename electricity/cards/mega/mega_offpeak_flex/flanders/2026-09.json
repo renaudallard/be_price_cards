@@ -1,22 +1,28 @@
 {
- "_cached_at": "2026-09-28T12:00:16.956160+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-09-28",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "text": "texts/2026-09/d4f6afaa34b32a52740bd8803de9acd8e5745450872e7f718825b003f1a4e2df.txt",
+   "text": "texts/2026-10/98af465457c4bba0b6e946178679b307ffd887c5cc7274cc09c06cfa17fb3189.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
    "pdf": "8f6dd3175a544ba2e58d71867207ae919d6a3979fae5d65dc862cf87a53a1b3f",
-   "text": "texts/2026-09/ef734cd7a5ce404d9b03bfee9095b533aafebfcb92b743de296e687bb31d7b5f.txt",
+   "text": "texts/2026-10/ef734cd7a5ce404d9b03bfee9095b533aafebfcb92b743de296e687bb31d7b5f.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-092026-Offpeak-Bi-Var.pdf",
+   "variant": "plain"
+  },
+  {
+   "pdf": "f5bd2f7e0abd42e8253edf55d450cfd3d4e03c724faf4d1799d2f34465c37e62",
+   "text": "texts/2026-10/8ff9f2afee34f1af3711bf3d0b58f762e5941b49ff92a8d94f22b2fc8a843c67.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-102026-Offpeak-Bi-Var.pdf",
    "variant": "plain"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "mega_offpeak_flex",
  "direct_debit_discount_eur": null,
  "dsos": {
@@ -154,8 +160,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.1789,
-  "exclusive_night": 0.152,
+  "current": 0.2138,
+  "exclusive_night": 0.1834,
   "formula": null,
   "formula_base": 0.019610000000000002,
   "formula_base_exclusive_night": 0.00901,
@@ -170,8 +176,8 @@
   "impact_pic": null,
   "index_realised": null,
   "month_indexed": true,
-  "offpeak": 0.152,
-  "peak": 0.20850000000000002,
+  "offpeak": 0.1834,
+  "peak": 0.24760000000000001,
   "rlp_blend": "distinct",
   "rlp_indexed": true,
   "yearly_fixed_fee": 74.2,
@@ -183,7 +189,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0433,
+  "current": 0.0604,
   "factor": 0.8,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -228,6 +234,8 @@
  "welcome_credit_injection_eur_per_kwh": 0.0106,
  "welcome_credit_kind": "anniversary",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

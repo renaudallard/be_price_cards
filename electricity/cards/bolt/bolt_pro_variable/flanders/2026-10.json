@@ -1,17 +1,17 @@
 {
- "_cached_at": "2026-10-01T06:53:42.551846+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-10-01",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "text": "texts/2026-10/f5d5332c8e0871b9663bd6126f8fb3f11af0aa5af10fbeb4962eef9f260c672a.txt",
+   "text": "texts/2026-10/1dbf25068653d7b834a415db12e119e1843ddebedaa3fa4b93959b0e27bc6fe5.txt",
    "url": "https://www.boltenergie.be/fr/listes-des-prix",
    "variant": "text"
   },
   {
-   "pdf": "681ec3e0b606593b9a359810d4f468452e2a9d7658246faa307721ca572bfe1b",
-   "text": "texts/2026-10/c17ec77edd9f36a3ce6db8a2fd2b2b60bf9aaa2086214ee2b03321cdd0ae11c8.txt",
+   "pdf": "29373e6ab02e2af0101e6a4c14d38ec1c54ff64fc1b14cb96f7c76f90008c2e4",
+   "text": "texts/2026-10/95672c170d6bafcb7cec30d122621d1eeaccee70546924b1c7718917de68a71c.txt",
    "url": "https://files.boltenergie.be/pricelists/var/bolt_pro_el_fr_14.pdf",
    "variant": "layout"
   }
@@ -165,9 +165,9 @@
   "formula_factor_exclusive_night": null,
   "formula_factor_offpeak": null,
   "formula_factor_peak": null,
-  "impact_eco": 0.09155055,
-  "impact_medium": 0.14448389999999997,
-  "impact_pic": 0.17774615,
+  "impact_eco": 0.1337209,
+  "impact_medium": 0.19198995,
+  "impact_pic": 0.22356904999999996,
   "index_realised": null,
   "month_indexed": false,
   "offpeak": 0.1677,
@@ -227,6 +227,8 @@
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

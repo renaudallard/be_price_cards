@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-09-28T12:00:16.956160+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
+ "_schema_version": 75,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "376690641053a00192fbc90a22785e4e6ae2a5288a03dbca17b275c9bbf11880",
    "text": "texts/2026-09/83b38a0af67d1eeb32a60bd36f06253d58d5e8899cf609cfcb5834307a4f5d9a.txt",
-   "url": "https://www.energyknights.be/website/getCurrentTariffchart/essentiaonlinegreen/nl",
+   "url": "https://www.energyknights.be/website/getCurrentTariffchart/par/essentiaonlinegreen/nl",
    "variant": "layout"
   }
  ],
@@ -201,7 +201,7 @@
   "vat_applies": false
  },
  "publication_label": "2026-09",
- "source_url": "https://www.energyknights.be/website/getCurrentTariffchart/essentiaonlinegreen/nl",
+ "source_url": "https://www.energyknights.be/website/getCurrentTariffchart/par/essentiaonlinegreen/nl",
  "supplier": "energyknights",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
@@ -228,6 +228,8 @@
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }

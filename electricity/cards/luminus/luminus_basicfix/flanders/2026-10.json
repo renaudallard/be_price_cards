@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-01T06:53:42.551846+00:00",
+ "_cached_at": "2026-10-02T11:22:55.708544+00:00",
  "_probe_key": null,
- "_schema_version": 73,
- "_seen_on": "2026-10-01",
+ "_schema_version": 75,
+ "_seen_on": "2026-10-02",
  "_sources": [
   {
-   "pdf": "bb4e992a17731bb0ed8b886c06246abbfaf7a09a6a75f09eb5a42559b45c022b",
-   "text": "texts/2026-10/e362d89dc6607cb07fa9697e577a049dedf26ff6249441882b18a214ea543b62.txt",
+   "pdf": "d4de4eb4e4e6f968c2ccf78ad6b317003ffc2b0fc60711fea90c7c1f722c0b73",
+   "text": "texts/2026-10/210a10dc3d292df39ae6bbd69dfea307a05b67977ec3d6834884a72485cb7cb5.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicfix&energyType=electricity&language=fr&tabValue=Flanders",
    "variant": "plain"
   }
@@ -158,7 +158,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0508,
+  "current": 0.0638,
   "factor": 0.481,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -203,6 +203,8 @@
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
- "welcome_credit_requires_direct_debit": false
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
 }
