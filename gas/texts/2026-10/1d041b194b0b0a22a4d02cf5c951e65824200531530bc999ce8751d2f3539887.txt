@@ -1,0 +1,91 @@
+Je energiefactuur bestaat uit volgende componenten:
+Energiekost
+Netwerkkosten
+Heffingen, toeslagen
+BTW
+Energiekost (in c€/kWh)
+Duurtijd contract = onbepaald 
+Connect - Digital M-1 *
+Gas 1,05 * M ZTP rek. gem. EGSI EEX + 0,9 8,651
+€5,3/maand/EAN
+(1)
+(2)
+Netwerkkosten
+Deze kosten voor het gebruik van de distributie- en transportnetten worden integraal doorgestort aan je netbeheerder.
+Tarief 
+databeheer
+Vaste 
+vergoeding 
+€/jaar
+Afname 
+c€/kWh
+Vaste 
+vergoeding 
+€/jaar
+Afname 
+c€/kWh
+Vaste 
+vergoeding 
+€/jaar
+Afname 
+c€/kWh
+Jaarlijks 
+€/jaar
+Fluvius Antwerpen 15,68 2,256 83,22 0,906 562,63 0,586 18,92 0,165
+Fluvius Halle-Vilvoorde 17,59 2,496 93,38 0,980 631,27 0,980 18,92 0,165
+Fluvius Imewo 18,61 2,628 98,81 1,024 668,02 0,645 18,92 0,165
+Fluvius Kempen 16,17 2,275 85,83 0,882 580,25 0,882 18,92 0,165
+Fluvius Limburg 14,59 2,240 77,46 2,240 523,72 0,685 18,92 0,165
+Fluvius Midden-Vlaanderen 16,33 2,317 86,71 0,910 586,19 0,910 18,92 0,165
+Fluvius West 19,03 2,695 101,02 1,055 682,96 0,667 18,92 0,165
+Fluvius Zenne-Dijle 18,40 2,603 97,72 1,016 660,65 0,641 18,92 0,165
+Vaste vergoeding (2)
+Vlaanderen
+Netbeheerder
+*Prijs M-1 vertegenwoordigt het maandelijks rekenkundig gemiddelde “settlement price” van de notering "EEX Gas Futures Month Base ZTP" (werkdagen 
+behalve de laatste van de maand) op www.eex.com voor de maand voorafgaand aan de maand van levering. Deze indicatieve energieprijzen zijn exclusief
+volumeweging.
+De gasprijs is een variabele prijs die de groothandelsprijzen volgt volgens bovenstaande formule, waarbij de indexatieparameter ZTP rekendig gemiddelde 
+gedefinieerd is als het opgemeten verbruik gebaseerde gewogen gemiddelde van de day-ahead baseload ZTP-uurprijzen. Bovenstaande energieprijzen en 
+prijsformulecomponenten zijn in c€/kWh. 
+De vaste vergoeding wordt maandelijks aangerekend op de energiefactuur in functie van het aantal dagen. Bij beëindiging van de 
+energieleveringsovereenkomst door de klant gedurende de eerste 6 maanden van de energieleveringsovereenkomst, is de klant gehouden het saldo te betalen 
+van de vaste vergoeding voor de resterende periode tot 6 maanden.
+0 - 5000 kWh/jaar 5001 - 150000 kWh/jaar
+Transport 
+c€/kWh
+150001 - 1000000 kWh/jaar
+Variabele energieprijs (1)
+Variabele prijzen gas voor residentiële klanten in het Vlaamse Gewest. Alle 
+prijzen zijn inclusief 6% BTW (indien van toepassing). 
+Dots: Gas Connect - Digital
+Tariefkaart oktober 2026
+
+Heffingen en toeslagen
+Deze bijdragen worden integraal doorgestort naar de respectievelijke overheden.
+Toeslagen (c€/kWh)
+  Energiebijdrage 0, 10577
+Federale Accijns (c€/kWh)
+  Verbruik tussen 0 & 12.000 kWh 1 ,093
+  Verbruik > 12.000 kWh 1,183
+Algemene informatie over onze tarieven
+Voorwaarden
+Verzend- en betalingswijze facturen
+Maandelijks afrekeningen
+Dots energy BV - Senator A. Jeurissenlaan 1020, 3520 Zonhoven
+BE0799.161.323 - info@dotsenergy.be - 011/36.96.97
+De algemene en bijzondere voorwaarden van Dots energy BV zijn van toepassing op deze tariefformule. Je kan deze 
+raadplegen op onze website:
+Je ontvangt onze facturen per e-mail. Je kiest je betalingswijze: per domiciliëring of overschrijving. Indien gekozen voor 
+overschrijving zal er een betaallink en QR-code meegestuurd worden om de betaling te faciliteren. Historische facturen 
+alsook je historische data zullen raadpleegbaar zijn via je persoonlijk klantenportaal.
+Indien je gekozen hebt voor maandelijkse afrekeningen, berekenen we je maandelijkse kosten op basis van je werkelijk 
+verbruik en niet op basis van schattingen. Hiervoor is een digitale meter verplicht met een SMR1 meetconfiguratie, zodat we 
+maandelijks je meterstanden automatisch ontvangen. Je betaalt maandelijks alleen voor wat je echt verbruik t.
+L
+et op! Dit creëert een winter-zomer effect in je rekeningen. 
+https://www.dotsenergy.be/algemene-voorwaarden
+Slimme 
+inzichten,
+duurzame
+besparingen.

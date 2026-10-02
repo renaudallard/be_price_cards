@@ -1,0 +1,166 @@
+{
+ "_seen_on": "2026-10-02",
+ "_sources": [
+  {
+   "text": "texts/2026-10/1703b8830eb7104d8ebe4fcf64afc43d21e8087bc9971289470fd9daf26a3917.txt",
+   "url": "https://trevion.be/tariefkaarten/",
+   "variant": "text"
+  },
+  {
+   "pdf": "b01e6a79d4cbf1e115a6dbbbb116e9716796a323ff85c7e3cca8c2bfe4fbfa67",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "text": "texts/2026-10/a69a2d51accc04a04cc03eb3ee8716ee44999619f58604290e7f5f11f9b8103e.txt",
+   "url": "https://trevion.be/tariefkaarten/Tariefkaart-Gas-Flex-Particulier-202610.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "live",
+ "contract": "trevion_gas_flex",
+ "dsos": {
+  "fluvius_antwerpen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     15.68,
+     0.0226
+    ],
+    "t2": [
+     83.22,
+     0.0091
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_halle_vilvoorde": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     17.59,
+     0.025
+    ],
+    "t2": [
+     93.38,
+     0.0098
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_imewo": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     18.61,
+     0.0263
+    ],
+    "t2": [
+     98.81,
+     0.0102
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_kempen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     16.17,
+     0.022799999999999997
+    ],
+    "t2": [
+     85.83,
+     0.0088
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_limburg": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     14.59,
+     0.022400000000000003
+    ],
+    "t2": [
+     77.46,
+     0.0098
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_midden_vlaanderen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     16.33,
+     0.0231
+    ],
+    "t2": [
+     86.71,
+     0.0091
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_west": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     19.03,
+     0.027000000000000003
+    ],
+    "t2": [
+     101.02,
+     0.0106
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_zenne_dijle": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     18.4,
+     0.026000000000000002
+    ],
+    "t2": [
+     97.72,
+     0.0102
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.0053,
+  "factor": 0.0010812,
+  "fee": 39.0,
+  "formula": "(0,102 x TTF_RLP + 0,50) x 1,06",
+  "index": "TTF_RLP",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0868,
+  "settled": false
+ },
+ "publication_label": "2026-10",
+ "schema": 1,
+ "source_url": "https://trevion.be/tariefkaarten/Tariefkaart-Gas-Flex-Particulier-202610.pdf",
+ "supplier": "trevion",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0,
+  "excise": [
+   [
+    12000.0,
+    0.0109286
+   ],
+   [
+    null,
+    0.011829600000000001
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-10-31"
+}

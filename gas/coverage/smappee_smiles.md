@@ -7,6 +7,6 @@ read, and `json` the card as the integration parsed it. A month marked `(mirror)
 copied from the supplier's own archive rather than captured while it was current; a
 blank cell is a month the archive does not hold.
 
-| contract | region | 2026-09 |
-| --- | --- | --- |
-| smappee_smiles_variabel | flanders | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-09/87a877cdb5610aa4efc4563e4024510536782cb0530966f964918f99c798beef.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/smappee_smiles/smappee_smiles_variabel/flanders/2026-09.json) |
+| contract | region | 2026-09 | 2026-10 |
+| --- | --- | --- | --- |
+| smappee_smiles_variabel | flanders | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-09/87a877cdb5610aa4efc4563e4024510536782cb0530966f964918f99c798beef.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/smappee_smiles/smappee_smiles_variabel/flanders/2026-09.json) | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-10/5341a75c2d492293f9e259f35c1b74d2d183430863766ea9b5a05faefb953c47.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/smappee_smiles/smappee_smiles_variabel/flanders/2026-10.json) |

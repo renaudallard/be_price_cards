@@ -7,6 +7,6 @@ read, and `json` the card as the integration parsed it. A month marked `(mirror)
 copied from the supplier's own archive rather than captured while it was current; a
 blank cell is a month the archive does not hold.
 
-| contract | region | 2026-09 |
-| --- | --- | --- |
-| evident_flexi | flanders | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-09/2d1aabadb7658168db5c7655ce4b5b4be71c6fae8c7639d2cf57aac5a5e417fe.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/evident/evident_flexi/flanders/2026-09.json) |
+| contract | region | 2026-09 | 2026-10 |
+| --- | --- | --- | --- |
+| evident_flexi | flanders | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-09/2d1aabadb7658168db5c7655ce4b5b4be71c6fae8c7639d2cf57aac5a5e417fe.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/evident/evident_flexi/flanders/2026-09.json) | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-10/5aa7d67faf4d145c6fad85bdf9a67788f8d836eb6913ec361f557ae3ccd4e4a4.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/evident/evident_flexi/flanders/2026-10.json) |

@@ -7,6 +7,6 @@ read, and `json` the card as the integration parsed it. A month marked `(mirror)
 copied from the supplier's own archive rather than captured while it was current; a
 blank cell is a month the archive does not hold.
 
-| contract | region | 2026-09 |
-| --- | --- | --- |
-| dots_connect_digital | flanders | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-09/9213f62d0ee90badbbc0cf9ece6c110bf0439b5d705efc400afc6a58244da8d3.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/dots/dots_connect_digital/flanders/2026-09.json) |
+| contract | region | 2026-09 | 2026-10 |
+| --- | --- | --- | --- |
+| dots_connect_digital | flanders | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-09/9213f62d0ee90badbbc0cf9ece6c110bf0439b5d705efc400afc6a58244da8d3.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/dots/dots_connect_digital/flanders/2026-09.json) | [pdf](https://github.com/renaudallard/be_price_cards/releases/download/gas-2026-10/9cb4f2276b3d28635f05d71f13bb9755d89e1dcf51f22e53ea4c7f4867f901e6.pdf) [json](https://github.com/renaudallard/be_price_cards/blob/main/gas/cards/dots/dots_connect_digital/flanders/2026-10.json) |

@@ -1,0 +1,85 @@
+{
+ "_seen_on": "2026-10-02",
+ "_sources": [
+  {
+   "ocr": "0.4.2+a5c8a17ccad7",
+   "pdf": "6480a1cb2116e3c8c2af1708c1fd2bb2f835d4fdd2dff21f4e8650b52ac23027",
+   "text": "texts/2026-10/a05e684d4e5d717303e16ec680fd2b1d9d99a78a0a6dff23a89cb1dfdaaa811b.txt",
+   "url": "https://portal.ecofixgp.be/docs/prices/current/GAS_Ecofix_Flexy_NL.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "live",
+ "contract": "ecofix_flexy",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.04198
+    ],
+    "t2": [
+     140.93,
+     0.021150000000000002
+    ],
+    "t3": [
+     889.48,
+     0.01548
+    ]
+   },
+   "transport": 0.00165
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     140.93,
+     0.02259
+    ],
+    "t3": [
+     962.74,
+     0.02241
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.005512,
+  "factor": 0.0010706000000000001,
+  "fee": 60.0,
+  "formula": "tariefformule voor aardgas (excl. btw): (0,1010*TTF-RLP-M) + 0,5200 c€/kWh",
+  "index": "TTF-RLP-M",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0716,
+  "settled": false
+ },
+ "publication_label": "2026-10",
+ "schema": 1,
+ "source_url": "https://portal.ecofixgp.be/docs/prices/current/GAS_Ecofix_Flexy_NL.pdf",
+ "supplier": "ecofix",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087238
+   ],
+   [
+    null,
+    0.0096229
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-10-31"
+}
