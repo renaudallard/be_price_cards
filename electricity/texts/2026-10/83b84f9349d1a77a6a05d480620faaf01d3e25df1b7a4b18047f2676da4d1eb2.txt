@@ -104,10 +104,6 @@ SPOT Belgium pour l’heure concernée. Les valeurs des cotations de l’Epex Sp
 disponibles sur votre espace client “MyMega”. Le prix est déterminé selon la formule tarifaire suivante : Day Ahead Epex Spot * 1,05 + 0,6 c€/kWh.
 Cette formule tarifaire est garantie 2 ans pour votre contrat à durée indéterminée. Dans le tableau ci-dessus, nous affichons un prix calculé sur base
 des prix de l’énergie prévus (prix forecast) pour une livraison les 12 prochains mois conformément à la méthode de calcul des régulateurs.
-- A titre indicatif, la dernière valeur connue du paramètre pour le mois précédent (le 30/09 entre 23h45 et 24h) est la suivante (en c€/kWh): 16.711.
-(*) 
-Cette ristourne est accordée durant la première année du contrat à tout client qui choisit le produit Dynamic. La ristourne est octroyée, dès la
-première facture d'acompte, au prorata des jours de fourniture d'énergie.
 Sources d'énergie pour :
 votre produit : 
  100% verte
@@ -116,7 +112,7 @@ la région flamande (telles qu’approuvées par la VREG) : 94,03% verte,
 Prix du 
 mois 10/2026
  - 
-TVA 6% incluse - Publié le 30-09-2026
+TVA 6% incluse - Publié le 02-10-2026
 1
 /
 4
@@ -135,6 +131,10 @@ info@mega.be
 20 00
 www.mega.be
  
+- A titre indicatif, la dernière valeur connue du paramètre pour le mois précédent (le 30/09 entre 23h45 et 24h) est la suivante (en c€/kWh): 16.711.
+(*) 
+Cette ristourne est accordée durant la première année du contrat à tout client qui choisit le produit Dynamic. La ristourne est octroyée, dès la
+première facture d'acompte, au prorata des jours de fourniture d'énergie.
 Coût énergie verte (2)
 Cotisation Verte (c€/kWh)
 Certificat vert et Cogénération
@@ -351,7 +351,7 @@ https://www.creg.be/fr/cregscan
 Prix du 
 mois 10/2026
  - 
-TVA 6% incluse - Publié le 30-09-2026
+TVA 6% incluse - Publié le 02-10-2026
 3
 /
 4

@@ -1,2 +1,2 @@
-b42f2ab9aeb57646220e76fbefa3435429d77da2becf018d091adcda7d869dc2
+a0d01564fa9beade179a801fb6987e5caf2098dd30074184ba4dc9e2f9f95b6f
 pypdf==6.18.0 pdfplumber==0.11.9 ocr-price-cards==0.4.2+a5c8a17ccad7 pypdfium2==5.13.0 numpy==2.5.3
