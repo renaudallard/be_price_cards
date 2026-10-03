@@ -39,7 +39,7 @@ Composition du prix de l'energie
 4 TVA 6%
 1 Prix de l’énergie fournie par Luminus (TVA incl.)1 :
 Prix du jour
-Énergie (c€/kWh) 7,14
+Énergie (c€/kWh) 8,59
 Estimation annuelle de 
 l'énergie fournie (c€/kWh)2 7,93
 Redevance fixe (€/an) 20,00
@@ -87,7 +87,7 @@ Redevance de raccordement (**)(***) (c€/kWh)
 INFORMATION SUR VOTRE TARIF :
 La TVA sur les prix indiqués et les éventuelles promotions est de 6 %. Si le taux de TVA en vigueur 
 change pendant la durée de votre contrat, alors les prix et les promotions changent également.
-Index (HTVA) :  TTF DAH RLP M  =  61,637 €/MWh (valeur de l'indice de août 2026)
+Index (HTVA) :  TTF DAH RLP M  =  75,301 €/MWh (valeur de l'indice de septembre 2026)
 Formule tarifaire pour le coût de l’énergie (HTVA) :  0,1001  x  TTF DAH RLP M  +  0,5609  
 Les montants mentionnés sont arrondis. Votre tarif sera indexé tous les mois. Le paramètre 
 d'indexation est basé sur la moyenne pondérée des cotations journalières Bid et Offer TTF Day 

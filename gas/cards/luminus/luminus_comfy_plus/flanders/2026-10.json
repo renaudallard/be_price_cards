@@ -1,8 +1,8 @@
 {
- "_seen_on": "2026-10-02",
+ "_seen_on": "2026-10-03",
  "_sources": [
   {
-   "pdf": "c1a4adf880d47921de53bf8a4c14840ee291e28eede4185c75d8304dfc54056c",
+   "pdf": "933f69dfcd761c87ece6c3f1c3fd79213ace9db19a76e5292ab02a89e0739734",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
    "text": "texts/2026-10/73f0a02db507031c350d9aa2a58903c6a811aa0d0b2dd639955a533e014fe28d.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy-plus&energyType=gas&language=fr&tabValue=Flanders",

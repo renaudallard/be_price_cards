@@ -1,10 +1,10 @@
 {
- "_seen_on": "2026-10-01",
+ "_seen_on": "2026-10-03",
  "_sources": [
   {
-   "pdf": "135af55134e807f8a22b2663bf6501daf74627e1b6d15041854b5aba836b4cea",
+   "pdf": "a8463e04b099abb462c9e87a76a75e84d436e582015b269b04996c7d7bed1e61",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
-   "text": "texts/2026-10/880c09e6de49bb6d61f87a6692e50f61fe6b4ee0666a53d9774618b6717763fe.txt",
+   "text": "texts/2026-10/cf2e1393b3d47807bf6f807107f52c95f5254c14cedd7db66f58086edbba872b.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex-plus&energyType=gas&language=fr&tabValue=Wallonia",
    "variant": "plain"
   }
@@ -57,7 +57,7 @@
   "index": "TTF DAHW",
   "kind": "indexed",
   "period": "quarter",
-  "price": 0.07400000000000001,
+  "price": 0.09269999999999999,
   "settled": false
  },
  "publication_label": "2026-10",

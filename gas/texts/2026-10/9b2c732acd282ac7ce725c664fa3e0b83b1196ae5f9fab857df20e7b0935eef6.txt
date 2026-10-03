@@ -1,27 +1,22 @@
-(*) Cet avantage est valable sur Luminus Entretien Chaudière pour l’entretien périodique de votre chaudière de chauffage central au gaz. Pour en bénéficier, vous devez souscrire séparément à un contrat Luminus Entretien Chaudière. 
-Vous trouverez toutes les infos et conditions concernant ce produit sur luminus.be/entretienchaudiere. L’avantage sera octroyé automatiquement et vous permettra de ne payer que 5,45 € (TVA de 6 % incluse) par mois via 
-domiciliation bancaire pendant les 24 premiers mois, au lieu de 7,95 €, à condition que vous conserviez votre contrat Luminus ComfyFlex+ Gaz actuel et que vous n’ayez pas encore bénéficié de cette réduction. Le montant à payer 
-passera à 7,95 € par mois après les 24 premiers mois ou si vous résiliez votre contrat Luminus ComfyFlex+ Gaz. Cet avantage équivaut à une réduction de 60 € au total. En cas de déménagement, cette réduction restera valable si 
-vous transférez votre contrat actuel à votre nouvelle adresse. Le lien de réservation sera envoyé par e-mail 6 mois après la date de début. Cette promotion n’est pas cumulable avec d’autres réductions.
-ComfyFlex+ Gaz(octobre 2026) 
-Conditions particulières : (GCF+0C2.0)
+MaxxFlex Gaz(octobre 2026) 
+Conditions particulières : (GXFL2C2.0)
 Région : Flandre
 Consommateurs : résidentiels
 Tarif : variable
-Durée du contrat : 1 an 
+Durée du contrat : 2 ans 
 Valable pour les Consommateurs résidentiels avec une consommation de gaz annuelle < 100 MWh et des raccordements au réseau de gaz naturel basse pression avec relevé 
 annuel.Dans le cas contraire, Luminus se réserve le droit d’adapter votre prix. 
 VOS AVANTAGES :
 Économie
 Vous bénéficiez des baisses des prix 
 du marché.
+Facilité
+Vous gérez votre compte et vos 
+factures dans My Luminus, votre 
+espace client en ligne.
 Service
 Luminus propose un service 5 étoiles 
 en termes de prestations.
-Économie
-Promotion intéressante pour 
-l’entretien de votre chaudière au 
-gaz.
 SERVICES INCLUS :
 Luminus Extras & Energenius
 Avantages clients sur vos marques 
@@ -29,16 +24,9 @@ préférées.
 My Luminus
 Votre espace client pour gérer tous 
 vos services en ligne.
-Assistance Comfy+
-Chaque année 1 intervention gratuite 
-(conditions sur www.luminus.be/
-AssistanceComfyPlus).
-VOS PROMOS :
-Promo entretien chaudière
-L’entretien obligatoire prévu par la 
-loi de votre chaudière au gaz pour 
-130,80 EUR TVA de 6 % incluse.
-(*)
+My Luminus App
+Contrôlez facilement votre 
+consommation d'énergie.
 Plus d'infos sur luminus.be
 TARIFS :
 Composition du prix de l'energie
@@ -48,12 +36,12 @@ Composition du prix de l'energie
 4 TVA 6%
 1 Prix de l’énergie fournie par Luminus (TVA incl.)1 :
 Prix du jour
-Énergie (c€/kWh) 7,17
+Énergie (c€/kWh) 9,43
 Estimation annuelle de 
-l'énergie fournie (c€/kWh)2 9,63
+l'énergie fournie (c€/kWh)2 8,76
 Redevance fixe (€/an) 50,00
 1 Pour plus d’informations, voir ci-dessous : ‘Informations sur votre tarif’. 
-2 Cette estimation annuelle est basée sur l'évolution actuelle et attendue des prix au cours des quatre prochains trimestres. 
+2 Cette estimation annuelle se base sur l'évolution actuelle et prévue des prix des 12 prochains mois. 
 2 Coûts d'utilisation des réseaux :
 Coûts de distribution
 Gestionnaire de réseau Petite consommation
@@ -94,31 +82,27 @@ Redevance de raccordement  (c€/kWh)
 -
  (*) Tarif différent dépendant de la consommation sur base annuelle : 0-12.000 kWh : 1,0929 c€/kWh, >= 12.001 kWh : 1,1830 c€/kWh 
 INFORMATION SUR VOTRE TARIF :
-Luminus s’engage à ne pas modifier la formule tarifaire appliquée pour la définition des prix de 
-l’énergie fournie par Luminus telle que mentionnée dans les présentes Conditions particulières et 
-ce pendant les 12 premiers mois de livraison. Après cette période, Luminus pourra ajuster l’indice 
-de prix de l’énergie conformément à l’article 11 des Conditions générales, sans préjudice des droits 
-du client décrit dans ce même article. 
 La TVA sur les prix indiqués et les éventuelles promotions est de 6 %. Si le taux de TVA en vigueur 
 change pendant la durée de votre contrat, alors les prix et les promotions changent également.
-Formules tarifaires pour le coût de l’énergie (HTVA):
-Index (HTVA): TTF DAHW =  45,65 €/MWh (valeur de l'indice du 2ième trimestre 2026); 0,1004  x  
-TTF DAHW  +   0,0000  x  TTF 1-0-3  + 2,1754
-Les montants mentionnés sont arrondis. Votre tarif sera indexé tous les trimestres. Les trimestres 
-commencent le 1er janvier, 1er avril, 1er juillet et 1er octobre. La méthode de calcul, ainsi que 
-les valeurs de l’index et de ses composantes, sont publiées sur le site www.luminus.be. Sur le 
-décompte, Luminus appliquera les valeurs moyennes trimestrielles pour les périodes déjà connues 
-au moment du décompte. Pour les périodes auxquelles ces valeurs ne sont pas encore connues au 
-moment du décompte, Luminus appliquera les valeurs moyennes mensuelles. Nous nous réservons 
-le droit d’utiliser de nouveaux paramètres ou de nouvelles composantes pour calculer la formule 
-du prix si les paramètres actuels viennent à changer, sont supprimés ou s'ils devaient ne plus être 
-disponibles. Luminus s'efforcera de maintenir le prix moyen au même niveau. 
+Index (HTVA) :  TTF DAH M  =  75,449 €/MWh (valeur de l'indice de septembre 2026)
+Formule tarifaire pour le coût de l’énergie (HTVA) :  0,1001  x  TTF DAH M  +  1,3450  
+Les montants mentionnés sont arrondis. Votre tarif sera indexé tous les mois. Le paramètre 
+d'indexation est basé sur la moyenne arithmétique des cotations journalières Bid et Offer TTF Day 
+Ahead (pour les jours ouvrables) et Weekend (pour les jours non ouvrables) au cours du mois 
+de fourniture (disponible sur www.icis.com dans le rapport European Spot Gas Markets (ESGM) 
+sous le titre « TTF price assessment »). La valeur TTF DAHW M du mois en cours n'est connue 
+qu'à la fin du mois. Les prix affichés sont calculés sur la base de la dernière valeur TTF DAHW M 
+connue (mois précédent). L'historique des valeurs TTF DAHW M peut être consulté sur le site Web 
+www.luminus.be. Nous nous réservons le droit d’utiliser de nouveaux paramètres ou de nouvelles 
+composantes pour calculer la formule du prix si les paramètres actuels viennent à changer, sont 
+supprimés ou s'ils devaient ne plus être disponibles. Luminus s'efforcera de maintenir le prix moyen 
+au même niveau.
 Le coût de l’énergie, qui varie en fonction de l’évolution des paramètres composant la formule 
 tarifaire indexée, est calculé sur base de l’index applicable durant la période pour laquelle vous 
 êtes facturés lors du décompte de votre consommation réelle. Les montants mentionnés dans votre 
 décompte peuvent dès lors varier par rapport aux prix ci-dessus.
-La redevance fixe est une redevance annuelle forfaitaire par raccordement au réseau de gaz 
-qui couvre tous les coûts d’exploitation fixes de Luminus. Si le contrat avec Luminus est résilié 
+La redevance fixe est une redevance annuelle forfaitaire par raccordement au réseau de gaz qui 
+couvre tous les coûts d’exploitation fixes de Luminus. Si le contrat avec Luminus est résilié 
 prématurément (= dans le courant du premier semestre à compter du début de la fourniture), le 
 client sera tenu de payer la moitié de la redevance fixe annuelle par raccordement au réseau de 
 gaz. Au terme du premier semestre à compter du début de la fourniture, la redevance fixe n’est 
@@ -139,34 +123,32 @@ prix du marché des droits d'émission de CO2 et de nos frais (administratifs), 
 connus à l'heure actuelle. La valeur du CarP sera publiée sur notre site web www.luminus.be/fr/
 ets2.
 DUREE DE VOTRE CONTRAT :
-Luminus ComfyFlex+ Gaz est un contrat d’une durée d’un an pour des points de fourniture situés 
-dans la Région flammande, qui est automatiquement prolongé de périodes successives d’un an, 
+Luminus MaxxFlex Gaz est un contrat d’une durée de 2 ans pour des points de fourniture situés 
+dans la Région flammande, qui est automatiquement prolongé de périodes successives de 2 ans, 
 conformément à l’article 4.2 de nos conditions générales.
 Si vous êtes un nouveau client Luminus, ce contrat entrera en vigueur à la date de début de 
 fourniture. Si vous êtes déjà client chez Luminus pour votre  gaz pour le Point de fourniture et 
 conformément à l’article 11.4 des Conditions générales, souhaitez passer au contrat  Luminus 
-ComfyFlex+ Gaz , le nouveau contrat entrera en vigueur 21 jours calendrier après la date de 
-signature, sauf si une autre date est convenue en concertation avec nous.
+MaxxFlex Gaz , le nouveau contrat entrera en vigueur 21 jours calendrier après la date de signature, 
+sauf si une autre date est convenue en concertation avec nous.
 L’article 4.3 des Conditions générales demeure inchangé.
 Si vous n’êtes pas encore client chez Luminus, votre contrat chez Luminus doit débuter au plus tard 
 4 mois après la signature. Si tel n’est pas le cas, Luminus est en droit de refuser votre demande de 
 contrat ou de vous faire une nouvelle proposition de contrat.
-Conformément à l'article 4 des conditions générales de l'Assistance Comfy+, l'assistance énergie 
-va de pair avec votre contrat de gaz. 
 PAIEMENT ET MODE D'ENVOI DE VOS FACTURES :
 Vous choisissez votre mode de paiement (domiciliation ou virement) et la fréquence de facturation 
-(mensuelle, bimestrielle ou trimestrielle).
+(mensuelle, bimestrielle ou trimestrielle). 
 Si vous n’avez pas encore de domiciliation, mais décidez d’opter pour ce mode de paiement, vous 
-bénéficiez d’une réduction unique de 20 € (TVA comprise) en cas de paiement à temps et vous ne 
-recevrez pas de factures d’acompte, mais uniquement votre décompte annuel.
+bénéficiez d’une réduction unique de 20 € (TVA comprise) en cas de paiement à temps et vous ne 
+recevrez pas de factures d’acompte, mais uniquement votre décompte annuel. 
 Toutes vos factures seront cependant disponibles en ligne via votre Espace Client sur 
-www.luminus.be.
+www.luminus.be. 
 Si vous souhaitez quand même recevoir toutes vos factures par la poste, cette réduction n’est pas 
 d’application. Si vous activez votre domiciliation au cours de la première année de fourniture, cette 
-réduction sera attribuée 1 an après la date de début. Si vous activez votre domiciliation après la 
-première année de fourniture, cette réduction sera attribuée sur votre prochain décompte.
+réduction sera attribuée 1 an après la date de début. Si vous activez votre domiciliation après la 
+première année de fourniture, cette réduction sera attribuée sur votre prochain décompte. 
 Les réductions pour la domiciliation et la facture numérique ne sont pas cumulables. Si vous êtes 
-client chez nous pour l’électricité et le gaz, cette réduction n’est appliquée qu’une seule fois.
+client chez nous pour l’électricité et le gaz, cette réduction n’est appliquée qu’une seule fois. 
 Vous choisissez le mode d’envoi de vos factures : par courrier ou par voie digitale (par email ou via 
 le service Zoomit disponible dans votre programme d’Internet banking habituel).
 En cas de retard de paiement ou de refus d’un ordre de domiciliation, vous êtes tenus, en plus du 

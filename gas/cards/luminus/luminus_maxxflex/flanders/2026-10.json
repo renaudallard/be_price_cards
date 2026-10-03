@@ -1,10 +1,10 @@
 {
- "_seen_on": "2026-10-01",
+ "_seen_on": "2026-10-03",
  "_sources": [
   {
-   "pdf": "cc5ae8415c9a384641a5862656678c916d9cad75629e3f4d3d64b05a88049b33",
+   "pdf": "311094e67ca2395fc326bb7d998e2ef9139f32052deec9ae7f9e1717b715e9c7",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
-   "text": "texts/2026-10/0912bdfa49ece86c91fd6b1cec9f0fdbfa771b0acc9ad4f2234f3c6d4fef7fb0.txt",
+   "text": "texts/2026-10/9b2c732acd282ac7ce725c664fa3e0b83b1196ae5f9fab857df20e7b0935eef6.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxflex&energyType=gas&language=fr&tabValue=Flanders",
    "variant": "plain"
   }
@@ -165,7 +165,7 @@
   "index": "TTF DAH M",
   "kind": "indexed",
   "period": "month",
-  "price": 0.0795,
+  "price": 0.0943,
   "settled": false
  },
  "publication_label": "2026-10",

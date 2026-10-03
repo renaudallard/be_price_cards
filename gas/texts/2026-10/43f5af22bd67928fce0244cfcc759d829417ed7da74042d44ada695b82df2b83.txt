@@ -54,7 +54,7 @@ Composition du prix de l'energie
 4 TVA 6%
 1 Prix de l’énergie fournie par Luminus (TVA incl.)1 :
 Prix du jour
-Énergie (c€/kWh) 6,77
+Énergie (c€/kWh) 8,64
 Estimation annuelle de 
 l'énergie fournie (c€/kWh)2 9,24
 Redevance fixe (€/an) 50,00
@@ -103,7 +103,7 @@ INFORMATION SUR VOTRE TARIF :
 La TVA sur les prix indiqués et les éventuelles promotions est de 6 %. Si le taux de TVA en vigueur 
 change pendant la durée de votre contrat, alors les prix et les promotions changent également.
 Formules tarifaires pour le coût de l’énergie (HTVA):
-Index (HTVA): TTF DAHW =  45,65 €/MWh (valeur de l'indice du 2ième trimestre 2026); 0,1004  x  
+Index (HTVA): TTF DAHW =  63,23 €/MWh (valeur de l'indice du 3ième trimestre 2026); 0,1004  x  
 TTF DAHW  +   0,0000  x  TTF 1-0-3  + 1,8004
 Les montants mentionnés sont arrondis. Votre tarif sera indexé tous les trimestres. Les trimestres 
 commencent le 1er janvier, 1er avril, 1er juillet et 1er octobre. La méthode de calcul, ainsi que 

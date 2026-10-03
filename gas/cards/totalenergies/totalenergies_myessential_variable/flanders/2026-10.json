@@ -2,18 +2,18 @@
  "_seen_on": "2026-10-03",
  "_sources": [
   {
-   "pdf": "b61950f6fa2eb114ae2aba83aa2682d6211d57ddfbde22c2c375e0490425c5f7",
+   "pdf": "5225b8c89b08334a11d67db84cc3ae566d575006b643d4630ad20fe4e26d3f14",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
-   "text": "texts/2026-10/144fb7ede6d0b6ddffe2f61c9f1738c4fc0ba2025e6a58dbeee2454bf1a76bdb.txt",
-   "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy&energyType=gas&language=fr&tabValue=Flanders",
-   "variant": "plain"
+   "text": "texts/2026-10/e5b4d6af64b99b800d985f45bbe188a76370e314e859e41f8105b0a6d7bc7ea6.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL_GAS_VL_FR.pdf",
+   "variant": "layout"
   }
  ],
  "_via": "live",
- "contract": "luminus_comfy",
+ "contract": "totalenergies_myessential_variable",
  "dsos": {
   "fluvius_antwerpen": {
-   "metering": 0.0,
+   "metering": 18.92,
    "tiers": {
     "t1": [
      15.68,
@@ -28,10 +28,10 @@
      0.0059
     ]
    },
-   "transport": 0.0016539999999999999
+   "transport": 0.0017000000000000001
   },
   "fluvius_halle_vilvoorde": {
-   "metering": 0.0,
+   "metering": 18.92,
    "tiers": {
     "t1": [
      17.59,
@@ -46,10 +46,10 @@
      0.0062
     ]
    },
-   "transport": 0.0016539999999999999
+   "transport": 0.0017000000000000001
   },
   "fluvius_imewo": {
-   "metering": 0.0,
+   "metering": 18.92,
    "tiers": {
     "t1": [
      18.61,
@@ -64,13 +64,13 @@
      0.0064
     ]
    },
-   "transport": 0.0016539999999999999
+   "transport": 0.0017000000000000001
   },
   "fluvius_kempen": {
-   "metering": 0.0,
+   "metering": 18.92,
    "tiers": {
     "t1": [
-     16.17,
+     16.16,
      0.0227
     ],
     "t2": [
@@ -82,10 +82,10 @@
      0.0055000000000000005
     ]
    },
-   "transport": 0.0016539999999999999
+   "transport": 0.0017000000000000001
   },
   "fluvius_limburg": {
-   "metering": 0.0,
+   "metering": 18.92,
    "tiers": {
     "t1": [
      14.59,
@@ -100,10 +100,10 @@
      0.0069
     ]
    },
-   "transport": 0.0016539999999999999
+   "transport": 0.0017000000000000001
   },
   "fluvius_midden_vlaanderen": {
-   "metering": 0.0,
+   "metering": 18.92,
    "tiers": {
     "t1": [
      16.33,
@@ -118,10 +118,10 @@
      0.0058
     ]
    },
-   "transport": 0.0016539999999999999
+   "transport": 0.0017000000000000001
   },
   "fluvius_west": {
-   "metering": 0.0,
+   "metering": 18.92,
    "tiers": {
     "t1": [
      19.03,
@@ -136,10 +136,10 @@
      0.0067
     ]
    },
-   "transport": 0.0016539999999999999
+   "transport": 0.0017000000000000001
   },
   "fluvius_zenne_dijle": {
-   "metering": 0.0,
+   "metering": 18.92,
    "tiers": {
     "t1": [
      18.4,
@@ -150,34 +150,40 @@
      0.0102
     ],
     "t3": [
-     660.65,
+     660.64,
      0.0064
     ]
    },
-   "transport": 0.0016539999999999999
+   "transport": 0.0017000000000000001
   }
  },
  "energy": {
-  "fee": 50.0,
-  "kind": "fixed",
-  "price": 0.0999
+  "base": 0.005342400000000001,
+  "factor": 0.0010695400000000001,
+  "fee": 35.0,
+  "formula": "0.1009 * TTF_M_RLP + 0.504",
+  "index": "TTF_M_RLP",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0859,
+  "settled": false
  },
  "publication_label": "2026-10",
  "schema": 1,
- "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy&energyType=gas&language=fr&tabValue=Flanders",
- "supplier": "luminus",
+ "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL_GAS_VL_FR.pdf",
+ "supplier": "totalenergies",
  "taxes": {
   "card_vat_rate": 0.06,
   "connection_fee": 0.0,
-  "contribution": 0.0,
+  "contribution": 0.0011,
   "excise": [
    [
     12000.0,
-    0.010929
+    0.0109
    ],
    [
     null,
-    0.01183
+    0.0118
    ]
   ],
   "osp": null,

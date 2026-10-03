@@ -1,16 +1,16 @@
 {
- "_seen_on": "2026-10-01",
+ "_seen_on": "2026-10-03",
  "_sources": [
   {
-   "text": "texts/2026-10/66b8ab4e9a4ac303a25fff18648d0b889ec76f3a97c16f14bc77686a4be6f9e3.txt",
+   "text": "texts/2026-10/baa103e4be2527c680f84215001faa531fe906f6ac3631b2f2d290f4f3e6d4b1.txt",
    "url": "https://8navd656.api.sanity.io/v2023-01-01/data/query/production-be?[('query', '*[_type==\"sanity.fileAsset\" && originalFilename match \"*Gas*\"]{originalFilename,url,_createdAt} | order(_createdAt desc)[0..39]')]",
    "variant": "text"
   },
   {
-   "pdf": "fb10ca8d284196a91e1225bfc89da28d5668439a3f7aa227b9055b6064233ee3",
+   "pdf": "26390c91d954838bca0b234fc3d68850a94244e4bf6ac10242226872dfafc009",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
-   "text": "texts/2026-10/c5662be373cb79a6f44d071b4a9cbddbc77ebd53e5a699ae7059f2601b29f5fe.txt",
-   "url": "https://cdn.sanity.io/files/8navd656/production-be/2c58a43278a82925d7a545f952e31d8694c58083.pdf",
+   "text": "texts/2026-10/8e28f6a3a2865b6d3f2b564892f8978ec069c29fd30d1b705b41e3ac6af1c8c2.txt",
+   "url": "https://cdn.sanity.io/files/8navd656/production-be/c1bae6684e20f6c1002040d28acb7d3e3dd79ef3.pdf",
    "variant": "layout"
   }
  ],
@@ -143,7 +143,7 @@
  },
  "publication_label": "2026-10",
  "schema": 1,
- "source_url": "https://cdn.sanity.io/files/8navd656/production-be/2c58a43278a82925d7a545f952e31d8694c58083.pdf",
+ "source_url": "https://cdn.sanity.io/files/8navd656/production-be/c1bae6684e20f6c1002040d28acb7d3e3dd79ef3.pdf",
  "supplier": "frank",
  "taxes": {
   "card_vat_rate": 0.06,
