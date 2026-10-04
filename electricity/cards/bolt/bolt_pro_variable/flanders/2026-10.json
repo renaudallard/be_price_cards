@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-02T11:22:55.708544+00:00",
+ "_cached_at": "2026-10-04T11:17:50.274366+00:00",
  "_probe_key": null,
- "_schema_version": 75,
- "_seen_on": "2026-10-02",
+ "_schema_version": 76,
+ "_seen_on": "2026-10-04",
  "_sources": [
   {
-   "text": "texts/2026-10/1dbf25068653d7b834a415db12e119e1843ddebedaa3fa4b93959b0e27bc6fe5.txt",
+   "text": "texts/2026-10/12e33ccafeb9f9a64b25dd0a419756f72b515a75dd085e707e10e8c8ac370b81.txt",
    "url": "https://www.boltenergie.be/fr/listes-des-prix",
    "variant": "text"
   },

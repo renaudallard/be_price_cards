@@ -901,7 +901,7 @@
               <a href="/nl-be/tariefkaart" data-drupal-link-system-path="node/840" class="is-active">Tariefkaarten</a>
               </li>
                 <li class="menu__item">
-              <a href="/indexatieparameters">Indexatieparameters</a>
+              <a href="/nl-be/indexatieparameters" data-drupal-link-system-path="node/1004">Indexatieparameters</a>
               </li>
                 <li class="menu__item">
               <a href="/nl-be/energieovernamedocument" data-drupal-link-system-path="node/896">Energieovernamedocument</a>

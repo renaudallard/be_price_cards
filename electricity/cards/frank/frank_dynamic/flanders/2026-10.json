@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-02T11:22:55.708544+00:00",
+ "_cached_at": "2026-10-04T11:17:50.274366+00:00",
  "_probe_key": null,
- "_schema_version": 75,
- "_seen_on": "2026-10-02",
+ "_schema_version": 76,
+ "_seen_on": "2026-10-04",
  "_sources": [
   {
-   "text": "texts/2026-10/b451f85a4f7059c0f6486b1f87d21893ac119c798bd85a5ec7172e3ed2650f54.txt",
+   "text": "texts/2026-10/ef79098f47de8b4f5470183918284da0ce2c947442a13bf3f368340d5ba7936a.txt",
    "url": "https://8navd656.api.sanity.io/v2023-01-01/data/query/production-be?[('query', '*[_type==\"sanity.fileAsset\" && originalFilename match \"*Dynamisch*\" && !(originalFilename match \"*Gas*\")]{originalFilename,url,_createdAt} | order(_createdAt desc)[0..29]')]",
    "variant": "text"
   },
