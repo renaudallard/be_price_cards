@@ -1,22 +1,28 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
- "_seen_on": "2026-09-28",
+ "_schema_version": 77,
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "text": "texts/2026-09/68e01b367f1f5505922e898b44c899ce2b44ccc3e065a3f5234d750e70801ec4.txt",
+   "text": "texts/2026-10/735d6686ffc9a33803a150c9f13bc2508560f4c1f25e9822bda507bf5f88b5da.txt",
    "url": "https://www.cociter.be/electricite/cartes-tarifaires/",
    "variant": "text"
   },
   {
    "pdf": "5fb301c61f19e9aa98ba790829447492a07150e59f677358fd9378576256cdec",
-   "text": "texts/2026-09/3ede802e515ddf89e673287344dd8204bc7ac3115d55ced232cd724a327111cb.txt",
+   "text": "texts/2026-10/3ede802e515ddf89e673287344dd8204bc7ac3115d55ced232cd724a327111cb.txt",
    "url": "https://www.cociter.be/wp-content/uploads/RCVar_YMR_Coop-2609-fr.pdf",
+   "variant": "plain"
+  },
+  {
+   "pdf": "c65e980c4b4dcaae3a5734ffa02a46b6e27c62c793c8b71b08cc8606255f5b9e",
+   "text": "texts/2026-10/5c1a7a95f1d840afd0f55b8df5b3b431a40855443a854c051ae2785e38c8526d.txt",
+   "url": "https://www.cociter.be/wp-content/uploads/RCVar_YMR_Coop-2610-fr.pdf",
    "variant": "plain"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "cociter_variable",
  "direct_debit_discount_eur": null,
  "dsos": {
@@ -106,8 +112,8 @@
   "ceiling_offpeak": 0.265,
   "ceiling_peak": 0.265,
   "ceiling_single": 0.265,
-  "current": 0.155809,
-  "exclusive_night": 0.142101,
+  "current": 0.17734595,
+  "exclusive_night": 0.16076649,
   "formula": "(0,075 x BELIX + 5) c€/kWh + 6% VAT",
   "formula_base": 0.053000000000000005,
   "formula_base_exclusive_night": 0.053000000000000005,
@@ -120,10 +126,10 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
+  "index_realised": 0.15641,
   "month_indexed": true,
-  "offpeak": 0.142101,
-  "peak": 0.169517,
+  "offpeak": 0.16076649,
+  "peak": 0.19392541000000002,
   "rlp_blend": "distinct",
   "rlp_indexed": false,
   "yearly_fixed_fee": 53.0,

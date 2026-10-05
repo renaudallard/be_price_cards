@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
- "_seen_on": "2026-10-04",
+ "_schema_version": 77,
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
    "pdf": "62259f95caeb16b3c3971be4a232ad0566769f47e8f3cf44254318013bd48445",
@@ -168,7 +168,6 @@
   "factor_peak": 1.1077,
   "factor_pic": null,
   "factor_transition": null,
-  "index_realised": null,
   "rlp_blend": "flanders",
   "rlp_indexed": true,
   "tier_kwh": null,

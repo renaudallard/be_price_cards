@@ -1,9 +1,15 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
+ "_schema_version": 77,
  "_seen_on": "2026-09-29",
  "_sources": [
+  {
+   "pdf": "2bb5869d579dabc76d84b426ca413f7fc2032983e6ffae2d3774543cf55ce31b",
+   "text": "texts/2026-09/987c2dc6da99fd630ece0ff7d51528764b635ed71f4726b4ef166dee492f5a04.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPTYHOUSE_P_GREY_C_I_00_W_F&monthOffset=8&segment=P&language=F",
+   "variant": "plain"
+  },
   {
    "pdf": "4f0cc98199693ae01bb30c038d9d2dbe4d143ae46194aa0eb09a55d77a5e8c64",
    "text": "texts/2026-09/ad74a723b25d05a50fcff6a27154667fe2717b7ca882705c25ceb6573d4419e2.txt",
@@ -20,7 +26,7 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.21746,
+  "current": 0.21565249999999997,
   "exclusive_night": null,
   "formula": null,
   "formula_base": 0.03215,
@@ -34,7 +40,7 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
+  "index_realised": 0.08535,
   "month_indexed": true,
   "offpeak": null,
   "peak": null,
@@ -49,7 +55,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0421,
+  "current": 0.041675,
   "factor": 0.5,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -57,6 +63,7 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "-0.1000 + (0.0500 x EPEXDAM)",
+  "index_realised": 0.08535,
   "minimum": null,
   "month_indexed": true,
   "offpeak": null,

@@ -18,13 +18,13 @@
 	<meta property="og:description" content="Download essentiële documenten zoals energietarieven, contracten en algemene voorwaarden van Aspiravi Energy. Alle info op één plek." />
 	<meta property="og:url" content="https://aspiravi-energy.be/downloads/" />
 	<meta property="og:site_name" content="Aspiravi Energy Co-op" />
-	<meta property="article:modified_time" content="2025-12-10T07:29:20+00:00" />
+	<meta property="article:modified_time" content="2026-10-05T08:35:26+00:00" />
 	<meta property="og:image" content="https://aspiravi-energy.be/wp-content/uploads/2026/07/opengraph-image.png" />
 	<meta property="og:image:width" content="1200" />
 	<meta property="og:image:height" content="675" />
 	<meta property="og:image:type" content="image/png" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://aspiravi-energy.be/downloads/","url":"https://aspiravi-energy.be/downloads/","name":"Aspiravi Energy Downloads - Documenten & Informatie","isPartOf":{"@id":"https://aspiravi-energy.be/#website"},"datePublished":"2024-09-27T13:46:07+00:00","dateModified":"2025-12-10T07:29:20+00:00","description":"Download essentiële documenten zoals energietarieven, contracten en algemene voorwaarden van Aspiravi Energy. Alle info op één plek.","breadcrumb":{"@id":"https://aspiravi-energy.be/downloads/#breadcrumb"},"inLanguage":"nl-BE","potentialAction":[{"@type":"ReadAction","target":["https://aspiravi-energy.be/downloads/"]}]},{"@type":"BreadcrumbList","@id":"https://aspiravi-energy.be/downloads/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://aspiravi-energy.be/"},{"@type":"ListItem","position":2,"name":"Downloads"}]},{"@type":"WebSite","@id":"https://aspiravi-energy.be/#website","url":"https://aspiravi-energy.be/","name":"Aspiravi Energy Co-op","description":"Groene, Lokale Energie voor Burger-Coöperanten","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://aspiravi-energy.be/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"nl-BE"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://aspiravi-energy.be/downloads/","url":"https://aspiravi-energy.be/downloads/","name":"Aspiravi Energy Downloads - Documenten & Informatie","isPartOf":{"@id":"https://aspiravi-energy.be/#website"},"datePublished":"2024-09-27T13:46:07+00:00","dateModified":"2026-10-05T08:35:26+00:00","description":"Download essentiële documenten zoals energietarieven, contracten en algemene voorwaarden van Aspiravi Energy. Alle info op één plek.","breadcrumb":{"@id":"https://aspiravi-energy.be/downloads/#breadcrumb"},"inLanguage":"nl-BE","potentialAction":[{"@type":"ReadAction","target":["https://aspiravi-energy.be/downloads/"]}]},{"@type":"BreadcrumbList","@id":"https://aspiravi-energy.be/downloads/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://aspiravi-energy.be/"},{"@type":"ListItem","position":2,"name":"Downloads"}]},{"@type":"WebSite","@id":"https://aspiravi-energy.be/#website","url":"https://aspiravi-energy.be/","name":"Aspiravi Energy Co-op","description":"Groene, Lokale Energie voor Burger-Coöperanten","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://aspiravi-energy.be/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"nl-BE"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -226,7 +226,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                               <div><a target="_blank" href="https://aspiravi-energy.be/wp-content/uploads/2024/10/GeneralConditions_current_Algemene_Voorwaarden_Aspiravi_Energy_HH_en_prof-1.pdf"
                   class="button button--link button--secondary button--download">Algemene voorwaarden</a>
               </div>
-                          <div><a target="_blank" href="https://aspiravi-energy.be/wp-content/uploads/2024/10/Direct_debit_mandate_current_Domicilieringsmandaat-1.pdf"
+                          <div><a target="_blank" href="https://aspiravi-energy.be/wp-content/uploads/2026/10/Domicilieringsmandaat.pdf"
                   class="button button--link button--secondary button--download">Domiciliëringsmandaat</a>
               </div>
                           <div><a target="_blank" href="https://aspiravi-energy.be/wp-content/uploads/2024/10/Herroepingsformulier_current_modelformulier_voor_herroeping-2.pdf"

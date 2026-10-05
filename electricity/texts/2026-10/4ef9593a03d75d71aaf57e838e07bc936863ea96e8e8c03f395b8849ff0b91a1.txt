@@ -1,0 +1,46 @@
+Tariefkaart
+• I njectie voor elektriciteit
+in het Vlaamse Gewest - vrijgesteld van btw.
+Bijzondere voorwaarden voor residentiële verbruikers in het Vlaamse Gewest.
+Deze voorwaarden zijn van toepassing op de nieuwe contracten die zijn afgesloten in en op contracten die zijn
+hernieuwd in (voor verlengingen wordt de tariefkaart twee maanden vóór de toepassing ervan bekendgemaakt).
+Prijs van de geïnjecteerde energie
+02:11
+6202
+erbmetpes
+01
+| LN
+erdnalF
+elbairaV
+noitcejnI
+| TSAF
+TotalEnergies Variabel Injectie
+oktober 2026
+Bijzondere voorwaarden van het Variabel Injectie-tarief
+oktober 2026
+januari 2027
+Het aanbod TotalEnergies Variabel Injectie is een tariefformule uitsluitend bedoeld voor particuliere verbruikers met een gedecentraliseerde
+productie-installatie met een AC-vermogen van maximum 10 kVA die bij TotalEnergies een Leveringsovereenkomst hebben gesloten met een
+activering van de Overeenkomst voor injectie van elektriciteit.
+De vergoeding voor de overdracht die u wordt toegekend op grond van uw Injectieovereenkomst bestaat enkel uit leverancierstarieven, dit is de
+prijs voor de energie, en wordt in mindering gebracht op uw voorschotfacturen voor de levering van energie.
+Het aanbod TotalEnergies Variabel Injectie is onderworpen aan de algemene voorwaarden van TotalEnergies. Als onderhavige contractuele
+voorwaarden in strijd zouden zijn met de algemene contractuele voorwaarden van TotalEnergies
+(https://totalenergies.be/nl/particulieren/algemene-voorwaarden-van-totalenergies), zijn onderhavige voorwaarden doorslaggevend.
+Prijs voor energie-injectie
+(c€/kWh)
+Enkelvoudige Tweevoudige meter
+meter
+Piekuren Daluren
+Injectie*(Vergoeding voor de overdracht)
+2,00 2,00 2,00 Maandelijkstarief
+0.02151 * BELPEXM -0.625 0.02151 * BELPEXM -0.625 0.02151 * BELPEXM -0.625 Tariefformule
+* De injectieprijs is variabel en wordt maandelijks geïndexeerd volgens volgens de formule in de bovenstaande tabel. De
+injectieprijs in de bovenstaande tabel is de geschatte jaarprijs volgens de Vlaamse Nutsregulator methodologie:
+https://www.vlaamsenutsregulator.be/nl/faq/hoe-berekent-de-v-testr-de-geschatte-jaarkost-voor-variabele-contracten
+De maandelijkse prijzen berekend op basis van de laatst gekende waarde van BELPEX_M zijn de volgende :
+Injectie
+Enkelvoudige Meter: 2,74 € cent/kWh
+Tweevoudige Meter
+Piekuren: 2,74 € cent/kWh
+Daluren: 2,74 € cent/kWh

@@ -1,9 +1,15 @@
 {
- "_cached_at": "2026-10-05T12:39:23.047391+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
+ "_schema_version": 77,
  "_seen_on": "2026-10-05",
  "_sources": [
+  {
+   "pdf": "64c3bdf60352b6c483afcbb0abf85dac850a7b5113f2e9eca7e508c8f85ce613",
+   "text": "texts/2026-10/b2ec5a420dbfe00fbed9bdd276dd3649082c4c46dade25b1c1ced0b4ddc8a882.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_MYDYNAMIC_ELECTRICITY_VL_FR.pdf",
+   "variant": "layout"
+  },
   {
    "pdf": "a6e1f1df6acb2e3baac1038e3772ea07b62b43f2357a51615bce75bfd8c8b9e8",
    "text": "texts/2026-10/eaa742301e446dd25db1fc7609209cc588e353a8308a649091144a0a60aae0db.txt",
@@ -151,7 +157,28 @@
   "yearly_fixed_fee": 90.0
  },
  "energy_kind": "dynamic",
- "injection": null,
+ "injection": {
+  "base": -0.013000000000000001,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": 0.1092,
+  "factor": 1.0,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": false,
+  "floor_at_zero": false,
+  "formula": "Injection* (Compensation pour la rétrocession)\n10,92 10,92 10,92 Tarif mensuel\n0.1 * BELPEXH -1.3",
+  "minimum": null,
+  "month_indexed": false,
+  "offpeak": null,
+  "peak": null,
+  "slot_indexed": false,
+  "spp_indexed": false,
+  "transition": null,
+  "vat_applies": false
+ },
  "publication_label": "octobre 2026",
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYDYNAMIC_ELECTRICITY_VL_FR.pdf",
  "supplier": "totalenergies",

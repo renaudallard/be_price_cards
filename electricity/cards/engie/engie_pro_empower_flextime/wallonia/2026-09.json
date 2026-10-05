@@ -1,17 +1,23 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
- "_seen_on": "2026-09-28",
+ "_schema_version": 77,
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "pdf": "ab49bed8a889c835a6a04d9269b3f1485ae09f503a7560399bc79e783c3f8c40",
-   "text": "texts/2026-09/76680976eeee4b7c11091ed79ae0f14101e3a6b2d5912a17e9fdbba2cb56af4c.txt",
+   "pdf": "600c58907f6c4784e2761e20acebc28e322c525a0d9aa681833bdd17b77907ef",
+   "text": "texts/2026-10/9f0592fd2bb7b8c23bbb13c0762ed25b4d69ef828dd82c136a1238a6ba1414c2.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPOWER_P_GREEN_C_I_00_W_F&monthOffset=0&segment=P&language=F",
+   "variant": "plain"
+  },
+  {
+   "pdf": "ab49bed8a889c835a6a04d9269b3f1485ae09f503a7560399bc79e783c3f8c40",
+   "text": "texts/2026-10/76680976eeee4b7c11091ed79ae0f14101e3a6b2d5912a17e9fdbba2cb56af4c.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPOWER_P_GREEN_C_I_00_W_F&monthOffset=1&segment=P&language=F",
    "variant": "plain"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "engie_pro_empower_flextime",
  "direct_debit_discount_eur": null,
  "dsos": {
@@ -104,10 +110,11 @@
   "formula_factor_offpeak": 0.7989999999999999,
   "formula_factor_peak": 1.4849999999999999,
   "formula_factor_transition": 1.067,
+  "index_realised": 0.15641,
   "month_indexed": true,
-  "offpeak": 0.11101000000000001,
-  "peak": 0.21556999999999998,
-  "transition": 0.15547,
+  "offpeak": 0.13265459,
+  "peak": 0.25580185,
+  "transition": 0.18437246999999998,
   "weekend_rule": "weekend_no_peak",
   "yearly_fixed_fee": 95.0
  },
@@ -125,13 +132,14 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "Flextime: peak 0.0300 + (0.1001 x EPEXDAM); transition 0.0300 + (0.0451 x EPEXDAM); offpeak 0.0300 + (0.0001 x EPEXDAM)",
+  "index_realised": 0.15641,
   "minimum": null,
   "month_indexed": true,
-  "offpeak": 0.00043,
-  "peak": 0.12975,
+  "offpeak": 0.00045641,
+  "peak": 0.15686640999999998,
   "slot_indexed": false,
   "spp_indexed": false,
-  "transition": 0.05862,
+  "transition": 0.07084090999999999,
   "vat_applies": true
  },
  "publication_label": "Septembre 2026",

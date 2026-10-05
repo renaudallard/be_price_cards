@@ -1,17 +1,23 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
- "_seen_on": "2026-09-28",
+ "_schema_version": 77,
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "pdf": "0f09efa915d0b02b77acec2cac81f53846d85cfb7026fde4144e8d5e85a3f349",
-   "text": "texts/2026-09/cf0aed83780e81bfd6eaec122fcfaab822706c1bdf3b2917ae5006178b5b3888.txt",
+   "pdf": "c17c8c04277ef81d6effe20168ae054b5ea1d05cc4b21a1ac27d2b1a550eb16e",
+   "text": "texts/2026-10/fb31d594c57ad0bd5582e6280a59a3df41ee16a4c90e7220347c3e0ea86ba607.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPTYHOUSE_R_GREY_C_I_00_B_F&monthOffset=0&segment=R&language=F",
+   "variant": "plain"
+  },
+  {
+   "pdf": "0f09efa915d0b02b77acec2cac81f53846d85cfb7026fde4144e8d5e85a3f349",
+   "text": "texts/2026-10/cf0aed83780e81bfd6eaec122fcfaab822706c1bdf3b2917ae5006178b5b3888.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPTYHOUSE_R_GREY_C_I_00_B_F&monthOffset=1&segment=R&language=F",
    "variant": "plain"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "engie_empty_house",
  "direct_debit_discount_eur": null,
  "dsos": {
@@ -46,7 +52,7 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.32880000000000004,
+  "current": 0.39053739,
   "exclusive_night": null,
   "formula": null,
   "formula_base": 0.034079,
@@ -60,7 +66,7 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
+  "index_realised": 0.15641,
   "month_indexed": true,
   "offpeak": null,
   "peak": null,
@@ -75,7 +81,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.06366,
+  "current": 0.077205,
   "factor": 0.5,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -83,6 +89,7 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "-0.1000 + (0.0500 x EPEXDAM)",
+  "index_realised": 0.15641,
   "minimum": null,
   "month_indexed": true,
   "offpeak": null,

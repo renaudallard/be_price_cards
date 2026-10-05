@@ -1,9 +1,15 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
+ "_schema_version": 77,
  "_seen_on": "2026-09-12",
  "_sources": [
+  {
+   "pdf": "5636a000400c156dafcad07a3dd7beeeb0f7ddfa1796a5851773f3e2c0a2eb81",
+   "text": "texts/2026-09/3cc399dd21a70ec0c7dd49b77153cdbb8f7170f96203e5bf3749d6e3434339e4.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPTYHOUSE_R_GREY_C_I_00_V_F&monthOffset=0&segment=R&language=F",
+   "variant": "plain"
+  },
   {
    "pdf": "38fd60fb8cfd989c655bb5f174cea9bfda952c757a73c8646c2af7c5a42acf45",
    "text": "texts/2026-09/961542ebca9831d4d1165b3bf2eabdfc9c3f59aba4490e2c61c0f98f70c8502a.txt",
@@ -163,7 +169,6 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
   "month_indexed": true,
   "offpeak": null,
   "peak": null,

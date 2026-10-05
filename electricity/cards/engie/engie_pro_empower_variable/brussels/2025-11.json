@@ -1,13 +1,19 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
+ "_schema_version": 77,
  "_seen_on": "2026-09-29",
  "_sources": [
   {
    "pdf": "8009fcc6c660f31581fafc09e4926e51a2cec72e4c20e6b68a88e22edb90630e",
    "text": "texts/2026-09/ceeaabe8828f1f071157d1ed2f37e8b2f2fde51876571f5cec0e28ba6c6d78da.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPOWER_P_GREEN_C_I_00_B_F&monthOffset=10&segment=P&language=F",
+   "variant": "plain"
+  },
+  {
+   "pdf": "318be831ee18a723b91a8d327f2e78b1701347f55f9125fb638c57310bc352f8",
+   "text": "texts/2026-09/5e8d918b2dc489232d9b08b42b1d17be00387e968bb52c26ebf92b62d6409c36.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPOWER_P_GREEN_C_I_00_B_F&monthOffset=9&segment=P&language=F",
    "variant": "plain"
   }
  ],
@@ -46,8 +52,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.11551,
-  "exclusive_night": 0.1025,
+  "current": 0.12841611,
+  "exclusive_night": 0.11303845000000001,
   "formula": null,
   "formula_base": 0.02766,
   "formula_base_exclusive_night": 0.030727,
@@ -60,10 +66,10 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
+  "index_realised": 0.08619,
   "month_indexed": true,
-  "offpeak": 0.08929999999999999,
-  "peak": 0.12227,
+  "offpeak": 0.09983025999999999,
+  "peak": 0.13617321000000002,
   "rlp_blend": "distinct",
   "rlp_indexed": false,
   "yearly_fixed_fee": 95.0,
@@ -75,7 +81,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.03915,
+  "current": 0.04486023,
   "factor": 0.517,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -83,6 +89,7 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "0.0300 + (0.0517 x EPEXDAM)",
+  "index_realised": 0.08619,
   "minimum": null,
   "month_indexed": true,
   "offpeak": null,

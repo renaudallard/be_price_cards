@@ -1,9 +1,15 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
+ "_schema_version": 77,
  "_seen_on": "2026-09-12",
  "_sources": [
+  {
+   "pdf": "707170314af7b0632ec6626c26ed733ed4fe9e9f973dd3ea8bfe28c83d653c36",
+   "text": "texts/2026-09/f38868a4ecca5fedd71d8a726d8f7020319c36b82c6aef888a8ce53194db52cc.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPOWER_P_GREEN_C_I_00_B_F&monthOffset=1&segment=P&language=F",
+   "variant": "plain"
+  },
   {
    "pdf": "a4d9750bf59428e13746ef3c64a24c0bb3029d966fc4da68c295f205d8fcd735",
    "text": "texts/2026-09/d452f80965f36c71d98fd64afd1a3f16afeaf49ab76ca230c96457acd73ad4dd.txt",
@@ -49,10 +55,11 @@
   "formula_factor_offpeak": 0.836,
   "formula_factor_peak": 1.3900000000000001,
   "formula_factor_transition": 1.075,
+  "index_realised": 0.10925,
   "month_indexed": true,
-  "offpeak": 0.10340999999999999,
-  "peak": 0.18138,
-  "transition": 0.14001,
+  "offpeak": 0.101006,
+  "peak": 0.1773805,
+  "transition": 0.13691675,
   "weekend_rule": "weekend_no_peak",
   "yearly_fixed_fee": 95.0
  },
@@ -70,13 +77,14 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "Flextime: peak 0.0300 + (0.0915 x EPEXDAM); transition 0.0300 + (0.0556 x EPEXDAM); offpeak 0.0300 + (0.0152 x EPEXDAM)",
+  "index_realised": 0.10925,
   "minimum": null,
   "month_indexed": true,
-  "offpeak": 0.01734,
-  "peak": 0.10289999999999999,
+  "offpeak": 0.016906,
+  "peak": 0.10026375,
   "slot_indexed": false,
   "spp_indexed": false,
-  "transition": 0.06264,
+  "transition": 0.06104299999999999,
   "vat_applies": true
  },
  "publication_label": "Juillet 2026",

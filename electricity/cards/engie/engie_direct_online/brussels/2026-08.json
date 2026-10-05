@@ -1,9 +1,15 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
+ "_schema_version": 77,
  "_seen_on": "2026-09-12",
  "_sources": [
+  {
+   "pdf": "393f83f550a107beefb3d4f01152ac4b43e369e5495b2bc4cdc490e0d8c368bc",
+   "text": "texts/2026-09/7fb1ece735313d76a81daf8a4fdccca806dbc36b62b48e047d9ef536e60fda1c.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_DIRECT_ONLINE_R_GREEN_C_I_36_B_F&monthOffset=0&segment=R&language=F",
+   "variant": "plain"
+  },
   {
    "pdf": "f3e81a4ece57ffa7868638ddbceba8f62dc0dffcf84244ab834c74d3487e1545",
    "text": "texts/2026-09/8574328d086f5bb0f499ec5b5e8801951886a3237ab490e661fcb5f9d83b4840.txt",
@@ -60,7 +66,6 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
   "month_indexed": true,
   "offpeak": 0.13322,
   "peak": 0.17171,

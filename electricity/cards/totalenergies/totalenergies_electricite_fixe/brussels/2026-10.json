@@ -1,13 +1,19 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
- "_seen_on": "2026-10-04",
+ "_schema_version": 77,
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
    "pdf": "54d622a757910f4a870aadf64005ed395b0435be6097b892b527d969f1ef9d76",
    "text": "texts/2026-10/0deddbc773c488e82c05ae4edabcc4e0d4a32c503103de872dfe260f02c8a0b1.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/ELECTRICITE-FIXE_ELECTRICITY_BXL_FR.pdf",
+   "variant": "layout"
+  },
+  {
+   "pdf": "3353816b2e44821f5f7a1441c3269bab996253279db08966dfbb8a08bd38a665",
+   "text": "texts/2026-10/696b8889b2481778f4aefa50bc6e9fc69abe8967bd7b2bb8431c6ad9e7bd0506.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_ELECTRICITE-FIXE_ELECTRICITY_BXL_FR.pdf",
    "variant": "layout"
   }
  ],
@@ -50,7 +56,28 @@
   "yearly_fixed_fee_exclusive_night": null
  },
  "energy_kind": "fixed",
- "injection": null,
+ "injection": {
+  "base": -0.00625,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": 0.0319,
+  "factor": 0.24400000000000002,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": false,
+  "floor_at_zero": false,
+  "formula": "0.0244 * BELPEXM -0.625",
+  "minimum": null,
+  "month_indexed": true,
+  "offpeak": null,
+  "peak": null,
+  "slot_indexed": false,
+  "spp_indexed": false,
+  "transition": null,
+  "vat_applies": false
+ },
  "publication_label": "octobre 2026",
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/ELECTRICITE-FIXE_ELECTRICITY_BXL_FR.pdf",
  "supplier": "totalenergies",

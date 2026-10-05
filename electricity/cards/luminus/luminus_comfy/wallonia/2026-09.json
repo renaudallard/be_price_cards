@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
+ "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
@@ -110,7 +110,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0558,
+  "current": 0.06884121,
   "factor": 0.481,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -118,6 +118,7 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "0,0481 x Belpex - 0,6392",
+  "index_realised": 0.15641,
   "minimum": null,
   "month_indexed": true,
   "offpeak": null,
@@ -158,5 +159,5 @@
  "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": 0.33,
  "welcome_credit_requires_direct_debit": false,
- "welcome_credit_signing_month": null
+ "welcome_credit_signing_month": "2026-09-01"
 }

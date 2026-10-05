@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
- "_seen_on": "2026-10-04",
+ "_schema_version": 77,
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "text": "texts/2026-10/9d96ae9deb22a572ad889510828201ac48202f07b2267fe88f408f2f89285ae6.txt",
+   "text": "texts/2026-10/1c9b708aaf95727a140f65f9ba77e5a1460d4df2c607e6fad2621a25f87ed42f.txt",
    "url": "https://www.ebem.be/tarieven/",
    "variant": "text"
   },
@@ -168,7 +168,6 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
   "month_indexed": true,
   "offpeak": null,
   "peak": null,

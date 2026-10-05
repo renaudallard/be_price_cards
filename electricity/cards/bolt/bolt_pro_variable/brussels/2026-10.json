@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
- "_seen_on": "2026-10-04",
+ "_schema_version": 77,
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "text": "texts/2026-10/12e33ccafeb9f9a64b25dd0a419756f72b515a75dd085e707e10e8c8ac370b81.txt",
+   "text": "texts/2026-10/c3616b3107828b636f51e75cfbe952cc77d8ca228872b4f37b9fab60947129aa.txt",
    "url": "https://www.boltenergie.be/fr/listes-des-prix",
    "variant": "text"
   },
@@ -65,12 +65,12 @@
   "impact_eco": 0.1337209,
   "impact_medium": 0.19198995,
   "impact_pic": 0.22356904999999996,
-  "index_realised": null,
   "month_indexed": false,
   "offpeak": 0.1677,
   "peak": 0.1857,
-  "rlp_blend": "distinct",
-  "rlp_indexed": false,
+  "quarter_indexed": true,
+  "rlp_blend": "wallonia",
+  "rlp_indexed": true,
   "yearly_fixed_fee": 143.88,
   "yearly_fixed_fee_exclusive_night": null
  },

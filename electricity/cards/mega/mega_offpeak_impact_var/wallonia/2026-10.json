@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
- "_seen_on": "2026-10-04",
+ "_schema_version": 77,
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "text": "texts/2026-10/7209d162aa76192d91127657a1d723c924e03ca50f84606b7e3616fa0512331c.txt",
+   "text": "texts/2026-10/1baa0aa395a1e7f064dc9c732ad830b21ea3f4a4584192aa5083c87b45cf98fb.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
@@ -116,6 +116,8 @@
   "pic": 0.2787,
   "pic_base": 0.029679999999999998,
   "pic_factor": 1.5123020000000003,
+  "rlp_blend": "columns",
+  "rlp_indexed": true,
   "yearly_fixed_fee": 75.0
  },
  "energy_kind": "tou_impact",

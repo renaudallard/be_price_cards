@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
- "_seen_on": "2026-10-04",
+ "_schema_version": 77,
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "text": "texts/2026-10/9dc7ef21f52a0968f0c25864f5b1329455ea5e52936817a36f04b6dfae00d0f3.txt",
+   "text": "texts/2026-10/d0b86985c4eb5bd730e5fff49c93a44f3db6f160d0159716f5450480d7a04d25.txt",
    "url": "https://www.brusol.be/nl/schrijf-je-in-voor-groene-stroom-van-brusol",
    "variant": "text"
   },
@@ -70,7 +70,6 @@
   "factor_peak": null,
   "factor_pic": null,
   "factor_transition": null,
-  "index_realised": null,
   "rlp_blend": "flanders",
   "rlp_indexed": true,
   "tier_kwh": null,

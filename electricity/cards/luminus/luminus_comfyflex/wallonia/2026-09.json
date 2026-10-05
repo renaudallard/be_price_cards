@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
+ "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
@@ -115,7 +115,6 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
   "month_indexed": false,
   "offpeak": 0.1426,
   "peak": 0.1885,
@@ -178,5 +177,5 @@
  "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": 0.29,
  "welcome_credit_requires_direct_debit": false,
- "welcome_credit_signing_month": null
+ "welcome_credit_signing_month": "2026-09-01"
 }

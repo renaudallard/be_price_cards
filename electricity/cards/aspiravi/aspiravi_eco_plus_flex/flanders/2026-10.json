@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
- "_seen_on": "2026-10-04",
+ "_schema_version": 77,
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "text": "texts/2026-10/643dc18542259acadaa1934b82d85fc06b5664aee56174b7f486bdf7b61b3757.txt",
+   "text": "texts/2026-10/a957d1ae71d10384dcc56c44f622b11e034abdf414f43fa122eff0af4cde11f5.txt",
    "url": "https://aspiravi-energy.be/downloads/",
    "variant": "text"
   },
@@ -168,7 +168,6 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
   "month_indexed": true,
   "offpeak": 0.18563000000000002,
   "peak": 0.24356,

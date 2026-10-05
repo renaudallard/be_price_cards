@@ -1,0 +1,45 @@
+Carte tarifaire
+• Injection pour l’électricité
+en Région de Bruxelles-Capitale - exonérée de TVA.
+Conditions particulières applicables aux consommateurs résidentiels en Région de Bruxelles-Capitale.
+Ces conditions sont applicables aux nouveaux contrats établis en et aux contrats renouvelés en
+(pour les renouvellements, la carte tarifaire est ainsi connue deux mois avant application).
+Prix de l’énergie injectée
+92:5
+6202
+erbmetpes
+1
+| RF
+selexurB
+elbairaV
+noitcejnI
+| TSAF
+TotalEnergies Injection Variable
+octobre 2026
+Conditions particulières au tarif Injection Variable
+octobre 2026 janvier 2027
+L’offre TotalEnergies Injection Variable est une formule tarifaire uniquement accessible aux consommateurs résidentiels avec une installation
+de production d’énergie décentralisée d’une puissance AC maximale de 10 kVA, et ayant souscrit un Contrat de fourniture d’énergie avec une
+activation du Contrat d’injection pour l’électricité chez TotalEnergies.
+La compensation pour la rétrocession qui vous sera octroyée en vertu de votre Contrat d’injection est constituée uniquement des tarifs
+fournisseurs, c’est-à-dire le prix de l’énergie et sera déduite de vos factures d’acompte pour la fourniture d’énergie.
+L’offre TotalEnergies Injection Variable est soumise aux conditions générales de TotalEnergies. En cas de contradiction entre les présentes
+conditions contractuelles et les conditions générales de TotalEnergies
+(https://totalenergies.be/fr/particuliers/conditions-generales-totalenergies-groupe), les présentes conditions prévalent.
+Prix de l’énergie injection
+(c€/kWh)
+Compteur Compteur double
+simple
+Heures pleines Heures creuses
+Injection* (Compensation pour la rétrocession)
+2,00 2,00 2,00 Tarif mensuel
+0.024 * BELPEXM -0.625 0.024 * BELPEXM -0.625 0.024 * BELPEXM -0.625 Formule tarifaire
+* Le prix de l'injection est un prix variable et est indexé mensuellement selon la formule reprise dans le tableau.
+Le prix de l'injection dans le tableau ci-dessus est le prix annuel estimé selon la méthodologie du Vlaamse Nutsregulator :
+https://www.vlaamsenutsregulator.be/nl/faq/hoe-berekent-de-v-testr-de-geschatte-jaarkost-voor-variabele-contracten
+Les prix mensuels de l'injection calculés sur base de la dernière valeur connue du Belpex_M sont les suivants :
+Injection
+Compteur Simple : 3,13 € cent/kWh
+Compteur Double
+Heures Pleines : 3,13 € cent/kWh
+Heures Creuses : 3,13 € cent/kWh

@@ -1,9 +1,15 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
- "_seen_on": "2026-10-04",
+ "_schema_version": 77,
+ "_seen_on": "2026-10-05",
  "_sources": [
+  {
+   "pdf": "d360ee5a4f4c76a033708dff3914a53ff2e6116f06f86d30190a2c5d66de6a07",
+   "text": "texts/2026-10/f4d25f880ec2f9bfdfd1c2d75d9b256a86284c785dd055ee3620c0f41630292b.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_MYCOMFORT_ELECTRICITY_WAL_FR.pdf",
+   "variant": "layout"
+  },
   {
    "pdf": "aa004bdd17931be784de81da25861d1bd9a145227d57e8ef88c6a2eb10760310",
    "text": "texts/2026-10/23c6fa1998d67b193d11e3bfe5ee2b8c97f80659f6b39f964ed0b43814ef849a.txt",
@@ -115,7 +121,6 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
   "month_indexed": true,
   "offpeak": 0.19920000000000002,
   "peak": 0.2397,
@@ -125,7 +130,28 @@
   "yearly_fixed_fee_exclusive_night": null
  },
  "energy_kind": "variable",
- "injection": null,
+ "injection": {
+  "base": -0.00625,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": 0.0319,
+  "factor": 0.24400000000000002,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": false,
+  "floor_at_zero": false,
+  "formula": "0.0244 * BELPEXM -0.625",
+  "minimum": null,
+  "month_indexed": true,
+  "offpeak": null,
+  "peak": null,
+  "slot_indexed": false,
+  "spp_indexed": false,
+  "transition": null,
+  "vat_applies": false
+ },
  "publication_label": "octobre 2026",
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT_ELECTRICITY_WAL_FR.pdf",
  "supplier": "totalenergies",

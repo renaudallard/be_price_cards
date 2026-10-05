@@ -1,13 +1,18 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
+ "_schema_version": 77,
  "_seen_on": "2026-09-29",
  "_sources": [
   {
    "pdf": "1b445112d0f567c143a09db5a2396f4d9df758bde5a26194e82d6b8a839f70fe",
    "text": "texts/2026-09/44b692aec2d073430e2b6ec6020af991fc3c83128f1b1c86870ac29c41a89489.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_FLOW_P_GREEN_C_I_24_V_F&monthOffset=10&segment=P&language=F",
+   "variant": "plain"
+  },
+  {
+   "text": "texts/2026-09/70e5414eff5ced4b9b0e7390d0ed5b2578be367fb561292133f14f5974ecb7de.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_FLOW_P_GREEN_C_I_24_V_F&monthOffset=9&segment=P&language=F",
    "variant": "plain"
   }
  ],
@@ -149,8 +154,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.1225,
-  "exclusive_night": 0.1025,
+  "current": 0.13560453,
+  "exclusive_night": 0.11303845000000001,
   "formula": null,
   "formula_base": 0.033297,
   "formula_base_exclusive_night": 0.030727,
@@ -163,10 +168,10 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
+  "index_realised": 0.08619,
   "month_indexed": true,
-  "offpeak": 0.1025,
-  "peak": 0.1319,
+  "offpeak": 0.11303845000000001,
+  "peak": 0.14637208999999998,
   "rlp_blend": "distinct",
   "rlp_indexed": false,
   "yearly_fixed_fee": 60.0,
@@ -178,7 +183,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.03915,
+  "current": 0.04486023,
   "factor": 0.517,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -186,6 +191,7 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "0.0300 + (0.0517 x EPEXDAM)",
+  "index_realised": 0.08619,
   "minimum": null,
   "month_indexed": true,
   "offpeak": null,

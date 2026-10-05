@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T21:55:31.492723+00:00",
  "_probe_key": null,
- "_schema_version": 76,
- "_seen_on": "2026-10-04",
+ "_schema_version": 77,
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "text": "texts/2026-10/1bfaa4368eabca65974e448cf22f395ff1a4259ba65c6fc039bb37ef85b95724.txt",
+   "text": "texts/2026-10/735d6686ffc9a33803a150c9f13bc2508560f4c1f25e9822bda507bf5f88b5da.txt",
    "url": "https://www.cociter.be/electricite/cartes-tarifaires/",
    "variant": "text"
   },
@@ -120,7 +120,6 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
   "month_indexed": true,
   "offpeak": 0.160766,
   "peak": 0.193925,
