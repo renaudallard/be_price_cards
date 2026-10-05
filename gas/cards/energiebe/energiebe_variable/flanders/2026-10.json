@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-10-03",
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
    "text": "texts/2026-10/465e6be4e9dcccb0c7a2a7c81b1fedfa4ebcb00d2286f4b63bf8cd9120b84b64.txt",
@@ -8,7 +8,7 @@
   },
   {
    "pdf": "ed2c0ba213d5f6ab1a0edd0d7bfa70300f980fe4a2c7398e77727854ba8f9a97",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/3a0dbe8d3e02f7feeeb64596ce3799c14468e3994d690e2650b4f73951bd6c0d.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Energie_be_Gas_Particulier_18ddc53692.pdf",
    "variant": "layout"

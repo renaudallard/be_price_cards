@@ -8,7 +8,7 @@
   },
   {
    "pdf": "aa917a81f941f1e03db1f5f10b8cd6ddd89ffe6464cd19be675d5b4807c3eee2",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/04263d14ee378ee936d00e55fd400a31d60a956c4b02a7b4b4b11792275acf89.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Energie_be_Gas_Particulier_18ddc53692.pdf",
    "variant": "layout"

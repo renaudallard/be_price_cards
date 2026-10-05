@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "040fb9b8ffcc3b740952339369bca27db0946db1716970829551fbc9f0361b84",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/0a46895c5afdb7071c32d02ee499c46a6645164a2a9b3cd0bf63a9015fe588ec.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL_GAS_VL_FR.pdf",
    "variant": "layout"

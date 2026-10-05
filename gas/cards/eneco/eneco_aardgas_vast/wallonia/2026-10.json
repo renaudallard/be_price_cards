@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-10-01",
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "text": "texts/2026-10/161ce265319a8db1f6ba34463c2f8388b7fe5f6c8e203e1112f7e83cd4fa6d48.txt",
+   "text": "texts/2026-10/e37bf7582a5839bf83d54ddd85a5da656c0defa99a5f2229c15f19751256e8f2.txt",
    "url": "https://eneco.be/nl/elektriciteit-gas/tariefkaarten/",
    "variant": "text"
   },
   {
    "pdf": "630c044925a5c8896534c0a572f74ca19811549ea53befd5a2473f96f1bf6927",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/4985a66d99cbceb30ae9ad5eafa7ba986ec5f00857767161ab6c03c0aa610d33.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012610_NL_ENECO_GAS_FIX.pdf",
    "variant": "plain"

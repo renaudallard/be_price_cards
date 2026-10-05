@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-10-03",
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
    "pdf": "05f434552b5268f26ce9c56c26c076bae626aa11c8120085727fb6651cfc04fa",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/222e65dbec478a78186690f6a1a1cf90a6d4cdbd61384d45657e96976de59e79.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicflex&energyType=gas&language=fr&tabValue=Wallonia",
    "variant": "plain"

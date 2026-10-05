@@ -29,7 +29,7 @@
         <link type="text/css" rel="stylesheet" href="/web/assets/29/0494867/web.assets_frontend.min.css"/>
         <script id="web.layout.odooscript" type="text/javascript">
             var odoo = {
-                csrf_token: "36cab24b3d7b4276bf61a8c0e6a978bb49ddbf2bo1822476421",
+                csrf_token: "f30c7a04a48734a019df6d5f6cd60df641f881c4o1822740383",
                 debug: "",
             };
         </script>
@@ -370,7 +370,7 @@ Prijszekerheid voor 1 jaar*<br></p></span>
                 </div>
             
             <form class="d-none" method="post" id="customer_form">
-                <input type="hidden" name="csrf_token" value="36cab24b3d7b4276bf61a8c0e6a978bb49ddbf2bo1822476421"/>
+                <input type="hidden" name="csrf_token" value="f30c7a04a48734a019df6d5f6cd60df641f881c4o1822740383"/>
                 <input type="hidden" name="ratecard_ids"/>
                 <input type="hidden" name="product_group_id"/>
                 <input type="hidden" name="fix_variable"/>
@@ -392,7 +392,7 @@ Prijszekerheid voor 1 jaar*<br></p></span>
             <form class="d-none" method="post" id="detail_form">
                 <input type="hidden" name="zip"/>
                 <input type="hidden" name="city"/>
-                <input type="hidden" name="csrf_token" value="36cab24b3d7b4276bf61a8c0e6a978bb49ddbf2bo1822476421"/>
+                <input type="hidden" name="csrf_token" value="f30c7a04a48734a019df6d5f6cd60df641f881c4o1822740383"/>
                 <input type="hidden" name="connection_type"/>
                 <input type="hidden" name="meter_type"/>
                 <input type="hidden" name="excl_night"/>

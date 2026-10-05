@@ -26,7 +26,7 @@
 <meta name="twitter:description" content="Scherpe en betrouwbare tarieven. Bekijk onze prijzen in detail op de tariefkaarten." />
 <meta name="twitter:image" content="https://sparki.be/wp-content/uploads/2026/01/favicon.png" />
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://sparki.be/#/schema/WebSite","url":"https://sparki.be/","name":"Sparki","inLanguage":"nl-BE","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://sparki.be/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@type":"Organization","@id":"https://sparki.be/#/schema/Organization","name":"Sparki","url":"https://sparki.be/","logo":{"@type":"ImageObject","url":"https://sparki.be/wp-content/uploads/2026/01/favicon.png","contentUrl":"https://sparki.be/wp-content/uploads/2026/01/favicon.png","width":56,"height":56,"contentSize":"1239"}}},{"@type":"WebPage","@id":"https://sparki.be/elektriciteit-gas/tariefkaarten/","url":"https://sparki.be/elektriciteit-gas/tariefkaarten/","name":"Tariefkaarten particulier - Sparki","description":"Scherpe en betrouwbare tarieven. Bekijk onze prijzen in detail op de tariefkaarten.","inLanguage":"nl-BE","isPartOf":{"@id":"https://sparki.be/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://sparki.be/#/schema/BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":"https://sparki.be/","name":"Sparki"},{"@type":"ListItem","position":2,"item":"https://sparki.be/elektriciteit-gas/","name":"Elektriciteit-gas"},{"@type":"ListItem","position":3,"name":"Tariefkaarten"}]},"potentialAction":{"@type":"ReadAction","target":"https://sparki.be/elektriciteit-gas/tariefkaarten/"}}]}</script>
-<!-- / The SEO Framework by Sybre Waaijer | 18.87ms meta | 8.33ms boot -->
+<!-- / The SEO Framework by Sybre Waaijer | 16.97ms meta | 12.77ms boot -->
 
 <link rel="alternate" type="application/rss+xml" title="Sparki &raquo; feed" href="https://sparki.be/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Sparki &raquo; reactiesfeed" href="https://sparki.be/comments/feed/" />
@@ -63,7 +63,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://sparki.be/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.6' media='all' />
 <link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://sparki.be/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.6' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css' href='https://sparki.be/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.0.5' media='all' />
-<link rel='stylesheet' id='elementor-post-6-css' href='https://sparki.be/wp-content/uploads/elementor/css/post-6.css?ver=1790909801' media='all' />
+<link rel='stylesheet' id='elementor-post-6-css' href='https://sparki.be/wp-content/uploads/elementor/css/post-6.css?ver=1790952990' media='all' />
 <link rel='stylesheet' id='e-sticky-css' href='https://sparki.be/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=4.2.2' media='all' />
 <link rel='stylesheet' id='widget-heading-css' href='https://sparki.be/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.0.5' media='all' />
 <link rel='stylesheet' id='widget-image-css' href='https://sparki.be/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.0.5' media='all' />
@@ -71,9 +71,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='widget-divider-css' href='https://sparki.be/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.0.5' media='all' />
 <link rel='stylesheet' id='widget-call-to-action-css' href='https://sparki.be/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css?ver=4.2.2' media='all' />
 <link rel='stylesheet' id='e-transitions-css' href='https://sparki.be/wp-content/plugins/elementor-pro/assets/css/conditionals/transitions.min.css?ver=4.2.2' media='all' />
-<link rel='stylesheet' id='elementor-post-1411-css' href='https://sparki.be/wp-content/uploads/elementor/css/post-1411.css?ver=1790911475' media='all' />
-<link rel='stylesheet' id='elementor-post-10-css' href='https://sparki.be/wp-content/uploads/elementor/css/post-10.css?ver=1790909809' media='all' />
-<link rel='stylesheet' id='elementor-post-53-css' href='https://sparki.be/wp-content/uploads/elementor/css/post-53.css?ver=1790909811' media='all' />
+<link rel='stylesheet' id='elementor-post-1411-css' href='https://sparki.be/wp-content/uploads/elementor/css/post-1411.css?ver=1790953517' media='all' />
+<link rel='stylesheet' id='elementor-post-10-css' href='https://sparki.be/wp-content/uploads/elementor/css/post-10.css?ver=1790952998' media='all' />
+<link rel='stylesheet' id='elementor-post-53-css' href='https://sparki.be/wp-content/uploads/elementor/css/post-53.css?ver=1790952999' media='all' />
 <link rel='stylesheet' id='elementor-gf-local-plusjakartasans-css' href='https://sparki.be/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1776418699' media='all' />
 <link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://sparki.be/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1776418719' media='all' />
 <script id="burst-timeme-js" async src="https://sparki.be/wp-content/plugins/burst-statistics/assets/js/timeme/timeme.min.js?ver=1778682586"></script>
@@ -5528,7 +5528,7 @@ window.addEventListener('load', function () {
 					document.addEventListener( event, lazyloadRunObserver );
 				} );
 			</script>
-			<script id="burst-js" defer src="https://sparki.be/wp-content/uploads/burst/js/burst.min.js?ver=1790865038"></script>
+			<script id="burst-js" defer src="https://sparki.be/wp-content/uploads/burst/js/burst.min.js?ver=1791124310"></script>
 <script id="pll_cookie_script-js-after">
 (function() {
 				var expirationDate = new Date();
@@ -5548,7 +5548,7 @@ jQuery.uiBackCompat = true;
 <script id="jquery-ui-core-js" src="https://sparki.be/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2"></script>
 <script id="elementor-frontend-js-before">
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Delen op Facebook","shareOnTwitter":"Delen op Twitter","pinIt":"Pin dit","download":"Downloaden","downloadImage":"Download afbeelding","fullscreen":"Volledig scherm","zoom":"Zoom","share":"Delen","playVideo":"Video afspelen","previous":"Vorige","next":"Volgende","close":"Sluiten","a11yCarouselPrevSlideMessage":"Vorige slide","a11yCarouselNextSlideMessage":"Volgende slide","a11yCarouselFirstSlideMessage":"Ga naar de eerste slide","a11yCarouselLastSlideMessage":"Ga naar de laatste slide","a11yCarouselPaginationBulletMessage":"Ga naar de slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobiel portretmodus","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobiel landschapsmodus","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet portretmodus","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet landschapsmodus","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Breedbeeld","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},
-"hasCustomBreakpoints":false},"version":"4.0.5","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"e_pro_free_trial_popup":true,"nested-elements":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_collection_loop":true,"mega-menu":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"https:\/\/sparki.be\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/sparki.be\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/sparki.be\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"034a89cfd1","atomicFormsSendForm":"9bfe229a7a"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_footer_logo_type":"logo"},"post":{"id":1411,"title":"Tariefkaarten%20particulier%20-%20Sparki","excerpt":"","featuredImage":false}};
+"hasCustomBreakpoints":false},"version":"4.0.5","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"e_pro_free_trial_popup":true,"nested-elements":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_collection_loop":true,"mega-menu":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"https:\/\/sparki.be\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/sparki.be\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/sparki.be\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"6d18b2ac1e","atomicFormsSendForm":"a214ff30af"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_footer_logo_type":"logo"},"post":{"id":1411,"title":"Tariefkaarten%20particulier%20-%20Sparki","excerpt":"","featuredImage":false}};
 //# sourceURL=elementor-frontend-js-before
 </script>
 <script id="elementor-frontend-js" src="https://sparki.be/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.0.5"></script>
@@ -5672,7 +5672,7 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 //# sourceURL=wp-i18n-js-after
 </script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/sparki.be\/wp-admin\/admin-ajax.php","nonce":"5f1c1fad58","urls":{"assets":"https:\/\/sparki.be\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/sparki.be\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/sparki.be\/wp-admin\/admin-ajax.php","nonce":"67f0f1f170","urls":{"assets":"https:\/\/sparki.be\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/sparki.be\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},
 "facebook_sdk":{"lang":"nl_BE","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/sparki.be\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 //# sourceURL=elementor-pro-frontend-js-before
 </script>
@@ -5750,8 +5750,11 @@ document.addEventListener("cmplz_fire_categories", function (e) {
 <!-- Cache File Path:               /cache/comet-cache/cache/https/sparki-be/elektriciteit-gas/tariefkaarten.html -->
 
 <!-- Cache File Generated Via:      HTTP request -->
-<!-- Cache File Generated On:       Oct 2nd, 2026 @ 11:27 am UTC -->
-<!-- Cache File Generated In:       3.85151 seconds -->
+<!-- Cache File Generated On:       Oct 5th, 2026 @ 12:32 pm UTC -->
+<!-- Cache File Generated In:       2.90635 seconds -->
 
-<!-- Cache File Expires On:         Oct 9th, 2026 @ 11:27 am UTC -->
-<!-- Cache File Auto-Rebuild On:    Oct 9th, 2026 @ 11:27 am UTC -->
+<!-- Cache File Expires On:         Oct 12th, 2026 @ 12:32 pm UTC -->
+<!-- Cache File Auto-Rebuild On:    Oct 12th, 2026 @ 12:32 pm UTC -->
+
+<!-- Loaded via Cache On:    Oct 5th, 2026 @ 12:46 pm UTC -->
+<!-- Loaded via Cache In:    0.00485 seconds -->

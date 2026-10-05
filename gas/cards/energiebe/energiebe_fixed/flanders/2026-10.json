@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-10-03",
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
    "text": "texts/2026-10/465e6be4e9dcccb0c7a2a7c81b1fedfa4ebcb00d2286f4b63bf8cd9120b84b64.txt",
@@ -8,7 +8,7 @@
   },
   {
    "pdf": "60a5a586c76afd7c316fcf9d1dcd6472f7b7ba40bdacf7ed5a40e868a8eacba2",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/74717b363dcce37caee93d4677875253f66d65e2b0c9edf6e4c9bd30e19fde8f.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/VAST_Energie_be_RES_GAS_pdf_276e3f8ac3.pdf",
    "variant": "layout"

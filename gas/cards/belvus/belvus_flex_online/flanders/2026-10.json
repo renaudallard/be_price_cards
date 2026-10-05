@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-10-01",
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "text": "texts/2026-10/ada13a11d6e93b99a53235d1fb2e71094bc347dc981b23ccb8089532d474671e.txt",
+   "text": "texts/2026-10/1067a96be1d838d83c5bb32884f278891f947de64151ab1ed80bfc60d860a1cf.txt",
    "url": "https://www.belvus.be/historische-tariefkaarten",
    "variant": "text"
   },
   {
    "pdf": "c10960ecc178c69b6e81e54b1629bfd5ea4b0c798591cf4fbaf0950a4fa6ac5f",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/cb5dea296550f493e0eb828b75e2276f060a7d3687cd07013ba0b73c7a50e70a.txt",
    "url": "https://www.belvus.be/public/tariefkaarten/2026-10/Tariefkaart_FlexOnline_GAS.pdf",
    "variant": "plain"

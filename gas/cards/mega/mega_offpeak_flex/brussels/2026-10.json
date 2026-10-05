@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-10-01",
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "text": "texts/2026-10/faed579400c3097b2bacbd4a9fcf13e3ef378c8023ba20282dcd75140bb9645f.txt",
+   "text": "texts/2026-10/bb23631fd1ccf5766a21ed3467d4e07caf680b6286e8faf9b411a7d76e2c5dd9.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
    "pdf": "91a86e33f502597a6a94800ab99c9532276c2fa48be857d952a0338973c0f9f1",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/bdfbd363d9d45cc16878eecdb5b41a73c76963a1e51e40c1dfc388bec2c68bbc.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-102026-Offpeak-Bi-Var.pdf",
    "variant": "plain"

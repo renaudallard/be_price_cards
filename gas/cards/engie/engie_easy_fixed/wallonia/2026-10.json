@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-10-01",
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
    "pdf": "d363842478b59e30bb765ccb4cf84db5344fa13c8736ea6643f4715fa77d8ce9",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/c5597f37c77c7412c3531db8da096b28ae3699ed4bc48a21dfd388261bd87556.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EASY_R_GREY_C_F_12_W_F&monthOffset=0&segment=R&language=F",
    "variant": "plain"

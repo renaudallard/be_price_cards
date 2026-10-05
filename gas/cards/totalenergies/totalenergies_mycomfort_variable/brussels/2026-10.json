@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-10-02",
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
    "pdf": "1daf428e5fec3064ffe09f31348141de92b4d90edaf69a4544ce7d39d3209452",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/4cd2a7b15e11bddfdc5638633ae05b44aa77f222bc252016dee0f293879badd8.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT_GAS_BXL_FR.pdf",
    "variant": "layout"

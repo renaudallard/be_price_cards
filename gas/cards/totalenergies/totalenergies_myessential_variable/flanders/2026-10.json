@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-10-03",
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
    "pdf": "5225b8c89b08334a11d67db84cc3ae566d575006b643d4630ad20fe4e26d3f14",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/e5b4d6af64b99b800d985f45bbe188a76370e314e859e41f8105b0a6d7bc7ea6.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL_GAS_VL_FR.pdf",
    "variant": "layout"

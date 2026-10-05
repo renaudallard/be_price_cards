@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-10-01",
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "text": "texts/2026-10/faed579400c3097b2bacbd4a9fcf13e3ef378c8023ba20282dcd75140bb9645f.txt",
+   "text": "texts/2026-10/bb23631fd1ccf5766a21ed3467d4e07caf680b6286e8faf9b411a7d76e2c5dd9.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
    "pdf": "eb7c4e4c6a6b9e068e06af2ae23aa60449b3eaf87f685059ff09b12084442abd",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/8299d43aa062886268b041cbc72af794171e174605e296b1106edb2692a2cb12.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-102026-Zen0110-Fix.pdf",
    "variant": "plain"

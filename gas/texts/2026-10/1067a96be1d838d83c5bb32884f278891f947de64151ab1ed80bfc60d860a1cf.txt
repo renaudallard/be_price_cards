@@ -431,7 +431,7 @@
         <div class="ht-head"><span>Naam</span><span>Datum</span></div>
         <div class="ht-row">
           <span class="ht-row__name"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#563240" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex:none"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><path d="M14 2v6h6"></path></svg>Tariefkaart Dynamisch Elektriciteit</span>
-          <a href="/public/tariefkaarten/2026-10/Tariefkaart_Dynamisch_EL.pdf?v=ce17858ce492" target="_blank" rel="noopener" class="ht-dl">Oktober 2026<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"></path><path d="M6 11l6 6 6-6"></path><path d="M4 21h16"></path></svg></a>
+          <a href="/public/tariefkaarten/2026-10/Tariefkaart_Dynamisch_EL.pdf?v=b244472dfa8f" target="_blank" rel="noopener" class="ht-dl">Oktober 2026<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"></path><path d="M6 11l6 6 6-6"></path><path d="M4 21h16"></path></svg></a>
         </div>
         <div class="ht-row">
           <span class="ht-row__name"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#563240" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex:none"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><path d="M14 2v6h6"></path></svg>Tariefkaart Dynamisch Elektriciteit</span>
@@ -613,7 +613,7 @@
         <div class="ht-head"><span>Naam</span><span>Datum</span></div>
         <div class="ht-row">
           <span class="ht-row__name"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#563240" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex:none"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><path d="M14 2v6h6"></path></svg>Tariefkaart Dynamisch Pro Elektriciteit</span>
-          <a href="/public/tariefkaarten/2026-10/Tariefkaart_DynamischPro_EL.pdf?v=d1a44cff6d2c" target="_blank" rel="noopener" class="ht-dl">Oktober 2026<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"></path><path d="M6 11l6 6 6-6"></path><path d="M4 21h16"></path></svg></a>
+          <a href="/public/tariefkaarten/2026-10/Tariefkaart_DynamischPro_EL.pdf?v=0d8c67cf795c" target="_blank" rel="noopener" class="ht-dl">Oktober 2026<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"></path><path d="M6 11l6 6 6-6"></path><path d="M4 21h16"></path></svg></a>
         </div>
         <div class="ht-row">
           <span class="ht-row__name"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#563240" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex:none"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><path d="M14 2v6h6"></path></svg>Tariefkaart Dynamisch Pro Elektriciteit</span>

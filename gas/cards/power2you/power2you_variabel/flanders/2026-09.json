@@ -8,7 +8,7 @@
   },
   {
    "pdf": "899e4d9e5b2baa3b161ae0bf455472cb4f2ca64dd498cba02632930a845662ac",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/28ca0596d8cc4dac669c333c2931408293f643861650d0b4a9652b854534a1be.txt",
    "url": "https://www.power2you.be/web/content/xx.product.group.tariff.card/1775/file",
    "variant": "plain"

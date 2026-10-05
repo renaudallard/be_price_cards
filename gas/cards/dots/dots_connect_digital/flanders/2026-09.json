@@ -8,7 +8,7 @@
   },
   {
    "pdf": "9213f62d0ee90badbbc0cf9ece6c110bf0439b5d705efc400afc6a58244da8d3",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/28eecf75ad5557e19196eb6fd2b6be05d111457e2799c13e270b77a87c03385e.txt",
    "url": "https://www.dotsenergy.be/web/content/98918?unique=adb0e23a7ee37894023a0016f9738428b50941fb&download=true",
    "variant": "plain"

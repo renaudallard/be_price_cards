@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-10-02",
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "text": "texts/2026-10/0e65bf2cf5f5b736dd97443aa4e84b05af4b410324ecc6dc85bd32037d4ae6ac.txt",
+   "text": "texts/2026-10/0831a24d138131e2a72794251a27e6827c320c1a0a4e018f4d91652eb68ff443.txt",
    "url": "https://www.energyvision.be/nl-be/tariefkaart",
    "variant": "text"
   },
   {
    "pdf": "b1b0e46cc41fc31ef6dedf052eee373a9f84576149bc9727111c1eab343c102d",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/899f1f4daf52204db8f872ad674218578f9823f3209a3a46a9d95c90d3a73079.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1026-GS1JVG-nl.pdf",
    "variant": "layout"

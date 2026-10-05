@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-10-02",
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "text": "texts/2026-10/744e7c8498a4519b22b07bcb13a5d82264f0e2306e6c50703c2cddb778ce608c.txt",
+   "text": "texts/2026-10/f3341f22dd4d138dde343002e12c1fcb5fd00ce1fdd9136f99179d957b245612.txt",
    "url": "https://www.prijspuntenenergie.be/products",
    "variant": "text"
   },
   {
    "pdf": "dc8c27ebd3e6c568965885e574bff22de42ad9f891b4791754ab86212ff93739",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/c3e12e046ef0adc3409c34f0659be237ca649cdc8b9352acd6fd65046e5c3b1f.txt",
    "url": "https://www.prijspuntenenergie.be/web/content/xx.product.group.tariff.card/1871/file",
    "variant": "plain"
