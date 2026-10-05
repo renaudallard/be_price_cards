@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-05T12:39:23.047391+00:00",
  "_probe_key": null,
  "_schema_version": 76,
- "_seen_on": "2026-10-04",
+ "_seen_on": "2026-10-05",
  "_sources": [
   {
-   "pdf": "3ede553c1797e13015bcb7436b6eccf016077f010c0932c495ef12ea99cf2f30",
-   "text": "texts/2026-10/c019331d7ccaa2651500943368c82bef9a58263d78fff020a1b7925893a99297.txt",
+   "pdf": "b8e8e95756eb0c179c6f37cb24d94fd370a9921bd64a34492e33a9f52699c1f3",
+   "text": "texts/2026-10/28c3bae0b814562fcb196cb174dae2f6470e85e039690918c2061cee7934b73c.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/ELECTRICITE-VARIABLE_ELECTRICITY_BXL_FR.pdf",
    "variant": "layout"
   }
@@ -49,10 +49,10 @@
   "current": 0.23579999999999998,
   "exclusive_night": 0.2236,
   "formula": null,
-  "formula_base": 0.051211999999999994,
-  "formula_base_exclusive_night": 0.050152,
-  "formula_base_offpeak": 0.051211999999999994,
-  "formula_base_peak": 0.051211999999999994,
+  "formula_base": 0.045806,
+  "formula_base_exclusive_night": 0.04474600000000001,
+  "formula_base_offpeak": 0.045806,
+  "formula_base_peak": 0.045806,
   "formula_factor": 1.16388,
   "formula_factor_exclusive_night": 1.0960400000000001,
   "formula_factor_offpeak": 1.04834,

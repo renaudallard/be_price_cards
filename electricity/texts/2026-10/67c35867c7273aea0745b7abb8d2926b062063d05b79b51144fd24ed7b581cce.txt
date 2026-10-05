@@ -55,8 +55,8 @@ Le tarif dynamique est un prix variable sur une base horaire. Il est indexé sel
 fourniture d'électricité est indexé toutes les heures sur la base du coefficient de la formule, le Belpex H, qui est la cotation Day Ahead Belpex Baseload qui change
 toutes les heures. Les valeurs Belpex H sont connues un jour à l'avance et sont disponibles à partir de 15 heures sur https://www.epexspot.com/en. Le prix attendu
 de l’énergie est annoncé la veille vers 15 heures dans l'application TotalEnergies Power & Gas Belgium et est également publié sur notre site Internet.
-La valeur estimée de l'indice Belpex H pour l'énergie prélevée pour l'année à venir est de 145,02 €/MWh en octobre 2026. Toutefois, la facturation tient compte du
-tarif horaire réel, qui change d'heure en heure.
+La valeur estimée de l'indice Belpex H pour l'énergie prélevée pour l'année à venir est de 145,01543 €/MWh en octobre 2026. Toutefois, la facturation tient compte
+du tarif horaire réel, qui change d'heure en heure.
 ** Prix annuels estimés pour la consommation selon la méthodologie du Vlaamse Nutsregulator :
 https://www.vlaamsenutsregulator.be/nl/faq/hoe-berekent-de-v-testr-de-geschatte-jaarkost-voor-variabele-contracten.
 Il s'agit d'une estimation qui peut changer en fonction des fluctuations des prix du marché.
