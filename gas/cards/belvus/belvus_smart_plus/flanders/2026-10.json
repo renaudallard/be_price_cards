@@ -1,15 +1,15 @@
 {
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-06",
  "_sources": [
   {
-   "text": "texts/2026-10/1067a96be1d838d83c5bb32884f278891f947de64151ab1ed80bfc60d860a1cf.txt",
+   "text": "texts/2026-10/de0615012941f06914b636d9e2569ed76a8546642db1e2683f4f7e72832ed417.txt",
    "url": "https://www.belvus.be/historische-tariefkaarten",
    "variant": "text"
   },
   {
-   "pdf": "7ad8498043bafef1a2b0c17f891dfb2e153b2a01dce12b20811093152c69c35b",
+   "pdf": "aedd7f26a696f67b670eb6514e05ada99e27ea10b955aa0ef747bdf23a49eea8",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
-   "text": "texts/2026-10/1d7314cf01ba0ccec8feca21f72e6d0c6f3408e47b030bdd13648b9def7fa4b0.txt",
+   "text": "texts/2026-10/ee19f92cdf14578ca60efbab1b6c15e537c7eb5f950aea6f5396b5ce99b8a48e.txt",
    "url": "https://www.belvus.be/public/tariefkaarten/2026-10/Tariefkaart_SmartPlus_GAS.pdf",
    "variant": "plain"
   }

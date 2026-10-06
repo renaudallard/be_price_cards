@@ -1,8 +1,8 @@
 {
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-06",
  "_sources": [
   {
-   "pdf": "7a041dfb1557189b5a5394e2c2634000212262104e3a9b2d6a6a19335e405eac",
+   "pdf": "931c24495570323f362e0dec6caaafeac23a75c3a97c825349f711ac026e4a39",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
    "text": "texts/2026-10/3452f6ec467f78e7dbfc18df9694b794b3f678b4330bbbcc6f7f05cfb473094a.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxfix&energyType=gas&language=fr&tabValue=Flanders",
