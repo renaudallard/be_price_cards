@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-06T12:14:44.558636+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-06",
  "_sources": [
   {
    "pdf": "6a6589eb32ceb8d8d62bd1e00eb78b37cc2b1cd1cb01fb396caf7550e1fd2314",
@@ -11,15 +11,9 @@
    "variant": "layout"
   },
   {
-   "pdf": "0963b7192895954d0ec3e6c3a228e028f9373ab035c245f50cba26ed8fe09f2d",
-   "text": "texts/2026-10/696b8889b2481778f4aefa50bc6e9fc69abe8967bd7b2bb8431c6ad9e7bd0506.txt",
+   "pdf": "53b9cd5f98a4e240e331e0adbf73b6e59336e4e6c02088604bfb05a76506dba5",
+   "text": "texts/2026-10/ae05ff3c86c73f13f9048cdfba8a8f54b968ea6d80c3e2f1fcbd326872a3eadf.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_BXL_FR.pdf",
-   "variant": "layout"
-  },
-  {
-   "pdf": "7d588d9ffb6731295593d0e04685c2100ad2b8aa5de83806acc9bcd620d9234f",
-   "text": "texts/2026-10/6d13bebaddba83d1ec5552875572921078fd2b9e3fad62042df19f82eed12266.txt",
-   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_BXL_NL.pdf",
    "variant": "layout"
   }
  ],
@@ -85,7 +79,7 @@
   "vat_applies": false
  },
  "publication_label": "octobre 2026",
- "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_BXL_NL.pdf",
+ "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_BXL_FR.pdf",
  "supplier": "totalenergies",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {

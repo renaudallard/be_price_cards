@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-06T12:14:44.558636+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-06",
  "_sources": [
   {
    "pdf": "67e1c662d34c8cf37365dbde265f69578959cbfdbad50e7895e04874fa36e9ba",
@@ -11,8 +11,8 @@
    "variant": "layout"
   },
   {
-   "pdf": "300067e1d2baf745a9c0aa03dd513eed950abcff9b819ff4fa789a80dad54713",
-   "text": "texts/2026-10/74ce598c2bc23cde7a48f420f9690f45eb68edf496c347ae131e29eb6b1b72e2.txt",
+   "pdf": "015096d1a5fe52883ba4365e129d7280a88eb82d417e7cee9ceaf0c0b314d77a",
+   "text": "texts/2026-10/abfacf671ccd9a639fb0df1a8f1e4d3865807513df27c793e7caa8d41663c7fa.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL_ELECTRICITY_BXL_FR.pdf",
    "variant": "layout"
   }
@@ -52,13 +52,13 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.2311,
+  "current": 0.23070000000000004,
   "exclusive_night": 0.2198,
   "formula": null,
-  "formula_base": 0.03869,
-  "formula_base_exclusive_night": 0.037842,
-  "formula_base_offpeak": 0.03869,
-  "formula_base_peak": 0.03869,
+  "formula_base": 0.040400000000000005,
+  "formula_base_exclusive_night": 0.039552000000000004,
+  "formula_base_offpeak": 0.040400000000000005,
+  "formula_base_peak": 0.040400000000000005,
   "formula_factor": 1.1660000000000001,
   "formula_factor_exclusive_night": 1.1045200000000002,
   "formula_factor_offpeak": 1.0536400000000001,

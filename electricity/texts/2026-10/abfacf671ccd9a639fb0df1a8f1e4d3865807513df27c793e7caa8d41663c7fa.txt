@@ -48,13 +48,13 @@ constitués de 2 parties :
 Prix de l’énergie 0
 Redevance
 fixe 1 (c€/kWh)
-(€/an) Compteur Compteur doublel*** Compteur
+(€/an) Compteur Compteur double*** Compteur
 simple Heures pleines Heures creuses excl. nuit
 Consommation
 24,32 26,27 22,62 23,31 Tarif mensuel
 35
-0.11 * BELPEXM_RLP + 3.65 0.1222 * BELPEXM_RLP 0.0994 * BELPEXM_RLP 0.1042 * BELPEXM_RLP Formule tarifaire
-+ 3.65 + 3.65 + 3.57
+0.11 * BELPEXM_RLP + 6.50 0.1222 * BELPEXM_RLP 0.0994 * BELPEXM_RLP 0.1042 * BELPEXM_RLP Formule tarifaire
++ 6.50 + 6.50 + 6.42
 La formule (HTVA) présentée dans le tableau ci-dessus va permettre à TotalEnergies de calculer le prix de l'énergie à deux moments de l'année. 1/Au moment de déterminer le montant
 de la facture d'acompte, le prix de l'électricité sera déterminé sur base de la valeur de l’indice repris dans cette formule. 2/Au moment de la régularisation annuelle, la formule de prix est
 utilisée pour calculer le prix final.
@@ -69,7 +69,7 @@ https://www.vlaamsenutsregulator.be/nl/faq/hoe-berekent-de-v-testr-de-geschatte-
 connue qu’à la fin du mois en cours. Cette méthodologie nous permet de calculer une estimation des prix futurs afin d'être au plus proche des évolutions des prix de l'énergie.
 A titre indicatif, ci-dessous les prix mensuels calculés sur base de la dernière valeur connue du BELPEX_M_RLP (du mois précédent) :
 Consommation
-Compteur Simple : 25,96 € cent/kWh
+Compteur Simple : 25,92 € cent/kWh
 Compteur Double
 Heures Pleines : 28,05 € cent/kWh
 Heures Creuses : 24,07 € cent/kWh
