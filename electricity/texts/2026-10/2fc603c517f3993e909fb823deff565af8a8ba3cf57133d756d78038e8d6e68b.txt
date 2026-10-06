@@ -1,17 +1,17 @@
-Carte tarifaire mars 2026
+Carte tarifaire août 2026
 Électricité bon marché avec
 1.800 kWh fixe
-Cette carte tarifaire est valable pour le produit « Électricité bon marché avec 1.800 kWh fixe » de mars 2026 pour la fourniture d'électricité verte aux
-clients résidentiels en Wallonie. Tous les prix et tarifs incluent la TVA à 6 %. (EV-0326-GS1800V-WAL-fr)
+Cette carte tarifaire est valable pour le produit « Électricité bon marché avec 1.800 kWh fixe » de août 2026 pour la fourniture d'électricité verte aux
+clients résidentiels en Wallonie. Tous les prix et tarifs incluent la TVA à 6 %. (EV-0826-GS1800V-WAL-fr)
 Bienvenue!
 Prix de l'énergie
 Électricité verte du réseau
-Frais fixes 50 €/an
+Frais fixes 0 €/an
 Électricité verte (<1.800 kWh – tarif fixe) 10,60 €cent/kWh
-Électricité verte (>1.800 kWh – tarif variable) 11,92€cent/kWh
-Injection – variable 1,51€cent/kWh
+Électricité verte (>1.800 kWh – tarif variable) 17,26 €cent/kWh
+Injection – variable 2,73 €cent/kWh
 EnergyVision NV - www.energyvision.be - hello@energyvision.be - Compte bancaire : BE82 7310 6308 8468 (KBC) - BIC : KREDBEBB Page 1
-Carte tarifaire mars 2026
+Carte tarifaire août 2026
 Électricité bon marché avec
 1.800 kWh fixe
 Explication
@@ -19,9 +19,9 @@ L’électricité verte fournie est composée d’électricité provenant du sol
 « Électricité bon marché avec 1.800 kWh fixe » est un contrat à durée indéterminée dans lequel le prix de l’énergie est partiellement
 fixe et partiellement variable.
 a/ La composante tarifaire fixe du produit « Électricité Verte » est valable pendant 10 ans et s’applique aux premiers 1.800 kWh
-consommés de votre tarif simple. Si vous disposez d’un compteur bi-horaire, nous répartissons ces 1.800 kWh comme suit :
-900 kWh sur votre tarif de jour et 900 kWh sur votre tarif de nuit. Non applicable au tarif « exclusif nuit ». Ces 1.800 kWh de
-consommation sont calculés sur une base annuelle et comptabilisés au prorata par jour.
+consommés de votre compteur mono-horaire ou compteur impact. Si vous disposez d’un compteur bi-horaire, nous répartissons ces
+1.800 kWh comme suit : 900 kWh sur votre tarif de jour et 900 kWh sur votre tarif de nuit. Non applicable au tarif « exclusif nuit ».
+Ces 1.800 kWh de consommation sont calculés sur une base annuelle et comptabilisés au prorata par jour.
 b/ La composante tarifaire variable du produit « Électricité verte » est indexée chaque mois. Le tarif variable est calculé selon la
 formule suivante (hors TVA) : 1,12 x Belpex-RLP-M + 20 EUR/MWh. Le tarif variable d’injection est calculé selon la formule suivante
 : 0,6 x Belpex-SPP-M - 15 EUR/MWh. Le paramètre d’indexation est basé sur la moyenne pondérée des cotations quotidiennes Day
@@ -37,11 +37,13 @@ niveau de prix moyen stable.
 d/ Les prix de l’« Électricité verte » doivent être majorés des taxes, redevances, suppléments et tous montants imposés pour
 l’utilisation des réseaux, ainsi que de la contribution pour l’énergie verte et/ou la cogénération, que EnergyVision peut ou doit
 facturer.
-e/ Nous vous accordons une réduction de bienvenue unique si vous souscrivez un nouveau contrat. Cela ne s’applique que pendant
-votre première année d’inscription pour cette version du produit. La réduction est accordée tant aux nouveaux clients qu’aux clients
-existants lors de la signature du contrat. La réduction est accordée après douze (12) mois complets de consommation ininterrompue
-et sera automatiquement déduite de la facture de régularisation suivant cette période. Cette réduction unique n’est pas cumulable
-avec d’autres promotions ou réductions.
+e/ Nous vous accordons une réduction de bienvenue unique si vous souscrivez un nouveau contrat. Cela ne s’applique que
+pendant votre première année d’inscription pour cette version du produit. La réduction est accordée tant aux nouveaux clients
+qu’aux clients existants lors de la signature du contrat. La remise est calculée au prorata journalier sur la période de facturation. La
+réduction s'applique exclusivement au coût de l'énergie, au frais fixe et à la contribution pour l'électricité verte. Si la somme de ces
+trois éléments est inférieure à la réduction de bienvenue indiquée, la réduction sera limitée au montant maximal de cette somme.
+La réduction ne s'applique pas aux tarifs de réseau, aux taxes et aux redevances. Cette réduction unique n’est pas cumulable avec
+d’autres promotions ou réductions.
 f/ Vous recevez de notre part chaque année civile 1.800 kWh d’électricité verte provenant du réseau à un tarif fixe. Si votre facture
 de régularisation annuelle ne reprend pas 1.800 kWh facturés à ce tarif fixe, alors que votre consommation annuelle le permettait,
 nous calculons un remboursement (avantage garanti). De cette façon, nous vous garantissons l’avantage complet des 1.800 kWh
@@ -95,13 +97,7 @@ Taxes, redevances et cotisations
 Contribution pour l'électricité verte en Wallonie
 Contribution électricité verte est introduite sous forme de quotas auprès de la CWaPE.
 Coûts certificats verts et certificats de cogénération valables pour 3,00 €cent/kWh.
-Suppléments et accise fédérale
-Suppléments (€cent/kWh)
-Contribution énergétique 0,20417
-Redevance de raccordement 0,07500
+Accise fédérale
 Accise fédérale (€cent/kWh)
-Consommation entre 0 & 3 000 kWh 5,03288
-Consommation entre 3 000 & 20 000 kWh 5,03288
-Consommation entre 20 000 & 50 000 kWh 4,81876
-Consommation entre 50 000 & 1 000 000 kWh 4,74668
+Accise spéciale 4,876 €cent/kWh
 EnergyVision NV - www.energyvision.be - hello@energyvision.be - Compte bancaire : BE82 7310 6308 8468 (KBC) - BIC : KREDBEBB

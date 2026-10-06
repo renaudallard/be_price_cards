@@ -1,16 +1,16 @@
-Tariefkaart februari 2026
+Tariefkaart juli 2026
 Goedkope stroom 3 jaar vast
-Deze tariefkaart is geldig voor het product “Goedkope stroom 3 jaar vast” van februari 2026 voor levering van groene stroom aan particulieren in Vlaanderen.
-Alle prijzen en tarieven zijn inclusief 6% BTW. (EV-0226-GS3JV-nl)
-Van harte welkom! Je krijgt 165 euro welkomstkorting.
+Deze tariefkaart is geldig voor het product “Goedkope stroom 3 jaar vast” van juli 2026 voor levering van groene stroom aan particulieren in Vlaanderen.
+Alle prijzen en tarieven zijn inclusief 6% BTW. (EV-0726-GS3JV-nl)
+Van harte welkom!
 Energieprijs
 Groene stroom
-Eenmalige welkomstkorting 165 €
-Vaste vergoeding 75€/jaar
+Eenmalige welkomstkorting 240 €
+Vaste vergoeding 75 €/jaar
 Groene stroom - vast tarief 13,57 €cent/kWh
-Injectie – variabel 1,85€cent/kWh
+Injectie – variabel 2,07 €cent/kWh
 EnergyVision NV - www.energyvision.be - hello@energyvision.be - Bankrekening: BE82 7310 6308 8468 (KBC) - BIC: KREDBEBB Pagina 1
-Tariefkaart februari 2026
+Tariefkaart juli 2026
 Goedkope stroom 3 jaar vast
 Toelichting
 De geleverde groene stroom bestaat uit groene stroom afkomstig van zon en wind.
@@ -30,9 +30,11 @@ d/ De prijs van “Groene stroom” dient verhoogd te worden met de toepasselijk
 bedragen voor het gebruik van de netten alsook met de bijdrage groene energie en/of warmtekrachtkoppeling, die EnergyVision kan
 of moet aanrekenen.
 e/ We kennen je een eenmalige welkomstkorting toe als je een nieuw contract aangaat. Dit geldt enkel tijdens je eerste
-inschrijvingsjaar voor deze productversie. De korting wordt zowel verkregen bij het afsluiten van het contract door een nieuwe
-klant als door een bestaande klant. De korting wordt pas toegekend na één ononderbroken jaar verbruik en wordt toegepast op de
-afrekeningsfactuur. Deze eenmalige korting is niet cumuleerbaar met andere promoties of kortingen.
+inschrijvingsjaar voor deze productversie. De korting wordt zowel verkregen bij het afsluiten van het contract door een nieuwe klant
+als door een bestaande klant. De korting wordt toegekend pro rata per dag over de facturatie periode. De korting heeft uitsluitend
+betrekking op de energiekost, de vaste vergoeding, de bijdrage groene stroom en WKK. Indien de som van deze componenten
+lager is dan de vermelde welkomstkorting, wordt de korting beperkt tot maximaal het bedrag van deze som. De korting is niet van
+toepassing op nettarieven, taksen en heffingen. Deze eenmalige korting is niet cumuleerbaar met andere promoties of kortingen.
 Voorwaarden
 1/ Het Contract bestaat uit product “Goedkope stroom 3 jaar vast”, de Algemene Voorwaarden, de tariefkaart
 “Goedkope stroom 3 jaar vast”, samen genoemd de Overeenkomst.
@@ -40,8 +42,8 @@ Voorwaarden
 3/ Het aanbod is enkel geldig voor Huishoudelijke Afnemers. De prijzen zijn van toepassing op laagspanningsaansluitingen voor
 elektriciteit.
 4/ Energiedelen kan mits administratieve kost van € 100/jaar en wordt pro rata per dag in rekening gebracht.
-5/ Bij ons is zonne-energie nooit waardeloos. Als de berekening van onze formule lager zou uitkomen dan 0 €cent/kWh, dan
-garanderen wij in elk geval 0 €cent/kWh. Dat wordt berekend op maandbasis.
+5/ Bij ons is zonne-energie nooit waardeloos. Als de berekening van onze formule lager zou uitkomen dan 1 €cent/kWh, dan
+garanderen wij in elk geval 1 €cent/kWh. Dat wordt berekend op maandbasis.
 EnergyVision NV - www.energyvision.be - hello@energyvision.be - Bankrekening: BE82 7310 6308 8468 (KBC) - BIC: KREDBEBB Pagina 2
 2026
 Distributienettarieven
@@ -92,7 +94,7 @@ Standaard tarief gedomicilieerd: 0 €/maand
 Standaard tarief niet-gedomicilieerd: 10,07 €/maand
 Toeslagen
 Energiebijdrage 0,20417 €cent/kWh
-Federale Accijns
+Federale accijns (€cent/kWh)
 Verbruik tussen 0 & 3.000 kWh 5,03288 €cent/kWh
 Verbruik tussen 3.000 & 20.000 kWh 5,03288 €cent/kWh
 Verbruik tussen 20.000 & 50.000 kWh 4,81876 €cent/kWh

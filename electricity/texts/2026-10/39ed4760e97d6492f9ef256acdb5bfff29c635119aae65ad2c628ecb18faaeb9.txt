@@ -84,12 +84,7 @@ Taks openbare dienstverplichtingen (ODV) - €/jaar
 > 56,00 kVA 173,25
 Bijdrage groene stroom
 Kosten Groene stroom 2,737 €cent/kWh
-Toeslagen en federale accijns
-Toeslagen
-Energiebijdrage 0,20417 €cent/kWh
+Federale accijns
 Federale accijns (€cent/kWh)
-Verbruik tussen 0 & 3.000 kWh 5,03288 €cent/kWh
-Verbruik tussen 3.000 & 20.000 kWh 5,03288 €cent/kWh
-Verbruik tussen 20.000 & 50.000 kWh 4,81876 €cent/kWh
-Verbruik tussen 50.000 & 1.000.000 kWh 4,74668 €cent/kWh
+Bijzondere accijns 4,876 €cent/kWh
 EnergyVision NV - www.brusol.be - hello@brusol.be - Bankrekening: BE82 7310 6308 8468 (KBC) - BIC: KREDBEBB Pagina 3

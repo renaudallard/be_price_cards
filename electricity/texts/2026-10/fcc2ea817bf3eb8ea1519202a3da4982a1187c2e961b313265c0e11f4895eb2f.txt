@@ -1,18 +1,18 @@
-Tariefkaart augustus 2026
+Tariefkaart januari 2026
 Goedkope stroom met
 1.800 kWh vast
-Deze tariefkaart is geldig voor het product “Goedkope stroom 1.800 kWh vast” van augustus 2026 voor levering van groene stroom aan particulieren
-in Vlaanderen. Alle prijzen en tarieven zijn inclusief 6% BTW. (EV-0826-GS1800V-nl)
-Van harte welkom!
+Deze tariefkaart is geldig voor het product “Goedkope stroom 1.800 kWh vast” van januari 2026 voor levering van groene stroom aan particulieren
+in Vlaanderen. Alle prijzen en tarieven zijn inclusief 6% BTW. (EV-0126-GS1800V-nl)
+Van harte welkom! Je krijgt 215 euro welkomstkorting.
 Energieprijs
 Groene stroom
-Eenmalige welkomstkorting 200 €
+Eenmalige welkomstkorting 215€
 Vaste vergoeding 50 €/jaar
 Groene stroom (<1.800 kWh – vast tarief) 10,60 €cent/kWh
-Groene stroom (>1.800 kWh – variabel tarief) 17,26 €cent/kWh
-Injectie – variabel 2,73 €cent/kWh
+Groene stroom (>1.800 kWh – variabel tarief) 12,02€cent/kWh
+Injectie – variabel 1,53€cent/kWh
 EnergyVision NV - www.energyvision.be - hello@energyvision.be - Bankrekening: BE82 7310 6308 8468 (KBC) - BIC: KREDBEBB Pagina 1
-Tariefkaart augustus 2026
+Tariefkaart januari 2026
 Goedkope stroom met
 1.800 kWh vast
 Toelichting
@@ -37,12 +37,11 @@ gemiddelde prijsniveau gelijk te houden.
 d/ De prijs van “Groene stroom” dient verhoogd te worden met de toepasselijke belastingen, heffingen, toeslagen en alle opgelegde
 bedragen voor het gebruik van de netten alsook met de bijdrage groene energie en/of warmtekrachtkoppeling, die EnergyVision kan
 of moet aanrekenen.
-e/ We kennen je een eenmalige welkomstkorting toe als je een nieuw contract aangaat. Dit geldt enkel tijdens je eerste
-inschrijvingsjaar voor deze productversie. De korting wordt zowel verkregen bij het afsluiten van het contract door een nieuwe klant
-als door een bestaande klant. De korting wordt toegekend pro rata per dag over de facturatie periode. De korting heeft uitsluitend
-betrekking op de energiekost, de vaste vergoeding, de bijdrage groene stroom en WKK. Indien de som van deze componenten
-lager is dan de vermelde welkomstkorting, wordt de korting beperkt tot maximaal het bedrag van deze som. De korting is niet van
-toepassing op nettarieven, taksen en heffingen. Deze eenmalige korting is niet cumuleerbaar met andere promoties of kortingen.
+e/ We kennen je een eenmalige welkomstkorting toe als je een nieuw contract aangaat. Dit geldt enkel
+tijdens je eerste inschrijvingsjaar voor deze productversie. De korting wordt zowel verkregen bij het afsluiten van het contract door
+een nieuwe klant als door een bestaande klant. De korting wordt pas toegekend na één ononderbroken jaar verbruik en wordt
+toegepast op de afrekeningsfactuur.
+Deze eenmalige korting is niet cumuleerbaar met andere promoties of kortingen.
 f/ Je krijgt van ons elk kalenderjaar 1.800 kWh groene stroom uit het net aan een vast tarief. Als je op je jaarlijkse afrekeningsfactuur
 geen 1.800 kWh aan het vast tarief kreeg aangerekend, terwijl je wel voldoende verbruik had doorheen het jaar, dan berekenen
 wij een Voordeelzekerheid. Zo zorgen we ervoor dat je op jaarbasis altijd het volle voordeel van die 1.800 kWh krijgt. Deze
@@ -50,8 +49,8 @@ herberekening is van toepassing bij maandfacturatie of jaarafrekening. Ook bij m
 het kalenderjaar. Als je een kortere afrekenperiode hebt dan een jaar, dan berekenen we jouw aandeel van de 1.800 kWh pro rata
 de afrekenperiode. Meer informatie hierover vind je op onze FAQ pagina.
 Voorwaarden
-1/ Het Contract bestaat uit product “Goedkope stroom 1.800kWh vast”, de Algemene Voorwaarden, de tariefkaart “Goedkope
-stroom 1.800kWh vast”, samen genoemd de Overeenkomst.
+1/ Het Contract bestaat uit product “Goedkope stroom 1.800 kWh vast”, de Algemene Voorwaarden, de tariefkaart “Goedkope
+stroom 1.800 kWh vast”, samen genoemd de Overeenkomst.
 2/ Voor dit product verloopt de dienstverlening online of telefonisch. Je ontvangt jouw facturen uitsluitend via e-mail.
 3/ Het aanbod is enkel geldig voor Huishoudelijke Afnemers. De prijzen zijn van toepassing op laagspanningsaansluitingen voor
 elektriciteit.
@@ -106,7 +105,11 @@ Bijdrage energiefonds / toeslagen en federale accijns
 Bijdrage energiefonds worden integraal doorgestort aan de Vlaamse Overheid.
 Standaard tarief gedomicilieerd: 0 €/maand
 Standaard tarief niet-gedomicilieerd: 10,07 €/maand
-Federale accijns
-Federale accijns (€cent/kWh)
-Bijzondere accijns 4,876 €cent/kWh
+Toeslagen
+Energiebijdrage 0,20417 €cent/kWh
+Federale Accijns
+Verbruik tussen 0 & 3.000 kWh 5,03288 €cent/kWh
+Verbruik tussen 3.000 & 20.000 kWh 5,03288 €cent/kWh
+Verbruik tussen 20.000 & 50.000 kWh 4,81876 €cent/kWh
+Verbruik tussen 50.000 & 1.000.000 kWh 4,74668 €cent/kWh
 EnergyVision NV - www.energyvision.be - hello@energyvision.be - Bankrekening: BE82 7310 6308 8468 (KBC) - BIC: KREDBEBB

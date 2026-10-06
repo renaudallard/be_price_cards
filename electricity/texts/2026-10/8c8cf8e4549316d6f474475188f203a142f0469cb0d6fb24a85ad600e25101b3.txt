@@ -1,35 +1,27 @@
-Tariefkaart februari 2026
-Goedkope stroom met
-1.800 kWh vast
-Deze tariefkaart is geldig voor het product “Goedkope stroom 1.800 kWh vast” van februari 2026 voor levering van groene stroom aan particulieren
-in Vlaanderen. Alle prijzen en tarieven zijn inclusief 6% BTW. (EV-0226-GS1800V-nl)
+Tariefkaart april 2026
+Goedkope stroom 3 jaar vast
+Deze tariefkaart is geldig voor het product “Goedkope stroom 3 jaar vast” van april 2026 voor levering van groene stroom aan particulieren in Vlaanderen.
+Alle prijzen en tarieven zijn inclusief 6% BTW. (EV-0426-GS3JV-nl)
 Van harte welkom! Je krijgt 250 euro welkomstkorting.
 Energieprijs
 Groene stroom
-Eenmalige welkomstkorting 250€
-Vaste vergoeding 50 €/jaar
-Groene stroom (<1.800 kWh – vast tarief) 10,60 €cent/kWh
-Groene stroom (>1.800 kWh – variabel tarief) 12,99€cent/kWh
-Injectie – variabel 1,85€cent/kWh
+Eenmalige welkomstkorting 250 €
+Vaste vergoeding 75 €/jaar
+Groene stroom - vast tarief 13,57 €cent/kWh
+Injectie – variabel 2,76 €cent/kWh
 EnergyVision NV - www.energyvision.be - hello@energyvision.be - Bankrekening: BE82 7310 6308 8468 (KBC) - BIC: KREDBEBB Pagina 1
-Tariefkaart februari 2026
-Goedkope stroom met
-1.800 kWh vast
+Tariefkaart april 2026
+Goedkope stroom 3 jaar vast
 Toelichting
 De geleverde groene stroom bestaat uit groene stroom afkomstig van zon en wind.
-“Goedkope stroom 1.800kWh vast” is een contract van bepaalde duur van 10 jaar waarbij de energieprijs deels vast en deels variabel is.
-a/ De vaste tariefcomponent van het product “Groene stroom” is geldig voor 10 jaar en is van toepassing op de eerste 1.800 kWh
-verbruik van je enkelvoudig tarief. Heb je een dag/nacht teller dan verdelen we de 1.800 kWh als volgt, 900 kWh verbruik via je
-dag tarief en 900 kWh verbruik via je nacht tarief. Niet van toepassing op het exclusief nacht tarief. Deze 1.800 kWh verbruik is
-op jaarbasis en wordt pro rata per dag in rekening gebracht.
-b/ De variabele tariefcomponent van product “Groene stroom” wordt maandelijks geïndexeerd. Het variabel tarief bestaat uit
-volgende formule (exclusief btw): 1,12 x Belpex-RLP-M + 20 EUR/MWh, het variabele injectietarief bestaat uit volgende formule:
-0,6 x Belpex-SPP-M - 15 EUR/MWh. De indexatieparameter is gebaseerd op het gewogen gemiddelde van de dagelijkse
-quoteringen Day Ahead Belpex Baseload (beschikbaar op www.epexspot.com) tijdens de maand van levering. Voor afname gewogen
-met een RLP (Real Load Profile) en voor injectie gewogen met een SPP (Synthetic Production Profile). Deze RLP/SPPweging is
-gebaseerd op het rekenkundig gemiddelde van de RLP/SPP-verbruiksprofielen stroom van de verschillende distributienetbeheerders
-van Vlaanderen (publicatie door Synergrid) . De waarde van Belpex-RLP-M en Belpex-SPP-M van de lopende maand is pas gekend
-aan het einde van de maand. De indexatieparameters zijn raadpleegbaar op: https://www.energyvision.be/nl-be/indexatieparameters.
+“Goedkope stroom 3 jaar vast” is een contract van bepaalde duur van 3 jaar waarbij de energieprijs vast is.
+a/ De vaste afname tariefcomponent van het product "Goedkope stroom 3 jaar vast" ligt vast voor 3 jaar.
+b/ Het variabele injectietarief bestaat uit volgende formule: 0,6 x Belpex-SPP-M - 15 EUR/MWh. De indexatieparameter is
+gebaseerd op het gewogen gemiddelde van de dagelijkse quoteringen Day Ahead Belpex Baseload (beschikbaar op
+www.epexspot.com) tijdens de maand van levering. Voor injectie gewogen met een SPP (Synthetic Production Profile). Deze SPP
+weging is gebaseerd op het rekenkundig gemiddelde van de SPP profielen stroom van de verschillende distributienetbeheerders van
+Vlaanderen (publicatie door Synergrid) . De waarde van Belpex-SPP-M van de lopende maand is pas gekend aan het einde van de
+maand. Indexatieparameters kan je steeds vinden op https://www.energyvision.be/nl-be/indexatieparameters.
 c/ De weergegeven prijzen zijn berekend volgens methodologie Vlaamse Nutsregulator die een inschatting maakt op jaarbasis. Wij
 behouden ons het recht voor om nieuwe parameters of nieuwe componenten te gebruiken om de prijsformule te berekenen als
 de huidige parameters veranderen, worden afgeschaft of niet langer beschikbaar zouden zijn. EnergyVision zal trachten om het
@@ -37,26 +29,22 @@ gemiddelde prijsniveau gelijk te houden.
 d/ De prijs van “Groene stroom” dient verhoogd te worden met de toepasselijke belastingen, heffingen, toeslagen en alle opgelegde
 bedragen voor het gebruik van de netten alsook met de bijdrage groene energie en/of warmtekrachtkoppeling, die EnergyVision kan
 of moet aanrekenen.
-e/ We kennen je een eenmalige welkomstkorting toe als je een nieuw contract aangaat. Dit geldt enkel
-tijdens je eerste inschrijvingsjaar voor deze productversie. De korting wordt zowel verkregen bij het afsluiten van het contract door
-een nieuwe klant als door een bestaande klant. De korting wordt pas toegekend na één ononderbroken jaar verbruik en wordt
-toegepast op de afrekeningsfactuur.
-Deze eenmalige korting is niet cumuleerbaar met andere promoties of kortingen.
-f/ Je krijgt van ons elk kalenderjaar 1.800 kWh groene stroom uit het net aan een vast tarief. Als je op je jaarlijkse afrekeningsfactuur
-geen 1.800 kWh aan het vast tarief kreeg aangerekend, terwijl je wel voldoende verbruik had doorheen het jaar, dan berekenen
-wij een Voordeelzekerheid. Zo zorgen we ervoor dat je op jaarbasis altijd het volle voordeel van die 1.800 kWh krijgt. Deze
-herberekening is van toepassing bij maandfacturatie of jaarafrekening. Ook bij maandfacturatie gebeurt de berekening na afloop van
-het kalenderjaar. Als je een kortere afrekenperiode hebt dan een jaar, dan berekenen we jouw aandeel van de 1.800 kWh pro rata
-de afrekenperiode. Meer informatie hierover vind je op onze FAQ pagina.
+e/ We kennen je een eenmalige welkomstkorting toe als je een nieuw contract aangaat. Dit geldt enkel tijdens je eerste
+inschrijvingsjaar voor deze productversie. De korting wordt zowel verkregen bij het afsluiten van het contract door een nieuwe
+klant als door een bestaande klant. De korting wordt pas toegekend na één ononderbroken jaar verbruik en wordt toegepast op de
+afrekeningsfactuur. De korting heeft uitsluitend betrekking op de energiekost, de vaste vergoeding en de bijdrage groene stroom.
+Indien de som van deze drie componenten lager is dan de vermelde welkomstkorting, wordt de korting beperkt tot maximaal
+het bedrag van deze som. De korting is niet van toepassing op nettarieven, taksen en heffingen. Deze eenmalige korting is niet
+cumuleerbaar met andere promoties of kortingen.
 Voorwaarden
-1/ Het Contract bestaat uit product “Goedkope stroom 1.800 kWh vast”, de Algemene Voorwaarden, de tariefkaart “Goedkope
-stroom 1.800 kWh vast”, samen genoemd de Overeenkomst.
+1/ Het Contract bestaat uit product “Goedkope stroom 3 jaar vast”, de Algemene Voorwaarden, de tariefkaart
+“Goedkope stroom 3 jaar vast”, samen genoemd de Overeenkomst.
 2/ Voor dit product verloopt de dienstverlening online of telefonisch. Je ontvangt jouw facturen uitsluitend via e-mail.
 3/ Het aanbod is enkel geldig voor Huishoudelijke Afnemers. De prijzen zijn van toepassing op laagspanningsaansluitingen voor
 elektriciteit.
 4/ Energiedelen kan mits administratieve kost van € 100/jaar en wordt pro rata per dag in rekening gebracht.
-5/ Bij ons is zonne-energie nooit waardeloos. Als de berekening van onze formule lager zou uitkomen dan 1 €cent/kWh, dan
-garanderen wij in elk geval 1 €cent/kWh. Dat wordt berekend op maandbasis.
+5/ Bij ons is zonne-energie nooit waardeloos. Als de berekening van onze formule lager zou uitkomen dan 0 €cent/kWh, dan
+garanderen wij in elk geval 0 €cent/kWh. Dat wordt berekend op maandbasis.
 EnergyVision NV - www.energyvision.be - hello@energyvision.be - Bankrekening: BE82 7310 6308 8468 (KBC) - BIC: KREDBEBB Pagina 2
 2026
 Distributienettarieven
