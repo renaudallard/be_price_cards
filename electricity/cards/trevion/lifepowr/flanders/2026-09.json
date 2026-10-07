@@ -1,13 +1,19 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-07T12:00:46.068970+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-07",
  "_sources": [
   {
-   "text": "texts/2026-10/0d7f442361c28a657efc031acc4cb0038e1e73907005446e615b8dfc60c1e532.txt",
+   "text": "texts/2026-10/9be906084e60d9dcc93e87c1da62167f87506fc71b7fb35e2ede03c3b9c733d4.txt",
    "url": "https://trevion.be/tariefkaarten/",
    "variant": "text"
+  },
+  {
+   "pdf": "9f492e39edd7d51f4c88bb03874db425df6370d95d816297cb46cef9c3d884ca",
+   "text": "texts/2026-10/ca6e7cc9b7ae2604e3ae9e465563922d4648c73a28ee6c30cb7944a2cb566978.txt",
+   "url": "https://trevion.be/tariefkaarten/Tariefkaart-FlexiO-Max-by-Trevion-Particulier-202610.pdf",
+   "variant": "layout"
   },
   {
    "pdf": "e0838578e8a61abf2d3ea4ce93a39abfc2c4db364c5191e9572607a58fad9c28",
@@ -16,7 +22,7 @@
    "variant": "layout"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "lifepowr",
  "direct_debit_discount_eur": null,
  "dsos": {
@@ -173,6 +179,7 @@
   "factor_peak": null,
   "factor_pic": null,
   "factor_transition": null,
+  "index_realised": 0.16547,
   "rlp_blend": "flanders",
   "rlp_indexed": true,
   "tier_kwh": null,
@@ -187,7 +194,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.056199,
+  "current": 0.07547699999999999,
   "factor": 0.8999999999999999,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -195,6 +202,7 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": null,
+  "index_realised": 0.10053,
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,
