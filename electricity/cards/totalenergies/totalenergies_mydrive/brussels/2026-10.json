@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-08T12:15:41.139372+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-08",
  "_sources": [
   {
    "pdf": "907ae28339ea5a35531e6616810964b54c19d447961a18385432c341bb4e70b1",
@@ -11,8 +11,8 @@
    "variant": "layout"
   },
   {
-   "pdf": "1d395ab2d782bb089e8b316e7b9dd3c35c3f4073c2e437f0d4d09a026365c418",
-   "text": "texts/2026-10/4bcbbaa916a0e196c0766bc29a6cc54063c4b2acd442ac79b87c05a33229e457.txt",
+   "pdf": "de20ea868e5c4521736494bfd6115bd643ad5d0db82d8df4b70870f2f7c759ca",
+   "text": "texts/2026-10/81374a17fd2dc1300562f72fb40b164434a56f9290fd003a77bed584e6dfc86b.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYDRIVE_ELECTRICITY_BXL_FR.pdf",
    "variant": "layout"
   }
@@ -55,10 +55,10 @@
   "current": 0.20950000000000002,
   "exclusive_night": 0.20279999999999998,
   "formula": null,
-  "formula_base": 0.021214000000000007,
-  "formula_base_exclusive_night": 0.025772,
-  "formula_base_offpeak": 0.015914000000000008,
-  "formula_base_peak": 0.032874,
+  "formula_base": 0.019517999999999997,
+  "formula_base_exclusive_night": 0.02397000000000001,
+  "formula_base_offpeak": 0.014218000000000005,
+  "formula_base_peak": 0.031178,
   "formula_factor": 1.16388,
   "formula_factor_exclusive_night": 1.0960400000000001,
   "formula_factor_offpeak": 1.04834,

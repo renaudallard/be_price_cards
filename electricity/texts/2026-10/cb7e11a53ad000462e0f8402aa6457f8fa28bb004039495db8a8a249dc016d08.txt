@@ -1,0 +1,94 @@
+Carte tarifaire
+Avantages de la formule * Coût de l’énergie
+fournie par TotalEnergies
+Coût de transport et distribution
+de l’énergie
+Contribution énergie verte
+Taxes et surcharges
+TVA
+90:2
+6202
+erbmetpes
+22
+| WR_RF_CELE_elbairaV
+trofmoCym_C2B
+| TSAF
+octobre 2026
+• Électricité en Région wallonne
+• TVA 6 % incluse
+Conditions particulières applicables aux consommateurs 1. Tarifs fournisseur :
+résidentiels en Région wallonne. 1.1 [Coût de l’énergie fournie par TotalEnergies] :
+Ces conditions sont applicables aux nouveaux contrats pour Le prix variable de l’énergie et de la redevance fixe
+une durée d’un an établis en o c t o b r e 2 0 2 6 et aux contrats
+1.2 [ Contribution énergie verte]:
+renouvelés en j a n v i e r 2 0 2 7 (pour les renouvellements, la
+Contribution instaurée par l’Etat pour soutenir le développement
+carte tarifaire est ainsi connue deux mois avant application).
+des énergies renouvelables
+2. Tarifs régulés [Coûts de réseaux et prélèvements] :
+2.1 [ Coût de transport et distribution de l’énergie] (intégralement
+restitués aux GRD/GRT)
+2.2 [ Taxes et surcharges]
+(intégralement restituées aux entités concernées)
+Coûts de l’énergie
+Prix de l’énergie 0
+Redevance
+fixe 1 (c€/kWh)
+(€/an) Compteur Compteur double** Compteur
+simple Heures pleines Heures creuses excl. nuit
+Consommation***
+23,57 25,55 21,84 22,47 Tarif mensuel
+90
+0.1096 * BELPEXM_RLP 0.122 * BELPEXM_RLP 0.0988 * BELPEXM_RLP 0.1034 * BELPEXM_RLP
+Formule tarifaire
++ 5.88 + 5.88 + 5.88 + 5.78
+Consommation
+Compteur Simple : 25.17 € cent/kWh
+Compteur Double
+Heures Pleines : 27.33 € cent/kWh
+Heures Creuses : 23.28 € cent/kWh
+Compteur Excl. Nuit : 23.98 € cent/kWh
+90:2
+6202
+erbmetpes
+22
+| WR_RF_CELE_elbairaV
+trofmoCym_C2B
+| TSAF
+Carte tarifaire
+octobre 2026
+Coûts de réseaux et prélèvements
+Coûts de transport et de distribution Taxes et surcharges 4
+Ces surcharges sont intégralement reversées aux gestionnaires de réseaux de distribution et Ces surcharges sont intégralement
+de transport. reversées aux autorités publiques.
+Distribution 2 (c€/kWh) Coût Tarif capacitaire 8
+activité (€/kWh)
+Gestionnaire Tarif IMPACT 7 de Transport 3 Tarif Tarif
+de réseau Bi-horaire Bi-horaire mesure prosumer 6 Tarif
+Mono- Exclusif (c€/kWh) de puissance
+de distribution Heures Heures et (€/kVA/an) de base -
+horaire pleines creuses nuit He P u IC res M H E e D u I r U es M H E e C ur O es co ( m €/ p a t n a ) ge ≤ p 1 o 2 in ,7 t e k s W sup > p p l 1 é o 2 m in ,7 e t e n k s t W a ire -
+Région wallonne
+AIEG 10,87 12,05 6,66 6,66 15,08 9,82 4,56 19,49 2,74 81,03
+AIESH 13,64 15,17 8,21 8,21 19,07 12,28 5,50 17,93 2,74 99,29
+RESA SA 11,06 12,20 7,01 7,01 15,11 10,05 4,99 26,50 2,74 84,22
+ORES (Namur - Namen) 11,98 13,27 7,39 7,39 16,57 10,83 5,09 14,10 2,74 85,84
+ORES (Hainaut - Henegouwen) 11,98 13,27 7,39 7,39 16,57 10,83 5,09 14,10 2,74 85,84
+ORES (Est) 11,98 13,27 7,39 7,39 16,57 10,83 5,09 14,10 2,74 85,84
+ORES (Luxembourg - Luxemburg) 11,98 13,27 7,39 7,39 16,57 10,83 5,09 14,10 2,74 85,84
+ORES (Verviers) 12,48 13,78 7,84 7,84 16,57 10,83 5,09 26,44 2,74 93,00
+REGIE DE WAVRE 11,98 13,27 7,39 7,39 17,11 11,32 5,52 14,10 2,74 85,84
+ORES (Waals-Brabant Wallon) 11,98 13,27 7,39 7,39 16,57 10,83 5,09 14,10 2,74 85,84
+ORES (Mouscron - Moeskroen) 11,98 13,27 7,39 7,39 16,57 10,83 5,09 14,10 2,74 85,84
+Accise fédérale 5 c€/kWh Suppléments c€/kWh
+Consommation entre 0 et 3.000 kWh 4,88 Cotisation sur l’énergie 0,20
+Consommation entre 3.000 et 20.000 kWh 4,88 Redevance de raccordement 0,07
+Consommation entre 20.000 et 50.000 kWh 4,88
+Consommation entre 50.000 et 1.000.000 kWh
+•Rendez-vous sur votre espace client
+• Consultez notre FAQ
+Besoin d’aide?
+https://totalenergies.be/fr/particuliers/aide-et-contact/
+questions-frequentes
+•Posez vos questions via notre chat
+3,36 € cent/kWh

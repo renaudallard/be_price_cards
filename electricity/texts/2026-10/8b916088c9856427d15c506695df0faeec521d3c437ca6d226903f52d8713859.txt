@@ -1,6 +1,6 @@
 Tariefkaart
 TotalEnergies myComfort Variabel
-octobre 2026
+oktober 2026
 Bijzondere voorwaarden voor de variabele formule myComfort Variabel
 • Elektriciteit in het Waalse Gewest
 • BTW 6 % inbegrepen
@@ -23,8 +23,8 @@ Waalse Gewest.
 1.1 [Kost voor de geleverde energie door TotalEnergies]:
 Deze voorwaarden zijn van toepassing op de nieuwe contracten voor
 De variabele energieprijs en de vaste vergoeding.
-de duur van één jaar die zijn afgesloten in o c t o b r e 2 0 2 6 en op
-contracten die zijn hernieuwd in j a n v i e r 2 0 2 7 (voor verlengingen 1.2 [Groenestroombijdrage]:
+de duur van één jaar die zijn afgesloten in o k t o b e r 2 0 2 6 en op
+contracten die zijn hernieuwd in j a n u a r i 2 0 2 7 (voor verlengingen 1.2 [Groenestroombijdrage]:
 wordt de tariefkaart twee maanden vóór de toepassing ervan Door de staat ingevoerde bijdrage ter ondersteuning van de
 bekendgemaakt). ontwikkeling van hernieuwbare energiebronnen.
 Het aanbod "TotalEnergies myComfort Variabel" is een 2. Gereguleerde tarieven [Netwerkkosten en afnames]:
@@ -43,7 +43,7 @@ meter Piekuren Daluren excl. nacht
 Verbruik***
 23,57 25,55 21,84 22,47 Maandelijkstarief
 90
-0.1096 * BELPEXM_RLP 0.122 * BELPEXM_RLP 0.0988 * BELPEXM_RLP 0.1034 * BELPEXM_RLP
+0.1096 * BELPEXM_RLP 0.122 * BELPEXM_RLP 0.0988 * BELPEXM-RLP 0.1034 * BELPEXM_RLP
 + 5.88 + 5.88 + 5.88 + 5.78 Tariefformule
 De formule (excl. BTW) in de bovenstaande tabel stelt TotalEnergies in staat om de energieprijs op twee momenten in het jaar te berekenen. 1/Bij het bepalen van
 het voorschotbedrag wordt de elektriciteitsprijs bepaald op basis van de waarde van de index in deze formule. 2/Bij de jaarlijkse afrekening wordt de prijsformule
@@ -60,8 +60,8 @@ Ter indicatie, hieronder de maandelijkse prijzen berekend op basis van de laatst
 Verbruik
 Enkelvoudige Meter: 25.17 € cent/kWh
 Tweevoudige Meter
-Piekuren: 27.33€ cent/kWh
-Daluren: 23.28 € cent/kWh
+Piekuren: 27.33 € cent/kWh
+Daluren: 23.28€ cent/kWh
 Meter Excl. Nacht: 23.98 € cent/kWh
 53:3
 6202
@@ -72,7 +72,7 @@ trofmoCym_C2B
 | TSAF
 Tariefkaart
 TotalEnergies myComfort Variabel
-octobre 2026
+oktober 2026
 Netwerkkosten en afnames
 Transport- en distributiekosten Taksen en heffingen 4
 Deze heffingen worden integraal doorgestort aan de distributie- en Deze heffingen worden integraal
