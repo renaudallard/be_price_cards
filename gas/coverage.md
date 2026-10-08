@@ -9,7 +9,7 @@ copied from the supplier's own archive rather than captured while it was current
 blank cell is a month the archive does not hold.
 
 - [belvus](coverage/belvus.md): 2 rows, 2026-09 to 2026-10
-- [bolt](coverage/bolt.md): 6 rows, 2026-10 to 2026-10
+- [bolt](coverage/bolt.md): 18 rows, 2026-10 to 2026-10
 - [dots](coverage/dots.md): 1 row, 2026-09 to 2026-10
 - [ebem](coverage/ebem.md): 2 rows, 2026-10 to 2026-10
 - [ecofix](coverage/ecofix.md): 4 rows, 2026-09 to 2026-10
