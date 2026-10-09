@@ -26,7 +26,7 @@
         <link type="text/css" rel="stylesheet" href="/web/assets/43/413f620/web.assets_frontend.min.css"/>
         <script id="web.layout.odooscript" type="text/javascript">
             var odoo = {
-                csrf_token: "03cec23de1ede761fe6eef684cbe4cef24447850o1822740379",
+                csrf_token: "43bf89c4b152abc1a530c8106612ab063c5c7766o1823083926",
                 debug: "",
             };
         </script>
@@ -273,13 +273,13 @@ Top klantenservice
                                 </div>
                                 <div class="xx_ratecard_footer 
             ">
-                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1830/file" class="xx-tariff-card-link">
-                                            <span class="fa fa-chevron-right"></span>
-                                            <span>Tariefkaart_Flexi_EL</span>
-                                        </a>
                                         <a target="new" href="/web/content/xx.product.group.tariff.card/1831/file" class="xx-tariff-card-link">
                                             <span class="fa fa-chevron-right"></span>
                                             <span>Tariefkaart_Flexi_Gas</span>
+                                        </a>
+                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1830/file" class="xx-tariff-card-link">
+                                            <span class="fa fa-chevron-right"></span>
+                                            <span>Tariefkaart_Flexi_EL</span>
                                         </a>
             
                                 </div>
@@ -288,7 +288,7 @@ Top klantenservice
                 </div>
             
             <form class="d-none" method="post" id="customer_form">
-                <input type="hidden" name="csrf_token" value="5923c6ae37c204cce0c3432a9645c3f0c9de2b6bo1822740378"/>
+                <input type="hidden" name="csrf_token" value="43bf89c4b152abc1a530c8106612ab063c5c7766o1823083926"/>
                 <input type="hidden" name="ratecard_ids"/>
                 <input type="hidden" name="product_group_id"/>
                 <input type="hidden" name="fix_variable"/>
@@ -310,7 +310,7 @@ Top klantenservice
             <form class="d-none" method="post" id="detail_form">
                 <input type="hidden" name="zip"/>
                 <input type="hidden" name="city"/>
-                <input type="hidden" name="csrf_token" value="5923c6ae37c204cce0c3432a9645c3f0c9de2b6bo1822740378"/>
+                <input type="hidden" name="csrf_token" value="43bf89c4b152abc1a530c8106612ab063c5c7766o1823083926"/>
                 <input type="hidden" name="connection_type"/>
                 <input type="hidden" name="meter_type"/>
                 <input type="hidden" name="excl_night"/>

@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
-   "text": "texts/2026-10/812f54f55264901f0a87da6b8d188b74dfe23b2f229de7ae2703dd532498becf.txt",
+   "text": "texts/2026-10/e61c3939d27b10d20f1f32f6d72894d32ad3a032f2ada56517d570300a134fe7.txt",
    "url": "https://www.dotsenergy.be/dots-connect-gas-digital",
    "variant": "text"
   },
   {
    "pdf": "9cb4f2276b3d28635f05d71f13bb9755d89e1dcf51f22e53ea4c7f4867f901e6",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=5310e3483b5251d5",
    "text": "texts/2026-10/1d041b194b0b0a22a4d02cf5c951e65824200531530bc999ce8751d2f3539887.txt",
    "url": "https://www.dotsenergy.be/web/content/110896?unique=15ee52f4ba2ddc9b4953629748e0253eb976c258&download=true",
    "variant": "plain"

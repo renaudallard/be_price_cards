@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
-   "text": "texts/2026-10/c1906d15362a228683f900f5496e7b5afcc21a4b6e12a36f2d6dfd8ff2867528.txt",
+   "text": "texts/2026-10/97a5a9fa2f3807755858693f5440b9ecd0f0f250db082fcaadd3bfddd20d3c6e.txt",
    "url": "https://www.servoltenergie.be/products",
    "variant": "text"
   },
   {
    "pdf": "b902f9a85c83e47c564c0ad0a5694ae4d31255dc9d5ca2a2c716bd7fe3867b9a",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=5310e3483b5251d5",
    "text": "texts/2026-10/f7ad8c6c740456353f1f27343e932d4544ca32d4e849aad8832af661f59a0b8d.txt",
    "url": "https://www.servoltenergie.be/web/content/xx.product.group.tariff.card/1883/file",
    "variant": "plain"

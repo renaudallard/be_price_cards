@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-10-06",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "ef453c27a177017dc9df6173ad7857f5a8aacbc7b5b029dd2ef05089652fa0ae",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=5310e3483b5251d5",
    "text": "texts/2026-10/267b25f9a8579bca7031987f9c6be655330e6025981eb8ca93b18b15ec8b4665.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxflex&energyType=gas&language=fr&tabValue=Wallonia",
    "variant": "plain"

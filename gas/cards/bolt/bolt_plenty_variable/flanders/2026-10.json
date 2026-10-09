@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-10-08",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
-   "text": "texts/2026-10/5150e03dc67c94261fd47fe8714dd5c23e4b686c4ef0218005830e71c1fb9eb7.txt",
+   "text": "texts/2026-10/0e2106bfdb2c36e4018c1a6c1b5a5bd3c2d6c52d2e4220cdaf1e5257d8ff512c.txt",
    "url": "https://www.boltenergie.be/fr/listes-des-prix",
    "variant": "text"
   },
   {
    "pdf": "d2f2ed5a45e302328f760ea6d87c468046c388d6a82bd84ffd555f0a2b02165d",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=5310e3483b5251d5",
    "text": "texts/2026-10/e16558b4a498d34a1fd0a16d35d1d3c3dbcdbc5cec5efed10e01a111b0b19226.txt",
    "url": "https://files.boltenergie.be/pricelists/var/plenty_res_ng_fr_14.pdf",
    "variant": "layout"

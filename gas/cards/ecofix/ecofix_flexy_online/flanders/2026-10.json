@@ -1,8 +1,8 @@
 {
- "_seen_on": "2026-10-02",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
-   "ocr": "0.4.2+a5c8a17ccad7",
+   "ocr": "0.4.2+a5c8a17ccad7 pypdfium2==5.14.0 numpy==2.5.3 pdfplumber==0.11.9",
    "pdf": "166e271b96f7fc29ce878603d2a61cc121c59ad05acfd28dcd6edee36e1263e5",
    "text": "texts/2026-10/2b01008702cc5a5fe464a7f6de0f00fbbf164a4aea6ec7065e31e00285057f45.txt",
    "url": "https://portal.ecofixgp.be/docs/prices/current/GAS_Ecofix_Flexy_Online_NL.pdf",

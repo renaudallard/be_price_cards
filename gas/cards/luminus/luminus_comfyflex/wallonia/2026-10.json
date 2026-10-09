@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-10-06",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "949dee2d2243e1b04e61aeee9368ed7a1aa378289a956ac4810c09efcb4d2ad7",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=5310e3483b5251d5",
    "text": "texts/2026-10/46db8e1d6b289a227973d1127ae55b8047b221a0e8fb7af9b96012c625f12987.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex&energyType=gas&language=fr&tabValue=Wallonia",
    "variant": "plain"

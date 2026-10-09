@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "57d6f7b5880166843db93af1a26df2a151c9ad6e38c18e095327a69456bfc13a",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=5310e3483b5251d5",
    "text": "texts/2026-10/1a07099992798395f473b35b5f11f58d5b0584fa60113c4788c169fbc5bb4888.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_FLOW_R_GREY_C_I_48_B_F&monthOffset=0&segment=R&language=F",
    "variant": "plain"
@@ -44,7 +44,7 @@
  },
  "publication_label": "2026-10",
  "schema": 1,
- "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF",
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_FLOW_R_GREY_C_I_48_B_F&monthOffset=0&segment=R&language=F",
  "supplier": "engie",
  "taxes": {
   "card_vat_rate": 0.06,

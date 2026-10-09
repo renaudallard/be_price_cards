@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-10-01",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
-   "text": "texts/2026-10/000c2f24d1ee9a19ec37a0b6dabe5b8e4303dba79d6f5e9c8d0b989cc6bcbbc4.txt",
+   "text": "texts/2026-10/2973e940e5930d5895a79483501f7e9add1f55608460705cc133248c453ba1cb.txt",
    "url": "https://www.ebem.be/tarieven/",
    "variant": "text"
   },
   {
    "pdf": "4026256044d28612f634e818a2032691bfd51afc3e5355c9043068b6cf017266",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=5310e3483b5251d5",
    "text": "texts/2026-10/eab320483590b7eeb13573c04202860de3eb446c908c10e3ff145e0051683f22.txt",
    "url": "https://www.ebem.be/media/ovshqyki/ebem_tariefkaart-gas-10-2026.pdf",
    "variant": "layout"

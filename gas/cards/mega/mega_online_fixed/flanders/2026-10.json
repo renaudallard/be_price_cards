@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
-   "text": "texts/2026-10/bb23631fd1ccf5766a21ed3467d4e07caf680b6286e8faf9b411a7d76e2c5dd9.txt",
+   "text": "texts/2026-10/2067d1f35bc981ae29676879883d4048cf99172bab5b7442f7738c12794735e1.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
    "pdf": "902b291c16a4693e502dd4fc1a56c8e13d1c8aab6eaf1fec4dd9bda3c5ee4396",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=5310e3483b5251d5",
    "text": "texts/2026-10/ed79a949c52df611309fdf64ad97c579c4055223ca46771cb9c1153b77683cf8.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-102026-Online0110-Fixed.pdf",
    "variant": "plain"

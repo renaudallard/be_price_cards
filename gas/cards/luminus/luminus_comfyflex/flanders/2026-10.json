@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-10-06",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "ccf8615fb28cb2054fefd5aa550f09603ec88ecde0ec8cb7837d424d02ec03e0",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=5310e3483b5251d5",
    "text": "texts/2026-10/aae8a737d9de9c2748d8177e724eb94cad63e35d2666714b1bc0ad4821ed2c02.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex&energyType=gas&language=fr&tabValue=Flanders",
    "variant": "plain"

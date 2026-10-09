@@ -1581,8 +1581,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Type d’énergie		</label>
 		<div class="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-4">
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="a837e6ec" type="checkbox" name="elec" />
-				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="a837e6ec">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="2a608746" type="checkbox" name="elec" />
+				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="2a608746">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1595,8 +1595,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</label>
 			</div>
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="a837e6ec1" type="checkbox" name="gas" />
-				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="a837e6ec1">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="2a6087461" type="checkbox" name="gas" />
+				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="2a6087461">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1613,12 +1613,12 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Code postal		</label>
 		<div class="flex md:flex-row flex-col items-start md:items-center gap-4 sm:gap-6">
 			<div class="flex flex-col [&_div]:flex-1 w-full md:basis-6/12">
-				<input data-zipCode="a837e6ec" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
-				<div data-zipcodelist="a837e6ec" class="input rounded-xs px-0 hidden">
+				<input data-zipCode="2a608746" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
+				<div data-zipcodelist="2a608746" class="input rounded-xs px-0 hidden">
 					<ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
 					</ul>
 				</div>
-				<p data-zipcode-badnumber='a837e6ec' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+				<p data-zipcode-badnumber='2a608746' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
 				<div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
 					<img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
 					<div>
@@ -1626,8 +1626,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</div>
 			</div>
 			<div class="flex flex-row items-end relative md:basis-6/12">
-									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="a837e6ec2" type="checkbox" />
-								<label class="cbx rounded-xs flex gap-1" for="a837e6ec2">
+									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="2a6087462" type="checkbox" />
+								<label class="cbx rounded-xs flex gap-1" for="2a6087462">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1789,8 +1789,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Type d’énergie		</label>
 		<div class="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-4">
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="4d73efef" type="checkbox" name="elec" />
-				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="4d73efef">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="b1db4aa1" type="checkbox" name="elec" />
+				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="b1db4aa1">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1803,8 +1803,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</label>
 			</div>
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="4d73efef1" type="checkbox" name="gas" />
-				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="4d73efef1">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="b1db4aa11" type="checkbox" name="gas" />
+				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="b1db4aa11">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1821,12 +1821,12 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Code postal		</label>
 		<div class="flex md:flex-row flex-col items-start md:items-center gap-4 sm:gap-6">
 			<div class="flex flex-col [&_div]:flex-1 w-full md:basis-6/12">
-				<input data-zipCode="4d73efef" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
-				<div data-zipcodelist="4d73efef" class="input rounded-xs px-0 hidden">
+				<input data-zipCode="b1db4aa1" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
+				<div data-zipcodelist="b1db4aa1" class="input rounded-xs px-0 hidden">
 					<ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
 					</ul>
 				</div>
-				<p data-zipcode-badnumber='4d73efef' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+				<p data-zipcode-badnumber='b1db4aa1' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
 				<div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
 					<img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
 					<div>
@@ -1834,8 +1834,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</div>
 			</div>
 			<div class="flex flex-row items-end relative md:basis-6/12">
-									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="4d73efef2" type="checkbox" checked />
-								<label class="cbx rounded-xs flex gap-1" for="4d73efef2">
+									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="b1db4aa12" type="checkbox" checked />
+								<label class="cbx rounded-xs flex gap-1" for="b1db4aa12">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1994,8 +1994,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 	<label class="block italic" for="">Type d’énergie</label>
 	<div class="flex flex-col sm:flex-row gap-2 sm:gap-5 mb-2">
 		<div class="flex-1 relative">
-			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="e7da0422" type="checkbox" checked />
-			<label class="cbx border-2 border-grey bg-greyLight  p-4 pr-0 rounded-xs flex" for="e7da0422">
+			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="e5ebe179" type="checkbox" checked />
+			<label class="cbx border-2 border-grey bg-greyLight  p-4 pr-0 rounded-xs flex" for="e5ebe179">
 				<span class="min-w-[22px] ml-[-27px] bg-white outline outline-2 outline-white outline-offset-0">
 					<svg width="18px" height="15px" viewbox="0 0 12 10">
 						<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2006,8 +2006,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			</label>
 		</div>
 		<div class="flex-1 relative">
-			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="e7da04221" type="checkbox" />
-			<label class="cbx border-2 border-grey bg-greyLight p-4 pr-0 rounded-xs flex" for="e7da04221">
+			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="e5ebe1791" type="checkbox" />
+			<label class="cbx border-2 border-grey bg-greyLight p-4 pr-0 rounded-xs flex" for="e5ebe1791">
 				<span class="min-w-[22px] ml-[-27px] bg-white outline outline-2 outline-white outline-offset-0">
 					<svg width="18px" height="15px" viewbox="0 0 12 10">
 						<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2043,8 +2043,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Type d’énergie		</label>
 		<div class="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-4">
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="d806a8ab" type="checkbox" name="elec" />
-				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="d806a8ab">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="9ba7b29d" type="checkbox" name="elec" />
+				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="9ba7b29d">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2057,8 +2057,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</label>
 			</div>
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="d806a8ab1" type="checkbox" name="gas" />
-				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="d806a8ab1">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="9ba7b29d1" type="checkbox" name="gas" />
+				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="9ba7b29d1">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2075,12 +2075,12 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Code postal		</label>
 		<div class="flex md:flex-row flex-col items-start md:items-center gap-4 sm:gap-6">
 			<div class="flex flex-col [&_div]:flex-1 w-full md:basis-6/12">
-				<input data-zipCode="d806a8ab" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
-				<div data-zipcodelist="d806a8ab" class="input rounded-xs px-0 hidden">
+				<input data-zipCode="9ba7b29d" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
+				<div data-zipcodelist="9ba7b29d" class="input rounded-xs px-0 hidden">
 					<ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
 					</ul>
 				</div>
-				<p data-zipcode-badnumber='d806a8ab' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+				<p data-zipcode-badnumber='9ba7b29d' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
 				<div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
 					<img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
 					<div>
@@ -2088,8 +2088,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</div>
 			</div>
 			<div class="flex flex-row items-end relative md:basis-6/12">
-									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="d806a8ab2" type="checkbox" />
-								<label class="cbx rounded-xs flex gap-1" for="d806a8ab2">
+									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="9ba7b29d2" type="checkbox" />
+								<label class="cbx rounded-xs flex gap-1" for="9ba7b29d2">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2381,12 +2381,12 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 <form data-check='form' action="" method="post">
                     <label class="block h4 mb-4" for="contact-zipCode">
                         Code postal                    </label>
-                    <input data-zipCode="3940366e" data-check='zipCode' data-input-card="tarifCard" class="h-11 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
-                    <div data-zipcodelist="3940366e" class="input rounded-xs px-0 hidden max-w-[400px]">
+                    <input data-zipCode="696337bb" data-check='zipCode' data-input-card="tarifCard" class="h-11 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
+                    <div data-zipcodelist="696337bb" class="input rounded-xs px-0 hidden max-w-[400px]">
                         <ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
                         </ul>
                     </div>
-                    <p data-zipcode-badnumber='3940366e' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+                    <p data-zipcode-badnumber='696337bb' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
                     <div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
                         <img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
                         <div>
@@ -2447,7 +2447,7 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
     </div>
     <ul class="flex flex-col flex-wrap items-stretch justify-center gap-6 w-full">
                 <!-- Génération des carts tarifaires et des produits sur la page de tous les produits -->
-                        <li class="boxWhite" data-product-card="smartflex" data-tarif="FIX" data-energy="ELNG" data-region="" data-client="all">
+                        <li class="boxWhite" data-product-card="smartfixed" data-tarif="FIX" data-energy="ELNG" data-region="" data-client="all">
                     <div class="flex flex-col md:flex-row items-stretch md:items-center max-md:gap-6 justify-between">
                         <div class="flex flex-col items-start justify-between gap-4 md:basis-6/12">
                             <div class="flex flex-col md:flex-row items-start md:items-center gap-6">
@@ -2535,7 +2535,7 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                                             </div>
                             <div class="flex flex-col items-center justify-center md:justify-start max-md:mx-auto w-fit">
                                 <!-- data-modal-trigger="mini_check" -->
-                                                                                                    <button data-checktype="resi_smart_flex" data-podium="16" data-link="smartflex" data-active="flex"  data-check="smartflex" data-modal-trigger="mini_check" class="modal-trigger btn btn-info btn-yellow btn-shadow become-btn">
+                                                                                                    <button data-checktype="resi_smart_fix" data-podium="16" data-link="smartfixed" data-active="fix"  data-check="smartfixed" data-modal-trigger="mini_check" class="modal-trigger btn btn-info btn-yellow btn-shadow become-btn">
                                         Calculez votre prix                                    </button>
                                                             </div>
                         </div>
@@ -2545,7 +2545,7 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 Cartes tarifaires                            </button>
                         </div>
                                     </li>
-                        <li class="boxWhite" data-product-card="smartflex" data-tarif="VAR" data-energy="ELNG" data-region="" data-client="all">
+                        <li class="boxWhite" data-product-card="smartfixed" data-tarif="VAR" data-energy="ELNG" data-region="" data-client="all">
                     <div class="flex flex-col md:flex-row items-stretch md:items-center max-md:gap-6 justify-between">
                         <div class="flex flex-col items-start justify-between gap-4 md:basis-6/12">
                             <div class="flex flex-col md:flex-row items-start md:items-center gap-6">
@@ -2633,7 +2633,7 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                                             </div>
                             <div class="flex flex-col items-center justify-center md:justify-start max-md:mx-auto w-fit">
                                 <!-- data-modal-trigger="mini_check" -->
-                                                                                                    <button data-checktype="resi_smart_flex" data-podium="20" data-link="smartflex" data-active="flex"  data-check="smartflex" data-modal-trigger="mini_check" class="modal-trigger btn btn-info btn-yellow btn-shadow become-btn">
+                                                                                                    <button data-checktype="resi_smart_fix" data-podium="20" data-link="smartfixed" data-active="fix"  data-check="smartfixed" data-modal-trigger="mini_check" class="modal-trigger btn btn-info btn-yellow btn-shadow become-btn">
                                         Calculez votre prix                                    </button>
                                                             </div>
                         </div>
@@ -2643,7 +2643,7 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 Cartes tarifaires                            </button>
                         </div>
                                     </li>
-                        <li class="boxWhite" data-product-card="smartflex" data-tarif="VAR" data-energy="ELNG" data-region="" data-client="all">
+                        <li class="boxWhite" data-product-card="smartfixed" data-tarif="VAR" data-energy="ELNG" data-region="" data-client="all">
                     <div class="flex flex-col md:flex-row items-stretch md:items-center max-md:gap-6 justify-between">
                         <div class="flex flex-col items-start justify-between gap-4 md:basis-6/12">
                             <div class="flex flex-col md:flex-row items-start md:items-center gap-6">
@@ -2732,7 +2732,7 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                                             </div>
                             <div class="flex flex-col items-center justify-center md:justify-start max-md:mx-auto w-fit">
                                 <!-- data-modal-trigger="mini_check" -->
-                                                                                                    <button data-checktype="resi_smart_flex" data-podium="17" data-link="smartflex" data-active="flex"  data-check="smartflex" data-modal-trigger="mini_check" class="modal-trigger btn btn-info btn-yellow btn-shadow become-btn">
+                                                                                                    <button data-checktype="resi_smart_fix" data-podium="17" data-link="smartfixed" data-active="fix"  data-check="smartfixed" data-modal-trigger="mini_check" class="modal-trigger btn btn-info btn-yellow btn-shadow become-btn">
                                         Calculez votre prix                                    </button>
                                                             </div>
                         </div>
@@ -2742,7 +2742,7 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 Cartes tarifaires                            </button>
                         </div>
                                     </li>
-                        <li class="boxWhite" data-product-card="smartflex" data-tarif="FIX" data-energy="ELNG" data-region="" data-client="all">
+                        <li class="boxWhite" data-product-card="smartfixed" data-tarif="FIX" data-energy="ELNG" data-region="" data-client="all">
                     <div class="flex flex-col md:flex-row items-stretch md:items-center max-md:gap-6 justify-between">
                         <div class="flex flex-col items-start justify-between gap-4 md:basis-6/12">
                             <div class="flex flex-col md:flex-row items-start md:items-center gap-6">
@@ -2824,7 +2824,7 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                                             </div>
                             <div class="flex flex-col items-center justify-center md:justify-start max-md:mx-auto w-fit">
                                 <!-- data-modal-trigger="mini_check" -->
-                                                                                                    <button data-checktype="resi_sme_flex" data-podium="30" data-link="smartflex" data-active="flex"  data-check="smartflex" data-modal-trigger="mini_check" class="modal-trigger btn btn-info btn-yellow btn-shadow become-btn">
+                                                                                                    <button data-checktype="resi_sme_fix" data-podium="30" data-link="smartfixed" data-active="fix"  data-check="smartfixed" data-modal-trigger="mini_check" class="modal-trigger btn btn-info btn-yellow btn-shadow become-btn">
                                         Calculez votre prix                                    </button>
                                                             </div>
                         </div>
@@ -3171,7 +3171,7 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 Cartes tarifaires                            </button>
                         </div>
                                     </li>
-                        <li class="boxWhite" data-product-card="smartflex" data-tarif="FIX" data-energy="ELNG" data-region="" data-client="all">
+                        <li class="boxWhite" data-product-card="smartfixed" data-tarif="FIX" data-energy="ELNG" data-region="" data-client="all">
                     <div class="flex flex-col md:flex-row items-stretch md:items-center max-md:gap-6 justify-between">
                         <div class="flex flex-col items-start justify-between gap-4 md:basis-6/12">
                             <div class="flex flex-col md:flex-row items-start md:items-center gap-6">
@@ -3250,7 +3250,7 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                                             </div>
                             <div class="flex flex-col items-center justify-center md:justify-start max-md:mx-auto w-fit">
                                 <!-- data-modal-trigger="mini_check" -->
-                                                                                                    <button data-checktype="resi_sme_flex" data-podium="32" data-link="smartflex" data-active="flex"  data-check="smartflex" data-modal-trigger="mini_check" class="modal-trigger btn btn-info btn-yellow btn-shadow become-btn">
+                                                                                                    <button data-checktype="resi_sme_fix" data-podium="32" data-link="smartfixed" data-active="fix"  data-check="smartfixed" data-modal-trigger="mini_check" class="modal-trigger btn btn-info btn-yellow btn-shadow become-btn">
                                         Calculez votre prix                                    </button>
                                                             </div>
                         </div>
@@ -3622,21 +3622,21 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                                                                                         <h3 data-region-card="BX" class="hidden">
                                                                 <div class="flex flex-row items-center gap-2">
                                                                     <img src="../../images/svg/icon_elec.svg" class="h-6 w-auto" alt="Icon gaz">
-                                                                    <a data-product-element="SME Fixed" title="SME Fixed" href="https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-102026-SME0110-ND-Fixed.pdf" target="_blank" class="link text-base font-medium m-0">
+                                                                    <a data-product-element="SME Fixed" title="SME Fixed" href="https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-102026-SME0110-Fixed.pdf" target="_blank" class="link text-base font-medium m-0">
                                                                         Carte&nbsp;tarifaire&nbsp;électricité                                                                    </a>
                                                                 </div>
                                                             </h3>
                                                                                                                                                             <h3 data-region-card="VL" class="hidden">
                                                                 <div class="flex flex-row items-center gap-2">
                                                                     <img src="../../images/svg/icon_elec.svg" class="h-6 w-auto" alt="Icon gaz">
-                                                                    <a data-product-element="SME Fixed" title="SME Fixed" href="https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-102026-SME0110-ND-Fixed.pdf" target="_blank" class="link text-base font-medium m-0">
+                                                                    <a data-product-element="SME Fixed" title="SME Fixed" href="https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-102026-SME0110-Fixed.pdf" target="_blank" class="link text-base font-medium m-0">
                                                                         Carte&nbsp;tarifaire&nbsp;électricité                                                                    </a>
                                                                 </div>
                                                             </h3>
                                                                                                                                                             <h3 data-region-card="WL" class="hidden">
                                                                 <div class="flex flex-row items-center gap-2">
                                                                     <img src="../../images/svg/icon_elec.svg" class="h-6 w-auto" alt="Icon gaz">
-                                                                    <a data-product-element="SME Fixed" title="SME Fixed" href="https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-102026-SME0110-ND-Fixed.pdf" target="_blank" class="link text-base font-medium m-0">
+                                                                    <a data-product-element="SME Fixed" title="SME Fixed" href="https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-102026-SME0110-Fixed.pdf" target="_blank" class="link text-base font-medium m-0">
                                                                         Carte&nbsp;tarifaire&nbsp;électricité                                                                    </a>
                                                                 </div>
                                                             </h3>
@@ -3653,21 +3653,21 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                                                                                             <h3 data-region-card="BX" class="hidden">
                                                                     <div class="flex flex-row items-center gap-2">
                                                                         <img src="../../images/svg/icon_gaz.svg" class="h-6 w-auto" alt="Icon gaz">
-                                                                        <a data-product-element="SME Fixed" title="SME Fixed" href="https://my.mega.be/resources/tarif/Mega-FR-NG-B2B-BX-102026-SME0110-ND-Fixed.pdf" target="_blank" class="link text-base font-medium m-0">
+                                                                        <a data-product-element="SME Fixed" title="SME Fixed" href="https://my.mega.be/resources/tarif/Mega-FR-NG-B2B-BX-102026-SME0110-Fixed.pdf" target="_blank" class="link text-base font-medium m-0">
                                                                             Carte&nbsp;tarifaire&nbsp;gaz                                                                        </a>
                                                                     </div>
                                                                 </h3>
                                                                                                                                                                     <h3 data-region-card="VL" class="hidden">
                                                                     <div class="flex flex-row items-center gap-2">
                                                                         <img src="../../images/svg/icon_gaz.svg" class="h-6 w-auto" alt="Icon gaz">
-                                                                        <a data-product-element="SME Fixed" title="SME Fixed" href="https://my.mega.be/resources/tarif/Mega-FR-NG-B2B-VL-102026-SME0110-ND-Fixed.pdf" target="_blank" class="link text-base font-medium m-0">
+                                                                        <a data-product-element="SME Fixed" title="SME Fixed" href="https://my.mega.be/resources/tarif/Mega-FR-NG-B2B-VL-102026-SME0110-Fixed.pdf" target="_blank" class="link text-base font-medium m-0">
                                                                             Carte&nbsp;tarifaire&nbsp;gaz                                                                        </a>
                                                                     </div>
                                                                 </h3>
                                                                                                                                                                     <h3 data-region-card="WL" class="hidden">
                                                                     <div class="flex flex-row items-center gap-2">
                                                                         <img src="../../images/svg/icon_gaz.svg" class="h-6 w-auto" alt="Icon gaz">
-                                                                        <a data-product-element="SME Fixed" title="SME Fixed" href="https://my.mega.be/resources/tarif/Mega-FR-NG-B2B-WL-102026-SME0110-ND-Fixed.pdf" target="_blank" class="link text-base font-medium m-0">
+                                                                        <a data-product-element="SME Fixed" title="SME Fixed" href="https://my.mega.be/resources/tarif/Mega-FR-NG-B2B-WL-102026-SME0110-Fixed.pdf" target="_blank" class="link text-base font-medium m-0">
                                                                             Carte&nbsp;tarifaire&nbsp;gaz                                                                        </a>
                                                                     </div>
                                                                 </h3>
@@ -3711,21 +3711,21 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                                                                                         <h3 data-region-card="BX" class="hidden">
                                                                 <div class="flex flex-row items-center gap-2">
                                                                     <img src="../../images/svg/icon_elec.svg" class="h-6 w-auto" alt="Icon gaz">
-                                                                    <a data-product-element="SME Flex" title="SME Flex" href="https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-102026-SME0110-ND.pdf" target="_blank" class="link text-base font-medium m-0">
+                                                                    <a data-product-element="SME Flex" title="SME Flex" href="https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-102026-SME0110.pdf" target="_blank" class="link text-base font-medium m-0">
                                                                         Carte&nbsp;tarifaire&nbsp;électricité                                                                    </a>
                                                                 </div>
                                                             </h3>
                                                                                                                                                             <h3 data-region-card="VL" class="hidden">
                                                                 <div class="flex flex-row items-center gap-2">
                                                                     <img src="../../images/svg/icon_elec.svg" class="h-6 w-auto" alt="Icon gaz">
-                                                                    <a data-product-element="SME Flex" title="SME Flex" href="https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-102026-SME0110-ND.pdf" target="_blank" class="link text-base font-medium m-0">
+                                                                    <a data-product-element="SME Flex" title="SME Flex" href="https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-102026-SME0110.pdf" target="_blank" class="link text-base font-medium m-0">
                                                                         Carte&nbsp;tarifaire&nbsp;électricité                                                                    </a>
                                                                 </div>
                                                             </h3>
                                                                                                                                                             <h3 data-region-card="WL" class="hidden">
                                                                 <div class="flex flex-row items-center gap-2">
                                                                     <img src="../../images/svg/icon_elec.svg" class="h-6 w-auto" alt="Icon gaz">
-                                                                    <a data-product-element="SME Flex" title="SME Flex" href="https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-102026-SME0110-ND.pdf" target="_blank" class="link text-base font-medium m-0">
+                                                                    <a data-product-element="SME Flex" title="SME Flex" href="https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-102026-SME0110.pdf" target="_blank" class="link text-base font-medium m-0">
                                                                         Carte&nbsp;tarifaire&nbsp;électricité                                                                    </a>
                                                                 </div>
                                                             </h3>
@@ -3742,21 +3742,21 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                                                                                             <h3 data-region-card="BX" class="hidden">
                                                                     <div class="flex flex-row items-center gap-2">
                                                                         <img src="../../images/svg/icon_gaz.svg" class="h-6 w-auto" alt="Icon gaz">
-                                                                        <a data-product-element="SME Flex" title="SME Flex" href="https://my.mega.be/resources/tarif/Mega-FR-NG-B2B-BX-102026-SME0110-ND.pdf" target="_blank" class="link text-base font-medium m-0">
+                                                                        <a data-product-element="SME Flex" title="SME Flex" href="https://my.mega.be/resources/tarif/Mega-FR-NG-B2B-BX-102026-SME0110.pdf" target="_blank" class="link text-base font-medium m-0">
                                                                             Carte&nbsp;tarifaire&nbsp;gaz                                                                        </a>
                                                                     </div>
                                                                 </h3>
                                                                                                                                                                     <h3 data-region-card="VL" class="hidden">
                                                                     <div class="flex flex-row items-center gap-2">
                                                                         <img src="../../images/svg/icon_gaz.svg" class="h-6 w-auto" alt="Icon gaz">
-                                                                        <a data-product-element="SME Flex" title="SME Flex" href="https://my.mega.be/resources/tarif/Mega-FR-NG-B2B-VL-102026-SME0110-ND.pdf" target="_blank" class="link text-base font-medium m-0">
+                                                                        <a data-product-element="SME Flex" title="SME Flex" href="https://my.mega.be/resources/tarif/Mega-FR-NG-B2B-VL-102026-SME0110.pdf" target="_blank" class="link text-base font-medium m-0">
                                                                             Carte&nbsp;tarifaire&nbsp;gaz                                                                        </a>
                                                                     </div>
                                                                 </h3>
                                                                                                                                                                     <h3 data-region-card="WL" class="hidden">
                                                                     <div class="flex flex-row items-center gap-2">
                                                                         <img src="../../images/svg/icon_gaz.svg" class="h-6 w-auto" alt="Icon gaz">
-                                                                        <a data-product-element="SME Flex" title="SME Flex" href="https://my.mega.be/resources/tarif/Mega-FR-NG-B2B-WL-102026-SME0110-ND.pdf" target="_blank" class="link text-base font-medium m-0">
+                                                                        <a data-product-element="SME Flex" title="SME Flex" href="https://my.mega.be/resources/tarif/Mega-FR-NG-B2B-WL-102026-SME0110.pdf" target="_blank" class="link text-base font-medium m-0">
                                                                             Carte&nbsp;tarifaire&nbsp;gaz                                                                        </a>
                                                                     </div>
                                                                 </h3>
@@ -3815,7 +3815,7 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
 		</div>
 	</div>
 	<div class="hidden">
-		Zen Fixed<br>Smart Fixed<br>Prepaid Fixed<br>Prepaid Flex<br>Online Flex<br>Online Fixed<br>Off-peak Impact<br>Off-peak Fixed<br>Off-peak Flex<br>Dynamic<br>Cosypl Fixed<br>Cosypl Flex<br>Cosyp Fixed<br>Cosyp Flex<br>Cosy Fixed<br>Cosy Flex<br>SME Fixed<br>SME Flex<br>Smart Flex<br>	</div>
+		Zen Fixed<br>Smartpl Fixed<br>Smart Flex<br>Prepaid Fixed<br>Prepaid Flex<br>Online Flex<br>Online Fixed<br>Off-peak Impact<br>Off-peak Fixed<br>Off-peak Flex<br>Dynamic<br>Cosypl Fixed<br>Cosypl Flex<br>Cosyp Fixed<br>Cosyp Flex<br>Cosy Fixed<br>Cosy Flex<br>SME Fixed<br>SME Flex<br>Smart Fixed<br>	</div>
 </section>
 
     <!-----------------------------
@@ -4214,12 +4214,12 @@ Offre valable du 01/10/2026 au 31/10/2026. La réduction moyenne de 317€ corre
 		<span class="h-[1px] w-full bg-grey block mb-4"></span>
 		<div>
                         <form data-check='form' action="" method="post">
-                <input data-zipCode="67e89a7f" data-check='zipCode' data-input-card="tarifCard" data-modal-close="postcode_modal" class="h-8 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
-                <div data-zipcodelist="67e89a7f" class="input rounded-xs px-0 hidden max-w-[400px]">
+                <input data-zipCode="098ad6fe" data-check='zipCode' data-input-card="tarifCard" data-modal-close="postcode_modal" class="h-8 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
+                <div data-zipcodelist="098ad6fe" class="input rounded-xs px-0 hidden max-w-[400px]">
                     <ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
                     </ul>
                 </div>
-                <p data-zipcode-badnumber='67e89a7f' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+                <p data-zipcode-badnumber='098ad6fe' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
                 <div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
                     <img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
                     <div>

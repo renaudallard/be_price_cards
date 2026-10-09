@@ -10,38 +10,38 @@
         <meta property="og:title" content="/dots-connect-gas-digital | Dots energy"/>
         <meta property="og:site_name" content="Dots energy"/>
         <meta property="og:url" content="https://www.dotsenergy.be/dots-connect-gas-digital"/>
-        <meta property="og:image" content="https://www.dotsenergy.be/web/image/website/1/logo?unique=d5805f5"/>
+        <meta property="og:image" content="https://www.dotsenergy.be/web/image/website/1/logo?unique=0b62b0c"/>
             
         <meta name="twitter:card" content="summary_large_image"/>
         <meta name="twitter:title" content="/dots-connect-gas-digital | Dots energy"/>
-        <meta name="twitter:image" content="https://www.dotsenergy.be/web/image/website/1/logo/300x300?unique=d5805f5"/>
+        <meta name="twitter:image" content="https://www.dotsenergy.be/web/image/website/1/logo/300x300?unique=0b62b0c"/>
         
         <link rel="canonical" href="https://www.dotsenergy.be/dots-connect-gas-digital"/>
         
         <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""/>
         <title>/dots-connect-gas-digital | Dots energy</title>
-        <link type="image/x-icon" rel="shortcut icon" href="/web/image/website/1/favicon?unique=d5805f5"/>
+        <link type="image/x-icon" rel="shortcut icon" href="/web/image/website/1/favicon?unique=0b62b0c"/>
         <link rel="preload" href="/web/static/src/libs/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin=""/>
-        <link type="text/css" rel="stylesheet" href="/web/assets/1/484e510/web.assets_frontend.min.css"/>
+        <link type="text/css" rel="stylesheet" href="/web/assets/1/80c551c/web.assets_frontend.min.css"/>
             <script src="/website/static/src/js/content/cookie_watcher.js"></script>
             <script>
                 watch3rdPartyScripts(["youtu.be", "youtube.com", "youtube-nocookie.com", "instagram.com", "instagr.am", "ig.me", "vimeo.com", "dailymotion.com", "dai.ly", "youku.com", "tudou.com", "facebook.com", "facebook.net", "fb.com", "fb.me", "fb.watch", "tiktok.com", "x.com", "twitter.com", "t.co", "googletagmanager.com", "google-analytics.com", "google.com", "google.ad", "google.ae", "google.com.af", "google.com.ag", "google.al", "google.am", "google.co.ao", "google.com.ar", "google.as", "google.at", "google.com.au", "google.az", "google.ba", "google.com.bd", "google.be", "google.bf", "google.bg", "google.com.bh", "google.bi", "google.bj", "google.com.bn", "google.com.bo", "google.com.br", "google.bs", "google.bt", "google.co.bw", "google.by", "google.com.bz", "google.ca", "google.cd", "google.cf", "google.cg", "google.ch", "google.ci", "google.co.ck", "google.cl", "google.cm", "google.cn", "google.com.co", "google.co.cr", "google.com.cu", "google.cv", "google.com.cy", "google.cz", "google.de", "google.dj", "google.dk", "google.dm", "google.com.do", "google.dz", "google.com.ec", "google.ee", "google.com.eg", "google.es", "google.com.et", "google.fi", "google.com.fj", "google.fm", "google.fr", "google.ga", "google.ge", "google.gg", "google.com.gh", "google.com.gi", "google.gl", "google.gm", "google.gr", "google.com.gt", "google.gy", "google.com.hk", "google.hn", "google.hr", "google.ht", "google.hu", "google.co.id", "google.ie", "google.co.il", "google.im", "google.co.in", "google.iq", "google.is", "google.it", "google.je", "google.com.jm", "google.jo", "google.co.jp", "google.co.ke", "google.com.kh", "google.ki", "google.kg", "google.co.kr", "google.com.kw", "google.kz", "google.la", "google.com.lb", "google.li", "google.lk", "google.co.ls", "google.lt", "google.lu", "google.lv", "google.com.ly", "google.co.ma", "google.md", "google.me", "google.mg", "google.mk", "google.ml", "google.com.mm", "google.mn", "google.com.mt", "google.mu", "google.mv", "google.mw", "google.com.mx", "google.com.my", "google.co.mz", "google.com.na", "google.com.ng", "google.com.ni", "google.ne", "google.nl", "google.no", "google.com.np", "google.nr", "google.nu", "google.co.nz", "google.com.om", "google.com.pa", "google.com.pe", "google.com.pg", "google.com.ph", "google.com.pk", "google.pl", "google.pn", "google.com.pr", "google.ps", "google.pt", "google.com.py", "google.com.qa", "google.ro", "google.ru", "google.rw", "google.com.sa", "google.com.sb", "google.sc", "google.se", "google.com.sg", "google.sh", "google.si", "google.sk", "google.com.sl", "google.sn", "google.so", "google.sm", "google.sr", "google.st", "google.com.sv", "google.td", "google.tg", "google.co.th", "google.com.tj", "google.tl", "google.tm", "google.tn", "google.to", "google.com.tr", "google.tt", "google.com.tw", "google.co.tz", "google.com.ua", "google.co.ug", "google.co.uk", "google.com.uy", "google.co.uz", "google.com.vc", "google.co.ve", "google.co.vi", "google.com.vn", "google.vu", "google.ws", "google.rs", "google.co.za", "google.co.zm", "google.co.zw", "google.cat"]);
             </script>
         <script id="web.layout.odooscript" type="text/javascript">
             var odoo = {
-                csrf_token: '8e89d5da26b9fac7a3f6feba83c5376a1125207do1822740389',
+                csrf_token: '7857d03e6951bc2a014eaaa1438cd2e0d9a730f2o1823083937',
                 debug: "",
             };
         </script>
         <script type="text/javascript">
-            odoo.__session_info__ = {"is_admin": false, "is_system": false, "is_public": true, "is_internal_user": false, "is_website_user": true, "uid": null, "registry_hash": "23e14add5afe8a0cd101ed58b98b52fdcd760ee5b6f68906520dabf3deadce84", "is_frontend": true, "profile_session": null, "profile_collectors": null, "profile_params": null, "show_effect": false, "currencies": {"125": {"name": "EUR", "symbol": "\u20ac", "position": "after", "digits": [69, 2]}, "1": {"name": "USD", "symbol": "$", "position": "before", "digits": [69, 2]}}, "quick_login": true, "bundle_params": {"lang": "nl_BE", "website_id": 1}, "test_mode": false, "websocket_worker_version": "19.0-2", "translationURL": "/website/translations", "geoip_country_code": "US", "geoip_phone_code": 1, "lang_url_code": "nl"};
+            odoo.__session_info__ = {"is_admin": false, "is_system": false, "is_public": true, "is_internal_user": false, "is_website_user": true, "uid": null, "registry_hash": "cd6627b7c2dc91903636f5b97b70355307276a6848df81511d2661dc3e441139", "is_frontend": true, "profile_session": null, "profile_collectors": null, "profile_params": null, "show_effect": false, "currencies": {"125": {"name": "EUR", "symbol": "\u20ac", "position": "after", "digits": [69, 2]}, "1": {"name": "USD", "symbol": "$", "position": "before", "digits": [69, 2]}}, "quick_login": true, "bundle_params": {"lang": "nl_BE", "website_id": 1}, "test_mode": false, "websocket_worker_version": "19.0-2", "translationURL": "/website/translations", "geoip_country_code": "US", "geoip_phone_code": 1, "lang_url_code": "nl"};
             if (!/(^|;\s)tz=/.test(document.cookie)) {
                 const userTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
                 document.cookie = `tz=${userTZ}; path=/`;
             }
         </script>
         <script type="text/javascript" defer="defer" src="/web/assets/1/a667577/web.assets_frontend_minimal.min.js" onerror="__odooAssetError=1"></script>
-        <script type="text/javascript" data-src="/web/assets/1/132427f/web.assets_frontend_lazy.min.js" onerror="__odooAssetError=1"></script>
+        <script type="text/javascript" data-src="/web/assets/1/a08f65b/web.assets_frontend_lazy.min.js" onerror="__odooAssetError=1"></script>
         
             <script id="tracking_code" async="async" src="about:blank" data-need-cookies-approval="true" data-nocookie-src="https://www.googletagmanager.com/gtag/js?id=G-BNF08DP2QX"></script>
             <script id="tracking_code_config">
@@ -202,7 +202,7 @@ src="https://www.facebook.com/tr?id=1255930949710173&ev=PageView&noscript=1"
                     
     <a data-name="Navbar Logo" href="/" class="navbar-brand logo me-4">
             
-            <span role="img" aria-label="Logo of Dots energy" title="Dots energy"><img src="/web/image/website/1/logo/Dots%20energy?unique=d5805f5" class="img img-fluid" width="95" height="40" alt="Dots energy" loading="lazy"/></span>
+            <span role="img" aria-label="Logo of Dots energy" title="Dots energy"><img src="/web/image/website/1/logo/Dots%20energy?unique=0b62b0c" class="img img-fluid" width="95" height="40" alt="Dots energy" loading="lazy"/></span>
         </a>
     
                     
@@ -269,7 +269,7 @@ src="https://www.facebook.com/tr?id=1255930949710173&ev=PageView&noscript=1"
                 
     <a data-name="Navbar Logo" href="/" class="navbar-brand logo ">
             
-            <span role="img" aria-label="Logo of Dots energy" title="Dots energy"><img src="/web/image/website/1/logo/Dots%20energy?unique=d5805f5" class="img img-fluid" width="95" height="40" alt="Dots energy" loading="lazy"/></span>
+            <span role="img" aria-label="Logo of Dots energy" title="Dots energy"><img src="/web/image/website/1/logo/Dots%20energy?unique=0b62b0c" class="img img-fluid" width="95" height="40" alt="Dots energy" loading="lazy"/></span>
         </a>
     
                 <ul class="o_header_mobile_buttons_wrap navbar-nav d-flex flex-row align-items-center gap-2 mb-0 ms-auto"></ul>

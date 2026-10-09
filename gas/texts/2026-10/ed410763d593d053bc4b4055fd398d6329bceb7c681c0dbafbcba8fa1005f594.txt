@@ -29,7 +29,7 @@
         <link type="text/css" rel="stylesheet" href="/web/assets/29/0494867/web.assets_frontend.min.css"/>
         <script id="web.layout.odooscript" type="text/javascript">
             var odoo = {
-                csrf_token: "f30c7a04a48734a019df6d5f6cd60df641f881c4o1822740383",
+                csrf_token: "6bf7c5085223e94283e0dbe3cd06adbd341fb199o1823083931",
                 debug: "",
             };
         </script>
@@ -242,13 +242,13 @@ Prijszekerheid voor 1 jaar*<br></p></span>
                                 </div>
                                 <div class="xx_ratecard_footer 
             ">
-                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1894/file" class="xx-tariff-card-link">
-                                            <span class="fa fa-chevron-right"></span>
-                                            <span>Tariefkaart_Lite_EL</span>
-                                        </a>
                                         <a target="new" href="/web/content/xx.product.group.tariff.card/1895/file" class="xx-tariff-card-link">
                                             <span class="fa fa-chevron-right"></span>
                                             <span>Tariefkaart_VariabelSmiles_Gas</span>
+                                        </a>
+                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1894/file" class="xx-tariff-card-link">
+                                            <span class="fa fa-chevron-right"></span>
+                                            <span>Tariefkaart_Lite_EL</span>
                                         </a>
             
                                 </div>
@@ -323,13 +323,13 @@ Prijszekerheid voor 1 jaar*<br></p></span>
                                 </div>
                                 <div class="xx_ratecard_footer 
             ">
-                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1898/file" class="xx-tariff-card-link">
-                                            <span class="fa fa-chevron-right"></span>
-                                            <span>Tariefkaart_Sunplus_EL</span>
-                                        </a>
                                         <a target="new" href="/web/content/xx.product.group.tariff.card/1899/file" class="xx-tariff-card-link">
                                             <span class="fa fa-chevron-right"></span>
                                             <span>Tariefkaart_VariabelSmiles_Gas</span>
+                                        </a>
+                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1898/file" class="xx-tariff-card-link">
+                                            <span class="fa fa-chevron-right"></span>
+                                            <span>Tariefkaart_Sunplus_EL</span>
                                         </a>
             
                                 </div>
@@ -355,13 +355,13 @@ Prijszekerheid voor 1 jaar*<br></p></span>
                                 </div>
                                 <div class="xx_ratecard_footer 
             ">
-                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1906/file" class="xx-tariff-card-link">
-                                            <span class="fa fa-chevron-right"></span>
-                                            <span>Tariefkaart_VariabelSmiles_EL</span>
-                                        </a>
                                         <a target="new" href="/web/content/xx.product.group.tariff.card/1907/file" class="xx-tariff-card-link">
                                             <span class="fa fa-chevron-right"></span>
                                             <span>Tariefkaart_VariabelSmiles_Gas</span>
+                                        </a>
+                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1906/file" class="xx-tariff-card-link">
+                                            <span class="fa fa-chevron-right"></span>
+                                            <span>Tariefkaart_VariabelSmiles_EL</span>
                                         </a>
             
                                 </div>
@@ -370,7 +370,7 @@ Prijszekerheid voor 1 jaar*<br></p></span>
                 </div>
             
             <form class="d-none" method="post" id="customer_form">
-                <input type="hidden" name="csrf_token" value="f30c7a04a48734a019df6d5f6cd60df641f881c4o1822740383"/>
+                <input type="hidden" name="csrf_token" value="6bf7c5085223e94283e0dbe3cd06adbd341fb199o1823083931"/>
                 <input type="hidden" name="ratecard_ids"/>
                 <input type="hidden" name="product_group_id"/>
                 <input type="hidden" name="fix_variable"/>
@@ -392,7 +392,7 @@ Prijszekerheid voor 1 jaar*<br></p></span>
             <form class="d-none" method="post" id="detail_form">
                 <input type="hidden" name="zip"/>
                 <input type="hidden" name="city"/>
-                <input type="hidden" name="csrf_token" value="f30c7a04a48734a019df6d5f6cd60df641f881c4o1822740383"/>
+                <input type="hidden" name="csrf_token" value="6bf7c5085223e94283e0dbe3cd06adbd341fb199o1823083931"/>
                 <input type="hidden" name="connection_type"/>
                 <input type="hidden" name="meter_type"/>
                 <input type="hidden" name="excl_night"/>

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "a4255d6c40d51f56bbddccc382f62a2aefa9a7a2c80e7801918d28b8a4137c33",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=5310e3483b5251d5",
    "text": "texts/2026-10/6c4016a587b240d76742b29a2d42cabbad1ec88755aae648f0f9ec6a16324780.txt",
    "url": "https://www.prijspuntenenergie.be/web/content/xx.product.group.tariff.card/1787/file",
    "variant": "plain"

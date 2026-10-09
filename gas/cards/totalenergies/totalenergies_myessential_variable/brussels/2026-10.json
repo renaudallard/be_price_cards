@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "f2dd4715ba9398a7f4bff6f47788e6aee3d614c130cbc0082ec7e125432e2ae0",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=5310e3483b5251d5",
    "text": "texts/2026-10/de9d588878d267f37b8481bff6d3f6c599350858e698fea91d2fb943b541ead7.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL_GAS_BXL_FR.pdf",
    "variant": "layout"

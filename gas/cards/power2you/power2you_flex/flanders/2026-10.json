@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
-   "text": "texts/2026-10/6faff8832f0de285b6f332aef34bba8934fbdb590da6d572cce6ef1316c994ca.txt",
+   "text": "texts/2026-10/7fb9ca1ff61d277074cc10d169c0635e4a119f936640e236980c4c5efa8a06cb.txt",
    "url": "https://www.power2you.be/products",
    "variant": "text"
   },
   {
    "pdf": "cf2a74fbeda3335cdfdfd3ab4ba366ed7205a226cdad5693abf409f68dbb9ef0",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=908f2bfa1cc60cf9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=5310e3483b5251d5",
    "text": "texts/2026-10/60a79eb580fc5d4e31502c52280b5af95e94c8b7de680c2e7f6c4c9aa3fc0c80.txt",
    "url": "https://www.power2you.be/web/content/xx.product.group.tariff.card/1861/file",
    "variant": "plain"
