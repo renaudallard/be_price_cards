@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-29",
@@ -16,6 +16,7 @@
   },
   {
    "pdf": "af3ef1597636f37c00cd5adb3aaae90ba2768eba3c13f9e380c1f927074a2d9e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/4ac0ca980e0c5de0047f44b30512c9b6e43ed8919e6462839cdd9bc1d35c466a.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-12 E OCTA+FIXED RE VL FR.pdf",
    "variant": "aligned"

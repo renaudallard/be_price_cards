@@ -1,12 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "56ebc52a91661acb967ad48a2ab5f554178030199cbc70af12654af16b48bd91",
-   "text": "texts/2026-09/7b6d3f2f3871a08d3f78b56226361b28ccb14354cd9072357e3cd28b300cb8a7.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/0dffdd12995b2f7a6af263038844a555876f277476e7b0ec11ec0a3ddec6b2a8.txt",
    "url": "https://www.energyknights.be/website/getCurrentTariffchart/par/agilioronline/nl",
    "variant": "layout"
   }
@@ -173,7 +174,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "2026-09",
+ "publication_label": "2026-10",
  "source_url": "https://www.energyknights.be/website/getCurrentTariffchart/par/agilioronline/nl",
  "supplier": "energyknights",
  "supplier_prosumer_eur_per_kva_year": null,
@@ -191,7 +192,7 @@
   "vat_rate": 0.0,
   "wallonia_renewables": 0.0
  },
- "valid_until": "2026-09-30",
+ "valid_until": "2026-10-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,

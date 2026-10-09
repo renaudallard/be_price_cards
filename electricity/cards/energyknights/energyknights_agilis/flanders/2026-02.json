@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "3ecd4c3c33935863466e4717c68c0e8779e06ef824c930007af745206563e9e1",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/f0adafe86f5f82d4974ef906f16a495977746be11532f4253371e59dfae86fa3.txt",
    "url": "https://www.energyknights.be/website/getHistoricalTariffchart/par/2026-02/agilisonline/nl",
    "variant": "layout"

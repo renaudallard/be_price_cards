@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "7c2d5795f2617172dfc7923bf63ebac23bf64b6cc6c2c64dde6d78dca210935f",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/39db41b88ff87fc25c4173ff6ae1ab0a29fdaa9962d8bf06ba15925978d6d694.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-022026-Cosy0102-Fixed.pdf",
    "variant": "plain"

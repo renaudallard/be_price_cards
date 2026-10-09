@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "31cb6ea233b0727f2958a00a285c2e48ec125176ced24e737f427b4bb5c99646",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/e1d10970071a9f2c7d258c2a9819bf70bd0f31b8b162c6c7308fdf9504e24e47.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Januari_Tariefkaart_Energie_be_Variabel_EL_RES_c9bf9d3723.pdf",
    "variant": "layout"

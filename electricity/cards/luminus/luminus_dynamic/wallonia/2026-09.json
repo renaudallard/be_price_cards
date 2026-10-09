@@ -1,12 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "3324c9a5978796a052ad4b78ffc24bd7e71927505666cc1cb0bcfa04f267faaf",
-   "text": "texts/2026-09/d508e8ee60dbbb9457863954e65195770f003fb6984ace4d92c0d3b432c7371f.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/8b17fb919493d5fb235ee7f6e951ebdf6d760452935f95f5ea961627cc0aa3af.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=dynamic&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"
   }
@@ -125,7 +126,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "septembre 2026",
+ "publication_label": "octobre 2026",
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=dynamic&energyType=electricity&language=fr&tabValue=Wallonia",
  "supplier": "luminus",
  "supplier_prosumer_eur_per_kva_year": null,

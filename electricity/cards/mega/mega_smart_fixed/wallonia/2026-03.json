@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-10-01",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "95d7bf605b988e600f8ae6e4a3e7c06e15d1a59c002d49a388d21fac85e80b30",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/28223873c6b6baca22e668a243537ca3535d8e67a32220159fb2058cd9ece077.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-032026-Smart0103-Fixed.pdf",
    "variant": "plain"

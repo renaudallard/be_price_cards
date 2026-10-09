@@ -1,12 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "90d3197735ac6bc86984234a23f94a738ae15a2510a05ec865f2eb89e7b1f800",
-   "text": "texts/2026-09/406d60e984670b4f73258a4ba6747cc3928c5ab50c63687894173c44075bccd5.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/0901040ab0093cbdc4c3f68e511a384894723c24bde5c9e36f6a36a729b38e38.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxfix&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"
   }
@@ -97,10 +98,10 @@
   }
  },
  "energy": {
-  "exclusive_night": 0.18059999999999998,
-  "offpeak": 0.18059999999999998,
-  "peak": 0.24230000000000002,
-  "single": 0.20800000000000002,
+  "exclusive_night": 0.1961,
+  "offpeak": 0.1961,
+  "peak": 0.2643,
+  "single": 0.22649999999999998,
   "yearly_fixed_fee": 65.0,
   "yearly_fixed_fee_exclusive_night": 0.0
  },
@@ -128,7 +129,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "septembre 2026",
+ "publication_label": "octobre 2026",
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxfix&energyType=electricity&language=fr&tabValue=Wallonia",
  "supplier": "luminus",
  "supplier_prosumer_eur_per_kva_year": null,
@@ -146,7 +147,7 @@
   "vat_rate": 0.0,
   "wallonia_renewables": 0.030299999999999997
  },
- "valid_until": "2026-09-30",
+ "valid_until": null,
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
@@ -155,9 +156,9 @@
  "welcome_credit_excludes_night_meter": false,
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "anniversary",
- "welcome_credit_kwh": 750.0,
+ "welcome_credit_kwh": 675.0,
  "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
  "welcome_credit_requires_direct_debit": false,
- "welcome_credit_signing_month": "2026-09-01"
+ "welcome_credit_signing_month": "2026-10-01"
 }

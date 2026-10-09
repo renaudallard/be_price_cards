@@ -1,12 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "9e8019a1f81afac9ab00cebf351aeadae33d2afabf551357501860b13b0f3c35",
-   "text": "texts/2026-09/35ac4d58c217f733fff3ce82dc3a8247f38750d57907802a5cdd6834fcaec978.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/42f5389d880918597aa4f07511464d24cba2fb193c5be26424d77c5193996c46.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPOWER_P_GREEN_C_F_00_W_F&monthOffset=0&segment=P&language=F",
    "variant": "plain"
   }
@@ -97,10 +98,10 @@
   }
  },
  "energy": {
-  "exclusive_night": 0.14869,
-  "offpeak": 0.13176,
-  "peak": 0.17941,
-  "single": 0.15877,
+  "exclusive_night": 0.18603000000000003,
+  "offpeak": 0.16912,
+  "peak": 0.22005,
+  "single": 0.19838999999999998,
   "yearly_fixed_fee": 95.0,
   "yearly_fixed_fee_exclusive_night": null
  },
@@ -110,7 +111,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.02491,
+  "current": 0.04272,
   "factor": null,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -127,8 +128,8 @@
   "transition": null,
   "vat_applies": true
  },
- "publication_label": "Septembre 2026",
- "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF",
+ "publication_label": "Octobre 2026",
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPOWER_P_GREEN_C_F_00_W_F&monthOffset=0&segment=P&language=F",
  "supplier": "engie",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
@@ -155,9 +156,9 @@
   "region_connection_fee": 0.00075,
   "region_connection_fee_unavailable": false,
   "vat_rate": 0.21,
-  "wallonia_renewables": 0.0292
+  "wallonia_renewables": 0.03
  },
- "valid_until": "2026-09-30",
+ "valid_until": "2026-10-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,

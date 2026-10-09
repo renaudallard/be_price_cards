@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "a57238c99c3704bcb0f3c742e8fe5de849b4eed204183a91115c40d992d92cc0",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/3679edc7e811bc925ba8bdfcc444e40803049a9117b492a1d50bcb0396878b6b.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012605_NL_ENECO_POWER_DYNAMIC.pdf",
    "variant": "plain"

@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "3e201c0a3f2275597cf32c7119be0a973f6bb76f464832f6181d1a56e97bcb97",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/d0db828ab89cc4db26c9f9583763656cc399b1fc29a67552721324269ddc7b5c.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-092026-Online0109-Fixed.pdf",
    "variant": "plain"

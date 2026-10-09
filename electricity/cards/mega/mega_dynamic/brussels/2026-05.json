@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "8f7573125f30ba93aa23ed3ad9121f5dec1d99b9cde616d6ca10998c47a551ce",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/b569e88647c4a24f75f9320bf92990f3a902771f67767902aaba1f2948054045.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-052026-Dynamic0105.pdf",
    "variant": "plain"

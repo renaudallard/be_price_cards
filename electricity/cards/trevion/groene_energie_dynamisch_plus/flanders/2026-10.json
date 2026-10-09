@@ -1,16 +1,17 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
-   "text": "texts/2026-10/0d7f442361c28a657efc031acc4cb0038e1e73907005446e615b8dfc60c1e532.txt",
+   "text": "texts/2026-10/31c9f4f999382399cfe53ab54ca91452152dbc9050c73ad9fa089fd10d9518ea.txt",
    "url": "https://trevion.be/tariefkaarten/",
    "variant": "text"
   },
   {
    "pdf": "4140aa08f907eaceb0a61a4136d5506f05ac372c497f6cb3d11310b4b827bad3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/7ff81c38f3456cf3fd9ece19b157d2308768eab157edcd2c7916af448f7bc717.txt",
    "url": "https://trevion.be/tariefkaarten/Tariefkaart-Groene-Energie-Dynamisch-Plus-Particulier-202610.pdf",
    "variant": "layout"

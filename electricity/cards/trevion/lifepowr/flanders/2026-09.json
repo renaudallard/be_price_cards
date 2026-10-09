@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-07T12:00:46.068970+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-10-07",
@@ -11,12 +11,14 @@
   },
   {
    "pdf": "9f492e39edd7d51f4c88bb03874db425df6370d95d816297cb46cef9c3d884ca",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/ca6e7cc9b7ae2604e3ae9e465563922d4648c73a28ee6c30cb7944a2cb566978.txt",
    "url": "https://trevion.be/tariefkaarten/Tariefkaart-FlexiO-Max-by-Trevion-Particulier-202610.pdf",
    "variant": "layout"
   },
   {
    "pdf": "e0838578e8a61abf2d3ea4ce93a39abfc2c4db364c5191e9572607a58fad9c28",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/fcd6b71de0d0ae29229e2cb7661ba5420fb87e5f75a19bec2e114c4c059cc5a0.txt",
    "url": "https://trevion.be/tariefkaarten/Tariefkaart-LifePowrByTrevion-Particulier-202609.pdf",
    "variant": "layout"

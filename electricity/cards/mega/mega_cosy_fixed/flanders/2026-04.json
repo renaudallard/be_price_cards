@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "0320ce83e7185cec1e4c656d7ef12feb99939977789bd3a07dddb746adecc68a",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/8a8d1d58d683e2e98d62db2a3a1ad12c8b9d61d11e184e153e26dd8377fe625a.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-042026-Cosy0104-Fixed.pdf",
    "variant": "plain"

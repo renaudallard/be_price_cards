@@ -1,12 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "c3293d0c90bfaa052568fc1ee219088527db5eaa9ed38c570838d1196238bcf6",
-   "text": "texts/2026-09/11b22dd0adf98f118492308e07b64325ff021b563540d7b614ebb1770d823c38.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/a33aa4bfba07fa095bcca5f511c66bc918d02a5c796aaa84fccce1deba0b8088.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxfix&energyType=electricity&language=fr&tabValue=Flanders",
    "variant": "plain"
   }
@@ -145,10 +146,10 @@
   }
  },
  "energy": {
-  "exclusive_night": 0.1793,
-  "offpeak": 0.1793,
-  "peak": 0.21969999999999998,
-  "single": 0.2027,
+  "exclusive_night": 0.1953,
+  "offpeak": 0.1953,
+  "peak": 0.2407,
+  "single": 0.2212,
   "yearly_fixed_fee": 65.0,
   "yearly_fixed_fee_exclusive_night": 0.0
  },
@@ -176,7 +177,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "septembre 2026",
+ "publication_label": "octobre 2026",
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxfix&energyType=electricity&language=fr&tabValue=Flanders",
  "supplier": "luminus",
  "supplier_prosumer_eur_per_kva_year": null,
@@ -194,7 +195,7 @@
   "vat_rate": 0.0,
   "wallonia_renewables": 0.0
  },
- "valid_until": "2026-09-30",
+ "valid_until": null,
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
@@ -203,9 +204,9 @@
  "welcome_credit_excludes_night_meter": false,
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "anniversary",
- "welcome_credit_kwh": 750.0,
+ "welcome_credit_kwh": 675.0,
  "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,
  "welcome_credit_requires_direct_debit": false,
- "welcome_credit_signing_month": "2026-09-01"
+ "welcome_credit_signing_month": "2026-10-01"
 }

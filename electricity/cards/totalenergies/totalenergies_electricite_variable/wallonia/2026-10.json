@@ -1,17 +1,19 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "57ffb1409078f00f7d81a1f7a5b8ac8ccaa29ce82e3e33ad16b375e563080da6",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/1eb344f5b3d7232477a5c42dc711c4de1d0c2caaca98962e888d86e4772826eb.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/ELECTRICITE-VARIABLE_ELECTRICITY_WAL_FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "6b194176309d785d9660c78ebaa3b70e672d4aa36820409a08c24b006c65e744",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/f4d25f880ec2f9bfdfd1c2d75d9b256a86284c785dd055ee3620c0f41630292b.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_ELECTRICITE-VARIABLE_ELECTRICITY_WAL_FR.pdf",
    "variant": "layout"

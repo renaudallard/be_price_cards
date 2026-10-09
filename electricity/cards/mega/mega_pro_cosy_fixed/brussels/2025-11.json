@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-29",
  "_sources": [
   {
    "pdf": "00e7507cbb71f82836086d319764d967721cece9c58888c1dd90705c4703675a",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/92b3a7f36de531e1595a6a94ebf8096f598501a1594b96399bd43f1d3c6d76b5.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-112025-Cosy0111-Fixed.pdf",
    "variant": "plain"

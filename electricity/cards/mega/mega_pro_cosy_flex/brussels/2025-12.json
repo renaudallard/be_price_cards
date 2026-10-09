@@ -1,17 +1,19 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-29",
  "_sources": [
   {
    "pdf": "c0a393668ad770220869f441383fc24901ab7845a229c1c8b1bbafb1547abff5",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/ce814b5508473c3dccebd85c7297b1efd57becb6f5db2030c67baa2324ec069a.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-012026-Cosy0101.pdf",
    "variant": "plain"
   },
   {
    "pdf": "0b5b7a909583d49491ae069294315c18124b6b59b6607b17fd3eda93f769d6ae",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/fe1ebe311461208fa655e26bbcf90e0d15e5f259ebe794436198f7a2582222d1.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-122025-Cosy0112.pdf",
    "variant": "plain"

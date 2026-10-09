@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "e34f50016b791d0b4427e195d77dc9eaf0e3270eeb808f2b0c040d1a8e008411",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/a232a2b84666eaf71c90620ffdeef8e2c93fc5e3c72f806752bf74c3e869f805.txt",
    "url": "https://www.energyknights.be/website/getCurrentTariffchart/par/agilisonlinegreen/nl",
    "variant": "layout"

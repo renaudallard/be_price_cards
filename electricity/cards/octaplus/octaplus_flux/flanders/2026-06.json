@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -16,6 +16,7 @@
   },
   {
    "pdf": "45989fb7c620a29543d8b021a7bf45b7c308236b63bdfc3cdb9583952e78d183",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/ccc9ae6d07f1190370d853f5adce98cf5fccdc033695fa3b7172365758e20fec.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2026-06 E OCTA+FLUX RE VL FR.pdf",
    "variant": "aligned"

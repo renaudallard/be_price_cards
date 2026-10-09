@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -16,6 +16,7 @@
   },
   {
    "pdf": "37089dca5b19daf2dc6449b56cf0b38483bdd0a54fe8b7435ffa08907804a8b4",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/3bd8605e77c989db1f05a9619632b148bd79a173f59efed5efa35a2956b7bb9b.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2026-02 E OCTA+ECOFLUX RE WL FR.pdf",
    "variant": "aligned"

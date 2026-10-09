@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "b764c1fb81eafaa63c1e4a9ef04756b605cbe90b21f005c1292ec28eca185769",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/5c597b5fcda8992e5875deff5b927d6f0faaee8969034b56cddeefcc3aba0ef7.txt",
    "url": "https://www.ebem.be/media/jyelj5wy/ebem_tariefkaart-elek-04-2026.pdf",
    "variant": "layout"

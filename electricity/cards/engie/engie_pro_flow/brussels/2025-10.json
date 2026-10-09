@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-29",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "dbba72025896418b5e4ea8744934f846034cd49a819ab4fc954b9a66e2bdb478",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/c7091fff5a871c75bbab2ccd6267b6a47286d186f906924d84dd8cb6468cfe0e.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_FLOW_P_GREEN_C_I_24_B_F&monthOffset=11&segment=P&language=F",
    "variant": "plain"
@@ -99,7 +100,7 @@
   "vat_applies": true
  },
  "publication_label": "Octobre 2025",
- "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF",
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_FLOW_P_GREEN_C_I_24_B_F&monthOffset=11&segment=P&language=F",
  "supplier": "engie",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {

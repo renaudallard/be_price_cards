@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "9e1e8b83e60c70bab4b9d6c6971eaaba560412134272409b202e9cfe3ff0e63b",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/ab21bce66d49e9a9f5331afe4e4dd32f07aa5c6989b9eef82d81360014d49c5c.txt",
    "url": "https://energie-production-api.azurewebsites.net/api/v1/data/document?key=DynamicTariffs",
    "variant": "layout"

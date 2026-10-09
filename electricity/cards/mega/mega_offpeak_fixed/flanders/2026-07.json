@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "0dae6eabb2848f28ac6475f99bba651b9638f90c75eaee0271cee293b19e58fb",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/0fdc36f7591bdcf7f837d9dda2a8fa26c432f5520b05d6dbca111063a08acbcb.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-072026-Offpeak-Bi0107-Fix.pdf",
    "variant": "plain"

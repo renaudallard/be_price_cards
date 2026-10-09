@@ -1,17 +1,19 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-29",
  "_sources": [
   {
    "pdf": "16507231f03bdf5b8a5c2577d5ad5a53dc6665d7ca98c65c00fdf8b0677a7f18",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/901517ed335c54b1054a6a30001571bd7ad9a3787a300db0b2787fb3fad7c17c.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPOWER_R_GREEN_C_I_00_B_F&monthOffset=10&segment=R&language=F",
    "variant": "plain"
   },
   {
    "pdf": "035c678c8d8fb9a5704715374f1acfcc74b54ee0a1467c774ad10f383702b981",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/c8655a122dc0f6effa85848cd96121e7c5769de8edbd550eb8d3dcd36491ba81.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPOWER_R_GREEN_C_I_00_B_F&monthOffset=11&segment=R&language=F",
    "variant": "plain"
@@ -100,7 +102,7 @@
   "vat_applies": false
  },
  "publication_label": "Octobre 2025",
- "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF",
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPOWER_R_GREEN_C_I_00_B_F&monthOffset=11&segment=R&language=F",
  "supplier": "engie",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {

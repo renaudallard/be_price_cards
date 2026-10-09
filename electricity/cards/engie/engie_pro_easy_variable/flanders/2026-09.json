@@ -1,12 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "88f759178b5739735a2b8b5ef3d7675f312421e2b8e097a0461fcc20bb8b6d5c",
-   "text": "texts/2026-09/271690f94565e0ec7c3e989df8e87d2dddea8c87b2b3dd044480462d2642e562.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/2523d4563d178b9df19bce590c9fcee6b6bd198ac59d373a6e73d39c1d4cffdb.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EASY_P_GREEN_C_I_12_V_F&monthOffset=0&segment=P&language=F",
    "variant": "plain"
   }
@@ -149,8 +150,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.18871,
-  "exclusive_night": 0.16003,
+  "current": 0.22709,
+  "exclusive_night": 0.19638999999999998,
   "formula": null,
   "formula_base": null,
   "formula_base_exclusive_night": null,
@@ -164,8 +165,8 @@
   "impact_medium": null,
   "impact_pic": null,
   "month_indexed": false,
-  "offpeak": 0.16003,
-  "peak": 0.20976,
+  "offpeak": 0.19638999999999998,
+  "peak": 0.24925999999999998,
   "rlp_blend": "distinct",
   "rlp_indexed": false,
   "yearly_fixed_fee": 62.0,
@@ -177,7 +178,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.051550000000000006,
+  "current": 0.07051,
   "factor": null,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -194,8 +195,8 @@
   "transition": null,
   "vat_applies": true
  },
- "publication_label": "Septembre 2026",
- "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF",
+ "publication_label": "Octobre 2026",
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EASY_P_GREEN_C_I_12_V_F&monthOffset=0&segment=P&language=F",
  "supplier": "engie",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
@@ -224,7 +225,7 @@
   "vat_rate": 0.21,
   "wallonia_renewables": 0.0
  },
- "valid_until": "2026-09-30",
+ "valid_until": "2026-10-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,

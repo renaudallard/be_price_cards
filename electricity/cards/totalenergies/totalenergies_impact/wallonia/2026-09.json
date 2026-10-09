@@ -1,13 +1,21 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "33021370cf1409e5fe04c02de2b51dccc1cffb78954b5fdb1603f8d58721d306",
-   "text": "texts/2026-09/c286a3f00d546d1f6d52ba49a9936022751e4e7caa9d8c764234ab492731b6d7.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/1233a657b61040b8553d71b343a2992f9ce294df305e4547071268cd4cf0e397.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/IMPACT_ELECTRICITY_WAL_FR.pdf",
+   "variant": "layout"
+  },
+  {
+   "pdf": "f8c1c1f210ded8eee3b08819d3bf57b79cd286de9506de3a02546fe66e58cda9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/f4d25f880ec2f9bfdfd1c2d75d9b256a86284c785dd055ee3620c0f41630292b.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_IMPACT_ELECTRICITY_WAL_FR.pdf",
    "variant": "layout"
   }
  ],
@@ -101,10 +109,10 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.18309999999999998,
+  "current": 0.21810000000000004,
   "exclusive_night": null,
   "formula": null,
-  "formula_base": 0.026182000000000004,
+  "formula_base": 0.028728000000000004,
   "formula_base_exclusive_night": null,
   "formula_base_offpeak": null,
   "formula_base_peak": null,
@@ -129,14 +137,14 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0248,
-  "factor": 0.24,
+  "current": 0.0319,
+  "factor": 0.24400000000000002,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
   "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": "0.024 * BELPEXM -0.625",
+  "formula": "0.0244 * BELPEXM -0.625",
   "minimum": null,
   "month_indexed": true,
   "offpeak": null,
@@ -146,7 +154,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "septembre 2026",
+ "publication_label": "octobre 2026",
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/IMPACT_ELECTRICITY_WAL_FR.pdf",
  "supplier": "totalenergies",
  "supplier_prosumer_eur_per_kva_year": null,
@@ -162,7 +170,7 @@
   "region_connection_fee": 0.0007000000000000001,
   "region_connection_fee_unavailable": false,
   "vat_rate": 0.0,
-  "wallonia_renewables": 0.0332
+  "wallonia_renewables": 0.0336
  },
  "valid_until": null,
  "welcome_credit_after_months": 12,

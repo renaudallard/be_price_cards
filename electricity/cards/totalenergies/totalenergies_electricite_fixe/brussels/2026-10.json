@@ -1,17 +1,19 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "54d622a757910f4a870aadf64005ed395b0435be6097b892b527d969f1ef9d76",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/0deddbc773c488e82c05ae4edabcc4e0d4a32c503103de872dfe260f02c8a0b1.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/ELECTRICITE-FIXE_ELECTRICITY_BXL_FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "3353816b2e44821f5f7a1441c3269bab996253279db08966dfbb8a08bd38a665",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/696b8889b2481778f4aefa50bc6e9fc69abe8967bd7b2bb8431c6ad9e7bd0506.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_ELECTRICITE-FIXE_ELECTRICITY_BXL_FR.pdf",
    "variant": "layout"

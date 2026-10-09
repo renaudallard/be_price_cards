@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "597c766d6ad1ab7b6f41d26a3bfa3eace94d4db4d778bad740919a422edd8261",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/90e97c907ffa0e12b5c5939a980181b063bbccbc31c0c5ab74bf96122150c3d0.txt",
    "url": "https://files.boltenergie.be/pricelists/fix/fix_res_el_fr_202606.pdf",
    "variant": "layout"

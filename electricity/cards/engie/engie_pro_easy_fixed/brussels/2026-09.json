@@ -1,12 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "9741347788019e1178aae027c7a935602431099b982de7d12e9a25f165823641",
-   "text": "texts/2026-09/901eb89fd91ad64a1d3c89e2d1da8c60b3d31bac82f327f9ca45b37632a5c4f9.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/5235af786843a3841b060cf92b8fab8e2be3d3566aba87a596c630ad7c4c0c09.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EASY_P_GREEN_C_F_12_B_F&monthOffset=0&segment=P&language=F",
    "variant": "plain"
   }
@@ -42,10 +43,10 @@
   }
  },
  "energy": {
-  "exclusive_night": 0.14869,
-  "offpeak": 0.14869,
-  "peak": 0.18935,
-  "single": 0.17013999999999999,
+  "exclusive_night": 0.18603000000000003,
+  "offpeak": 0.18603000000000003,
+  "peak": 0.22997,
+  "single": 0.20975000000000002,
   "yearly_fixed_fee": 65.0,
   "yearly_fixed_fee_exclusive_night": null
  },
@@ -55,7 +56,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.02491,
+  "current": 0.04272,
   "factor": null,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -72,8 +73,8 @@
   "transition": null,
   "vat_applies": true
  },
- "publication_label": "Septembre 2026",
- "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF",
+ "publication_label": "Octobre 2026",
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EASY_P_GREEN_C_F_12_B_F&monthOffset=0&segment=P&language=F",
  "supplier": "engie",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
@@ -102,7 +103,7 @@
   "vat_rate": 0.21,
   "wallonia_renewables": 0.0
  },
- "valid_until": "2026-09-30",
+ "valid_until": "2026-10-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,

@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "2e69d1df4e45d0d709b7a3de00cdf799c8c31f7c26e8650534ae5e2415da704a",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/3bb7d6b4b61b12c23a67241f77cc162b4d7714094bb1a20097f47378f47e9d6d.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Februari_Tariefkaart_Energie_be_Dynamisch_Res_b9b61f6447.pdf",
    "variant": "layout"

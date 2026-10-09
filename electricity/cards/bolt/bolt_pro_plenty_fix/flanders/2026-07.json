@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "3d08335ae94202a47fae4cf65580a8cb6ddc6439e9675e13756e0e2db6cba249",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/69a5aa09b63fade99010aa57b459a60efb679d687f2049977b24cad842da7df3.txt",
    "url": "https://files.boltenergie.be/pricelists/fix/plenty_fix_pro_el_fr_202607.pdf",
    "variant": "layout"

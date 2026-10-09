@@ -1,17 +1,19 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "0d93fe3a9611cb8bb1002d0937a8c417bba036bc190dbabfc272be2554e4fa8e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/f4d25f880ec2f9bfdfd1c2d75d9b256a86284c785dd055ee3620c0f41630292b.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_MYCOMFORT-FIXED_ELECTRICITY_WAL_FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "8cb02eba596683198d93135f2cb5c8612347afb172081d8c3b6e080b4edc2fb5",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/148aca2024721a695fd861e2c5113da752a8ffadd8486c7b71842d0c39bffa3a.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_WAL_FR.pdf",
    "variant": "layout"

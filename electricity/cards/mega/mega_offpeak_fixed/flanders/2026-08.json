@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "2e6c3d9c798c558b83c1e4083f00ad570c7cdd4de86c6a2e65feae15c58d3e53",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/6d8ca1345e9dd537b29f07d05d33267604306e743aac8dd73aa55f3b02afe306.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-082026-Offpeak-Bi0108-Fix.pdf",
    "variant": "plain"

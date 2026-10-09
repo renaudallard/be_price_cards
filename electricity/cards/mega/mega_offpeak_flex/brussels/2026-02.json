@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -11,12 +11,14 @@
   },
   {
    "pdf": "3b08250af67e20cb5dc600b73231b8abb2e3d877654d8fa91e860d9d82f4c481",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/47d9cac0ef0d30dfd096a4cbcad3074fc1e614a764aa2ee3d06a234d07639538.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-022026-Offpeak-Bi-Var.pdf",
    "variant": "plain"
   },
   {
    "pdf": "f7deb9c16eb2f8a4c443f47ebaac402a59859993925528685995c5fdeb1a1ea0",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/e191df497346052f60398683b0fb4820734a2d3161cf56a2d6e3d2a8337a8a18.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-032026-Offpeak-Bi-Var.pdf",
    "variant": "plain"

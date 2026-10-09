@@ -1,12 +1,20 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
+   "pdf": "0d93fe3a9611cb8bb1002d0937a8c417bba036bc190dbabfc272be2554e4fa8e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/f4d25f880ec2f9bfdfd1c2d75d9b256a86284c785dd055ee3620c0f41630292b.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_MYCOMFORT-FIXED_ELECTRICITY_WAL_FR.pdf",
+   "variant": "layout"
+  },
+  {
    "pdf": "f5f99d52f42e9978c8e3120a93650ecb2f9330c0eb1b54c72b558b85982cd177",
-   "text": "texts/2026-09/3723853c88b79ab26ba8c280f455962a40a3f4f37206c8e945c94e5cbd2b6cba.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/148aca2024721a695fd861e2c5113da752a8ffadd8486c7b71842d0c39bffa3a.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_WAL_FR.pdf",
    "variant": "layout"
   }
@@ -97,10 +105,10 @@
   }
  },
  "energy": {
-  "exclusive_night": 0.1934,
-  "offpeak": 0.18719999999999998,
-  "peak": 0.21489999999999998,
-  "single": 0.20010000000000003,
+  "exclusive_night": 0.20350000000000001,
+  "offpeak": 0.19830000000000003,
+  "peak": 0.23129999999999998,
+  "single": 0.21359999999999998,
   "yearly_fixed_fee": 90.0,
   "yearly_fixed_fee_exclusive_night": null
  },
@@ -110,14 +118,14 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0248,
-  "factor": 0.24,
+  "current": 0.0319,
+  "factor": 0.24400000000000002,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
   "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": "0.024 * BELPEXM / -0.625",
+  "formula": "0.0244 * BELPEXM -0.625",
   "minimum": null,
   "month_indexed": true,
   "offpeak": null,
@@ -127,7 +135,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "septembre 2026",
+ "publication_label": "octobre 2026",
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_WAL_FR.pdf",
  "supplier": "totalenergies",
  "supplier_prosumer_eur_per_kva_year": null,
@@ -143,7 +151,7 @@
   "region_connection_fee": 0.0007000000000000001,
   "region_connection_fee_unavailable": false,
   "vat_rate": 0.0,
-  "wallonia_renewables": 0.0332
+  "wallonia_renewables": 0.0336
  },
  "valid_until": null,
  "welcome_credit_after_months": 12,

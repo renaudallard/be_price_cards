@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "f7e2d76422a0f80339682b05925df3c978471d771afcb36d9e8ff439e7c55725",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/8b17fb919493d5fb235ee7f6e951ebdf6d760452935f95f5ea961627cc0aa3af.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=dynamic&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"

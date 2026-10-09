@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-29",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "dd8a9f42f593cefe6d88a982441519cc6eb4a18ee3d9d0cbe6c855660bfafc5c",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/888757fc39d0cab5eab9d011ac58c07e0c5c7658053851b6967f3631641a944b.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/December_Tariefkaart_Energie_be_Variabel_EL_RES_c60e8ef6a3.pdf",
    "variant": "layout"

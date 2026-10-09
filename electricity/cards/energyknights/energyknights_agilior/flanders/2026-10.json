@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "203c71ce036755284714897a371596ebf7481cd7dd2058ab25a30bc998463086",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/0dffdd12995b2f7a6af263038844a555876f277476e7b0ec11ec0a3ddec6b2a8.txt",
    "url": "https://www.energyknights.be/website/getCurrentTariffchart/par/agilioronline/nl",
    "variant": "layout"

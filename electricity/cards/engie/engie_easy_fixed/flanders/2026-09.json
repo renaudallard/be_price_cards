@@ -1,12 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "5656cec2f7d33ee463fb82be3c3c536e848395a2f00745a4a02e36dd458e121f",
-   "text": "texts/2026-09/cf26eedde480ba6f13d5c5363d590c28451f0c689bb49b7472ec2e7ea66f6a34.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/3a9a989cdc5317a5bf2ca9a76a8e56d3bb9acd3c6e314af29896793c4533fbf2.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EASY_R_GREEN_C_F_12_V_F&monthOffset=0&segment=R&language=F",
    "variant": "plain"
   }
@@ -145,10 +146,10 @@
   }
  },
  "energy": {
-  "exclusive_night": 0.16013000000000002,
-  "offpeak": 0.16013000000000002,
-  "peak": 0.20663,
-  "single": 0.18695,
+  "exclusive_night": 0.20038,
+  "offpeak": 0.20038,
+  "peak": 0.2514,
+  "single": 0.231,
   "yearly_fixed_fee": 69.0,
   "yearly_fixed_fee_exclusive_night": null
  },
@@ -158,7 +159,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.02404,
+  "current": 0.041609999999999994,
   "factor": null,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -175,8 +176,8 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "Septembre 2026",
- "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF",
+ "publication_label": "Octobre 2026",
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EASY_R_GREEN_C_F_12_V_F&monthOffset=0&segment=R&language=F",
  "supplier": "engie",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
@@ -193,7 +194,7 @@
   "vat_rate": 0.0,
   "wallonia_renewables": 0.0
  },
- "valid_until": "2026-09-30",
+ "valid_until": "2026-10-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,

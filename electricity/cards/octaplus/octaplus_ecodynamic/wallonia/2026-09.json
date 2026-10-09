@@ -1,12 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "9d355d80382e819f1e2caadbd09e6b30ad1a1c6b029697328bf4375df351a8e3",
-   "text": "texts/2026-09/2ac97d36069ae23275b07a25fe6e942684f17264359ca3df55cfe9cd1ea381ac.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/898c51a5781879f96b657d009a3acd85f9248fd5971bd981f8ca5bea55c8f478.txt",
    "url": "https://files.octaplus.be/tariffs/E_OCTA_ECODYNAMIC_RE_WL_FR.pdf",
    "variant": "aligned:1.0"
   }
@@ -97,25 +98,25 @@
   }
  },
  "energy": {
-  "base": 0.0139602,
-  "factor": 1.15222,
+  "base": 0.0132712,
+  "factor": 1.1596400000000002,
   "quarter_hourly": true,
-  "yearly_fixed_fee": 130.0
+  "yearly_fixed_fee": 150.0
  },
  "energy_kind": "dynamic",
  "injection": {
-  "base": -0.00609,
+  "base": -0.01309,
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
   "current": null,
-  "factor": 0.928,
+  "factor": 0.922,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
   "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": "prix de l’électricité injectée sont indexés sur une base quart-horaire, et ce sur base des cotations Day Ahead d'Epex 15 dont les\ndernières valeurs sont chaque jour publiées sur octaplus.be/prixepex. La formule de prix est la suivante, en €/MWh HTVA : Epex 15' * 0,9280 –\n6,09",
+  "formula": "prix de l’électricité injectée sont indexés sur une base quart-horaire, et ce sur base des cotations Day Ahead d'Epex 15 dont les\ndernières valeurs sont chaque jour publiées sur octaplus.be/prixepex. La formule de prix est la suivante, en €/MWh HTVA : Epex 15' * 0,9220 –\n13,09",
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,
@@ -125,7 +126,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "09/2026",
+ "publication_label": "10/2026",
  "source_url": "https://files.octaplus.be/tariffs/E_OCTA_ECODYNAMIC_RE_WL_FR.pdf",
  "supplier": "octaplus",
  "supplier_prosumer_eur_per_kva_year": null,
@@ -141,9 +142,9 @@
   "region_connection_fee": 0.00075,
   "region_connection_fee_unavailable": false,
   "vat_rate": 0.0,
-  "wallonia_renewables": 0.030950000000000002
+  "wallonia_renewables": 0.03138
  },
- "valid_until": "2026-09-30",
+ "valid_until": "2026-10-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,

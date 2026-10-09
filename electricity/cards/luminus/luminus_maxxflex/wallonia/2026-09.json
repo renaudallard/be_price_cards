@@ -1,12 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "e7e33eabd81e53d4c8349eaf1cf92edc78f364cb467cc701ef688d55f09d9ec5",
-   "text": "texts/2026-09/a17292b0d03541f486ed22d6ae988e2645f3dd11f8cff0719d892b771c308b5b.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/d954156a2788eef8c794b27853a67b254a162e7e54079e13cceed0a47a5ac083.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxflex&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"
   }
@@ -148,7 +149,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "septembre 2026",
+ "publication_label": "octobre 2026",
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxflex&energyType=electricity&language=fr&tabValue=Wallonia",
  "supplier": "luminus",
  "supplier_prosumer_eur_per_kva_year": null,
@@ -166,7 +167,7 @@
   "vat_rate": 0.0,
   "wallonia_renewables": 0.030299999999999997
  },
- "valid_until": "2026-09-30",
+ "valid_until": null,
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
@@ -175,9 +176,9 @@
  "welcome_credit_excludes_night_meter": false,
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "anniversary",
- "welcome_credit_kwh": 750.0,
- "welcome_credit_kwh_rate": null,
+ "welcome_credit_kwh": 675.0,
+ "welcome_credit_kwh_rate": 0.207,
  "welcome_credit_pct_of_energy": null,
  "welcome_credit_requires_direct_debit": false,
- "welcome_credit_signing_month": "2026-09-01"
+ "welcome_credit_signing_month": "2026-10-01"
 }

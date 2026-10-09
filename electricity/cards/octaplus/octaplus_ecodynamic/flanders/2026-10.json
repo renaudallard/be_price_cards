@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "4ec35649f814c7fc190d3a62182f501bda176232e6497776305b1c3d71629f99",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/0312a909067c31ec29015a619b3a919c4074e3f25655ec8182d6b4c9d31e190c.txt",
    "url": "https://files.octaplus.be/tariffs/E_OCTA_ECODYNAMIC_RE_VL_FR.pdf",
    "variant": "aligned:1.0"

@@ -1,23 +1,26 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "96dc39ea9c76522623ef3ea82182bd7a5be8111c90cd23d73b3fe75858845818",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/4d98c441ec4fde463e589614b8b1da071c284b39abfda10a3f7bb03c3f781210.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_MYESSENTIAL_ELECTRICITY_VL_FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "002cb5cbc1b07c00e29a5001451399a49a77878f0529f6a0789f137415d76411",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/0ad4fa7589a460c506ec8a1c5501bb6c7d694ea93270a711b05b6e4c5b6165be.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL_ELECTRICITY_VL_FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "54084214564803472d66e39dc97798f52b032d756257780cf5b8466e299cee8f",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/ebc45b24a3783e620501f92d95aa90859237b1a6df28c61feb7b350c0f91f220.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL_ELECTRICITY_VL_NL.pdf",
    "variant": "layout"

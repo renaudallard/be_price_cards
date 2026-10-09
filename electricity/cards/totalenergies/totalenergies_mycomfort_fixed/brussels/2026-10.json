@@ -1,17 +1,19 @@
 {
- "_cached_at": "2026-10-06T12:14:44.558636+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-06",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "6a6589eb32ceb8d8d62bd1e00eb78b37cc2b1cd1cb01fb396caf7550e1fd2314",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/21d1e3a7e6d091623cfb8ffa355bebd5ee9ab2cac6408d02d8b7e4f1c825f99b.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_MYCOMFORT-FIXED_ELECTRICITY_BXL_FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "53b9cd5f98a4e240e331e0adbf73b6e59336e4e6c02088604bfb05a76506dba5",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/ae05ff3c86c73f13f9048cdfba8a8f54b968ea6d80c3e2f1fcbd326872a3eadf.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_BXL_FR.pdf",
    "variant": "layout"

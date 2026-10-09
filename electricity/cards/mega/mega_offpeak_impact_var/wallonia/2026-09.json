@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-10-02",
@@ -11,12 +11,14 @@
   },
   {
    "pdf": "b743096f272d792dc67a09fe39a5fb5374a88f4df2dacb23bfc6d8e1cc45047e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/c9a23796efc30b085afd450c7eed13032d918ae944a019bc6348757ed877c2e9.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-092026-Offpeak-Impact-Var.pdf",
    "variant": "plain"
   },
   {
    "pdf": "259219f559383c6abeda7e794dbc4330ab989628add60b7c078229247288bbb7",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/a1e70f5ef5c11d9b46b1f1dab4cce17f8b73dda23570be6beab93ec7f589a1d3.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-102026-Offpeak-Impact-Var.pdf",
    "variant": "plain"

@@ -1,12 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "766dd43b5ffb55daa3cc30630c010933639e37e888ebfc0482e01100b072bfbe",
-   "text": "texts/2026-09/24fedf4b347f568332f4e5225be4e66f85bb6588c672c1c642169f538e504e9d.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/2ff728606ef5cd1a716a814c0c2f4ac6c854c5a21b7722c62243d8e337fc0efd.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicfix&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"
   }
@@ -97,10 +98,10 @@
   }
  },
  "energy": {
-  "exclusive_night": 0.16399999999999998,
-  "offpeak": 0.16399999999999998,
-  "peak": 0.2267,
-  "single": 0.1918,
+  "exclusive_night": 0.1794,
+  "offpeak": 0.1794,
+  "peak": 0.2487,
+  "single": 0.21030000000000001,
   "yearly_fixed_fee": 25.0,
   "yearly_fixed_fee_exclusive_night": 0.0
  },
@@ -128,7 +129,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "septembre 2026",
+ "publication_label": "octobre 2026",
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicfix&energyType=electricity&language=fr&tabValue=Wallonia",
  "supplier": "luminus",
  "supplier_prosumer_eur_per_kva_year": null,

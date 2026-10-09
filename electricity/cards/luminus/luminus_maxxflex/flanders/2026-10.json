@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "c190546906812e5dd628c9baf1dcb09bf81ad619ca3da5dd5045e8b59e805701",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/84ed3b044bb26830ae0df0a90454d799f3bcbeba024f25d6c55c2dd23885a98c.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxflex&energyType=electricity&language=fr&tabValue=Flanders",
    "variant": "plain"

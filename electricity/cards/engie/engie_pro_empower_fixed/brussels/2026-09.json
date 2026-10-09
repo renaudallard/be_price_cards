@@ -1,12 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "f7367dddbc5d75b5738d60d61d4468f570aa1a8803801a60a25de963944c3b8f",
-   "text": "texts/2026-09/01aef50af955857556e3e456cc92eeabe6195b890939cc038ac2c19dabfade0b.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/8285608ce6e2e683b5c9d737d3bbb0a3f6a062a7f7e8f11126c7d62f4de10820.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPOWER_P_GREEN_C_F_00_B_F&monthOffset=0&segment=P&language=F",
    "variant": "plain"
   }
@@ -42,10 +43,10 @@
   }
  },
  "energy": {
-  "exclusive_night": 0.14869,
-  "offpeak": 0.13176,
-  "peak": 0.17941,
-  "single": 0.15877,
+  "exclusive_night": 0.18603000000000003,
+  "offpeak": 0.16912,
+  "peak": 0.22005,
+  "single": 0.19838999999999998,
   "yearly_fixed_fee": 95.0,
   "yearly_fixed_fee_exclusive_night": null
  },
@@ -55,7 +56,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.02491,
+  "current": 0.04272,
   "factor": null,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -72,8 +73,8 @@
   "transition": null,
   "vat_applies": true
  },
- "publication_label": "Septembre 2026",
- "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF",
+ "publication_label": "Octobre 2026",
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPOWER_P_GREEN_C_F_00_B_F&monthOffset=0&segment=P&language=F",
  "supplier": "engie",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
@@ -102,7 +103,7 @@
   "vat_rate": 0.21,
   "wallonia_renewables": 0.0
  },
- "valid_until": "2026-09-30",
+ "valid_until": "2026-10-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,

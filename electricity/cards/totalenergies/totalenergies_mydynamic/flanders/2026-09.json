@@ -1,12 +1,20 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
+   "pdf": "64c3bdf60352b6c483afcbb0abf85dac850a7b5113f2e9eca7e508c8f85ce613",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/b2ec5a420dbfe00fbed9bdd276dd3649082c4c46dade25b1c1ced0b4ddc8a882.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_MYDYNAMIC_ELECTRICITY_VL_FR.pdf",
+   "variant": "layout"
+  },
+  {
    "pdf": "98fc05c1e19aa75096d03059bce1a40245ec71d23fe3a9da16e40235f79e2400",
-   "text": "texts/2026-09/9dee07677e62016d0f03e0fd0164f046b33975ec851d431d01d56df77c611857.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/eaa742301e446dd25db1fc7609209cc588e353a8308a649091144a0a60aae0db.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYDYNAMIC_ELECTRICITY_VL_FR.pdf",
    "variant": "layout"
   }
@@ -145,8 +153,8 @@
   }
  },
  "energy": {
-  "base": 0.018974,
-  "factor": 1.09392,
+  "base": 0.020446000000000002,
+  "factor": 1.0928600000000002,
   "quarter_hourly": false,
   "yearly_fixed_fee": 90.0
  },
@@ -156,14 +164,14 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0965,
+  "current": 0.1092,
   "factor": 1.0,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
   "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": "Injection** (Compensation pour la rétrocession)\n9,65 9,65 9,65\n0.1 * BELPEXH -1.3",
+  "formula": "Injection* (Compensation pour la rétrocession)\n10,92 10,92 10,92 Tarif mensuel\n0.1 * BELPEXH -1.3",
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,
@@ -173,7 +181,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "septembre 2026",
+ "publication_label": "octobre 2026",
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYDYNAMIC_ELECTRICITY_VL_FR.pdf",
  "supplier": "totalenergies",
  "supplier_prosumer_eur_per_kva_year": null,

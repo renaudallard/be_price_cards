@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "386191a03fbc46cd45696cf73a7e6da4184cdcf6a058ce69b238c777eca060da",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/b4737850fb9804b0597de5b8296ffa0356e1f6b7451064d57ff78c225f31386f.txt",
    "url": "https://files.octaplus.be/tariffs/E_OCTA_BASICONLINE_RE_VL_FR.pdf",
    "variant": "aligned:1.0"

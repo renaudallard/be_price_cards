@@ -1,0 +1,138 @@
+62:4
+6202
+erbmetpes
+22
+| NLFR_LN_CELE_lebairaV
+laitnessEym_C2B
+| TSAF
+Tariefkaart
+TotalEnergies myEssential Variabel
+oktober 2026
+Bijzondere voorwaarden voor de variabele formule myEssential Variabel
+• Elektriciteit in het Vlaamse Gewest
+• BTW 6 % inbegrepen
+Voordelen van de formule * Kostprijs van de energie geleverd
+door TotalEnergies
+"myEssential Variabel"
+Kosten voor energietransport en
+-distributie
+• Onbepaalde duur
+• Beheer je contract in de app Groenestroombijdrage
+• Bel of chat met een energie-expert
+Taksen en heffingen
+• Factuur via e-mail
+BTW
+* Gebaseerd op een gemiddeld gezinsverbruik van 2.500 kWh/jaar (met een enkelvoudige
+meter), en de gemiddelde prijs van de netbeheerders.
+Bijzondere voorwaarden voor residentiële verbruikers in het 1. Tarieven leverancier:
+Vlaamse Gewest. 1.1 [Kost voor de geleverde energie door TotalEnergies]:
+Deze voorwaarden zijn van toepassing op de nieuwe contracten van De variabele energieprijs en de vaste vergoeding.
+onbepaalde duur** die zijn afgesloten in oktober 2026 1.2 [Groenestroombijdrage]:
+Door de staat ingevoerde bijdrage ter ondersteuning van de
+Het aanbod "TotalEnergies myEssential Variabel" is een ontwikkeling van hernieuwbare energiebronnen.
+tariefformule voor residentiële verbruikers met meters 2. Gereguleerde tarieven [Netwerkkosten en afnames]:
+waarvan de standen 2.1 [ Kosten voor energietransport en -distributie]
+jaarlijks worden afgelezen. (volledig doorgestort aan de DNB/TNB).
+De prijzen die u worden gefactureerd op basis van uw 2.2 [ Taksen en heffingen]
+contract, zijn samengesteld uit 2 delen: (volledig doorgestort aan de betrokken instanties).
+Energiekosten
+Energieprijs 0
+Vaste
+vergoeding 1 (c€/kWh)
+(€/jaar) Enkelvoudige Tweevoudige meter*** Meter
+meter Piekuren Daluren excl. nacht
+Verbruik
+20,78 22,73 19,08 19,76 Maandelijkstarief
+35
+0.11 * BELPEXM_RLP + 3.09 0.1222 * BELPEXM_RLP 0.0994 * BELPEXM_RLP 0.1042 * BELPEXM_RLP Tariefformule
++ 3.09 + 3.09 + 3.00
+De formule (excl. BTW) in de bovenstaande tabel stelt TotalEnergies in staat om de energieprijs op twee momenten in het jaar te berekenen. 1/Bij het bepalen van het
+voorschotbedrag wordt de elektriciteitsprijs bepaald op basis van de waarde van de index in deze formule. 2/Bij de jaarlijkse afrekening wordt de prijsformule gebruikt om de
+uiteindelijke prijs te berekenen. Wat is de index? De index BELPEX_M_RLP vertegenwoordigt het gewogen gemiddelde van de dagelijkse "Day Ahead Baseload" noteringen per
+RLP-profiel gedurende de leveringsmaand. De waarden van Belpex zijn beschikbaar op de website https://www.epexspot.com/en. Wat is het RLP-profiel? Het RLP-profiel komt
+overeen met het rekenkundig gemiddelde van de RLP-verbruiksprofielen (=Real Load Profiles) van alle netbeheerders in België, gepubliceerd door Synergrid.
+** TotalEnergies zal de energieprijzen die TotalEnergies levert de eerste 12 maanden van de levering niet verhogen. Na 12 maanden kan TotalEnergies de energieprijzen herzien
+in overeenstemming met artikel 2.2. van de Specifieke voorwaarden (https://totalenergies.be/nl/files/CGV-myEssential.pdf), zonder afbreuk te doen aan de rechten van de klant
+die in hetzelfde artikel worden beschreven.
+***De prijzen in de bovenstaande tabel, die maandelijks worden geïndexeerd, zijn geschat voor de energieafname volgens de methodologie van de Vlaamse Nutsregulator:
+https://www.vlaamsenutsregulator.be/nl/faq/hoe-berekent-de-v-testr-de-geschatte-jaarkost-voor-variabele-contracten. De exacte waarde van de index in uw formule is pas aan
+het einde van de lopende maand bekend. Deze methodologie stelt ons in staat om een schatting van de toekomstige prijzen te maken om zo dicht mogelijk bij de evolutie van
+de energieprijzen te blijven.
+Ter indicatie, hieronder de maandelijkse prijzen berekend op basis van de laatste bekende waarde van de BELPEX_M_RLP (van de vorige maand):
+Verbruik
+Enkelvoudige Meter: 22,38 € cent/kWh
+Tweevoudige Meter
+Piekuren: 24,51 € cent/kWh
+Daluren: 20,53 € cent/kWh
+Meter Excl. Nacht: 21,27 € cent/kWh
+62:4
+6202
+erbmetpes
+22
+| NLFR_LN_CELE_lebairaV
+laitnessEym_C2B
+| TSAF
+Tariefkaart
+TotalEnergies myEssential Variabel
+oktober 2026
+Netwerkkosten en afnames
+Transport- en distributiekosten Taksen en heffingen 4
+Deze heffingen worden integraal
+Deze heffingen worden integraal doorgestort aan de distributie- en transportnetbeheerders. doorgestort aan de overheid.
+Distributie 2 (c€/kWh) Tarief databeheer
+(€/jaar) Bijdrage op Prosumenten-
+Digitale meter Klassieke meter Transport 3
+Distributienetbeheerder de energie tarief 6
+(c€/kWh)
+Capaciteit- Capaciteit- Meetregime: (c€/kWh) (€/kVA/jaar)
+Afnametarief starief Afnametarief starief maandelijks/ Meetregime:
+(par kWh) (per kW gemiddelde (per kWh) (per kwartier)
+maand piek) (per maand) jaarlijks
+Vlaamse Gewest
+Fluvius Antwerpen 5,35 52,37 8,09 10,91 18,92 18,92 0,00 0,20 54,63
+Fluvius Halle-Vilvoorde 5,64 59,41 9,28 12,38 18,92 18,92 0,00 0,20 62,66
+Fluvius Imewo 5,54 57,45 8,90 11,97 18,92 18,92 0,00 0,20 60,12
+Fluvius Kempen 6,34 59,58 10,03 12,41 18,92 18,92 0,00 0,20 67,79
+Fluvius Limburg 5,75 51,99 9,23 10,83 18,92 18,92 0,00 0,20 62,38
+Fluvius Midden-Vlaanderen 5,28 53,13 8,77 11,07 18,92 18,92 0,00 0,20 59,23
+Fluvius West 6,70 60,53 10,30 12,61 18,92 18,92 0,00 0,20 69,59
+Fluvius Zenne-Dijle 5,87 59,49 9,70 12,39 18,92 18,92 0,00 0,20 65,51
+Bijdragen energiefonds (Vlaamse Gewest)* €/maand
+Hoofdverblijfplaats met sociaal tarief 0,00
+Hoofdverblijfplaats zonder sociaal tarief 0,00
+Tweede verblijfplaats 10,07
+*D eze tarieven zijn van toepassing voor particuliere klanten met een laagspanningsmeter.
+Federale bijdrage 5 c€/kWh
+Verbruik tussen 0 & 3.000 kWh 4,88
+Verbruik tussen 3.000 & 20.000 kWh 4,88
+Verbruik tussen 20.000 & 50.000 kWh 4,88
+Verbruik tussen 50.000 & 1.000.000 kWh 4,88
+Het aanbod TotalEnergies myEssential Variabel is onderworpen aan de bijzondere voorwaarden van TotalEnergies myEssential Variabel
+(https://totalenergies.be/nl/files/CGV-myEssential.pdf) en aan de algemene voorwaarden van TotalEnergies
+(https://totalenergies.be/nl/particulieren/algemene-voorwaarden-van-totalenergies). Indien de bijzondere voorwaarden afwijkend zijn van de
+algemene voorwaarden van TotalEnergies, dan zijn de onderhavige voorwaarden doorslaggevend.
+• Ga naar uw klantenzone
+• Z ie onze FAQ
+Hulp nodig?
+https://totalenergies.be/nl/particulieren/hulp-encontact/
+veelgestelde-vragen
+• Stel uw vragen via onze chat
+0 De energieprijzen en tariefformules vermeld op deze tariefkaart omvatten de Bijdrage Groene Energie (BGE), waarvan het bedrag als volgt wordt vastgesteld 1,57 € cent/kWh
+1 De vaste vergoeding is een forfaitaire vergoeding per elektriciteitsaansluiting. Bij een vroegtijdige beëindiging door de Klant 6 maanden na de aanvang van de levering overeenkomstig het
+initiële leveringscontract of bij een beëindiging vanaf het tweede jaar, wordt een vaste vergoeding aangerekend pro rata van het aantal leveringsdagen.
+2 TotalEnergies treedt op als tussenpersoon voor het innen van de distributienetkosten. De ontvangen bedragen worden integraal doorgestort aan de
+distributienetbeheerder (DNB). Distributienettarieven zoals goedgekeurd door de gewestelijke regulator (Vlaamse Nutsregulator) en gepubliceerd op diens officiële website
+(www.vlaamsenutsregulator.be).
+3 De transportnetkosten zijn inbegrepen in de afnametarieven.TotalEnergies treedt op als tussenpersoon voor het innen van de transportnetkosten. De ontvangen bedragen worden integraal
+doorgestort aan de transportnetbeheerder (TNB), Elia. Transportnettarieven zoals goedgekeurd door de federale regulator (CREG) en gepubliceerd op diens officiële website (www.creg.be).
+4 De taksen, heffingen en bijdragen zoals die van toepassing zijn bij het opmaken van deze tariefkaart (gepubliceerd op de officiële website www.vlaamsenutsregulator.be). Elke wettelijke
+wijziging van taksen, heffingen of bijdragen wordt zonder meerkosten doorgerekend aan de klant.
+5 De opbrengst van deze federale bijdrage is bestemd voor de financiering van vijf fondsen die worden beheerd door de CREG: het denuclearisatiefonds, het CREG-fonds,
+het Sociaal Energiefonds, het fonds Broeikasgassen en het fonds Beschermde Klanten. Het bedrag van deze bijdrage werd vastgelegd in een Koninklijk Besluit voor de
+toepassing van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt. De CREG is gerechtigd om de correcte toepassing van de bepalingen met
+betrekking tot de federale bijdrage te controleren.
+6 Voorbeeld voor een gezin: installatie van 2,9 kW in de regio Inter-Energa: 2,9 kW x € 85,4865 = € 247,91 (incl. btw).
+Overeenkomstig artikel 6.4. van de algemene verkoopvoorwaarden voor de levering van elektriciteit en/of aardgas voor particulieren, kan een Klant die voldoet aan de voorwaarden van het
+Sociaal Tarief conform artikel 2 van het Ministerieel Besluit van 30 maart 2007, of conform artikel 4 van de Programmawet van 27 april 2007, of conform de wetgeving die deze zou
+vervangen, genieten van het Sociaal Tarief. Vanaf het moment dat het Sociaal Tarief wordt toegepast zal de Klant genieten van dit specifieke tarief en zullen de bijzondere voorwaarden van dit
+Sociaal Tarief op de Klant van toepassing zijn.

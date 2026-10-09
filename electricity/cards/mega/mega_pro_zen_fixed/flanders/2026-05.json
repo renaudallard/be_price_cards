@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "09e747717f6a62bfb00a123872cc7a8ce917194b5a5170f8aed191ae3719b822",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/c4526a959756bfbda3015c4c8e522697c5607dba4bcab0a86c17174bcbe07a59.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-052026-Zen0105-Fixed.pdf",
    "variant": "plain"

@@ -1,12 +1,20 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
+   "pdf": "6a6589eb32ceb8d8d62bd1e00eb78b37cc2b1cd1cb01fb396caf7550e1fd2314",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/21d1e3a7e6d091623cfb8ffa355bebd5ee9ab2cac6408d02d8b7e4f1c825f99b.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_MYCOMFORT-FIXED_ELECTRICITY_BXL_FR.pdf",
+   "variant": "layout"
+  },
+  {
    "pdf": "fb864ddd7e68dce85ab36bd5b37a3066d6d458cb2e10522f98182e712bda6cfd",
-   "text": "texts/2026-09/7e693d6461735a10289fb5b8f013bb573582ab6aa382fcf10bf2d9ed2e18e89b.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/ae05ff3c86c73f13f9048cdfba8a8f54b968ea6d80c3e2f1fcbd326872a3eadf.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_BXL_FR.pdf",
    "variant": "layout"
   }
@@ -42,10 +50,10 @@
   }
  },
  "energy": {
-  "exclusive_night": 0.2107,
-  "offpeak": 0.2018,
-  "peak": 0.2257,
-  "single": 0.2138,
+  "exclusive_night": 0.2207,
+  "offpeak": 0.213,
+  "peak": 0.2423,
+  "single": 0.22769999999999999,
   "yearly_fixed_fee": 90.0,
   "yearly_fixed_fee_exclusive_night": null
  },
@@ -55,14 +63,14 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0248,
+  "current": 0.0313,
   "factor": 0.24,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
   "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": "0.024 * BELPEXM / -0.625",
+  "formula": "0.024 * BELPEXM -0.625",
   "minimum": null,
   "month_indexed": true,
   "offpeak": null,
@@ -72,7 +80,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "septembre 2026",
+ "publication_label": "octobre 2026",
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_ELECTRICITY_BXL_FR.pdf",
  "supplier": "totalenergies",
  "supplier_prosumer_eur_per_kva_year": null,

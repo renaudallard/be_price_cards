@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "977a50d39cdc2dc476d23591360a21a37311939bb2f1c9de3d880a422728d653",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/92f73fc94542f5c2dca65f8358f8305ee6c8dd1c36947c5a522ae731f7cfe5f0.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Juli_Tariefkaart_Energie_be_Vast_El_res_0ee4278b97.pdf",
    "variant": "layout"

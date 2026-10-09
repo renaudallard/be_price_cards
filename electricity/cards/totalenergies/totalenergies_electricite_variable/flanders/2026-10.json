@@ -1,17 +1,19 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "ab2b9ad8f891b8000ad6b0fe62dcb63b8cc3bda2125dbf05e92e0dfd2799cd18",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/4263027bbe6d1b5b378b984a730dc4cdf47acf94dd250a23f3f0d8627f5b2205.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/ELECTRICITE-VARIABLE_ELECTRICITY_VL_FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "928e8a2e225db488bb8ee1b0eb4f02dffe8a3f12d72d6293ef470635727758a1",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/4d98c441ec4fde463e589614b8b1da071c284b39abfda10a3f7bb03c3f781210.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_ELECTRICITE-VARIABLE_ELECTRICITY_VL_FR.pdf",
    "variant": "layout"

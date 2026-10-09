@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "d09229ca73e0282f7d3859e78f4505357387801174839350dbdee5fdbd62d947",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/eb4478b8d258c676ef1061548d99979be4db5510a87d5c1ef9262daba0362526.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0926-GS1JV-WAL-fr.pdf",
    "variant": "layout"

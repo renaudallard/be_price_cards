@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-29",
  "_sources": [
   {
    "pdf": "af7c41ce87e089e3bb7a972e5c592116a632f07f0606e89687d668ab0ff24065",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/7618ec0fe8a03a521924401a1bbdb0ec8527555205dff46670300bc4529e5e12.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1225-GS3JV-nl.pdf",
    "variant": "layout"

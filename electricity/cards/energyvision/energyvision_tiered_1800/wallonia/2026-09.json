@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "f9707e828933e07352e67015108c3fdab357c8c731b4ca79f9280b98cdbc83b8",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/c64da612d3c174a2a59190f1080540d9a10d54a1d7e9fcc55928b3b270de3e6a.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0926-GS1800V-WAL-fr.pdf",
    "variant": "layout"

@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "5fed37119fe118eeca11208729123b2ea324ff38818ea34cda6ea4c79379623f",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/ea88fa5371c85a790aa214b23ebf1de487092af62f31a091df11eef6f4823a47.txt",
    "url": "https://www.ebem.be/media/f25p4bav/ebem_tariefkaart-dynamic_01-2026.pdf",
    "variant": "layout"

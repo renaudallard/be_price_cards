@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "c47c4ce9b22c3ff957e41fe228daf386a651f51a1df8d6ec6bdf24aadc2ca8bb",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/8a29163ed8e35bdd10b94c1ccbe9ae73d0aa9ec48f2ceae5b4817949d38b0934.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Mei_Tariefkaart_Energie_be_Vast_EL_Res_7ef7891c83.pdf",
    "variant": "layout"

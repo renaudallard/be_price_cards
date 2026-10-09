@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "43411bada3ae32477a9abcd50f3cab51df22f8789d81ffb89acbcc747eecddaf",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/d5b0dc000c0484727b10c95127f807cb9162624354211cbb2d0b669f08e44633.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Maart_Tariefkaart_Energie_be_Vast_EL_RES_6313fcfe31.pdf",
    "variant": "layout"

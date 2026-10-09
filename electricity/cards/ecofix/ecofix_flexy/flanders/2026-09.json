@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
-   "ocr": "1",
    "pdf": "1429437fe7c97179845b056d41ab929c678534e3ac5e0e3a1f28e2b2717655c2",
-   "text": "texts/2026-09/e1fe7c8600c0b0bb1334bf3bab8f1b5a1153d610960484123c8433a78ddfe3b2.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/0a9998296c276c64ab6a8bb29e539355914bad6b7353997342bd07e6a2eab5cf.txt",
    "url": "https://portal.ecofixgp.be/docs/prices/current/EL_Ecofix_Flexy_NL.pdf",
    "variant": "layout"
   }
@@ -150,8 +150,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.1432,
-  "exclusive_night": 0.1432,
+  "current": 0.19039999999999999,
+  "exclusive_night": 0.19039999999999999,
   "formula": "(BELPEX-RLP-M * 0,1020) + 1,2000 c€/kWh ex-VAT",
   "formula_base": null,
   "formula_base_exclusive_night": null,
@@ -165,8 +165,8 @@
   "impact_medium": null,
   "impact_pic": null,
   "month_indexed": false,
-  "offpeak": 0.1432,
-  "peak": 0.1432,
+  "offpeak": 0.19039999999999999,
+  "peak": 0.19039999999999999,
   "rlp_blend": "distinct",
   "rlp_indexed": false,
   "yearly_fixed_fee": 60.0,
@@ -178,7 +178,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.051100000000000007,
+  "current": 0.085,
   "factor": 0.8840000000000001,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -195,7 +195,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "2026-09",
+ "publication_label": "2026-10",
  "source_url": "https://portal.ecofixgp.be/docs/prices/current/EL_Ecofix_Flexy_NL.pdf",
  "supplier": "ecofix",
  "supplier_prosumer_eur_per_kva_year": null,
@@ -213,7 +213,7 @@
   "vat_rate": 0.0,
   "wallonia_renewables": 0.0
  },
- "valid_until": "2026-09-30",
+ "valid_until": "2026-10-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,

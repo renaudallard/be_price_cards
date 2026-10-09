@@ -1,12 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "48257aa11eb7d0776ccf8902e33319d48685c2f24fb1f17030617a4667820310",
-   "text": "texts/2026-09/d62d6b303b6d02a96c6451483791c9163be652b273ee5741a98cc7e27aafce1c.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/181c4eb1a35956f75a105407657174b446730723aa2c60e736d150f5104260a8.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_DYNAMIC_P_GREY_C_I_12_W_F&monthOffset=0&segment=P&language=F",
    "variant": "plain"
   }
@@ -108,7 +109,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.09632,
+  "current": 0.10906,
   "factor": 1.0,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -125,8 +126,8 @@
   "transition": null,
   "vat_applies": true
  },
- "publication_label": "Septembre 2026",
- "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF",
+ "publication_label": "Octobre 2026",
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_DYNAMIC_P_GREY_C_I_12_W_F&monthOffset=0&segment=P&language=F",
  "supplier": "engie",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
@@ -153,9 +154,9 @@
   "region_connection_fee": 0.00075,
   "region_connection_fee_unavailable": false,
   "vat_rate": 0.21,
-  "wallonia_renewables": 0.0292
+  "wallonia_renewables": 0.03
  },
- "valid_until": "2026-09-30",
+ "valid_until": "2026-10-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,

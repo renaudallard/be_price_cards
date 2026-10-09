@@ -1,16 +1,17 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
-   "text": "texts/2026-10/7b70663fe4b65acce44dffe671c45435bc3990931d4d6d961eb04f05186a955b.txt",
+   "text": "texts/2026-10/6898a0616237a083cacdf92cbd5e5cc77c4731208c04e692c457cce82fed68a4.txt",
    "url": "https://eneco.be/nl/elektriciteit-gas/tariefkaarten",
    "variant": "text"
   },
   {
    "pdf": "313177c3b12d5b350c054de79840535d2d88ffe36aa4512efc62ec8d9954732e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/68594a809692401d88f4fb1744b5e2e4c54be89fc849c80ae90f11e7d63304c0.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012610_NL_ENECO_POWER_FIX_ONE.pdf",
    "variant": "plain"

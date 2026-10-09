@@ -1,12 +1,13 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "727066d386564d22afcffbf2b71a61107619b55c1db1963839e923175d9cb07b",
-   "text": "texts/2026-09/0b9ccbf8cfc878620984b432b1a596b2ea00e2428bb7e7501d99b9f514825f84.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "text": "texts/2026-09/c6579f4ce05be1415f7ec71bb3b782e98528f5dad0a41a4d7abb7b6f3d6921dc.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"
   }
@@ -97,10 +98,10 @@
   }
  },
  "energy": {
-  "exclusive_night": 0.19649999999999998,
-  "offpeak": 0.19649999999999998,
-  "peak": 0.2626,
-  "single": 0.2257,
+  "exclusive_night": 0.2119,
+  "offpeak": 0.2119,
+  "peak": 0.2847,
+  "single": 0.2443,
   "yearly_fixed_fee": 65.0,
   "yearly_fixed_fee_exclusive_night": 0.0
  },
@@ -128,7 +129,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "septembre 2026",
+ "publication_label": "octobre 2026",
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy&energyType=electricity&language=fr&tabValue=Wallonia",
  "supplier": "luminus",
  "supplier_prosumer_eur_per_kva_year": null,
@@ -146,18 +147,18 @@
   "vat_rate": 0.0,
   "wallonia_renewables": 0.030299999999999997
  },
- "valid_until": "2026-09-30",
+ "valid_until": "2026-10-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
  "welcome_credit_eur": null,
  "welcome_credit_eur_per_kwh": null,
- "welcome_credit_excludes_night_meter": true,
+ "welcome_credit_excludes_night_meter": false,
  "welcome_credit_injection_eur_per_kwh": null,
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
  "welcome_credit_kwh_rate": null,
- "welcome_credit_pct_of_energy": 0.33,
+ "welcome_credit_pct_of_energy": 0.3,
  "welcome_credit_requires_direct_debit": false,
- "welcome_credit_signing_month": "2026-09-01"
+ "welcome_credit_signing_month": "2026-10-01"
 }

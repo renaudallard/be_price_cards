@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "fa50cf9460f862c128101799830004549e304afb9732eedc0d497226930d6a76",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/ab4f52043d93d060f5242c9c47c517036dbe775756ff0333f1aeb7afd1f76860.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-052026-Offpeak-Bi0105-Fix.pdf",
    "variant": "plain"

@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "90d33bb090219e7fe412abe076e98eea9969519e40af65efb108e64a5b4a376e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/f20ff7d09b79bbc77e96e7a3faf1ce5c889c02595e18231f3373d4bd3c1a35e8.txt",
    "url": "https://www.energyknights.be/website/getHistoricalTariffchart/par/2026-01/essentiaonlinegreen/nl",
    "variant": "layout"

@@ -1,17 +1,19 @@
 {
- "_cached_at": "2026-10-08T12:15:41.139372+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-08",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "pdf": "907ae28339ea5a35531e6616810964b54c19d447961a18385432c341bb4e70b1",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/59b05a8adf50efcdeb7ca5786e5a1fd72125b1001c536d8408e3e03353018a21.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_MYDRIVE_ELECTRICITY_BXL_FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "de20ea868e5c4521736494bfd6115bd643ad5d0db82d8df4b70870f2f7c759ca",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/81374a17fd2dc1300562f72fb40b164434a56f9290fd003a77bed584e6dfc86b.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYDRIVE_ELECTRICITY_BXL_FR.pdf",
    "variant": "layout"

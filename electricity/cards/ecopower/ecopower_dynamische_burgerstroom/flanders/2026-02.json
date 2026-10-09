@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "693a9aef8ce238a33ae7cca9716fddbbce2402618d217ba21da1106b1031dbc3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/7c1770711a420e0c3c5066ee2e16c52e317ab970afca742f571421708226b610.txt",
    "url": "https://cdn.nimbu.io/s/4tn7vz5/channelentries/kj1so6k/files/176734829989/202601_dbs_tariefkaart.pdf?74tduqb=&dl=1",
    "variant": "layout"

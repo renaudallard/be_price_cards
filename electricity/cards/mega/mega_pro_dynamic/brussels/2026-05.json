@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "c60d0f4e097ae4d7ff5f2630398115af78218ad0a3a0a9fa73fec25a6f15620f",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/ea1ae14a4b82af80df7aead3d0d69b1730db0310ff44b2076c9140baa3677bc5.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-052026-Dynamic0105.pdf",
    "variant": "plain"

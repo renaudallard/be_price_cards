@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "79463d9d86cb25f7bd25b40186b31fcb0fedca7dfeed2ac672f3fb67a80f3b68",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-09/061aee17a852b6cb4af04fb5c6a2c514305e9eeb13c50cc044c8cb39c988d3c4.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-072026-Smart0107-Fixed.pdf",
    "variant": "plain"

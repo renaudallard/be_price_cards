@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-10-05T21:55:31.492723+00:00",
+ "_cached_at": "2026-10-09T12:06:43.318652+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-05",
+ "_seen_on": "2026-10-09",
  "_sources": [
   {
    "text": "texts/2026-10/0831a24d138131e2a72794251a27e6827c320c1a0a4e018f4d91652eb68ff443.txt",
@@ -11,6 +11,7 @@
   },
   {
    "pdf": "8f694de4b880644ff19ab76d5d15fc8fb91a9b847a93aabdfddc9652c5758c1a",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/fa46d0661f2f2e712430f0e527fd7c0b18012f10e70e3232cba99333165225dc.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1026-GSDYN-nl.pdf",
    "variant": "layout"
