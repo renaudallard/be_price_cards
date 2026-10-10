@@ -1,19 +1,19 @@
 {
- "_cached_at": "2026-10-09T12:06:43.318652+00:00",
+ "_cached_at": "2026-10-10T11:23:15.527492+00:00",
  "_probe_key": null,
  "_schema_version": 77,
- "_seen_on": "2026-10-09",
+ "_seen_on": "2026-10-10",
  "_sources": [
   {
-   "text": "texts/2026-10/dbdc6b1e26c533269afa2ecd4ef2234446fa45029247b979d003524200ed2955.txt",
+   "text": "texts/2026-10/d9aa2d3d9ce8cc39e4e74ff9af2ce12c27d9978fb825e0172aebcebcdb601bfe.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
-   "pdf": "fefc82904a9ed1a5c1ec0c021005bbd3b28b35e7c52c83277156bff91f9a1430",
+   "pdf": "85f3070a97fb162cadac3698c72d593fc890dcf29f4a115c1e76f8e777c22b38",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
-   "text": "texts/2026-10/fef8b2877ef2d09a4903d73f09eb53c7e935d39a8f61520d68c55511eb2c2ffe.txt",
-   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-102026-Cosy0110-Fixed.pdf",
+   "text": "texts/2026-10/39eb0fb0b0ce39c87730cbe0bd07eb0d7f0825def0472ccfcfa10fc204dfe41e.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-102026-Cosy1010-Fixed.pdf",
    "variant": "plain"
   }
  ],
@@ -79,7 +79,7 @@
   "vat_applies": false
  },
  "publication_label": "octobre 2026",
- "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-102026-Cosy0110-Fixed.pdf",
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-102026-Cosy1010-Fixed.pdf",
  "supplier": "mega",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
@@ -100,11 +100,11 @@
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
- "welcome_credit_eur": 145.0,
- "welcome_credit_eur_per_kwh": 0.014839999999999999,
+ "welcome_credit_eur": null,
+ "welcome_credit_eur_per_kwh": null,
  "welcome_credit_excludes_night_meter": false,
  "welcome_credit_injection_eur_per_kwh": 0.0053,
- "welcome_credit_kind": "pro_rata",
+ "welcome_credit_kind": "anniversary",
  "welcome_credit_kwh": null,
  "welcome_credit_kwh_rate": null,
  "welcome_credit_pct_of_energy": null,

@@ -38,14 +38,13 @@ Le produit Cosy comprend un service dédié en ligne ou par
 téléphone chez Mega.
 - 
 En souscrivant au produit Cosy Fixed, vous bénéficiez d'une
-ristourne (*) comprenant un avantage de 1.484 c€/kWh (TVA de 6
-% incluse) sur le prix unitaire de l'énergie consommée mentionné
-sur cette carte tarifaire et d'une réduction (*) de 145 € (TVA de 6 %
-incluse) sur la redevance fixe mentionnée sur cette carte tarifaire.
-Si vous injectez de l'énergie dans le cadre du régime de
-commercialisation contrainte, vous pouvez également bénéficier
-d'un bonus (**) de 0.53 c€/kWh (TVA de 6 % incluse) sur le prix
-unitaire de l'énergie injectée mentionné sur cette carte tarifaire.
+ristourne (*) de 275 € (TVA de 6 % incluse) sur la redevance fixe
+mentionnée sur cette carte tarifaire. Si vous injectez de l'énergie
+dans le cadre du régime de commercialisation contrainte, vous
+pouvez également bénéficier d'un bonus (**) de 0.53 c€/kWh
+(TVA de 6 % incluse) sur le prix 
+unitaire de l'énergie injectée
+mentionné sur cette carte tarifaire.
 Cosy Green Fixed
 Client résidentiel - Flandre
 Votre contrat de fourniture d'électricité 100% verte à durée déterminée de 2 ans comprend les présentes conditions tarifaires
@@ -86,9 +85,8 @@ Si vous disposez d'un compteur bihoraire, votre consommation de jour et de nuit 
 nuit : Heures pleines (tarif jour) : du lundi au vendredi de 07h à 22h ; Heures creuses (tarif nuit) : du lundi au vendredi de 22h à 07h et du vendredi 22h au
 lundi 07h.
 - Le prix de l'électricité fixe, est fixe pour la durée du prix garanti selon vos conditions contractuelles. Ce prix est garanti pour une durée de deux ans.
-(*) Cette ristourne est accordée dès la première facture d'acompte durant la première année du contrat à tout client qui choisit le produit Cosy Fixed.
-La ristourne est calculée sur la base de la consommation indiquée lors de la souscription et est ajustée, si nécessaire, en fonction de la consommation
-réelle du client. La réduction sur la redevance fixe est octroyée au prorata des jours de fourniture d'énergie.
+(*) Cette ristourne est accordée durant la première année du contrat à tout client qui choisit le produit Cosy Fixed. La réduction sur la redevance fixe
+est octroyée dès la première facture d'acompte au prorata des jours de fourniture d'énergie.
 (**) Le bonus est accordé, durant la première année du contrat, dès la première facture d'acompte, à tout client qui choisit le produit Cosy Fixed.
 Coût énergie verte (2)
 Cotisation Verte (c€/kWh)
@@ -114,28 +112,10 @@ la région flamande (telles qu’approuvées par la VREG) : 94,03% verte,
 Prix du 
 mois 10/2026
  - 
-TVA 6% incluse - Publié le 30-09-2026
+TVA 6% incluse - Publié le 09-10-2026
 1
 /
-4
-Power Online SA
- 
-| 
-Rue Natalis, 2 - 4020 Liège 
-| 
-TVA BE0535.615.192 
-| 
-IBAN BE96 3631 2058 6905 
-| 
-info@mega.be 
-| 
-04 268
-20 00
-www.mega.be
- 
-2
-/
-4
+3
 Power Online SA
  
 | 
@@ -333,10 +313,10 @@ https://www.creg.be/fr/cregscan
 Prix du 
 mois 10/2026
  - 
-TVA 6% incluse - Publié le 30-09-2026
-3
+TVA 6% incluse - Publié le 09-10-2026
+2
 /
-4
+3
 Power Online SA
  
 | 
@@ -352,9 +332,9 @@ info@mega.be
 20 00
 www.mega.be
  
-4
+3
 /
-4
+3
 Power Online SA
  
 | 
