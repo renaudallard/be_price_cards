@@ -1,0 +1,32 @@
+22000
+hors TVA TVA 6% comprise
+TARIF SOCIAL MONOHORAIRE
+Composante énergie (€cent /kWh)* 12,134 12,862
+Composante réseau (€cent/kWh) 11,258 11,933
+Total (€cent/kWh) 23,392 24,795
+hors TVA TVA 6% comprise
+TARIF SOCIAL BIHORAIRE
+Jour Composante énergie (€cent/kWh) 12,134 12,862
+Composante réseau (€cent/kWh) 11,258 11,933
+Total (€cent/kWh) 23,392 24,795
+Nuit Composante énergie (€cent/kWh) 10,285 10,903
+Composante réseau (€cent/kWh) 11,258 11,933
+Total (€cent/kWh) 21,543 22,836
+hors TVA TVA 6% comprise
+TARIF SOCIAL EXCLUSIF DE NUIT
+Composante énergie (€cent/kWh) 9,835 10,425
+Composante réseau (€cent/kWh) 8,321 8,820
+Total (€cent/kWh) 18,156 19,245
+* Dans ce tableau, les tarifs sociaux sont exprimés en €cent/kWh, c'est-à-dire en centimes d'euros par kWh. 
+Pour les convertir en euros par kWh, il convient de les diviser par 100. 
+Pour les convertir en euros par MWh, il convient de les multiplier par 10. 
+Ces tarifs ne comprennent pas les éléments suivants : cotisation énergie, accise spéciale, redevance de raccordement 
+(Wallonie) et cotisation fonds énergie (Flandre). 
+Les clients protégés sont exonérés de la cotisation énergie et de la cotisation fonds énergie (Flandre).
+Les tarifs de réseaux de transport et de distribution sont additionnés et repris dans la composante réseau.
+Les données par composante sont uniquement communiquées à titre d'information.
+Il est recommandé de reprendre seulement le tarif total sur la facture du client.
+Electricité
+1er trimestre 2026 (1er janvier 2026 - 31 mars 2026)
+Clients protégés
+Prix social maximal

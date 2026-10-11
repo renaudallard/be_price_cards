@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-09T12:06:43.318652+00:00",
+ "_cached_at": "2026-10-11T11:37:09.856007+00:00",
  "_probe_key": null,
- "_schema_version": 77,
+ "_schema_version": 78,
  "_seen_on": "2026-10-09",
  "_sources": [
   {
@@ -151,8 +151,8 @@
   }
  },
  "energy": {
-  "base": 0.006,
-  "factor": 1.05,
+  "base": 0.00636,
+  "factor": 1.1130000000000002,
   "quarter_hourly": false,
   "yearly_fixed_fee": 85.0
  },

@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-10-09T12:06:43.318652+00:00",
+ "_cached_at": "2026-10-11T11:37:09.856007+00:00",
  "_probe_key": null,
- "_schema_version": 77,
- "_seen_on": "2026-10-09",
+ "_schema_version": 78,
+ "_seen_on": "2026-10-11",
  "_sources": [
   {
    "pdf": "e4317c95fd395a277c24442a36bd905c2ba482f9ca64c10ab023f79cc839ca5b",
@@ -128,6 +128,7 @@
   "peak": 0.2442,
   "rlp_blend": "distinct",
   "rlp_indexed": true,
+  "single_under_impact": true,
   "yearly_fixed_fee": 90.0,
   "yearly_fixed_fee_exclusive_night": null
  },

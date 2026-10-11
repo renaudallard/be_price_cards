@@ -25,5 +25,6 @@ month the archive does not hold.
 - [luminus](coverage/luminus.md): 20 rows, 2025-10 to 2026-10
 - [mega](coverage/mega.md): 61 rows, 2025-10 to 2026-10
 - [octaplus](coverage/octaplus.md): 27 rows, 2025-10 to 2026-10
+- [social](coverage/social.md): 9 rows, 2025-10 to 2026-10
 - [totalenergies](coverage/totalenergies.md): 25 rows, 2026-09 to 2026-10
 - [trevion](coverage/trevion.md): 7 rows, 2026-02 to 2026-10

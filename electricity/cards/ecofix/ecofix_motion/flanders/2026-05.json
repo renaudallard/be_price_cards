@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-09T12:06:43.318652+00:00",
+ "_cached_at": "2026-10-11T11:37:09.856007+00:00",
  "_probe_key": null,
- "_schema_version": 77,
+ "_schema_version": 78,
  "_seen_on": "2026-09-13",
  "_sources": [
   {
@@ -184,7 +184,24 @@
   "energy_contribution": 0.0020417,
   "energy_fund_eur_per_month": 0.0,
   "federal_excise": 0.05032879999999999,
-  "federal_excise_bands": null,
+  "federal_excise_bands": [
+   [
+    3000.0,
+    0.05032879999999999
+   ],
+   [
+    20000.0,
+    0.05032879999999999
+   ],
+   [
+    50000.0,
+    0.048187600000000004
+   ],
+   [
+    1000000.0,
+    0.047466799999999996
+   ]
+  ],
   "flanders_renewables": 0.016,
   "published_vat_rate": 0.0,
   "region_connection_fee": 0.0,
