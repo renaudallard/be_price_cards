@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-14T07:27:24.671542+00:00",
+ "_cached_at": "2026-10-14T09:05:13.516167+00:00",
  "_probe_key": null,
- "_schema_version": 79,
+ "_schema_version": 80,
  "_seen_on": "2026-10-14",
  "_sources": [
   {
@@ -57,10 +57,10 @@
   "current": 0.20950000000000002,
   "exclusive_night": 0.20279999999999998,
   "formula": null,
-  "formula_base": 0.019517999999999997,
-  "formula_base_exclusive_night": 0.02397000000000001,
-  "formula_base_offpeak": 0.014218000000000005,
-  "formula_base_peak": 0.031178,
+  "formula_base": 0.017807999999999994,
+  "formula_base_exclusive_night": 0.022260000000000005,
+  "formula_base_offpeak": 0.012508000000000002,
+  "formula_base_peak": 0.029467999999999998,
   "formula_factor": 1.16388,
   "formula_factor_exclusive_night": 1.0960400000000001,
   "formula_factor_offpeak": 1.04834,
