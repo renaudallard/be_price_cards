@@ -1,17 +1,17 @@
 {
- "_cached_at": "2026-10-11T11:37:09.856007+00:00",
+ "_cached_at": "2026-10-14T07:27:24.671542+00:00",
  "_probe_key": null,
- "_schema_version": 78,
- "_seen_on": "2026-10-09",
+ "_schema_version": 79,
+ "_seen_on": "2026-10-14",
  "_sources": [
   {
-   "text": "texts/2026-10/dbdc6b1e26c533269afa2ecd4ef2234446fa45029247b979d003524200ed2955.txt",
+   "text": "texts/2026-10/b272efd04524924c1f83f4e8d1837a4d7529647dad9dd37a4799cc674efbec30.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
    "pdf": "b02841d6aa2f429f51a97b3bd11a27748ddb91360526071b5c30d84f599749de",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
    "text": "texts/2026-10/fb10d9ce89593b0cbe7842d19ed95fa5377401506f42a11f2e4f7c86a1f22fba.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-102026-Online0110-Fixed.pdf",
    "variant": "plain"

@@ -1,11 +1,12 @@
 {
- "_cached_at": "2026-10-06T06:07:05.161457+00:00",
+ "_cached_at": "2026-10-14T07:27:24.671542+00:00",
  "_probe_key": null,
- "_schema_version": 77,
+ "_schema_version": 79,
  "_seen_on": "2026-10-06",
  "_sources": [
   {
    "pdf": "3339cdfcd9357a83db8f2ebf842642b8c7100a9959c851a8b44c5ed9f1de15f3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
    "text": "texts/2026-10/fcc2ea817bf3eb8ea1519202a3da4982a1187c2e961b313265c0e11f4895eb2f.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0126-GS1800V-nl_4.pdf",
    "variant": "layout"
@@ -209,7 +210,24 @@
   "energy_contribution": 0.0020417,
   "energy_fund_eur_per_month": 0.0,
   "federal_excise": 0.05032879999999999,
-  "federal_excise_bands": null,
+  "federal_excise_bands": [
+   [
+    3000.0,
+    0.05032879999999999
+   ],
+   [
+    20000.0,
+    0.05032879999999999
+   ],
+   [
+    50000.0,
+    0.048187600000000004
+   ],
+   [
+    1000000.0,
+    0.047466799999999996
+   ]
+  ],
   "flanders_renewables": 0.01554,
   "published_vat_rate": 0.0,
   "region_connection_fee": 0.0,

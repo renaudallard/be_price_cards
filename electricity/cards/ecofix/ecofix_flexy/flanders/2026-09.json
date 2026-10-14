@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-10-11T11:37:09.856007+00:00",
+ "_cached_at": "2026-10-14T07:27:24.671542+00:00",
  "_probe_key": null,
- "_schema_version": 78,
+ "_schema_version": 79,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
+   "ocr": "0.4.2+a5c8a17ccad7 pypdfium2==5.14.0 numpy==2.5.4 pdfplumber==0.11.9",
    "pdf": "1429437fe7c97179845b056d41ab929c678534e3ac5e0e3a1f28e2b2717655c2",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
-   "text": "texts/2026-09/0a9998296c276c64ab6a8bb29e539355914bad6b7353997342bd07e6a2eab5cf.txt",
+   "text": "texts/2026-09/aa082a0bde4463d4de0d50ed5f9a29032bbca9d942ca254704cc95515eec9df0.txt",
    "url": "https://portal.ecofixgp.be/docs/prices/current/EL_Ecofix_Flexy_NL.pdf",
    "variant": "layout"
   }
@@ -150,8 +150,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.19039999999999999,
-  "exclusive_night": 0.19039999999999999,
+  "current": 0.1432,
+  "exclusive_night": 0.1432,
   "formula": "(BELPEX-RLP-M * 0,1020) + 1,2000 c€/kWh ex-VAT",
   "formula_base": null,
   "formula_base_exclusive_night": null,
@@ -165,8 +165,8 @@
   "impact_medium": null,
   "impact_pic": null,
   "month_indexed": false,
-  "offpeak": 0.19039999999999999,
-  "peak": 0.19039999999999999,
+  "offpeak": 0.1432,
+  "peak": 0.1432,
   "rlp_blend": "distinct",
   "rlp_indexed": false,
   "yearly_fixed_fee": 60.0,
@@ -178,7 +178,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.085,
+  "current": 0.051100000000000007,
   "factor": 0.8840000000000001,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -195,7 +195,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "2026-10",
+ "publication_label": "2026-09",
  "source_url": "https://portal.ecofixgp.be/docs/prices/current/EL_Ecofix_Flexy_NL.pdf",
  "supplier": "ecofix",
  "supplier_prosumer_eur_per_kva_year": null,
@@ -230,7 +230,7 @@
   "vat_rate": 0.0,
   "wallonia_renewables": 0.0
  },
- "valid_until": "2026-10-31",
+ "valid_until": "2026-09-30",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,

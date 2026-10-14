@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-14T07:27:24.671542+00:00",
  "_probe_key": null,
- "_schema_version": 76,
+ "_schema_version": 79,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -11,8 +11,14 @@
   },
   {
    "pdf": "2a907682e68161dc5ccda3571bb248d92c167a704f4a8777be9ff31299243735",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
    "text": "texts/2026-09/62e88bb7f714725a556990b5564b680c2b12e779eacc948574e61f658b8f2528.txt",
    "url": "https://www.cociter.be/wp-content/uploads/2026/09/RCVar_YMR_Coop-2608-fr.pdf",
+   "variant": "plain"
+  },
+  {
+   "text": "texts/2026-09/3ede802e515ddf89e673287344dd8204bc7ac3115d55ced232cd724a327111cb.txt",
+   "url": "https://www.cociter.be/wp-content/uploads/2026/09/RCVar_YMR_Coop-2609-fr.pdf",
    "variant": "plain"
   }
  ],
@@ -106,8 +112,8 @@
   "ceiling_offpeak": 0.265,
   "ceiling_peak": 0.265,
   "ceiling_single": 0.265,
-  "current": 0.139854,
-  "exclusive_night": 0.128273,
+  "current": 0.1558094,
+  "exclusive_night": 0.14210148,
   "formula": "(0,075 x BELIX + 5) c€/kWh + 6% VAT",
   "formula_base": 0.053000000000000005,
   "formula_base_exclusive_night": 0.053000000000000005,
@@ -120,10 +126,10 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
-  "index_realised": null,
+  "index_realised": 0.12932,
   "month_indexed": true,
-  "offpeak": 0.128273,
-  "peak": 0.15143399999999999,
+  "offpeak": 0.14210148,
+  "peak": 0.16951732000000003,
   "rlp_blend": "distinct",
   "rlp_indexed": false,
   "yearly_fixed_fee": 53.0,

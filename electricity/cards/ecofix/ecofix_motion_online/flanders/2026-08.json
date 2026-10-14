@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-10-11T11:37:09.856007+00:00",
+ "_cached_at": "2026-10-14T07:27:24.671542+00:00",
  "_probe_key": null,
- "_schema_version": 78,
+ "_schema_version": 79,
  "_seen_on": "2026-08-15",
  "_sources": [
   {
+   "ocr": "0.4.2+a5c8a17ccad7 pypdfium2==5.14.0 numpy==2.5.4 pdfplumber==0.11.9",
    "pdf": "12b2f4adeaa94a775d8c27936d6d26e539a3bb3dc7418186bd48279905d891c5",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
-   "text": "texts/2026-08/4403394b010db078b0993ab86bc45f800e47899249aff0647593529e29f4849b.txt",
+   "text": "texts/2026-08/f181cf49c4bc8166b9fe4342f32bd81b0c07dfe14f68a5281ec606ff89ab4472.txt",
    "url": "https://portal.ecofixgp.be/docs/prices/current/EL_Ecofix_Motion_Online_NL.pdf",
    "variant": "layout"
   }
@@ -157,7 +157,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.09179999999999999,
+  "current": 0.09050000000000001,
   "factor": 0.8840000000000001,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -174,7 +174,7 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "2026-09",
+ "publication_label": "2026-08",
  "source_url": "https://portal.ecofixgp.be/docs/prices/current/EL_Ecofix_Motion_Online_NL.pdf",
  "supplier": "ecofix",
  "supplier_prosumer_eur_per_kva_year": null,
@@ -209,7 +209,7 @@
   "vat_rate": 0.0,
   "wallonia_renewables": 0.0
  },
- "valid_until": "2026-09-30",
+ "valid_until": "2026-08-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,

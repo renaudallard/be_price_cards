@@ -1,17 +1,17 @@
 {
- "_cached_at": "2026-10-11T11:37:09.856007+00:00",
+ "_cached_at": "2026-10-14T07:27:24.671542+00:00",
  "_probe_key": null,
- "_schema_version": 78,
- "_seen_on": "2026-10-10",
+ "_schema_version": 79,
+ "_seen_on": "2026-10-14",
  "_sources": [
   {
-   "text": "texts/2026-10/d9aa2d3d9ce8cc39e4e74ff9af2ce12c27d9978fb825e0172aebcebcdb601bfe.txt",
+   "text": "texts/2026-10/b272efd04524924c1f83f4e8d1837a4d7529647dad9dd37a4799cc674efbec30.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
    "pdf": "fc9806466c829a05184678c50f8cf7521408352c33388b8ccec4700674834083",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
    "text": "texts/2026-10/d35aa504ffdb06dd6cec84cec97647cee13689a911be9e177160d3b3de4a658b.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-102026-Cosy1010-Fixed.pdf",
    "variant": "plain"

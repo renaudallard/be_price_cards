@@ -1,17 +1,17 @@
 {
- "_cached_at": "2026-10-11T11:37:09.856007+00:00",
+ "_cached_at": "2026-10-14T07:27:24.671542+00:00",
  "_probe_key": null,
- "_schema_version": 78,
- "_seen_on": "2026-10-11",
+ "_schema_version": 79,
+ "_seen_on": "2026-10-14",
  "_sources": [
   {
-   "text": "texts/2026-10/a0f35bf08d2a201fae34719b36ff98cdce5700386799b6d3a5bd85e01cf71dae.txt",
+   "text": "texts/2026-10/290902b6925f8cb4e6b79e6d31b4c136ecf7c194e13a327378bc2a546a864c8d.txt",
    "url": "https://eneco.be/nl/elektriciteit-gas/tariefkaarten",
    "variant": "text"
   },
   {
    "pdf": "7e8ed1e141a93fb1d0047bbaef08c0865489e2744c6fe61b9ec185e312015f45",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
    "text": "texts/2026-10/ca4e4114e4b8ef457c536631005256f7eec23d70785e58a5d1a00fb2c1665398.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012610_NL_ENECO_POWER_FLEX.pdf",
    "variant": "plain"

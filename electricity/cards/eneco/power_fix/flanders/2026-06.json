@@ -1,13 +1,21 @@
 {
- "_cached_at": "2026-10-04T11:17:50.274366+00:00",
+ "_cached_at": "2026-10-14T07:27:24.671542+00:00",
  "_probe_key": null,
- "_schema_version": 76,
+ "_schema_version": 79,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "b6c13e9858c5c38926bf8830b9b5c60090860a5313a145611b7aaaf5dc16b31c",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
    "text": "texts/2026-09/0795ec6802b516b319ecc50cef4f80edfea7c8cea8705bb6ce7a0e1ea212662a.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012606_NL_ENECO_POWER_FIX.pdf",
+   "variant": "plain"
+  },
+  {
+   "pdf": "fa669e384c5356bbd96c5e039bf7e23cec0fb118ced0b8df888c2466e4640ee6",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "text": "texts/2026-09/1ff39fbb5b0a6810b7a1df956b0f48a1455341850e67b1be21c065f884663207.txt",
+   "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012607_NL_ENECO_POWER_FIX.pdf",
    "variant": "plain"
   }
  ],
@@ -238,7 +246,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0492,
+  "current": 0.066068813,
   "factor": 0.8300000000000001,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -246,6 +254,7 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "0,083 X BELPEX -2,7",
+  "index_realised": 0.1121311,
   "minimum": null,
   "month_indexed": true,
   "offpeak": null,
@@ -265,7 +274,24 @@
   "energy_contribution": 0.002042,
   "energy_fund_eur_per_month": 0.0,
   "federal_excise": 0.050329,
-  "federal_excise_bands": null,
+  "federal_excise_bands": [
+   [
+    3000.0,
+    0.050329
+   ],
+   [
+    20000.0,
+    0.050329
+   ],
+   [
+    50000.0,
+    0.048188
+   ],
+   [
+    1000000.0,
+    0.047466999999999995
+   ]
+  ],
   "flanders_renewables": 0.0151,
   "published_vat_rate": 0.0,
   "region_connection_fee": 0.00075,

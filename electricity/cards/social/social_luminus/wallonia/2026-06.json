@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-11T11:37:09.856007+00:00",
+ "_cached_at": "2026-10-14T07:27:24.671542+00:00",
  "_probe_key": null,
- "_schema_version": 78,
+ "_schema_version": 79,
  "_seen_on": "2026-10-11",
  "_sources": [
   {
@@ -11,14 +11,14 @@
   },
   {
    "pdf": "6d9d8b1f625b318af66386bfb26685d836314246b1bc4ec113b4caa28db94caa",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
    "text": "texts/2026-10/9ac1aff60cc25290656f35e2f72ff9e34b28dd004c592c812285765a70d3e3ca.txt",
    "url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/E-TSS-FR-2026-Q2.pdf",
    "variant": "plain"
   },
   {
    "pdf": "be651d0570b6dbbb4b56503322beb628545b2c82c1ad9b2fe7da662d138e0c70",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
    "text": "texts/2026-10/6e87cd2c37707528cf12371eb91f349162067fa5f34ab079a5293e76edf8bd2b.txt",
    "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p24000000MuG4AAK&date=2026-06&region=Wallonia&inline=true",
    "variant": "plain"
