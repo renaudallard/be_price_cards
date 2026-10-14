@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-13T12:57:47.487484+00:00",
+ "_cached_at": "2026-10-14T06:37:16.966563+00:00",
  "_probe_key": null,
  "_schema_version": 78,
- "_seen_on": "2026-10-13",
+ "_seen_on": "2026-10-14",
  "_sources": [
   {
-   "pdf": "6592c8f94cab251c17cf2a5eb611e2a72ed8193fe8de16b40ba6110b13a5fbb7",
+   "pdf": "cc290864a242ab136fc452d1042506e71234c5b320c9be8a00612672a5b91f02",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=63aa0ad40499513c",
    "text": "texts/2026-10/f63efaaee78502955136a089fc7b28c237b5cf11dd27e2db57043a03d109377f.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=dynamic&energyType=electricity&language=fr&tabValue=Flanders",
