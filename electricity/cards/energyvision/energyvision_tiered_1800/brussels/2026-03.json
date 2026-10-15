@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
+ "_schema_version": 81,
  "_seen_on": "2026-09-23",
  "_sources": [
   {
    "pdf": "060fdfcdbe5edbbdc0aabe4bbafe2de1f02b49a7c07c543190fb3d5350571c75",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-09/39b3d38e5cde708981e99b7f01281c2874be08380077a1ff0431bd01cd9ce2d8.txt",
    "url": "https://www.brusol.be/sites/default/files/2026-02/EV-0326-GS1800V-BXL-nl.pdf",
    "variant": "layout"

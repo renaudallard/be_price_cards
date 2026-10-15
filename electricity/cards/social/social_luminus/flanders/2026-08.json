@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
+ "_schema_version": 81,
  "_seen_on": "2026-10-11",
  "_sources": [
   {
@@ -11,14 +11,14 @@
   },
   {
    "pdf": "37a721887c661de432c247d3a4269d42003b7ab6219014f94b7d696db61c5dc6",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-10/96c720a5fba143dc8816aa5daeb1a1b8c03a0f939054f8218b7a6233820347bb.txt",
    "url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/E-TSS-FR-2026-Q3.pdf",
    "variant": "plain"
   },
   {
    "pdf": "41c5b27991921fae85ff539394cb797aa99f338cbcd853aa7f42ef176f2a8c24",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-10/c596dbea8f75a81765234b3083d94ddf35a48225505a3b034918c38da20bfa03.txt",
    "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p24000000MuG4AAK&date=2026-08&region=Flanders&inline=true",
    "variant": "plain"

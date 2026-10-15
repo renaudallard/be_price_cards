@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
+ "_schema_version": 81,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "dbc06c0a9f22cc32dafcccde9a4d0b3b72e560d57c088e44e19edba62d633cfb",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-09/61ffe9e0c64f6bb8302b1b6591dcb83aefcebd60e4af65904dccdac0e005e242.txt",
    "url": "https://www.cociter.be/wp-content/uploads/2026/09/RCDyn_SM3_Coop-2608-fr.pdf",
    "variant": "plain"

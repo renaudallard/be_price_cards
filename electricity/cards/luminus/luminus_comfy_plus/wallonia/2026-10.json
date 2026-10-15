@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
- "_seen_on": "2026-10-14",
+ "_schema_version": 81,
+ "_seen_on": "2026-10-15",
  "_sources": [
   {
-   "pdf": "b8c2b9691c88f95717321395cb3073c14b5819089107c0e1b338539d907365ec",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "pdf": "c85ff1452a5ed687c73d056e39d376bb73ae9363d41221f139c79fbbf0be6e5a",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-10/18a45be78709a3563e3eee26fb7f5bd4d43ca5e9096b29300fbca55c68b1037c.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy-plus&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"

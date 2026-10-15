@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
+ "_schema_version": 81,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -16,7 +16,7 @@
   },
   {
    "pdf": "e9a752e796b976f475dac493ad8ba99dfa7e9da6522999ba84e3899f6da820da",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-09/1ca96ee3031de48e8ed43cbe5ffddebd8a21d08bdb6cd6f8b82d62b3b4b0f78e.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2026-07 E OCTA+FLUX RE VL FR.pdf",
    "variant": "aligned"

@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
+ "_schema_version": 81,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -11,14 +11,14 @@
   },
   {
    "pdf": "ef99b43874ec983f88d73090d03462864b71bc8b96e5df0f55138e1362c5bac1",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-09/788c31b6ef68b388cce13901349be7824bb983c8cd7d9681f544f35480e20b90.txt",
    "url": "https://trevion.be/tariefkaarten/Tariefkaart-Groene-Stroom-Flex-Particulier-202604.pdf",
    "variant": "layout"
   },
   {
    "pdf": "78dfd55744bbb3efc576dea0b998e1dc0a8478e1e84e195cf8e7a810a82fe421",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-09/2b25d271b36708ae2935166562805f84a961398e8ad9bc78c6cee03bc87051b2.txt",
    "url": "https://trevion.be/tariefkaarten/Tariefkaart-Groene-Stroom-Flex-Particulier-202605-1.pdf",
    "variant": "layout"

@@ -1,19 +1,19 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
+ "_schema_version": 81,
  "_seen_on": "2026-09-29",
  "_sources": [
   {
    "pdf": "34a4011820f05a273f97ab228ae2ac513cdde33cc67095aca4a8607bf19cc596",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-09/f617125a0983a8ad8e8858eae9fc9ea56e0bd8b90c6518837504d98c44f134c0.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-102025-Cosy0110.pdf",
    "variant": "plain"
   },
   {
    "pdf": "883b6885e938f9f1341b35af538cebc5939a99186cb41e8bc4e358fb41e26700",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-09/ed360abc4f452bf368ad19845c6b769cb0f804d9a2283324bf89f17da632b635.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-112025-Cosy0111.pdf",
    "variant": "plain"

@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
+ "_schema_version": 81,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "4de89b5139ac4932b0143c2cf5ef7c843e1a3c0b25d666e455a1f419f6325771",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-09/91fee6358d2c7b6193a4f8a09e2952b2dc7ddd81f6c1f7d124ad95ebdbe16188.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-042026-Dynamic0104.pdf",
    "variant": "plain"

@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
+ "_schema_version": 81,
  "_seen_on": "2026-09-29",
  "_sources": [
   {
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "91a7439ee077666fd7086ea812b40056675f7d634e6a256de403e8d633ff7c40",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-09/f9cd4573ba142d5aaf81c5c479c48f5aa720ed30b3babffb227a7587c60b2d27.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-112025-Dynamic0111.pdf",
    "variant": "plain"

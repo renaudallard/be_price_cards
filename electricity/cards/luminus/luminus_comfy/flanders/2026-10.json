@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
- "_seen_on": "2026-10-14",
+ "_schema_version": 81,
+ "_seen_on": "2026-10-15",
  "_sources": [
   {
-   "pdf": "69d692f8ae235cd8172b4862bd80a9625d81822f1b3930acdc8d105fab14a3a6",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "pdf": "e11eaf05bd70e14cf6c130ce3533b14599981cd9446bfe1a3bea4b7585dc39ab",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-10/a72b1e6a23caaaefd4b1c6007de5fe1e6d8a7f235345257bc31630d686263e88.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy&energyType=electricity&language=fr&tabValue=Flanders",
    "variant": "plain"

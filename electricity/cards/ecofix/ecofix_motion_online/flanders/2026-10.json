@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
- "_seen_on": "2026-10-14",
+ "_schema_version": 81,
+ "_seen_on": "2026-10-15",
  "_sources": [
   {
    "ocr": "0.4.2+a5c8a17ccad7 pypdfium2==5.14.0 numpy==2.5.4 pdfplumber==0.11.9",

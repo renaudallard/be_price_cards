@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
- "_seen_on": "2026-10-14",
+ "_schema_version": 81,
+ "_seen_on": "2026-10-15",
  "_sources": [
   {
    "pdf": "e44641065a8ab96d5b3b5b2e935b395bfaa137f5606c984398fe8ced1892c69a",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-10/47be9a0ad1f818a08775df14d25f523e33411ccc0267de51f324b5d863890219.txt",
    "url": "https://files.octaplus.be/tariffs/E_OCTA_BOOSTFLEX_RE_VL_FR.pdf",
    "variant": "aligned:1.0"

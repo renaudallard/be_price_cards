@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
- "_seen_on": "2026-10-14",
+ "_schema_version": 81,
+ "_seen_on": "2026-10-15",
  "_sources": [
   {
    "text": "texts/2026-10/0831a24d138131e2a72794251a27e6827c320c1a0a4e018f4d91652eb68ff443.txt",
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "efd74f20dade8597b4ee7eaff1244d72ac9915c59f0e6797cafdd6d65bca94ad",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-10/1054ba81f36c766e1af4f8dcbe3dbd7b55d65f056c50f2ab7bd2a08546adb0c2.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1026-GS3JV-nl.pdf",
    "variant": "layout"

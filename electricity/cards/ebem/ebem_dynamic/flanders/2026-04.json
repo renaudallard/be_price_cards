@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
+ "_schema_version": 81,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "21f40617695dc49ae27f68dc34431f668865e41865aabb12bfc28c07e2ae3e5e",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-09/b12a991c46e4b48f46fa3926e528e7fd4ff9f48e642082d6054eb18f25431757.txt",
    "url": "https://www.ebem.be/media/qcgcyipl/ebem_tariefkaart-dynamic-04-2026.pdf",
    "variant": "layout"

@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-14T09:05:13.516167+00:00",
+ "_cached_at": "2026-10-15T06:50:16.068334+00:00",
  "_probe_key": null,
- "_schema_version": 80,
+ "_schema_version": 81,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "003756a04bf42b2292a379a5c12e21eaa2e794356351f1d33bc53413ae686736",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=0ea5b48fbc1ffde3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
    "text": "texts/2026-09/df33548e8a341eeb9a40d582fc756e16021ae3cf2a2f118e7ebb99305ba4194f.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Juni_Tariefkaart_Energie_be_Variabel_EL_Res_a025ffb3cf.pdf",
    "variant": "layout"
