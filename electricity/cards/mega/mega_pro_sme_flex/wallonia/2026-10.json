@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
- "_seen_on": "2026-10-15",
+ "_schema_version": 82,
+ "_seen_on": "2026-10-16",
  "_sources": [
   {
    "pdf": "6a21ff552b141bf853ed93efe586de07832da5457eddc52345cf07714dcc2ed9",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-10/059331006f101d6dfeec4443bef6d1a75e3e52d9790e5e48a4161205cf0aba19.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-102026-SME0110-ND.pdf",
    "variant": "plain"

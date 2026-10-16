@@ -1,19 +1,19 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "fe5acae931fdea0ee2e92fc69149ca96c62b237ae5c30e7556fdb7f01694a662",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-09/f45d46670e0f7b6e0a5c6edd7dd930fc60c2923075bd30e3eb2f0364d5d57d2d.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-042026-Smart0104.pdf",
    "variant": "plain"
   },
   {
    "pdf": "d9da36fabd3fc96b8595bf0725e99240c243d5e619cf1027f2fa20ba6ae32d62",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-09/1539e054959b7ae8efc48065bf0cf7fc12aa2e574cdc5611a2de2d1ad5af2802.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-052026-Smart0105.pdf",
    "variant": "plain"
@@ -123,11 +123,13 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
+  "index_realised": 0.0847228481297882,
   "month_indexed": true,
   "offpeak": 0.1106,
   "peak": 0.1434,
   "rlp_blend": "columns",
   "rlp_indexed": true,
+  "settled_as_stated": true,
   "yearly_fixed_fee": 55.0,
   "yearly_fixed_fee_exclusive_night": null
  },
@@ -145,10 +147,12 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "Epex SPP * 0,85 – 2,2 c€/kWh",
+  "index_realised": 0.028000000000000004,
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,
   "peak": null,
+  "settled_as_stated": true,
   "slot_indexed": false,
   "spp_indexed": true,
   "transition": null,

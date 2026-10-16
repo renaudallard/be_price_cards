@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "827d8dfa78e8009b03ff8bad6b9e86b748ce1ac8df8f88c6faa8b5ef3c866425",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-09/2ada586ddc652b26e634ce8cbf71b90b1962571a6bfc75b5b08796aa1885b367.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYDYNAMIC_ELECTRICITY_WAL_FR.pdf",
    "variant": "layout"

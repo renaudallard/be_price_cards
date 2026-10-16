@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
- "_seen_on": "2026-10-15",
+ "_schema_version": 82,
+ "_seen_on": "2026-10-16",
  "_sources": [
   {
    "pdf": "e1e12fbc4e3d20373d652e9c269c00ab6ba0e1754b5c37c4507a57b1c518a013",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
-   "text": "texts/2026-10/875dd9357295ee9925b6680aa6de7badc0c00fb9bab203af786a5b8cf54ea7a3.txt",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-10/25db44a1db23692bf12f15cb1d4d3a5b95d143670efbcefd9c4d39d879f3dce5.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_DYNAMIC_P_GREY_C_I_12_V_F&monthOffset=0&segment=P&language=F",
    "variant": "plain"
   }

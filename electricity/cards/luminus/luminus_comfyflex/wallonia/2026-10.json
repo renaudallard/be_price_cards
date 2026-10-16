@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
- "_seen_on": "2026-10-15",
+ "_schema_version": 82,
+ "_seen_on": "2026-10-16",
  "_sources": [
   {
    "pdf": "84ea4f8d81b9efd3414c47a47b8a01d11e6ca192d5ab02aa298be7dbe312df41",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
-   "text": "texts/2026-10/d241bebc06efdd66bffc2dcff5111fb5cfd756379493246b200a6423bc82751d.txt",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-10/8a99b36e3d011ddc9362221412339f5b605edb412d60b2c3ae05403ab5b46704.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"
   }

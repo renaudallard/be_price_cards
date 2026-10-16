@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "94ad24650c148c31b54d5722eda92512cf2a12c5b8122c38924abcad59a07b42",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-09/3eb81ce78dce75c9704f6678a1a82da79e5f8421a23dc85d94b519b4a077f45b.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-042026-Zen0104-Fixed.pdf",
    "variant": "plain"

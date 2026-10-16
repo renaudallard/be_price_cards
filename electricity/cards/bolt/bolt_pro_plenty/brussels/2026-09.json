@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "59a3e93ed4d0bf4441a12f655ddf4749a6858f04ae55c3269ca6d6a844d3de5d",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-09/521b4e9a20a091fbc6b3870566af4483c56a0179233035a61a59283137af1e10.txt",
    "url": "https://files.boltenergie.be/pricelists/var/plenty_pro_el_fr_13.pdf",
    "variant": "layout"
@@ -52,8 +52,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.1311,
-  "exclusive_night": 0.12380000000000001,
+  "current": 0.1760172,
+  "exclusive_night": 0.1677274,
   "formula": "Belpex * 1.145 + 0.01645",
   "formula_base": 0.01645,
   "formula_base_exclusive_night": null,
@@ -63,12 +63,13 @@
   "formula_factor_exclusive_night": null,
   "formula_factor_offpeak": null,
   "formula_factor_peak": null,
-  "impact_eco": 0.09155055,
-  "impact_medium": 0.14448389999999997,
-  "impact_pic": 0.17774615,
+  "impact_eco": 0.1337209,
+  "impact_medium": 0.19198995,
+  "impact_pic": 0.22356905,
+  "index_realised": 0.13936,
   "month_indexed": false,
-  "offpeak": 0.12380000000000001,
-  "peak": 0.14,
+  "offpeak": 0.1677274,
+  "peak": 0.1856581,
   "quarter_indexed": true,
   "rlp_blend": "wallonia",
   "rlp_indexed": true,

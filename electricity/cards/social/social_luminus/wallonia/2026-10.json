@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
- "_seen_on": "2026-10-15",
+ "_schema_version": 82,
+ "_seen_on": "2026-10-16",
  "_sources": [
   {
    "text": "texts/2026-10/8c8cd0cef6fc0512be623d1f14ef3ecded02f7cac68fdb51c190ce0f8ffe6938.txt",
@@ -11,14 +11,14 @@
   },
   {
    "pdf": "47a65291a950f7dc108be06d78668dc0754b432d7c55b014ecb859d106ddf659",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-10/7fb06a076418a0fc5e916d193e1891bfe47ff15ecac700bf09eab62466b6f7b2.txt",
    "url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/E-TSS-FR-2026-Q4.pdf",
    "variant": "plain"
   },
   {
    "pdf": "b96c22b88ae6893b3d9a154324456bbed20e23d0ab22bbadb2ee6a0fa64f7177",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-10/59cf937db69039cdfebb1a8e4f8d2d426628e4b9f6f0b382eed761473c195b14.txt",
    "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p24000000MuG4AAK&date=2026-10&region=Wallonia&inline=true",
    "variant": "plain"
@@ -179,7 +179,7 @@
   "vat_rate": 0.0,
   "wallonia_renewables": 0.0
  },
- "valid_until": "2026-12-31",
+ "valid_until": "2026-10-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,

@@ -1,17 +1,17 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
- "_seen_on": "2026-10-15",
+ "_schema_version": 82,
+ "_seen_on": "2026-10-16",
  "_sources": [
   {
-   "text": "texts/2026-10/be1bc34ba636d844527e588de4ecf0ab70eb295b5939a5f7893237fff2b73945.txt",
+   "text": "texts/2026-10/b8130a7a0862950d546c6354d9f976a43add79088531505f537ccb6ed35c02e8.txt",
    "url": "https://www.brusol.be/nl/%C3%A9lectricit%C3%A9-et-gaz/schrijf-je-in-voor-goedkope-stroom-van-brusol",
    "variant": "text"
   },
   {
    "pdf": "b90b90ab35350826f89ab1af41168363f51afd8652abb735e9af10fba86aa182",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-10/488edbf87468da83d40eedcadb7964fa288964af864294eda9f961a2a97dc5d2.txt",
    "url": "https://www.brusol.be/sites/default/files/2026-09/EV-1026-GS1800V-BXL-nl.pdf",
    "variant": "layout"

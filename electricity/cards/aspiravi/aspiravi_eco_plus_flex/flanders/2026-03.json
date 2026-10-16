@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-29",
  "_sources": [
   {
@@ -11,9 +11,16 @@
   },
   {
    "pdf": "2d26acd11ad305c1902deaf6ae7fabe18214578b318427f6731be974b69af538",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
-   "text": "texts/2026-09/19b9a37620d7d40780d6169d6ff5606a16871f04cff7ccc6042f2a952ae3782b.txt",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-09/6598a4777286e426ef31820579b5d4d48114593cb1e6e9d3e9cc09d8a0e7deef.txt",
    "url": "https://aspiravi-energy.be/wp-content/uploads/2026/05/900027_Eco_Plus_flex_huishoudelijk-formule-202603.pdf",
+   "variant": "plain"
+  },
+  {
+   "pdf": "454a041f2f96aaa62fc6cf05fc0c9c5d2cefbf66932bade3a37b1e8494a2c512",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-09/520343e3194d8de39c9885c359838f03b940b45d1c239d1a79d8e416e4a7c343.txt",
+   "url": "https://aspiravi-energy.be/wp-content/uploads/2026/05/900027_Eco_Plus_flex_huishoudelijk-formule-202604.pdf",
    "variant": "plain"
   }
  ],
@@ -155,8 +162,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.12694,
-  "exclusive_night": 0.10878,
+  "current": 0.136133256,
+  "exclusive_night": 0.11638213608000002,
   "formula": "mono (0.116 Belpex +2.0) c€/kWh ex-VAT · peak (0.1335 Belpex +2.0) c€/kWh ex-VAT · off-peak (0.09854 Belpex +2.0) c€/kWh ex-VAT · excl. night (0.09588 Belpex +2.0) c€/kWh ex-VAT",
   "formula_base": 0.02226,
   "formula_base_exclusive_night": 0.02226,
@@ -169,9 +176,10 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
+  "index_realised": 0.09261,
   "month_indexed": true,
-  "offpeak": 0.11118000000000001,
-  "peak": 0.14272,
+  "offpeak": 0.11899336764000003,
+  "peak": 0.153312411,
   "rlp_blend": "distinct",
   "rlp_indexed": false,
   "yearly_fixed_fee": 38.5,
@@ -183,7 +191,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.03959,
+  "current": 0.044827000000000006,
   "factor": 0.7000000000000001,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -191,6 +199,7 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "(0.07 Belpex -2.0) c€/kWh",
+  "index_realised": 0.09261,
   "minimum": null,
   "month_indexed": true,
   "offpeak": null,

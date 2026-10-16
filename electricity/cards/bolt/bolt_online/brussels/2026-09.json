@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "f3aaad01e1c3d5f5449267f391efd14df6611dec46e87efbadc1f44c14520c97",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-09/f65f2f20ddfa5dc5bb648d8b3749aa7c54477b55881858c9d206f322e337f12f.txt",
    "url": "https://files.boltenergie.be/pricelists/var/online_res_el_fr_13.pdf",
    "variant": "layout"
@@ -52,8 +52,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.1418,
-  "exclusive_night": 0.134,
+  "current": 0.19045282880000008,
+  "exclusive_night": 0.18148912960000002,
   "formula": "Belpex * 1.23808 + 0.017914",
   "formula_base": 0.017914,
   "formula_base_exclusive_night": null,
@@ -63,12 +63,13 @@
   "formula_factor_exclusive_night": null,
   "formula_factor_offpeak": null,
   "formula_factor_peak": null,
-  "impact_eco": 0.09911966720000001,
-  "impact_medium": 0.1563561056,
-  "impact_pic": 0.19232232960000004,
+  "impact_eco": 0.1447181536,
+  "impact_medium": 0.2077240448,
+  "impact_pic": 0.24187029120000003,
+  "index_realised": 0.13936000000000004,
   "month_indexed": false,
-  "offpeak": 0.134,
-  "peak": 0.1515,
+  "offpeak": 0.18148912960000002,
+  "peak": 0.20087746239999998,
   "quarter_indexed": true,
   "rlp_blend": "wallonia",
   "rlp_indexed": true,

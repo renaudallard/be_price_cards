@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-29",
  "_sources": [
   {
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "a8cede1e9e71275fe180b1db3e185185c875c8ebd3c2bdee0c17dbe069fd737b",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-09/467d438fd4881bd511570200ce6cfc8427cfb70426a82451cb92b1d4cbf0ef0e.txt",
    "url": "https://www.ebem.be/media/jbhnammn/ebem_tariefkaart-dynamic_12-2025.pdf",
    "variant": "layout"

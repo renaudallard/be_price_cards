@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "0f4b88008da799f8c0c6607a28b4b6203d3fcc164399d041f7e8b535a82d79b1",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-09/61a36e6bab70d78dbb24e84963a1ace80b1bbc6539a2f78e253f4afd0b66a571.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0626-GSVI3-nl.pdf",
    "variant": "layout"

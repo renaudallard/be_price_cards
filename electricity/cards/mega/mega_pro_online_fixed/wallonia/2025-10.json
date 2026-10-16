@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-29",
  "_sources": [
   {
    "pdf": "ff9b2bf722832317378521fe98f5ce5da6b7faa1b7b186eca661eab013725703",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-09/ba488546e468bddfefe071561e694a467cfb2a3a43ea2d9777c5be6457ad613e.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-102025-Online0110-Fixed.pdf",
    "variant": "plain"

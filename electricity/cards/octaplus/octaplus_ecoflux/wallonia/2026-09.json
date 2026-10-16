@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
- "_seen_on": "2026-10-15",
+ "_schema_version": 82,
+ "_seen_on": "2026-10-16",
  "_sources": [
   {
    "pdf": "57e71e33228d3e46dd21da8151f76d79dc8a9b2b0f0a3ea148727350766768b3",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-10/e3afd4500fc3eed4fd0dc658300fb4819c432a6cff296476889279dfb76d3c1f.txt",
    "url": "https://files.octaplus.be/tariffs/E_OCTA_ECOFLUX_RE_WL_FR.pdf",
    "variant": "aligned:1.0"

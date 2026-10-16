@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-23",
  "_sources": [
   {
    "pdf": "cc49647e6a87824ff546fe1c315038982794ef749a7f3c12df1745217042c690",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-09/053545cf8f835fdefb590d6c7072de3a8998e57a6d4c920fef2a878c575f61c0.txt",
    "url": "https://www.brusol.be/sites/default/files/2026-04/EV-0426-GS1800V-BXL-nl.pdf",
    "variant": "layout"
@@ -104,7 +104,7 @@
  "taxes": {
   "brussels_renewables": 0.027370000000000002,
   "card_vat_rate": 0.06,
-  "energy_contribution": 0.0,
+  "energy_contribution": 0.0020417,
   "energy_fund_eur_per_month": 0.0,
   "federal_excise": 0.05032879999999999,
   "federal_excise_bands": [

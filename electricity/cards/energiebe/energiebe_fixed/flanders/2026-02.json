@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "264df583491aae97ef2135e140313255d19eb0bc79c6a20452b89ba44759adad",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-09/30541fe16607965137a6bb2f7f193cb7020026d9262b5a73e5b737d808b4bf9d.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Februari_Tariefkaart_Energie_be_Vast_EL_Res_f8c89ed9f5.pdf",
    "variant": "layout"

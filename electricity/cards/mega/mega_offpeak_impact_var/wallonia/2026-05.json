@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -11,14 +11,14 @@
   },
   {
    "pdf": "afe34c81ef34d2d70c67ee3d1b4046f6ae85419bec1749e372723b78f56b6248",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-09/10cdd207defbc7da2a63ad8d2604679d6a82c498c0e019317d53249cd765ff5c.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-052026-Offpeak-Impact-Var.pdf",
    "variant": "plain"
   },
   {
    "pdf": "23f84d58c4f2e9eb3b9cd925029856c9dc1f741216a8c37c1774624250d603b4",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-09/0eba196581a9cf389296eaf4944d681f2172551afbed2548319162fb16c086c6.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-062026-Offpeak-Impact-Var.pdf",
    "variant": "plain"
@@ -117,6 +117,7 @@
   "eco_base": 0.010069999999999999,
   "eco_factor": 0.903968,
   "formula": "La formule tarifaire est la suivante (HTVA); Tarif ECO : Epex * 0,8528 + 0,95 c€/kWh; Tarif MEDIUM : Epex * 1,1832 + 2,2 c€/kWh; tarif PIC : Epex * 1,4267 + 2,8 c€/kWh",
+  "index_realised": 0.09800952455263565,
   "medium": 0.1463,
   "medium_base": 0.023320000000000004,
   "medium_factor": 1.2541920000000002,
@@ -126,6 +127,7 @@
   "pic_factor": 1.5123020000000003,
   "rlp_blend": "columns",
   "rlp_indexed": true,
+  "settled_as_stated": true,
   "yearly_fixed_fee": 74.2
  },
  "energy_kind": "tou_impact",
@@ -142,10 +144,12 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "Epex SPP * 0,85 – 2,2 c€/kWh",
+  "index_realised": 0.04235294117647059,
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,
   "peak": null,
+  "settled_as_stated": true,
   "slot_indexed": false,
   "spp_indexed": true,
   "transition": null,

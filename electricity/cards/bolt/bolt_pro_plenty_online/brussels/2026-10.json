@@ -1,24 +1,24 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
- "_seen_on": "2026-10-15",
+ "_schema_version": 82,
+ "_seen_on": "2026-10-16",
  "_sources": [
   {
-   "text": "texts/2026-10/6fa5a24da49c9984aee6b5c9551c97dad54b203665fa5de3e0bf85605079d5ef.txt",
+   "text": "texts/2026-10/7663662c5a8e9a5626a7420e4e993bd7e94be5990c969e4f111867e293674348.txt",
    "url": "https://www.boltenergie.be/fr/listes-des-prix",
    "variant": "text"
   },
   {
    "pdf": "e7c454f6cadde948b71d556b7badf202d2e7ecb209c917d45c7c9edee38d2edf",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-10/86e5cfda7dc1a5d4e262bf336a794069e1bd8bba5dcb963f1543c5e1bdb8889c.txt",
    "url": "https://files.boltenergie.be/pricelists/var/plenty_online_pro_el_fr_14.pdf",
    "variant": "layout"
   },
   {
    "pdf": "49096b0b469a969841fcc3e073e1bea4717d0752043cff1d24a2f0f71f7f4aec",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-10/ff23d5b90c503ca72a2d402e959aeaade5b8562d3dc3111323502bd29b9d6fcf.txt",
    "url": "https://files.boltenergie.be/pricelists/var/plenty_online_pro_el_nl_14.pdf",
    "variant": "layout"

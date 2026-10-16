@@ -1,20 +1,20 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "f5571adbe87cd66430930e12905f835e4b17bb2f24ce11f625e153eb544ad87e",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
-   "text": "texts/2026-09/db1da337c2e56f44e220d5e6cff0dec9f20d2f1cc2a8c87b2b49ae1989f79d73.txt",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-09/9925797ec98c531d8fcacbbb808c2180c1bfa08e337c4c789ad7c2d967232d40.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_FLOW_P_GREEN_C_I_24_V_F&monthOffset=6&segment=P&language=F",
    "variant": "plain"
   },
   {
    "pdf": "100bb144d2e6ba6fa23acc7f2466188d86679873a9c52526134f8337c2d01ede",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
-   "text": "texts/2026-09/96266bb6ca45050ff56d5e216797bfeba7a82a46684e11254ca2b4583b3a21e0.txt",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-09/f06f8fb1d97f0d67ace2ee7033f9b60329a20caa8b85b44e52cfa322ef389f74.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_FLOW_P_GREEN_C_I_24_V_F&monthOffset=7&segment=P&language=F",
    "variant": "plain"
   }

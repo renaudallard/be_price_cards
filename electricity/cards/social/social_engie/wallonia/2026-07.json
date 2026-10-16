@@ -1,20 +1,20 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-10-11",
  "_sources": [
   {
    "pdf": "37a721887c661de432c247d3a4269d42003b7ab6219014f94b7d696db61c5dc6",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-10/96c720a5fba143dc8816aa5daeb1a1b8c03a0f939054f8218b7a6233820347bb.txt",
    "url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/E-TSS-FR-2026-Q3.pdf",
    "variant": "plain"
   },
   {
    "pdf": "88ec4db8efed09bed7fab1244b1299c5a6ab5510a5e84d81fdba0ff16da8372d",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
-   "text": "texts/2026-10/28f0344a09134e093c434ed698549f15226803b943588f8f9be1977518c43893.txt",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-10/22b3a343c5312a3045fcadd1a1c097369bfa163978b335044a725e48ad52bd52.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_SOCIAL_R_GREY_C_F_00_W_F&monthOffset=3&segment=R&language=F",
    "variant": "plain"
   }
@@ -173,7 +173,7 @@
   "vat_rate": 0.0,
   "wallonia_renewables": 0.0
  },
- "valid_until": "2026-09-30",
+ "valid_until": "2026-07-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,

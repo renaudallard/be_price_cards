@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "363f4e50b4b87a8cca3b84671c297815c3cd51c9f23b8a594cd4f1812639b6d7",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
-   "text": "texts/2026-09/cbc156b42f1212c36500edf9f9efaba0255a2ffa6a4adcd49532a645cd6ee4ec.txt",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-09/548d628ffe25ad461bd2f39f9e3deef573b576abf0a540dc4f827580c372e247.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=smartflex&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"
   }

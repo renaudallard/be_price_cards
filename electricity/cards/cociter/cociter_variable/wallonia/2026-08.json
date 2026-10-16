@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
@@ -11,13 +11,15 @@
   },
   {
    "pdf": "2a907682e68161dc5ccda3571bb248d92c167a704f4a8777be9ff31299243735",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
-   "text": "texts/2026-09/62e88bb7f714725a556990b5564b680c2b12e779eacc948574e61f658b8f2528.txt",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-09/366067654a0d75d2705de678b961e237044edbd5b8a9b62d82642349762e9890.txt",
    "url": "https://www.cociter.be/wp-content/uploads/2026/09/RCVar_YMR_Coop-2608-fr.pdf",
    "variant": "plain"
   },
   {
-   "text": "texts/2026-09/3ede802e515ddf89e673287344dd8204bc7ac3115d55ced232cd724a327111cb.txt",
+   "pdf": "5fb301c61f19e9aa98ba790829447492a07150e59f677358fd9378576256cdec",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-09/b024ada44c53426e17de5fc08aa0e933e1dfc9386c1f7cab73222bff12893dd7.txt",
    "url": "https://www.cociter.be/wp-content/uploads/2026/09/RCVar_YMR_Coop-2609-fr.pdf",
    "variant": "plain"
   }

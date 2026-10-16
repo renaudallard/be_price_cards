@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-15T06:50:16.068334+00:00",
+ "_cached_at": "2026-10-16T13:52:38.957112+00:00",
  "_probe_key": null,
- "_schema_version": 81,
+ "_schema_version": 82,
  "_seen_on": "2026-10-02",
  "_sources": [
   {
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "f84d90f8cb3a7a7dc7cd5ad1a92472829ca589d33db20a306b26347b9e46590c",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=d4617b4c560ec993",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-10/225d0e50240a95a7515720fd9726822dafd1242f2f3b86667cbe4e0157bd0dc7.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-102025-Cosy0110-Fixed.pdf",
    "variant": "plain"
