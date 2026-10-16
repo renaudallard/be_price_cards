@@ -1,0 +1,70 @@
+Tariefkaart Elektriciteit
+Flex 09.26
+Variabel Onbepaalde duur Versie september 2026 Particulier Prijzen inclusief 6% btw
+Energiekost
+Afname en injectie prijzen
+Vaste vergoeding (€/jaar)(1) 75,00
+Energieprijs
+Maandelijkse prijzen (c€/kWh)
+24h Piek Dal Excl. nacht
+Afname 16,77 16,93 16,60 16,60
+Injectie(2) 5,22 5,22 5,22 -
+Geschatte jaarprijs (c€/kWh)
+24h Piek Dal Excl. nacht
+Afname 16,68 16,84 16,51 16,51
+Injectie(2) 4,57 4,57 4,57 -
+Bijdrage groene stroom (c€/kWh) 1,17
+Bijdrage warmtekrachtkoppeling (c€/kWh) 0,42
+Energiedelen (€/jaar)(3) 75,00
+Forfait zonnepanelen (€/kVA/maand)(4) 4,00
+Afname en injectie formules(5)
+Afname (c€/kWh) Injectie(2) (c€/kWh)
+24h (1,0800 x EPEXDAMREK + 1,850) x 1,06 24h 0,8500 x EPEXDAMSPP - 1,500
+Piek (1,0920 x EPEXDAMREK + 1,850) x 1,06 Piek 0,8500 x EPEXDAMSPP - 1,500
+Dal (1,0680 x EPEXDAMREK + 1,850) x 1,06 Dal 0,8500 x EPEXDAMSPP - 1,500
+Excl. nacht (1,0680 x EPEXDAMREK + 1,850) x 1,06
+De geleverde energie is voor 100% afkomstig van groene stroom
+(1) De vaste vergoeding is een administratieve vergoeding die jaarlijks verschuldigd is aan Elegant, pro rata van de looptijd van de Overeenkomst, behalve indien de Klant de Overeenkomst stopzet binnen de zes maanden na de aanvang van de
+levering onder de Overeenkomst, in welk geval de Klant een vaste vergoeding gelijk aan zes maanden verschuldigd is.
+(2) De injectietarieven zijn vrijgesteld van btw en enkel in Vlaanderen van toepassing indien je voor dit specifieke regime koos bij jouw registratie of indien jouw instalatie binnen dit regime valt. Meer informatie op
+vreg.be/nl/faq/terugleveringscontract.
+(3) De administratieve kost voor energiedelen zal pro rata berekend worden op het aantal dagen dat energiedelen actief is. Het aangegeven bedrag is inclusief 21% btw.
+(4) Dit geldt aleen voor aansluitingspunten met zonnepanelen en een terugdraaiende teler waarbij het compensatieprincipe wordt toegepast. Het aantal kVA komt overeen met het vermogen van jouw omvormer, zoals doorgegeven door jouw
+netbeheerder.
+(5) De elektriciteitsprijs voor afname wordt maandelijks geïndexeerd op basis van het rekenkundig gemiddelde van de quoteringen voor Day Ahead EPEX Spot Belgium, hierna EPEXDAMREK. Voor injectie wordt de elektriciteitsprijs maandelijks
+geïndexeerd op basis van de SPP gewogen quoteringen voor Day Ahead EPEX Spot Belgium, hierna EPEXDAMSPP. De waarden van EPEXDAMREK en EPEXDAMSPP van de lopende maand zal pas gekend zijn aan het einde van de maand.
+De aangegeven prijzen zijn gebaseerd op de laatst gekende waarde, namelijk de waarde van augustus 2026. Deze bedroeg 12,932 c€/kWh voor afname en 7,911 c€/kWh voor injectie. De geschatte jaarprijs bedraagt 12,855 c€/kWh voor afname
+en 7,136 c€/kWh voor injectie volgens de VREG methodologie. Deze vermelde prijzen zijn exclusief btw. Meer informatie en de waarden van deze parameters kan je terugvinden op elegant.be/indexatie.
+Elegant BV | Kleine Nieuwedijkstraat 53/2 – 2800 Mechelen | RPR Antwerpen afdeling Mechelen | BTW BE 0899.305.113 | www.elegant.be | tel 015 48 11 30
+KBC Bank – BE93 7340 3335 4467 – BIC KRED BE BB | De algemene voorwaarden vindt u op elegant.be/av
+Nettarieven
+Transport- en distributiekosten
+Digitale meter Analoge meter
+Capaciteits Afnametarief Afnametarief Capaciteits Afnametarief Afnametarief Prosumenten
+tarief 24u, piek, dal ex. nacht tarief 24u, piek, dal ex. nacht tarief
+(€/kW/jaar) (c€/kWh) (c€/kWh) (€/kW/jaar) (c€/kWh) (c€/kWh) (€/kW/jaar)
+Fluvius Antwerpen 52,37 5,35 4,81 130,92 8,09 7,55 54,63
+Fluvius Halle-Vilvoorde 59,41 5,64 5,12 148,52 9,28 8,76 62,66
+Fluvius Imewo 57,45 5,54 5,01 143,63 8,90 8,37 60,12
+Fluvius Kempen 59,58 6,34 5,66 148,95 10,03 9,36 67,79
+Fluvius Limburg 51,99 5,75 5,19 129,98 9,23 8,67 62,38
+Fluvius Midden-Vl. 53,13 5,28 4,78 132,83 8,77 8,27 59,23
+Fluvius West 60,53 6,70 5,99 151,32 10,30 9,60 69,59
+Fluvius Zenne-Dijle 59,49 5,87 5,32 148,73 9,70 9,14 65,51
+Tarief databeheer 18,92 €/jaar
+Taksen en heffingen
+Energiebijdrage 0,00000 c€/kWh
+Federale Accijns Verbruik 0 - 3000 kWh 4,876 c€/kWh
+Verbruik 3000 - 20000 kWh 4,876 c€/kWh
+Verbruik 20000 - 50000 kWh 4,876 c€/kWh
+Bijdrage energiefonds Residentiëel 0,00 €/maand
+Niet-residentiëel 10,07 €/maand
+(1) Het Contract, de Tariefkaart, de Algemene Voorwaarden voor levering van Energie door Elegant (zie elegant.be/av) en deze Bijzondere Voorwaarden vormen de voledige Overeenkomst waaronder Elegant je energie levert.
+(2) De prijzen zijn van toepassing op laagspanningsaansluitingen voor elektriciteit (maximaal jaarlijks verbruik 50 MWh – aansluitvermogen < 56 kVA).
+(3) De levering start bij voorkeur op de datum die de Klant aangegeven heeft bij inschrijving, maar gaat definitief van start op de datum die door de netbeheerder wordt aanvaard en ingeschreven in het toegangsregister. Elegant is niet
+verantwoordelijk voor eventueel opbrengstverlies door een ongunstige overstapdatum bij eigenaars van zonnepanelen.
+(4) Elegant kan met inachtneming van een aankondigingstermijn van 2 maanden de indexatiemethode en de bijbehorende componenten veranderen als er inhoudelijke veranderingen van de betrokken indexen en componenten zijn, deze niet
+langer beschikbaar zijn, deze niet langer representatief zijn voor de economische waarde van de geleverde elektriciteit of er veranderingen zijn van reglementering ter zake of afschaffing hiervan.
+(5) Als je recht hebt op het sociale tarief, vind je meer informatie over het bedrag en het sociaal tarief zelf op de website van de CREG (creg.be).
+Elegant BV | Kleine Nieuwedijkstraat 53/2 – 2800 Mechelen | RPR Antwerpen afdeling Mechelen | BTW BE 0899.305.113 | www.elegant.be | tel 015 48 11 30
+KBC Bank – BE93 7340 3335 4467 – BIC KRED BE BB | De algemene voorwaarden vindt u op elegant.be/av

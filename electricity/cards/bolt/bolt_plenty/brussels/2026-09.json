@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-10-16T13:52:38.957112+00:00",
+ "_cached_at": "2026-10-16T16:23:07.145655+00:00",
  "_probe_key": null,
  "_schema_version": 82,
  "_seen_on": "2026-09-28",
@@ -66,7 +66,7 @@
   "impact_eco": 0.1447181536,
   "impact_medium": 0.2077240448,
   "impact_pic": 0.24187029120000003,
-  "index_realised": 0.13936000000000004,
+  "index_realised": 0.13936000000000007,
   "month_indexed": false,
   "offpeak": 0.18148912960000002,
   "peak": 0.20087746239999998,
