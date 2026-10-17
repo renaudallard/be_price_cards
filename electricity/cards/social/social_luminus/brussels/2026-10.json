@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-10-16T13:52:38.957112+00:00",
+ "_cached_at": "2026-10-17T09:41:33.663185+00:00",
  "_probe_key": null,
  "_schema_version": 82,
- "_seen_on": "2026-10-16",
+ "_seen_on": "2026-10-17",
  "_sources": [
   {
    "text": "texts/2026-10/62dec49fd44cd7b974d1a47518f2ab5d21bc24e388aefb290c51f7e4080d3921.txt",
@@ -17,7 +17,7 @@
    "variant": "plain"
   },
   {
-   "pdf": "415747dab1d14f1937f24243d3ad25a01636db8995cf4d544f4d443d2a4a66b3",
+   "pdf": "a4d74e6aa10a189f414b16973f25c1072ef1bcacfe67b3f3ac007d6337c687dc",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-10/09c4d20a2413b771be541ddccbd2aacadb0fbf98af59fa25e50b2574c3d5abd3.txt",
    "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p24000000MuG4AAK&date=2026-10&region=Brussels&inline=true",
