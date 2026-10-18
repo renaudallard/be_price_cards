@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-16T16:23:07.145655+00:00",
+ "_cached_at": "2026-10-18T09:54:56.200358+00:00",
  "_probe_key": null,
- "_schema_version": 82,
+ "_schema_version": 83,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
@@ -82,7 +82,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.034,
+  "current": 0.033977999999999994,
   "factor": 0.94,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -92,10 +92,11 @@
   "formula": "Belpex * 0,94 - 11,33",
   "minimum": null,
   "month_indexed": false,
-  "offpeak": null,
-  "peak": null,
+  "offpeak": -0.004261200000000001,
+  "peak": 0.0495162,
   "slot_indexed": true,
   "spp_indexed": false,
+  "spp_redistributed": true,
   "transition": null,
   "vat_applies": false
  },

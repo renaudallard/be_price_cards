@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-16T13:52:38.957112+00:00",
+ "_cached_at": "2026-10-18T09:54:56.200358+00:00",
  "_probe_key": null,
- "_schema_version": 82,
- "_seen_on": "2026-10-16",
+ "_schema_version": 83,
+ "_seen_on": "2026-10-18",
  "_sources": [
   {
-   "text": "texts/2026-10/7663662c5a8e9a5626a7420e4e993bd7e94be5990c969e4f111867e293674348.txt",
+   "text": "texts/2026-10/718ec6f8814284456e8d6b20bdd87025d7c5581f7d1a507efa001d6db4450b39.txt",
    "url": "https://www.boltenergie.be/fr/listes-des-prix",
    "variant": "text"
   },
@@ -136,7 +136,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0621,
+  "current": 0.0620746,
   "factor": 0.94,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -150,6 +150,7 @@
   "peak": null,
   "slot_indexed": true,
   "spp_indexed": false,
+  "spp_redistributed": true,
   "transition": null,
   "vat_applies": true
  },
