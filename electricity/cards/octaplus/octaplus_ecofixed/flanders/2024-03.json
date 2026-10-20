@@ -1,0 +1,158 @@
+{
+ "_cached_at": "2026-10-20T07:01:39.446450+00:00",
+ "_probe_key": null,
+ "_schema_version": 83,
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "text": "texts/2026-10/144c81f654d8b414965a7d958473a77970f87ff28a8c8ac9de447d9f6abc7fb0.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTarifArchive?Lang=FR&Region=VL&AnneeMois=202403&Nrj=E&Canal=website&TypeContrat=RE",
+   "variant": "text"
+  },
+  {
+   "text": "texts/2026-10/d03bd62c309cec90e29cc55da6ed3d2b4631aa1c503a9a8e517e107681851e40.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2024-03+E+OCTA%2BECOFIXED+RE+VL+FR.pdf",
+   "variant": "text"
+  },
+  {
+   "pdf": "16a3f0202dd3f37e746543bc8696ae32c869b729cd87a149e2f073a7179317f4",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-10/4b78a1673db3ea2819a2db9311e233e5c6a3564215735222f053a93932e66a09.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2024-03 E OCTA+ECOFIXED RE VL FR.pdf",
+   "variant": "aligned"
+  }
+ ],
+ "_via": "archive",
+ "contract": "octaplus_ecofixed",
+ "direct_debit_discount_eur": null,
+ "dsos": {
+  "fluvius_antwerpen": {
+   "brussels_osp_by_tier": null,
+   "brussels_power_term_above_13kva": null,
+   "capacity_eur_per_kw_year": 40.24,
+   "data_management_per_year": 15.14,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0341,
+   "distribution_medium": null,
+   "distribution_offpeak": null,
+   "distribution_peak": null,
+   "distribution_pic": null,
+   "distribution_single": 0.045899999999999996,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": 45.85,
+   "transport": 0.0
+  },
+  "fluvius_limburg": {
+   "brussels_osp_by_tier": null,
+   "brussels_power_term_above_13kva": null,
+   "capacity_eur_per_kw_year": 41.31,
+   "data_management_per_year": 15.14,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0403,
+   "distribution_medium": null,
+   "distribution_offpeak": null,
+   "distribution_peak": null,
+   "distribution_pic": null,
+   "distribution_single": 0.053899999999999997,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": null,
+   "transport": 0.0
+  },
+  "fluvius_west": {
+   "brussels_osp_by_tier": null,
+   "brussels_power_term_above_13kva": null,
+   "capacity_eur_per_kw_year": 44.31,
+   "data_management_per_year": 15.14,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0364,
+   "distribution_medium": null,
+   "distribution_offpeak": null,
+   "distribution_peak": null,
+   "distribution_pic": null,
+   "distribution_single": 0.0482,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": null,
+   "transport": 0.0
+  }
+ },
+ "energy": {
+  "exclusive_night": 0.136,
+  "offpeak": 0.1336,
+  "peak": 0.1595,
+  "single": 0.1464,
+  "yearly_fixed_fee": 130.0,
+  "yearly_fixed_fee_exclusive_night": null
+ },
+ "energy_kind": "fixed",
+ "injection": {
+  "base": null,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": 0.0365,
+  "factor": null,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": false,
+  "floor_at_zero": false,
+  "formula": null,
+  "minimum": null,
+  "month_indexed": false,
+  "offpeak": null,
+  "peak": null,
+  "slot_indexed": false,
+  "spp_indexed": false,
+  "transition": null,
+  "vat_applies": false
+ },
+ "publication_label": "03/2024",
+ "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2024-03 E OCTA+ECOFIXED RE VL FR.pdf",
+ "supplier": "octaplus",
+ "supplier_prosumer_eur_per_kva_year": 52.92,
+ "taxes": {
+  "brussels_renewables": 0.0,
+  "card_vat_rate": 0.06,
+  "energy_contribution": 0.002042,
+  "energy_fund_eur_per_month": 0.0,
+  "federal_excise": 0.050329,
+  "federal_excise_bands": [
+   [
+    3000.0,
+    0.050329
+   ],
+   [
+    20000.0,
+    0.050329
+   ],
+   [
+    50000.0,
+    0.048188
+   ],
+   [
+    1000000.0,
+    0.047466999999999995
+   ]
+  ],
+  "flanders_renewables": 0.01596,
+  "published_vat_rate": 0.0,
+  "region_connection_fee": 0.0,
+  "region_connection_fee_unavailable": false,
+  "vat_rate": 0.0,
+  "wallonia_renewables": 0.0
+ },
+ "valid_until": "2024-03-31",
+ "welcome_credit_after_months": 12,
+ "welcome_credit_cap_eur": null,
+ "welcome_credit_direct_debit_eur": null,
+ "welcome_credit_eur": null,
+ "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": null,
+ "welcome_credit_kind": "pro_rata",
+ "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
+ "welcome_credit_pct_of_energy": null,
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
+}

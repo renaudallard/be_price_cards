@@ -1,0 +1,109 @@
+{
+ "_cached_at": "2026-10-20T07:01:39.446450+00:00",
+ "_probe_key": null,
+ "_schema_version": 83,
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "text": "texts/2026-10/7ed612b22d690128b7dd1343dcc9386d43e98fa22d41b0bf6111be478c9f867a.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTarifArchive?Lang=FR&Region=WL&AnneeMois=202507&Nrj=E&Canal=website&TypeContrat=RE",
+   "variant": "text"
+  },
+  {
+   "text": "texts/2026-10/deb2598b1d6af61759be5aece5b1dea82c7929ef89155af7262f06650051bee3.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-07+E+OCTA%2BFIXED+RE+WL+FR.pdf",
+   "variant": "text"
+  },
+  {
+   "pdf": "de0f1f89c45b620558e6abc470e16a7f85a0ca0cc227f6dbc6a81a43cc186a3b",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-10/24b38d96284bf9e6fa7dfe75d2450ca74b04736a930a2bc4b7a3f450ab82a610.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-07 E OCTA+FIXED RE WL FR.pdf",
+   "variant": "aligned"
+  }
+ ],
+ "_via": "archive",
+ "contract": "octaplus_fixed",
+ "direct_debit_discount_eur": null,
+ "dsos": {},
+ "energy": {
+  "exclusive_night": 0.1103,
+  "offpeak": 0.1093,
+  "peak": 0.1416,
+  "single": 0.12539999999999998,
+  "yearly_fixed_fee": 65.0,
+  "yearly_fixed_fee_exclusive_night": null
+ },
+ "energy_kind": "fixed",
+ "injection": {
+  "base": -0.03401,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": 0.0192,
+  "factor": 0.908,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": false,
+  "floor_at_zero": false,
+  "formula": "Belpex SPP * 0,908 – 34,01",
+  "minimum": null,
+  "month_indexed": false,
+  "offpeak": null,
+  "peak": null,
+  "slot_indexed": false,
+  "spp_indexed": true,
+  "transition": null,
+  "vat_applies": false
+ },
+ "publication_label": "07/2025",
+ "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-07 E OCTA+FIXED RE WL FR.pdf",
+ "supplier": "octaplus",
+ "supplier_prosumer_eur_per_kva_year": 89.03999999999999,
+ "taxes": {
+  "brussels_renewables": 0.0,
+  "card_vat_rate": 0.06,
+  "energy_contribution": 0.002042,
+  "energy_fund_eur_per_month": 0.0,
+  "federal_excise": 0.050329,
+  "federal_excise_bands": [
+   [
+    3000.0,
+    0.050329
+   ],
+   [
+    20000.0,
+    0.050329
+   ],
+   [
+    50000.0,
+    0.048188
+   ],
+   [
+    1000000.0,
+    0.047466999999999995
+   ]
+  ],
+  "flanders_renewables": 0.0,
+  "published_vat_rate": 0.0,
+  "region_connection_fee": 0.00075,
+  "region_connection_fee_unavailable": false,
+  "vat_rate": 0.0,
+  "wallonia_renewables": 0.03354
+ },
+ "valid_until": "2025-07-31",
+ "welcome_credit_after_months": 12,
+ "welcome_credit_cap_eur": null,
+ "welcome_credit_direct_debit_eur": null,
+ "welcome_credit_eur": null,
+ "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": null,
+ "welcome_credit_kind": "pro_rata",
+ "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
+ "welcome_credit_pct_of_energy": null,
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
+}

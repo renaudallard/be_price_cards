@@ -1,0 +1,1 @@
+{"Response":{"Ok":"True","TariffSheet":"data:application/pdf;base64,{{card:c0a6af57bd8a78d422e4e10ad166ac4bfa0fb1823f085c37c5a690fd2906b6f0}}"},"Request":{"CustomerNumber":"","ContractNumber":"","EGPdfTarif":"2025-04 E OCTA+ECODYNAMIC RE WL FR.pdf","Canal":"website","RequestedPDF":"2025-04 E OCTA+ECODYNAMIC RE WL FR.pdf"}}

@@ -1,0 +1,96 @@
+Tarif Social
+Prix fixes électricité pour les contrats conclus en Octobre 2023
+Pour les particuliers en Région Wallonne
+Prix, 6% de tva comprise
+(12)
+Composition du prix de votre énergie
+(9)
+Vos avantages
+- Vous profitez d’un prix
+légalement établi 
+ 
+- Le tarif social est accessible
+uniquement pour les clients
+protégés
+Services gratuits
+- Service client 5 étoiles en
+ligne et par téléphone
+- Facture par la poste ou par
+e-mail
+- Réductions chez nos
+partenaires
+Prix d'énergie Fixe - durée indéterminée
+Redevance 
+fixe (1)
+Prix par kWh (€cent/kWh)
+0,00 €/an Type d'usage Normal Bihoraire Heures pleines Bihoraire Heures creuses Exclusif Nuit
+Consommation
+(2)
+21,568 21,878 21,248 20,265
+Injection
+(3)
+6,013 7,070 2,937
+Tarif Social
+Prix fixes électricité pour les contrats conclus en Octobre 2023
+Pour les particuliers en Région Wallonne
+Prix, 6% de tva comprise
+(12)
+Suppléments
+Suppléments (€cent/kWh)
+Redevance raccordement (8) 0,07500
+Accise fédérale     (€cent/kWh) 
+(11)
+Toutes consommations 2,50372
+(1) La redevance fixe n’est imputée que 1 seule fois chez les clients pour
+lesquels le prélèvement et l’injection appartiennent au même pack
+chez ENGIE.
+(2) Le tarif social est calculé par la CREG pour une période de 3 mois
+conformément à l'Arrêté Ministériel du 30 mars 2007. Les tarifs de
+réseaux sont inclus dans le tarif social.
+(3) Le tarif d’injection correspond aux prix auxquels ENGIE achète votre
+électricité produite et injectée sur le réseau conformément aux
+Conditions Contractuelles de votre Contrat. Ce tarif s’applique
+uniquement pour les installations de production décentralisées situées
+en Belgique raccordées en basse tension et disposant d’un compteur
+intelligent ou bidirectionnel. En plus du tarif d’injection, une redevance
+fixe est due et sera facturée sauf si vous êtes déjà client chez ENGIE
+pour la livraison d’électricité, auquel cas vous payez une seule
+redevance fixe du tarif de consommation. Le prix d’injection n’est pas
+soumis à la TVA.
+Le tarif d'injection est indexé mensuellement. Le paramètre
+d’indexation est la moyenne arithmétique des cotations journalières
+Day Ahead EPEX SPOT Belgium (ci-après EPEX DAM) durant le
+mois de fourniture. Les cotations journalières EPEX DAM sont
+exprimées en €/MWh.
+La valeur du EPEX DAM du mois en cours ne sera connue qu'en fin
+de mois. A titre informatif, les prix indiqués sont basés sur la dernière
+valeur du EPEX DAM connue (Septembre 2023 : 94,35 €/MWh). Les
+valeurs historiques du EPEX DAM peuvent être consultées sur
+engie.be
+Pour injection, les formules hors TVA d’application pour Octobre 2023
+: 
+ - Normal = 0,0500 + 0,0632 x EPEX DAM
+- Tarif bihoraire heures pleines = 0,0500 + 0,0744 x EPEX DAM
+- Tarif bihoraire heures creuses = 0,0500 + 0,0306 x EPEX DAM
+(8) Vous ne payez pas de TVA sur ces coûts. 
+(9) Le calcul a été effectué en août 2022 pour un contrat EASY Variable
+sur la base d’une consommation privée de 3 500 kWh/an en Wallonie.
+Prix 6% de tva comprise.
+(10) Vous trouverez plus d’informations sur vos paiements sur
+www.engie.be/fr/support/faq/facture/paiements/. 
+(11) Droit d’accises spécial d’application à partir du 01/07/2023. Il est
+calculé sur base annuelle. 
+(12) La TVA peut être adaptée en fonction des modifications légales.
+Origine de l’électricité fournie dans le cadre de SOCIAL en Région
+Wallonne en 2022: sources d'énergie renouvelables (11,68%),
+cogénération de qualité (0,00%), combustibles fossiles (32,42%),
+nucléaire (55,90%), inconnu (0,00%). 
+Origine de la fourniture totale d’électricité pour Electrabel sa en
+Région Wallonne en 2022 : sources d'énergie renouvelables
+(30,11%), cogénération de qualité (0,00%), combustibles fossiles
+(25,66%), nucléaire (44,24%), inconnu (0,00%).  
+Frais de rappel et de mise en demeure 
+Montants d’application en 2023
+(8) (10)
+Frais de rappel (1er gratuit) 7,50 € (max)
+Mise en demeure 15,00 € (max)

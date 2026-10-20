@@ -1,0 +1,128 @@
+{
+ "_cached_at": "2026-10-20T07:01:39.446450+00:00",
+ "_probe_key": null,
+ "_schema_version": 83,
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "text": "texts/2026-10/cea3049759d415b21c8b803bad1a77501da4662561bac73b40482c4179fce5ec.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTarifArchive?Lang=FR&Region=WL&AnneeMois=202506&Nrj=E&Canal=website&TypeContrat=RE",
+   "variant": "text"
+  },
+  {
+   "text": "texts/2026-10/96966b38cc608f47cee931e29903a85718d8607f1ba81ae3f14cc370532261f0.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-06+E+OCTA%2BSMARTVARIABLE+RE+WL+FR.pdf",
+   "variant": "text"
+  },
+  {
+   "pdf": "8732417df7f7e7765cc8b56feab6cfdd529d64f4717392e5972e7b755ccb3d4c",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-10/65e78bde4425bfd1dd393142e5ee9572a8d91044e3bc1c09c5714f888ab4ac77.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-06 E OCTA+SMARTVARIABLE RE WL FR.pdf",
+   "variant": "aligned"
+  }
+ ],
+ "_via": "archive",
+ "contract": "octaplus_smartvariable",
+ "direct_debit_discount_eur": null,
+ "dsos": {},
+ "energy": {
+  "ceiling_exclusive_night": null,
+  "ceiling_offpeak": null,
+  "ceiling_peak": null,
+  "ceiling_single": null,
+  "current": 0.0877,
+  "exclusive_night": 0.0818,
+  "formula": null,
+  "formula_base": null,
+  "formula_base_exclusive_night": null,
+  "formula_base_offpeak": null,
+  "formula_base_peak": null,
+  "formula_factor": null,
+  "formula_factor_exclusive_night": null,
+  "formula_factor_offpeak": null,
+  "formula_factor_peak": null,
+  "impact_eco": null,
+  "impact_medium": null,
+  "impact_pic": null,
+  "month_indexed": false,
+  "offpeak": 0.0784,
+  "peak": 0.0971,
+  "rlp_blend": "distinct",
+  "rlp_indexed": false,
+  "yearly_fixed_fee": 65.0,
+  "yearly_fixed_fee_exclusive_night": null
+ },
+ "energy_kind": "variable",
+ "injection": {
+  "base": -0.039009999999999996,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": 0.1247,
+  "factor": 0.908,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": false,
+  "floor_at_zero": false,
+  "formula": "Belpex SPP * 0,908 – 39,01",
+  "minimum": null,
+  "month_indexed": false,
+  "offpeak": null,
+  "peak": null,
+  "slot_indexed": false,
+  "spp_indexed": true,
+  "transition": null,
+  "vat_applies": false
+ },
+ "publication_label": "06/2025",
+ "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-06 E OCTA+SMARTVARIABLE RE WL FR.pdf",
+ "supplier": "octaplus",
+ "supplier_prosumer_eur_per_kva_year": 89.03999999999999,
+ "taxes": {
+  "brussels_renewables": 0.0,
+  "card_vat_rate": 0.06,
+  "energy_contribution": 0.002042,
+  "energy_fund_eur_per_month": 0.0,
+  "federal_excise": 0.050329,
+  "federal_excise_bands": [
+   [
+    3000.0,
+    0.050329
+   ],
+   [
+    20000.0,
+    0.050329
+   ],
+   [
+    50000.0,
+    0.048188
+   ],
+   [
+    1000000.0,
+    0.047466999999999995
+   ]
+  ],
+  "flanders_renewables": 0.0,
+  "published_vat_rate": 0.0,
+  "region_connection_fee": 0.00075,
+  "region_connection_fee_unavailable": false,
+  "vat_rate": 0.0,
+  "wallonia_renewables": 0.03354
+ },
+ "valid_until": "2025-06-30",
+ "welcome_credit_after_months": 12,
+ "welcome_credit_cap_eur": null,
+ "welcome_credit_direct_debit_eur": null,
+ "welcome_credit_eur": null,
+ "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": null,
+ "welcome_credit_kind": "pro_rata",
+ "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
+ "welcome_credit_pct_of_energy": null,
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
+}

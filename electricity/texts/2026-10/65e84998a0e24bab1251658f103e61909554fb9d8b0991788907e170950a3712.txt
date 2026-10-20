@@ -1,0 +1,1 @@
+{"Response":{"Ok":"True","TariffSheet":"data:application/pdf;base64,{{card:af9df02430ee5c92cc4db8c4705d6a2bc6af2dfa337fc3d1444122fe5e8e87cd}}"},"Request":{"CustomerNumber":"","ContractNumber":"","EGPdfTarif":"2024-04 E OCTA+FIXED RE WL FR.pdf","Canal":"website","RequestedPDF":"2024-04 E OCTA+FIXED RE WL FR.pdf"}}

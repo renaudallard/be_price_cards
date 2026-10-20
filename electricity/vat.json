@@ -1,5 +1,273 @@
 {
  "residential": {
+  "2023-10": {
+   "rate": 0.06,
+   "suppliers": [
+    "eneco",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2023-11": {
+   "rate": 0.06,
+   "suppliers": [
+    "eneco",
+    "engie",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2023-12": {
+   "rate": 0.06,
+   "suppliers": [
+    "eneco",
+    "engie",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2024-01": {
+   "rate": 0.06,
+   "suppliers": [
+    "eneco",
+    "engie",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2024-02": {
+   "rate": 0.06,
+   "suppliers": [
+    "eneco",
+    "engie",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2024-03": {
+   "rate": 0.06,
+   "suppliers": [
+    "eneco",
+    "engie",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2024-04": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "eneco",
+    "engie",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2024-05": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "eneco",
+    "engie",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2024-06": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "eneco",
+    "engie",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2024-07": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "eneco",
+    "engie",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2024-08": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "eneco",
+    "engie",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2024-09": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "eneco",
+    "engie",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2024-10": {
+   "rate": 0.06,
+   "suppliers": [
+    "eneco",
+    "engie",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2024-11": {
+   "rate": 0.06,
+   "suppliers": [
+    "eneco",
+    "engie",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2024-12": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "eneco",
+    "engie",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2025-01": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "engie",
+    "frank",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2025-02": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "engie",
+    "frank",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2025-03": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "engie",
+    "frank",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2025-04": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "engie",
+    "frank",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2025-05": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "engie",
+    "frank",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2025-06": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "engie",
+    "frank",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2025-07": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "engie",
+    "frank",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2025-08": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "engie",
+    "frank",
+    "octaplus",
+    "social"
+   ]
+  },
+  "2025-09": {
+   "rate": 0.06,
+   "suppliers": [
+    "aspiravi",
+    "ebem",
+    "ecopower",
+    "eneco",
+    "energyknights",
+    "engie",
+    "frank",
+    "luminus",
+    "octaplus",
+    "social"
+   ]
+  },
   "2025-10": {
    "rate": 0.06,
    "suppliers": [

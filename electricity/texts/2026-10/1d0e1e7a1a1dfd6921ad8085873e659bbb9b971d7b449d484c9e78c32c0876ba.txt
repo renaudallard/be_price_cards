@@ -1,0 +1,189 @@
+Eneco Zon & Wind Vast
+Tariefkaart november 2023 van Eneco Belgium nv voor de levering van 
+groene stroom uit zon en wind aan particulieren in België.
+Alle prijzen en tarieven zijn inclusief 6% btw
+Aanbod geldig binnen de grenzen van de beschikbare volumes (³)
+Energieprijs
+VASTE  
+VERGOEDING +
+VERBRUIK 
+(€cent/kWh)
+(€/jaar) Enkelvoudige meter Tweevoudige meter Uitsluitend nachtmeter
+DAG NACHT 
+65,00 22,35 25,09 20,36 20,36
+ENERGIEDELEN
+ADMINISTRATIEVE KOST 65 €/JAAR/EAN
+V.U.: Eneco Belgium nv – Battelsesteenweg 455i – 2800 Mechelen – Tel. 015 25 66 66 – Fax 015 40 41 49 – welcome@eneco.be
+RPR Antwerpen afdeling Mechelen – btw BE 0683.948.879 – eneco.be
+Externe toeslagen en belastingen op geleverde energie
+Aansluitingsvergoeding elektriciteit (Wallonië) (2)
+(€cent/kWh) 0,075
+Bijdrage Energiefonds 
+(Vlaanderen) (2)
+(€/maand)
+Laag­
+spanning
+Midden­
+spanning
+Standaard tarief (domicilieadres) 0,00 181,85
+Standaard tarief (niet 
+gedomicilieerd) 9,54 181,85
+Tarief beschermde afnemer 0,00 0,00
+ODV tax (openbare dienst verplichtingen), alleen voor Brussel
+(€/jaar)
+<= 1,44 kVA 0,00
+> 1,44 kVA en <= 6 kVA 12,08
+> 6 kVA en <= 9,6 kVA 19,33
+> 9 kVA en <= 13 kVA 24,30
+> 13 kVA en <= 18 kVA 36,38
+> 18 kVA en <= 36 kVA 48,46
+> 36 kVA en <= 56 kVA 96,93
+> 56 kVA en <= 100 kVA 157,47
+BELASTINGEN, HEFFINGEN EN TOESLAGEN: 
+ELEKTRICITEIT
+(doorgestort aan de overheid)
+De opgewekte elektriciteit bestaat voor 100% uit groene en Belgische stroom afkomstig uit zonnepanelen en windmolens. Eneco Zon & Wind Vast is een 
+contract van onbepaalde duur waarbij de energieprijs vast is tijdens het eerste jaar. De energieprijs wordt verhoogd met de toepasselijke belastingen, 
+heffingen, toeslagen en alle opgelegde bedragen voor het gebruik van de netten alsook met de bijdrage voor groene energie en/of warmtekrachtkoppeling die 
+Eneco kan of moet aanrekenen. De vermelde bedragen zijn de laatst gekende bedragen. Het verbruik zal steeds aan de op dat ogenblik geldende bedragen 
+worden afgerekend, desgevallend met terugwerkende kracht. Eneco behoudt zich het recht voor deze kosten aan te passen conform de wijzigingen aan het 
+regelgevend kader. De aanpassingen aan deze elementen, waar Eneco niet verantwoordelijk voor is, worden volledig op de klant verhaald (dit kan retroactief 
+gebeuren). De opgegeven prijzen zijn enkel van toepassing voor klanten met huishoudelijk verbruik en met een gemeten jaarlijks elektriciteitsverbruik 
+kleiner dan of gelijk aan 50 MWh en een laagspanningsaansluiting met een aansluitingsvermogen van maximaal 56 kVA. In andere gevallen behoudt Eneco 
+zich het recht voor om je prijs aan te passen. De vaste vergoeding is een jaarlijkse kost per elektriciteitsaansluiting. Deze vaste vergoeding is forfaitair en 
+integraal verschuldigd vanaf levering tenzij de wetgeving beperkingen oplegt of anders bepaalt. In dat geval zal de vaste vergoeding conform de geldige 
+wettelijke bepalingen verschuldigd zijn (en blijven). De vaste vergoeding wordt aangerekend op elke afrekenings- en/of slotfactuur.
+Energiedelen: Indien je kiest voor energiedelen, dien je Eneco en de netbeheerder onmiddellijk te verwittigen. Eneco houdt vervolgens enkel rekening met 
+de aangepaste meetgegevens zoals de netbeheerder deze overmaakt. De administratieve kost voor energiedelen wordt pro rata berekend, gebaseerd op 
+het aantal dagen dat energiedelen actief is.
+(*)  tarief excl capaciteitsterm:  KVA <=13KVA 28,58 €/jaar;  KVA > 13KVA 57,14 €/jaar.
+(**)  SMR1: maandelijks of jaarlijks meetregime.
+(***)  SMR3: meetregime per kwartier.
+(1)  Aanvullend capaciteitstarief voor alle netgebruikers met een productie-installatie met een vermogen van max. 10 kVA bij de services Valorisatie (zie 
+volgende pagina) of Compensatie (wanneer je elektriciteit afneemt van het net telt de meter vooruit, wanneer je injecteert telt de meter terug). In 
+Vlaanderen wordt dit tarief per maand verdeeld volgens de gemiddelde zonneschijnduur.
+(2) Niet aan btw onderworpen
+Tariefkaart versie 012311 voor België. / Geldig van 1 november 2023 t.e.m uiterlijk 30 november 2023. /  
+BC_032_012311_NL_ENECO_POWER_FIX 
+NETTARIEVEN ELEKTRICITEIT: 
+Gebruik van distributie­ en transportnet 
+(doorgestort aan jouw netbeheerder)
+Netbeheerder
+Distributiekosten 
+(€cent/kWh)
+Transport­
+kosten Databeheer Prosumenten­tarief (1)
+Enkelvoudig Dag Nacht Uitsl. nacht (€cent/kWh) (€/jaar) (€/kVA/jaar)
+AIEG 6,17 6,47 4,97 4,37 2,61 23,73 57,38
+AIESH 10,44 10,75 6,94 5,95 2,61 15,80 76,14
+ORES (Brabant Wallon) 8,63 9,17 5,16 4,17 2,61 13,60 69,66
+ORES (Est) 11,46 12,24 6,90 5,52 2,61 13,60 86,32
+ORES (Hainaut électricité) 9,44 9,96 6,15 5,17 2,61 13,60 74,34
+ORES (Luxembourg) 10,40 11,06 6,30 5,08 2,61 13,60 80,26
+ORES (Mouscron) 9,16 9,71 5,75 4,72 2,61 13,60 72,07
+ORES (Namur) 9,99 10,60 6,07 4,95 2,61 13,60 77,27
+ORES (Verviers) 11,37 12,06 7,08 5,80 2,61 13,60 85,04
+REGIE DE WAVRE 11,77 12,42 10,01 10,01 2,61 18,62 77,68
+SIBELGA(*) 7,46 7,46 5,45 5,45 1,17 10,76 -
+TECTEO 9,34 10,37 5,87 5,16 2,61 24,90 67,62
+Netbeheerder
+Afnametarief 
+(€cent/kWh)
+Databeheer 
+(€/jaar)
+Capaciteits­
+tarief
+Capaciteits­
+tarief
+Prosumenten­
+tarief (1)
+Normaal Uitsl. nacht SMR1(**) SMR3(***) (€/kW/jaar) (€/jaar) (€/kVA/jaar)
+DIGITALE METER
+FLUVIUS (GASELWEST) 4,98 3,37 13,39 14,53 48,76 - -
+FLUVIUS ANTWERPEN 3,74 2,60 13,39 14,53 40,03 - -
+FLUVIUS (IMEWO) 4,01 2,83 13,39 14,53 43,51 - -
+FLUVIUS LIMBURG 3,94 2,82 13,39 14,53 37,65 - -
+FLUVIUS WEST 3,82 2,72 13,39 14,53 41,08 - -
+FLUVIUS (INTERGEM) 3,66 2,60 13,39 14,53 39,06 - -
+FLUVIUS (IVEKA) 4,21 2,89 13,39 14,53 45,03 - -
+FLUVIUS (IVERLEK) 3,89 2,78 13,39 14,53 43,67 - -
+FLUVIUS (PBE) 3,65 2,90 13,39 14,53 53,06 - -
+FLUVIUS (SIBELGAS) 4,58 3,23 13,39 14,53 48,12 - -
+ANALOGE METER
+FLUVIUS (GASELWEST) 7,41 5,79 13,39 - - 121,90 50,05
+FLUVIUS ANTWERPEN 5,71 4,57 13,39 - - 100,07 38,56
+FLUVIUS (IMEWO) 6,24 5,05 13,39 - - 108,77 42,12
+FLUVIUS LIMBURG 6,08 4,96 13,39 - - 94,13 41,11
+FLUVIUS WEST 6,11 5,02 13,39 - - 102,70 41,28
+FLUVIUS (INTERGEM) 5,77 4,71 13,39 - - 97,65 38,97
+FLUVIUS (IVEKA) 6,38 5,06 13,39 - - 112,57 43,10
+FLUVIUS (IVERLEK) 6,13 5,02 13,39 - - 109,19 41,38
+FLUVIUS (PBE) 6,47 5,72 13,39 - - 132,65 43,71
+FLUVIUS (SIBELGAS) 6,94 5,59 13,39 - - 120,29 46,87
+BC/0064/112023/NL
+Bijdrage groene stroom en WKK Vlaanderen 
+(€cent/kWh) 2,24
+Bijdrage groene stroom Wallonië 
+(€cent/kWh) 3,01
+Bijdrage groene stroom Brussel 
+(€cent/kWh) 1,73
+Federale Accijns
+(€cent/kWh)
+Bijzondere 
+accijns
+Energie­ 
+bijdrage
+Verbruik tussen 
+0 en 3.000 kWh 5,0329 0,2042
+Verbruik tussen 
+3.000 en 20.000 kWh 5,0329 0,2042
+Verbruik tussen 
+20.000 en 50.000 kWh 4,8188 0,2042
+Verbruik tussen 
+50.000 en 1.000.000 kWh 4,7467 0,2042
+(3) Bijzondere voorwaarden van het aanbod Eneco Zon & Wind Vast
+  Aanbod geldig van 1/november/2023 en uiterlijk tot en met 30/
+november/2023. Door de aanhoudende onzekerheden op de 
+energiemarkt zijn er in november slechts beperkte volumes gas en 
+elektriciteit beschikbaar voor inschrijving op Eneco Zon & Wind Vast-
+contracten. Ondanks zorgvuldige en redelijke planning en inkoop 
+door Eneco is het mogelijk dat bij een onverwacht grote hoeveelheid 
+inschrijvingen de limiet van deze volumes voor het einde van november 
+wordt bereikt. In dat geval behoudt Eneco zich het recht voor om het 
+Eneco Zon & Wind Vast-contract voor de lopende maand niet langer aan 
+te bieden voor inschrijving.
+ Eneco Injection 
+ Tariefkaart november 2023 van Eneco Belgium nv voor de teruglevering 
+van elektriciteit door particulieren in België. 
+ Injectietarieven zijn vrijgesteld van btw 
+ Injectievergoeding 
+ AFNAME EN INJECTIE  /  VALORISATIE 
+ INJECTIE 
+(€cent/kWh) 
+ 
+ 
+Enkelvoudige meter Tweevoudige meter  
+DAG NACHT 
+ 6,66  6,66  6,66 > Geschatte jaarprijs
+ 4,39   4,39   4,39  > Maandprijs 
+ 0,074 X BELPEX -2  0,074 X BELPEX -2  0,074 X BELPEX -2 > Tariefformule 
+ ENERGIEDELEN :  ADMINISTRATIEVE KOST   65 €/JAAR/EAN 
+V.U.: Eneco Belgium nv – Battelsesteenweg 455i – 2800 Mechelen – Tel. 015 25 66 66 – Fax 015 40 41 49 – welcome@eneco.be
+RPR Antwerpen afdeling Mechelen – btw BE 0683.948.879 – eneco.be
+ Eneco Injection is voorbehouden aan klanten die beschikken over een lokale productie-installatie in België met een maximaal vermogen van 10 kVA, een digitale en/of bidirectionele meter en die verbonden zijn 
+met Eneco via een geldige afnameovereenkomst. 
+ Voorwaarden voor de afname zijn terug te vinden op de eerste pagina van dit document. 
+ Eneco Injection is een addendum aan je bestaand contract van onbepaalde duur, waarbij het injectietarief variabel is en maandelijks wordt geïndexeerd op basis van de indexatieparameter Belpex. Meer informatie 
+over deze indexatieparameter vind je op eneco.be/indexatie. De weergegeven prijzen op deze tariefkaart zijn een prijsinschatting; enerzijds de maandprijs berekend op basis van de laatst gekende waarde van 
+Belpex (10/2023: €86,3963/MWh), anderzijds de jaarlijkse geraamde prijs op basis van een inschatting van Belpex (€117,0788/MWh). Eneco kan het indexatiemechanisme en de bijhorende coëffi  ciënten wijzigen 
+op voorwaarde dat de reglementering terzake wordt gewijzigd of afgeschaft, of op voorwaarde dat de betrokken indexen inhoudelijk wijzigen of niet langer representatief zijn voor de economische waarde van de 
+geïnjecteerde elektriciteit of niet langer of op onregelmatige wijze worden gepubliceerd. De vermelde bedragen zijn de laatst gekende bedragen. Het injectievolume zal steeds aan de op dat ogenblik geldende 
+bedragen worden afgerekend, met terugwerkende kracht. Eneco behoudt zich het recht voor deze kosten aan te passen conform de wijzigingen aan het regelgevend kader. De aanpassingen aan deze elementen, 
+waar Eneco niet verantwoordelijk voor is, worden volledig op de klant verhaald (dit kan retroactief gebeuren). De opgegeven prijzen zijn enkel van toepassing voor klanten met huishoudelijk verbruik en met een 
+gemeten jaarlijks elektriciteitsverbruik kleiner dan of gelijk aan 50 MWh en een laagspanningsaansluiting met een aansluitingsvermogen van maximaal 56 kVA. In andere gevallen behoudt Eneco zich het recht 
+voor om je prijs aan te passen.
+"Afname en Injectie": De elektriciteit die je van het net haalt en op het net injecteert worden apart afgerekend. Je krijgt een vergoeding voor de elektriciteit die je injecteert.
+"Valorisatie": Wanneer je elektriciteit afneemt van het net, telt de meter vooruit. Wanneer je injecteert op het net, telt de meter terug. Injecteer je meer dan je verbruikt, dan krijg je hiervoor een extra 
+injectievergoeding. Dit kan zowel bij een bidirectionele- als bij een digitale meter.
+De beschikbare services zijn regiogebonden. 
+ Tariefkaart versie 012311 voor België.  /  Geldig van 1 november 2023 t.e.m 30 november 2023 en enkel van toepassing indien er een afname overeenkomst bestaat. 

@@ -1,0 +1,143 @@
+Tarif : Smart Variable
+Clients résidentiels en Flandre - 11/2023 - Tarifs 6% TVAC
+Votre facture d'énergie
+Votre facture d'électricité se compose de plusieurs parties*:
+Coût de l'énergie OCTA+
+Coûts de Réseaux
+Taxes et surcharges fixées par les pouvoirs publics
+OCTA
+Coûts énergie verte
+TVA
+* Basé sur une consommation moyenne de 3.500 kWh/an d'une famille (ayant un compteur
+monohoraire), et le prix moyen des gestionnaires de réseaux.
+Le coût de l'énergie 100% belge
+(c€/kWh)
+Le coût de l’énergie se compose d’une redevance fixe annuelle et du prix de l’énergie.
+Consommation Injection
+Le prix de l'énergie est indexé mensuellement et suit les prix du marché
+Durée 1 an
+Redevance fixe (€/an) 65,00 Gratuit
+Tarifs
+Prix mensuels Prix estimés Prix mensuels Prix estimés
+Compteur monohoraire 12,09 16,23 5,92 8,73
+Heures pleines 13,43 18,08 5,92 8,73
+Compteur
+bihoraire
+Heures creuses 10,75 14,40 5,92 8,73
+Compteur exclusif nuit 11,23 15,06 - -
+Le tarif d’injection correspond aux prix auxquels OCTA+ achète votre électricité produite et
+Injection
+injectée sur le réseau conformément aux Conditions générales de votre Contrat.
++ 7,95 €/kVA par mois
+Forfait panneaux S’applique uniquement pour des points de raccordement avec une installation photovoltaïque et
+solaires un régime de compensation*. Le nombre de kVA correspond à la puissance de l’onduleur, telle
+que communiquée par votre gestionnaire de réseau.
+Facturation
+Par poste ou digitale via e-mail ou Zoomit.
+Paiement Par domiciliation, virement ou Zoomit.
+Vous choississez votre mode de gestion : dans nos bureaux auprès de notre service clientèle, via
+Service 5 étoiles
+téléphone ou Online (e-mail, site internet, Facebook, Twitter, Whatsapp).
+Option électricité
++ 1,06 (c€/kWh)
+100% verte et 100% Si vous optez pour cette option, vous choisissez non seulement un fournisseur 100% belge mais
+belge aussi de l’électricité qui provient exclusivement de sources d’énergie renouvelables belges.
+Si vous participez à un système de partage d’énergie, que ce soit en tant que producteur ou en
+tant qu’utilisateur d’énergie partagée, nous facturerons la composante « Partage de l’énergie »
+Partage de l'énergie
+de 9 €/mois par EAN. Ce coût administratif permet de couvrir nos coûts supplémentaires
+générés par la complexité de la facturation liée à ce système.
+Pour des raisons de transparence et de clarté, vous voyez dans le tableau ci-dessus une colonne « Prix mensuels » et une colonne « Prix estimés ».
+La colonne « Prix mensuels » contient les derniers prix connus au moment de la publication de cette fiche tarifaire. Etant donné que les prix sont indexés seulement à
+la fin de chaque mois, nous affichons dans cette colonne les prix du mois dernier
+La colonne « Prix estimés » contient les moyennes des prix estimés pour les douze mois à venir. Celles-ci proviennent d’un modèle de calcul du régulateur flamand
+(VREG) et vous permettent de mieux anticiper le montant de votre future facture énergétique.
+OCTA+ Energie s.a.
+Schaarbeeklei 600 1800 Vilvoorde T. 0800/43.002 (appel gratuit) energie@octaplus.be www.octaplus.be 1/2Les tarifs des réseaux
+(c€/kWh)
+Ces surcharges sont intégralement reversées aux gestionnaires de réseaux de distribution et de transport.
+Tarif de prélèvement Tarif gestion de données
+Gestionnaire du réseau Régime de mesure Tarif capacitaire Tarif capacitaire Tarifprosumer
+Total tarif-kWh Régime de mesure
+de distribution Total tarif-kWh mensuel/annuel (€/kW/an) (€/an) (€/kVA/an)
+excl. nuit quart-horaire (€/an)
+(€/an)
+Compteur digital
+Fluvius Antwerpen 3,74 2,60 13,39 14,53 40,03 ---------- ----------
+Fluvius Limburg 3,94 2,82 13,39 14,53 37,65
+Fluvius West 3,82 2,72 13,39 14,53 41,08
+Fluvius (Gaselwest) 4,98 3,37 13,39 14,53 48,76
+Fluvius (Imewo) 4,01 2,83 13,39 14,53 43,51
+Fluvius (Intergem) 3,66 2,60 13,39 14,53 39,06
+Fluvius (Iveka) 4,21 2,89 13,39 14,53 45,03
+Fluvius (Iverlek) 3,89 2,78 13,39 14,53 43,67
+Fluvius (Pbe) 3,65 2,90 13,39 14,53 53,06
+Fluvius (Sibelgas) 4,58 3,23 13,39 14,53 48,12
+Compteur analogique
+Fluvius Antwerpen 5,71 4,57 13,39 - - 100,07 38,56
+Fluvius Limburg 6,08 4,96 13,39 - - 94,13 41,11
+Fluvius West 6,11 5,02 13,39 - - 102,70 41,28
+Fluvius (Gaselwest) 7,41 5,79 13,39 - - 121,90 50,05
+Fluvius (Imewo) 6,24 5,05 13,39 - - 108,77 42,12
+Fluvius (Intergem) 5,77 4,71 13,39 - - 97,65 38,97
+Fluvius (Iveka) 6,38 5,06 13,39 - - 112,57 43,10
+Fluvius (Iverlek) 6,13 5,02 13,39 - - 109,19 41,38
+Fluvius (Pbe) 6,47 5,72 13,39 - - 132,65 43,71
+Fluvius (Sibelgas) 6,94 5,59 13,39 - - 120,29 46,87
+Les surcharges
+(c€/kWh)
+Ces surcharges sont intégralement reversées aux autorités publiques.
+Cotisation Fonds Energie (Région flamande) €/mois Droits d'accise Cotisation sur
+Accise fédérale (c€/kWh)
+spéciaux
+Basse tension : client domicilié 0,00 l'énergie
+Consommation entre 0 & 3.000 kWh 5,0329 0,2042
+Basse tension : client non domicilié 9,54
+Consommation entre 3.000 & 20.000 kWh 5,0329 0,2042
+Moyenne tension 181,85
+Consommation entre 20.000 & 50.000 kWh 4,8188 0,2042
+Haute tension 1.060,83 Consommation entre 50.000 & 1.000.000 kWh 4,7467 0,2042
+Coûts énergie verte
+(c€/kWh)
+Les coûts énergie verte couvrent les dépenses liées à la production d'énergie renouvelable. Ces tarifs sont déterminés et fluctueront
+selon les quotas fixés par les Régions .
+Région flamande
+1,908
+Coûts énergie verte
+0,344
+Coûts cogénération
+Les prix affichés du coût de l'énergie sont d'application pour les points de raccordement résidentiels qui disposent d’un compteur avec relevé mensuel ou annuel et un raccordement basse tension. Ils sont
+valables pour tout contrat signé entre le 01/11/2023 et le 30/11/2023 par un client résidentiel.
+Le prix de l'électricité OCTA+ Smart Variable est indexé mensuellement. Il est basé sur la moyenne pondérée des cotations horaires Day Ahead Belpex Baseload par le profil RLP (publié par Synergrid) durant le
+mois de fourniture. Selon le type de compteur, la formule tarifaire est la suivante avec une valeur Belpex RLP de 90,46€/MWh HTVA: compteur monohoraire : Belpex RLP * 1,15 + 10 ; compteur bihoraire
+heures pleines : Belpex RLP * 1,29 + 10 ; compteur bihoraire heures creuses : Belpex RLP * 1,011 + 10 ; compteur exclusif nuit : Belpex RLP * 1,061 + 10.
+La formule tarifaire est renouvelée chaque année. Deux mois avant la fin de votre année tarifaire, vous pouvez consulter votre nouvelle formule tarifaire sur www.octaplus.be – tarifs et documents.
+Pour un compteur AMR « télé-relevé », le coût de l’énergie sera basé sur les consommations et cotations horaires suivant la formule Belpex * 1,02 + 9,21 €/MWh HTVA avec une redevance de 75 € par an
+HTVA. Si le compteur est lié à une unité de production d’énergie solaire qui est vendue à OCTA+ ou à une autre partie, nous facturerons le coût « Forfait Panneaux solaires » de 1,20 €/kVA par mois, où le
+nombre de kVA correspondra à la puissance de votre unité de production selon votre gestionnaire de réseau.
+La redevance fixe est facturée au prorata du nombre de jours livrés, sauf si le contrat prend fin endéans les 6 premiers mois qui suivent son commencement, auquel cas la redevance est facturée pour une
+période de 6 mois.
+Tous les frais liés à l’utilisation des réseaux, tout comme les taxes, les redevances, les surcharges, sont variables, modifiables et sont intégralement répercutés au client, même rétroactivement. Ces éléments
+du prix sont ceux approuvés par les Régulateurs au moment de l’élaboration de la carte tarifaire pour un compteur à relevé annuel. En cas de contradiction entre les tarifs d'OCTA+ d'une part et ceux des
+Régulateurs d'autre part, ce sont ces derniers qui prévalent.
+Toutes les mentions sur cette carte tarifaire concernent des coûts dont vous nous êtes redevable, sauf les composantes dans la colonne « Injection » que nous déduirons de votre facture (voir conditions ci-
+dessous). Ces composantes de prix ne sont pas soumises à la TVA.
+Par « Injection » nous désignons l’électricité produite et injectée par vos soins au même Point de raccordement qui celui pour lequel vous avez un contrat chez nous pour votre prélèvement d’électricité.
+Nous achetons votre Injection aux conditions suivantes : (a) votre installation est conforme à toutes les dispositions légales et réglementaires applicables, y compris au contrôle RGIE, (b) vous avez signalé
+votre installation auprès du gestionnaire de réseau, (c) votre installation est correctement raccordée conformément au Règlement de raccordement et n’a pas été mise hors service, (d) le réseau est
+disponible et/ou l’accès au réseau est possible et (e) les volumes de votre Injection nous sont correctement alloués par le gestionnaire de réseau.
+Votre tarif d’injection est renouvelé au même moment que le tarif pour votre électricité prélevée. Deux mois avant le renouvellement de votre Contrat, vous pouvez consulter votre nouvelle formule tarifaire
+sur www.octaplus.be – tarifs et documents.
+Les éventuels frais de réseau et surcharges, à majorer le cas échéant de la TVA, vous seront facturés par OCTA+ de manière transparente. Nous pouvons modifier le mécanisme d’indexation et les coefficients y
+correspondants à condition que la réglementation ou le modèle de marché changent ou soient abrogés, ou à condition que les indices concernés changent fondamentalement ou qu’ils ne soient plus
+représentatifs de la valeur économique de l’électricité injectée ou qu’elles ne soient plus publiées (régulièrement). Ces modifications vous seront alors répercutées entièrement et ce, le cas échéant,
+rétroactivement.
+Le volume injecté sera toujours comptabilisé sur base des montants en vigueur aux moments concernés, le cas échéant rétroactivement.
+Le prix de votre injection est indexé mensuellement sur base du paramètre d’indexation de la Belpex. Selon la configuration de votre compteur, la formule tarifaire est la suivante (en €/MWh) : monohoraire :
+Belpex * 0,915 – 19,83 ; bihoraire heures pleines : Belpex * 0,915 – 19,83 ; bihoraire heures creuses : Belpex * 0,915 – 19,83. La valeur de la Belpex du mois en cours ne sera connue qu'en fin de mois. A titre
+informatif, les prix indiqués sur ce document sont basés sur la dernière valeur de la Belpex connue (86,4 €/MWh HTVA). Les valeurs historiques de la Belpex peuvent être consultées sur notre site
+www.octaplus.be > tarifs & docs > Paramètres électricité tarifs variables.
+* Régime de compensation = applicable en Wallonie pour tous les points de raccordement avec panneaux photovoltaïques, quel que soit le type de compteur, et en Flandre pour tous les points de
+raccordement avec panneaux photovoltaïques et un compteur mécanique.
+OCTA+ Energie s.a.
+Schaarbeeklei 600 1800 Vilvoorde T. 0800/43.002 (appel gratuit) energie@octaplus.be www.octaplus.be 2/2

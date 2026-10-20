@@ -10,22 +10,22 @@ captured while it was current; a month marked `(not parsed)` is a card the archi
 holds but no reader could read, so there is no JSON to link; a blank cell is a
 month the archive does not hold.
 
-- [aspiravi](coverage/aspiravi.md): 1 rows, 2025-10 to 2026-10
-- [bolt](coverage/bolt.md): 36 rows, 2025-10 to 2026-10
+- [aspiravi](coverage/aspiravi.md): 1 rows, 2024-04 to 2026-10
+- [bolt](coverage/bolt.md): 36 rows, 2025-01 to 2026-10
 - [cociter](coverage/cociter.md): 3 rows, 2025-10 to 2026-10
-- [ebem](coverage/ebem.md): 3 rows, 2025-10 to 2026-10
+- [ebem](coverage/ebem.md): 3 rows, 2025-01 to 2026-10
 - [ecofix](coverage/ecofix.md): 8 rows, 2026-05 to 2026-10
-- [ecopower](coverage/ecopower.md): 2 rows, 2025-10 to 2026-09
+- [ecopower](coverage/ecopower.md): 2 rows, 2025-01 to 2026-09
 - [elegant](coverage/elegant.md): 3 rows, 2025-11 to 2026-10
-- [eneco](coverage/eneco.md): 10 rows, 2025-10 to 2026-10
+- [eneco](coverage/eneco.md): 10 rows, 2023-10 to 2026-10
 - [energiebe](coverage/energiebe.md): 3 rows, 2025-12 to 2026-10
-- [energyknights](coverage/energyknights.md): 6 rows, 2025-10 to 2026-10
+- [energyknights](coverage/energyknights.md): 8 rows, 2025-01 to 2026-10
 - [energyvision](coverage/energyvision.md): 9 rows, 2025-11 to 2026-10
-- [engie](coverage/engie.md): 53 rows, 2025-10 to 2026-10
-- [frank](coverage/frank.md): 6 rows, 2025-10 to 2026-10
-- [luminus](coverage/luminus.md): 20 rows, 2025-10 to 2026-10
+- [engie](coverage/engie.md): 53 rows, 2023-11 to 2026-10
+- [frank](coverage/frank.md): 6 rows, 2025-01 to 2026-10
+- [luminus](coverage/luminus.md): 20 rows, 2025-09 to 2026-10
 - [mega](coverage/mega.md): 61 rows, 2025-10 to 2026-10
-- [octaplus](coverage/octaplus.md): 27 rows, 2025-10 to 2026-10
-- [social](coverage/social.md): 9 rows, 2025-10 to 2026-10
+- [octaplus](coverage/octaplus.md): 27 rows, 2023-10 to 2026-10
+- [social](coverage/social.md): 9 rows, 2023-10 to 2026-10
 - [totalenergies](coverage/totalenergies.md): 25 rows, 2026-09 to 2026-10
 - [trevion](coverage/trevion.md): 7 rows, 2026-02 to 2026-10

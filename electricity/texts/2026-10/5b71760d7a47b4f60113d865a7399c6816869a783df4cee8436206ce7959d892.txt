@@ -1,0 +1,1 @@
+{"Response":{"Ok":"True","TariffSheet":"data:application/pdf;base64,{{card:a90ca208a5e47c6a823f16def6b9fc5bc9936b6b2af7e90114308e5d75fe1f99}}"},"Request":{"CustomerNumber":"","ContractNumber":"","EGPdfTarif":"2024-01 E OCTA+DYNAMIC RE VL FR.pdf","Canal":"website","RequestedPDF":"2024-01 E OCTA+DYNAMIC RE VL FR.pdf"}}
