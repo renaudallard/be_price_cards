@@ -22,7 +22,7 @@ blank cell is a month the archive does not hold.
 - [frank](coverage/frank.md): 5 rows, 2025-01 to 2026-10
 - [hoa_energy](coverage/hoa_energy.md): 3 rows, 2026-02 to 2026-10
 - [luminus](coverage/luminus.md): 16 rows, 2024-01 to 2026-10
-- [mega](coverage/mega.md): 34 rows, 2026-10 to 2026-10
+- [mega](coverage/mega.md): 34 rows, 2024-02 to 2026-10
 - [octaplus](coverage/octaplus.md): 20 rows, 2026-06 to 2026-10
 - [power2you](coverage/power2you.md): 2 rows, 2026-01 to 2026-10
 - [prijspunten](coverage/prijspunten.md): 1 row, 2026-07 to 2026-10

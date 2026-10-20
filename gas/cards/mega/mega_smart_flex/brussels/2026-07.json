@@ -1,0 +1,82 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "text": "texts/2026-10/69b50fc6c85c857f4d727877a145b4ddea511aa458817889a5ccc9abfead9b27.txt",
+   "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
+   "variant": "text"
+  },
+  {
+   "pdf": "741063c112c4503531dd18a1eda69fa90d2bc316201236199a0a2debe2309531",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/b5c98f443ba6eaefa7995aeb4b6ea98ec5d33dc98d05aff579301a991cc9e4a2.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-072026-Smart0107.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "mega_smart_flex",
+ "dsos": {
+  "sibelga": {
+   "metering": 24.95,
+   "tiers": {
+    "t1": [
+     15.9,
+     0.0199
+    ],
+    "t2": [
+     43.07,
+     0.014499999999999999
+    ],
+    "t3": [
+     1001.55,
+     0.008100000000000001
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.0106,
+  "factor": 0.0011448,
+  "fee": 68.9,
+  "formula": "ZTP x 1,08 + 1 c€/kWh",
+  "index": "ZTP mensuel",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.061500000000000006,
+  "settled": false
+ },
+ "publication_label": "2026-07",
+ "schema": 1,
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-072026-Smart0107.pdf",
+ "supplier": "mega",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087238
+   ],
+   [
+    null,
+    0.0098914
+   ]
+  ],
+  "osp": {
+   "gt160": 970.41,
+   "q100": 522.79,
+   "q10_gt5000": 12.59,
+   "q10_le5000": 3.56,
+   "q16": 30.4,
+   "q160": 671.36,
+   "q25": 75.18,
+   "q40": 150.35,
+   "q65": 376.0
+  },
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-07-31"
+}

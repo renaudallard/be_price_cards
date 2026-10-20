@@ -1,0 +1,84 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "text": "texts/2026-10/69b50fc6c85c857f4d727877a145b4ddea511aa458817889a5ccc9abfead9b27.txt",
+   "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
+   "variant": "text"
+  },
+  {
+   "pdf": "b1a57212df83c7108dfea72e02c37f97f0d1886b6252212414599aa8910c991b",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/8e2e64d723a7820fbd2a7914ca4e411777dae3f07e418c85fffbb81088fbecb0.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-082026-Smart0108-Fixed.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "mega_smart_fixed",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.0429
+    ],
+    "t2": [
+     140.93,
+     0.022099999999999998
+    ],
+    "t3": [
+     889.48,
+     0.016399999999999998
+    ]
+   },
+   "transport": 0.00165
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.0253
+    ],
+    "t3": [
+     962.74,
+     0.022400000000000003
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "fee": 111.3,
+  "kind": "fixed",
+  "price": 0.0751
+ },
+ "publication_label": "2026-08",
+ "schema": 1,
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-082026-Smart0108-Fixed.pdf",
+ "supplier": "mega",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0,
+  "excise": [
+   [
+    12000.0,
+    0.0109286
+   ],
+   [
+    null,
+    0.011829600000000001
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-08-31"
+}

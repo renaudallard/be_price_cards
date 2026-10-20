@@ -1,0 +1,82 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "text": "texts/2026-10/69b50fc6c85c857f4d727877a145b4ddea511aa458817889a5ccc9abfead9b27.txt",
+   "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
+   "variant": "text"
+  },
+  {
+   "pdf": "94b920d53ca1a4b1915148891c653c4537e2692c602109b2b31653b59ed459f1",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/741042cdb7c15e8f98a4a0d95d582c490316a15ff206ba75a471efaf95c26017.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-052025-Prepaid.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "mega_prepaid_flex",
+ "dsos": {
+  "sibelga": {
+   "metering": 24.59,
+   "tiers": {
+    "t1": [
+     12.72,
+     0.0195
+    ],
+    "t2": [
+     42.24,
+     0.013600000000000001
+    ],
+    "t3": [
+     983.94,
+     0.0073
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.0021200000000000004,
+  "factor": 0.0011448,
+  "fee": 42.4,
+  "formula": "ZTP x 1,08 + 0,20 c€/kWh",
+  "index": "ZTP mensuel",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.042,
+  "settled": false
+ },
+ "publication_label": "2025-05",
+ "schema": 1,
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-052025-Prepaid.pdf",
+ "supplier": "mega",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087238
+   ],
+   [
+    null,
+    0.0092502
+   ]
+  ],
+  "osp": {
+   "gt160": 952.09,
+   "q100": 513.0,
+   "q10_gt5000": 12.34,
+   "q10_le5000": 3.56,
+   "q16": 29.89,
+   "q160": 658.77,
+   "q25": 73.78,
+   "q40": 147.55,
+   "q65": 368.88
+  },
+  "vat_rate": 0.0
+ },
+ "valid_until": "2025-05-31"
+}

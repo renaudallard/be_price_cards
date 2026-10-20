@@ -1,0 +1,76 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "text": "texts/2026-10/69b50fc6c85c857f4d727877a145b4ddea511aa458817889a5ccc9abfead9b27.txt",
+   "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
+   "variant": "text"
+  },
+  {
+   "pdf": "b0b917eda10053cc8189d6e8d7c9543e513be1381543b6308bae3f7975d9cad5",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/beb05db4d49061e376e641b50a047245f6dcb682d206d87249a80129c5cbbe4b.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-092024-Smart0109-Fixed.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "mega_smart_fixed",
+ "dsos": {
+  "sibelga": {
+   "metering": 16.38,
+   "tiers": {
+    "t1": [
+     6.36,
+     0.019299999999999998
+    ],
+    "t2": [
+     43.38,
+     0.012
+    ],
+    "t3": [
+     896.0,
+     0.0064
+    ]
+   },
+   "transport": 0.0016200000000000001
+  }
+ },
+ "energy": {
+  "fee": 111.3,
+  "kind": "fixed",
+  "price": 0.06309999999999999
+ },
+ "publication_label": "2024-09",
+ "schema": 1,
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-092024-Smart0109-Fixed.pdf",
+ "supplier": "mega",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087238
+   ],
+   [
+    null,
+    0.0097549
+   ]
+  ],
+  "osp": {
+   "gt160": 918.64,
+   "q100": 494.94,
+   "q10_gt5000": 11.83,
+   "q10_le5000": 3.43,
+   "q16": 28.87,
+   "q160": 635.62,
+   "q25": 71.23,
+   "q40": 142.34,
+   "q65": 355.91
+  },
+  "vat_rate": 0.0
+ },
+ "valid_until": "2024-09-30"
+}
