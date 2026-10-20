@@ -1,0 +1,99 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "text": "texts/2026-10/52bbbf69ba211dff6e7dcd60316247c9f63a7994dbbaaab0ba71d1e1a8a4de27.txt",
+   "url": "https://www.boltenergie.be/fr/listes-des-prix",
+   "variant": "text"
+  },
+  {
+   "pdf": "337dba035c91f6417919eb03eac3f0fdf93aa67c152f1990c872515e9c6b4f6a",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/4189993e350523322d6b07364c7bd231d8cb8c0cd985238fdefcdb59a33c526f.txt",
+   "url": "https://files.boltenergie.be/pricelists/var/plenty_res_ng_fr_11.pdf",
+   "variant": "layout"
+  },
+  {
+   "pdf": "337dba035c91f6417919eb03eac3f0fdf93aa67c152f1990c872515e9c6b4f6a",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/0b11e1bc0736c9384b775e06f2625889c6e97c96101fddcf425252c3ebf6f21b.txt",
+   "url": "https://files.boltenergie.be/pricelists/var/plenty_res_ng_fr_11.pdf",
+   "variant": "plain"
+  },
+  {
+   "pdf": "a6dc752ec982dc141c56eb96da647ca546d76f886430e04a9c61dc873db2d25a",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/fc0d999c81985f6157d3a885d9ff2f61b5b2ef58419841170206c7639af92e10.txt",
+   "url": "https://files.boltenergie.be/pricelists/var/plenty_res_ng_fr_13.pdf",
+   "variant": "plain"
+  },
+  {
+   "pdf": "d2f2ed5a45e302328f760ea6d87c468046c388d6a82bd84ffd555f0a2b02165d",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/baee762a0c4f3cf39534542f0b7e8b4059540ff0d9ec20aa7ffa3713fd597f6b.txt",
+   "url": "https://files.boltenergie.be/pricelists/var/plenty_res_ng_fr_14.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "bolt_plenty_variable",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.04198
+    ],
+    "t2": [
+     140.93,
+     0.021150000000000002
+    ]
+   },
+   "transport": 0.0016539999999999999
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.02259
+    ]
+   },
+   "transport": 0.0016539999999999999
+  }
+ },
+ "energy": {
+  "base": 0.009553780000000001,
+  "factor": 0.001092012,
+  "fee": 71.88,
+  "formula": "TTF * 1,0302 + 9,013",
+  "index": "TTF",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0516,
+  "settled": false
+ },
+ "publication_label": "2026-06",
+ "schema": 1,
+ "source_url": "https://files.boltenergie.be/pricelists/var/plenty_res_ng_fr_11.pdf",
+ "supplier": "bolt",
+ "taxes": {
+  "card_vat_rate": null,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010580000000000001,
+  "excise": [
+   [
+    null,
+    0.008723999999999999
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": null
+}

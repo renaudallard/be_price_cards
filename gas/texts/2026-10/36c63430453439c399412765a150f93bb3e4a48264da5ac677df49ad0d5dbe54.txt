@@ -1,0 +1,333 @@
+ 
+ 
+1. Energiekost 
+Geldig voor particuliere contracten afgesloten in 
+november 2025 – Incl. 6% BTW 
+Contract van onbepaalde duur 
+ 
+ 
+ 
+2. Distributienettarieven 
+ 
+(1) De transportkosten werden aan uw transportbeheerder (Fluxys) overge schreven, op basis van de tarieven die de CREG heeft goedgekeurd en doo r Fluxys 
+gepubliceerd werden. Deze tarieven kunnen door bevoegde autorite iten gewijzigd worden. 
+ 
+Alle kosten verbonden aan het gebruik van de netten, zoals taksen, vergoedingen, bijdragen en toeslagen, blijven variabel, aanpasbaar en volledig doorrekenbaar aan 
+de klant, zelfs retro-actief. Deze prijsonderdelen zijn degene die de Regulatoren hebben goedgekeurd op het moment van opm aak van deze tariefkaart voor een 
+jaarlijks/maandelijks gelezen meter. In het geval dat er een verschil zou zijn tussen de tarieven van Trevion enerzijds en de wettelijke bijdragen en nettarieven anderzijds, 
+zijn het deze laatste die gelden. 
+ 
+Deze prijzen zijn geldig voor particuliere contracten getekend in novemb er 2025 en aangesloten in Vlaanderen met een jaarlijks gemeten fossiel gasverbruik kleiner 
+dan 150MWh. Voor iedere wijziging of elk nieuw element in de kosten  die het gevolg is van een wetgeving of van een bevoegde instantie , behoudt Trevion zich het 
+recht voor om haar prijzen aan te passen. Elk nieuw wettelijk suppleme nt wordt 1 op 1 aan de klant doorgerekend. In het geval dat er een verschil zou zijn tussen de 
+tarieven van Trevion enerzijds en de wettelijke bedragen en nettarieven anderzijds, zijn het deze laatste die gelden. Een contract voor dit product kan enkel via internet 
+worden afgesloten. 
+ 
+Trevion nv | Dulle-Grietlaan 17/17, 9050 Gentbrugge | BTW BE 0839.663.969 I 09/255.70.10 | info@trevion.be | IBAN BE08 001 6 9476 5913 | BIC GEBABEBB 
+3. Globale toeslagen en heffingen  
+De energiekost wordt berekend op basis van de groothandelsprijzen TTF. TTF staat voor “Title Transfer Facility” en is een 
+spotprijs waar dagelijks de gasprijs wordt vastgelegd. Deze prijs is variabel van aard en wor dt elke maand geïndexeerd 
+op basis van de RLP gewogen gemiddelde dagprijs op de TTF Day Ahead market. De laatst gekende waarde is deze van 
+oktober 2025 (32,00 €/MWh). De TTF waarden worden dagelijks gepubliceerd op https://www.powernext.com/spot-
+market-data. Tariefformule fossiel gas: (0,102 x TTF_RLP + 0,50) x 1,06. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Energiekost Variabel (c€/kWh) Abonnementskost (€/jaar) 
+3,99 39 
+Netbeheerder 
+Distributiekosten 
+Transport (1) Databeheer 
+0-5000 kWh/jaar 5001-150000 kWh/jaar 
+Vaste term (c€/kWh) Vaste term (c€/kWh) (c€/kWh) (€/jaar) 
+Fluvius Antwerpen 14,24 2,10 75,60 0,87 0,165 18,56 
+Fuvius Halle-Vilvoorde 15,48 2,24 82,19 0,91 0,165 18,56 
+Fluvius Imewo 17,01 2,45 90,33 0,99 0,165 18,56 
+Fluvius Kempen 14,70 2,12 78,09 0,86 0,165 18,56 
+Fluvius Limburg 13,32 2,09 70,72 0,94 0,165 18,56 
+Fluvius Midden-Vlaanderen 14,65 2,13 77,78 0,87 0,165 18,56 
+Fluvius West 17,15 2,48 91,06 1,00 0,165 18,56 
+Fluvius Zenne-Dijle 16,66 2,39 88,46 0,96 0,165 18,56 
+Bijzondere accijns op Energie (c€/kWh) 
+≤ 12 MWh 
+≥ 12 MWh 
+0,87238 
+0,89577 
+Bijdrage op de Energie (c€/kWh) 0,10577 
+Trevion Gas Flex Particulier 
+ 

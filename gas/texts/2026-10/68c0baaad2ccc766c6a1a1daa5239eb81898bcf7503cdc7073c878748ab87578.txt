@@ -1,0 +1,151 @@
+Luminus MaxxFix Gaz(août 2024) 
+Conditions particulières : (GXFI2C2.0)
+Consommateurs : résidentiels
+Tarif : fixe
+Durée du contrat : 2 ans 
+Valable pour les Consommateurs résidentiels avec une consommation de gaz annuelle < 100 MWh et des raccordements au réseau de gaz naturel basse pression avec relevé 
+annuel. Dans le cas contraire, Luminus se réserve le droit d’adapter votre prix. 
+VOS AVANTAGES :
+Sécurité
+Un prix fixe compétitif pendant 2 
+ans.
+Facilité
+Vous gérez votre compte et vos 
+factures dans My Luminus, votre 
+espace client en ligne.
+Service
+Luminus propose un service 5 étoiles 
+en termes de prestations.
+SERVICES INCLUS :
+Luminus Extras
+Tous vos avantages sur vos marques 
+préférées.
+My Luminus
+Votre espace client pour gérer tous 
+vos services en ligne.
+My Luminus App
+Contrôlez facilement votre 
+consommation d'énergie.
+Plus d'infos sur luminus.be
+TARIFS :
+Composition du prix de l'energie
+1 Énergie fournie par Luminus
+2 Coût de transport de l'énergie
+3 Taxes et redevances
+4 TVA 6%
+1 Prix de l’énergie fournie par Luminus (TVA incl.)1 :
+Prix du jour
+Énergie (c€/kWh) 6,70
+Redevance fixe (€/an) 45,00
+1 Pour plus d’informations, voir ci-dessous : ‘Informations sur votre tarif’. 
+2 Coûts d'utilisation des réseaux :
+Coûts de distribution
+Gestionnaire de réseau Petite consommation
+<= 5.000 kWh
+Variable
+(c€/kWh)
+Fixe
+(€/an)
+Consommation moyenne
+> 5.000 et <= 150.000 kWh
+Variable
+(c€/kWh)
+Fixe
+(€/an)
+Grande consommation
+> 150.000 kWh
+Variable
+(c€/kWh)
+Fixe
+(€/an)
+Coûts de transport
+(c€/kWh)
+Tarif gestion des 
+données / Activité de 
+mesure et de comptage
+(€/an)
+FL
+Fluvius (Gaselwest) 2,12 14,68 1,12 64,67 0,74 631,28 0,1622 13,95
+Fluvius (Imewo) 2,45 17,00 0,89 95,37 0,64 470,96 0,1622 13,95
+Fluvius (Intergem) 1,89 12,96 0,90 62,60 0,60 503,78 0,1622 13,95
+Fluvius (Iveka) 2,02 13,98 0,79 75,10 0,53 469,45 0,1622 13,95
+Fluvius (Iverlek) 2,05 14,24 0,92 70,95 0,61 531,76 0,1622 13,95
+Fluvius (Sibelgas) 1,97 13,47 0,74 74,73 0,68 165,29 0,1622 13,95
+Fluvius Antwerpen 2,33 15,97 0,65 99,87 0,45 399,50 0,1622 13,95
+Fluvius Limburg 1,94 17,10 1,01 63,26 0,48 855,38 0,1622 13,95
+Fluvius West 2,81 7,75 1,19 88,73 0,65 890,05 0,1622 13,95
+WAL
+ORES (Brabant Wallon) 3,80 25,74 1,86 104,68 1,41 646,64 0,1622 -
+ORES (Hainaut Gaz) 3,80 25,74 1,86 104,68 1,41 646,64 0,1622 -
+ORES (Luxembourg) 3,80 25,74 1,86 104,68 1,41 646,64 0,1622 -
+ORES (Mouscron) 3,80 25,74 1,86 104,68 1,41 646,64 0,1622 -
+ORES (Namur) 3,80 25,74 1,86 104,68 1,41 646,64 0,1622 -
+TECTEO RESA 3,71 33,37 2,02 117,77 1,78 928,99 0,1622 -
+3 Taxes et redevances : FL WAL
+Cotisation sur l"énergie (c€/kWh)
+Droit d’accise spécial (*) (c€/kWh)
+Redevance de raccordement (**)(***) (c€/kWh)
+0,1058
+0,8724
+-
+0,1058
+0,8724
+0,0075
+ (*) Tarif différent dépendant de la consommation sur base annuelle : 0-12.000 kWh : 0,8724 c€/kWh, >= 12.001 kWh : 0,8958 c€/
+kWh 
+ (**) TVA non applicable. 
+ (***) Non applicable sur les premiers 100 kWh. Cette redevance est majorée d’un montant forfaitaire de €  0,0075. 
+INFORMATION SUR VOTRE TARIF :
+Les montants mentionnés sont arrondis. La redevance annuelle et le coût de l’énergie ne sont pas 
+indexés.
+La TVA sur les prix indiqués et les éventuelles promotions est de 6 %. Si le taux de TVA en vigueur 
+change pendant la durée de votre contrat, alors les prix et les promotions changent également.
+La redevance fixe est une redevance annuelle forfaitaire par raccordement au réseau de gaz 
+qui couvre tous les coûts d’exploitation fixes de Luminus. Si le contrat avec Luminus est résilié 
+prématurément (= dans le courant de la première année à compter de la date de début de la 
+fourniture), le client sera tenu de payer la redevance fixe annuelle par raccordement au réseau de 
+gaz. Au terme de la première année à compter du début de la fourniture, la redevance fixe n’est 
+imputée qu’au prorata de la durée effective de fourniture ininterrompue de gaz par Luminus. La 
+redevance fixe est imputée sur le décompte ou le décompte de clôture. Les coûts d'utilisation 
+des réseaux mentionnés ci-dessus sont les coûts approuvés par les régulateurs régionaux (VREG, 
+CWaPE et BRUGEL) et les valeurs des taxes, redevances, cotisations et surcharges sont les valeurs 
+les plus récentes connues au moment de l’édition de ces conditions particulières. Les éventuelles 
+modifications de ces éléments vous seront intégralement refacturées au prix coûtant.
+DUREE DE VOTRE CONTRAT :
+Luminus MaxxFix Gaz est un contrat d’une durée de 2 ans pour des points de fourniture situés dans 
+la Région flamande ou wallonne, qui est automatiquement prolongé de périodes successives de 2 
+ans, conformément à l’article 4.2 de nos conditions générales.
+Si vous êtes un nouveau client Luminus, ce contrat entrera en vigueur à la date de début de 
+fourniture. Si vous êtes déjà client chez Luminus pour votre  gaz pour le Point de fourniture et 
+conformément à l’article 11.4 des Conditions générales, souhaitez passer au contrat  Luminus 
+MaxxFix Gaz , le nouveau contrat entrera en vigueur 21 jours calendrier après la date de signature, 
+sauf si une autre date est convenue en concertation avec nous.
+L’article 4.3 des Conditions générales demeure inchangé.
+Si vous n’êtes pas encore client chez Luminus, votre contrat chez Luminus doit débuter au plus tard 
+4 mois après la signature. Si tel n’est pas le cas, Luminus est en droit de refuser votre demande de 
+contrat ou de vous faire une nouvelle proposition de contrat.
+PAIEMENT ET MODE D'ENVOI DE VOS FACTURES :
+Vous choisissez votre mode de paiement (domiciliation ou virement) et la fréquence de facturation 
+(mensuelle, bimestrielle ou trimestrielle). 
+Si vous n’avez pas encore de domiciliation, mais décidez d’opter pour ce mode de paiement, vous 
+bénéficiez d’une réduction unique de 20 € (TVA comprise) en cas de paiement à temps et vous ne 
+recevrez pas de factures d’acompte, mais uniquement votre décompte annuel. 
+Toutes vos factures seront cependant disponibles en ligne via votre Espace Client sur 
+www.luminus.be. 
+Si vous souhaitez quand même recevoir toutes vos factures par la poste, cette réduction n’est pas 
+d’application. Si vous activez votre domiciliation au cours de la première année de fourniture, cette 
+réduction sera attribuée 1 an après la date de début. Si vous activez votre domiciliation après la 
+première année de fourniture, cette réduction sera attribuée sur votre prochain décompte. 
+Les réductions pour la domiciliation et la facture numérique ne sont pas cumulables. Si vous êtes 
+client chez nous pour l’électricité et le gaz, cette réduction n’est appliquée qu’une seule fois. 
+Vous choisissez le mode d’envoi de vos factures : par courrier ou par voie digitale (par email ou via 
+le service Zoomit disponible dans votre programme d’Internet banking habituel). 
+En cas de retard de paiement, nous vous enverrons au moins un rappel. En cas de défaut de 
+paiement dans le délai prévu par le rappel, nous vous enverrons une mise en demeure. Si votre 
+point de fourniture se trouve en Région Wallonne ou dans la Région de Bruxelles-Capitale, un 
+rappel coûte 7,5 EUR et une mise en demeure 15 EUR. Si votre point de fourniture se trouve en 
+Région Flamande, une lettre de rappel coûte 8 EUR. Le premier rappel ne vous est pas facturé pour 
+les trois premières factures échues de l’année calendrier. Les mises en demeure vous sont facturées 
+10 EUR.
+Luminus est une marque et un nom commercial de Luminus SA, Boulevard Roi Albert II 7, 1210 Bruxelles, TVA-BE0471811661, RPM Bruxelles. IBAN BE 76 3350 5545 9895 BIC BBRUBEBB
+ 

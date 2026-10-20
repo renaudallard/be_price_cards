@@ -1,0 +1,85 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "pdf": "104a75438fbeccc6001ed001f24da4e015edffe735fa371cea9c1e1df8907346",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/1642aeb3d55dac218d2ae827e5985cfdfab8cc47b2d3114dbf9177e9c3a443fe.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EMPOWER_R_GREY_C_I_00_W_F&monthOffset=12&segment=R&language=F",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "engie_empower_variable",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     30.86,
+     0.04035999999999999
+    ],
+    "t2": [
+     135.42,
+     0.02043
+    ],
+    "t3": [
+     853.33,
+     0.01498
+    ]
+   },
+   "transport": 0.00165
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     33.98,
+     0.04247
+    ],
+    "t2": [
+     119.89,
+     0.023119999999999998
+    ],
+    "t3": [
+     945.72,
+     0.02052
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.0074306,
+  "factor": 0.0010600000000000002,
+  "fee": 45.0,
+  "formula": "Prélèvement: 0,7010 + (0,1000 x ZTPDAM (Heren)",
+  "index": "ZTPDAM",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.04127,
+  "settled": false
+ },
+ "publication_label": "2025-10",
+ "schema": 1,
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EMPOWER_R_GREY_C_I_00_W_F&monthOffset=12&segment=R&language=F",
+ "supplier": "engie",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087238
+   ],
+   [
+    null,
+    0.009430899999999999
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2025-10-31"
+}

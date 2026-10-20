@@ -1,0 +1,166 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "text": "texts/2026-10/ea51747da436214996bed4c2844b84f74e8fec0795fd95b386fb0a23b0b3607b.txt",
+   "url": "https://8navd656.api.sanity.io/v2023-01-01/data/query/production-be?[('query', '*[_type==\"sanity.fileAsset\" && originalFilename match \"*Gas*\" && originalFilename match \"*December*\" && originalFilename match \"*2025*\"]{originalFilename,url,_createdAt}')]",
+   "variant": "text"
+  },
+  {
+   "pdf": "fb866aaf96141a9d760264b7413182f7cc142672264cec38fb2e0d3d890a560a",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/9507b45c820ba4a2c8bbaf43a9f9f6a43e2c52e1c923bab1b54acb45bbdf6f9e.txt",
+   "url": "https://cdn.sanity.io/files/8navd656/production-be/3076f7b2e8e2c03ab8b7e4cd6bb77362bcfc0d95.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "archive",
+ "contract": "frank_variable_jn",
+ "dsos": {
+  "fluvius_antwerpen": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     14.24,
+     0.021
+    ],
+    "t2": [
+     75.6,
+     0.0087
+    ]
+   },
+   "transport": 0.0016539999999999999
+  },
+  "fluvius_halle_vilvoorde": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     15.48,
+     0.022400000000000003
+    ],
+    "t2": [
+     82.19,
+     0.0091
+    ]
+   },
+   "transport": 0.0016539999999999999
+  },
+  "fluvius_imewo": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     17.01,
+     0.0245
+    ],
+    "t2": [
+     90.33,
+     0.009899999999999999
+    ]
+   },
+   "transport": 0.0016539999999999999
+  },
+  "fluvius_kempen": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     14.7,
+     0.0212
+    ],
+    "t2": [
+     78.09,
+     0.0086
+    ]
+   },
+   "transport": 0.0016539999999999999
+  },
+  "fluvius_limburg": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     13.32,
+     0.0209
+    ],
+    "t2": [
+     70.72,
+     0.009399999999999999
+    ]
+   },
+   "transport": 0.0016539999999999999
+  },
+  "fluvius_midden_vlaanderen": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     14.65,
+     0.0213
+    ],
+    "t2": [
+     77.78,
+     0.0087
+    ]
+   },
+   "transport": 0.0016539999999999999
+  },
+  "fluvius_west": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     17.15,
+     0.0248
+    ],
+    "t2": [
+     91.06,
+     0.01
+    ]
+   },
+   "transport": 0.0016539999999999999
+  },
+  "fluvius_zenne_dijle": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     16.66,
+     0.0239
+    ],
+    "t2": [
+     88.46,
+     0.0096
+    ]
+   },
+   "transport": 0.0016539999999999999
+  }
+ },
+ "energy": {
+  "base": 0.002544,
+  "factor": 0.0010706000000000001,
+  "fee": 26.04,
+  "formula": "Formule Gasprijs: (0,1010 x M ZTP RLP0N EOD EEX + 0,24) x 1,06 in EURct/kWh",
+  "index": "M ZTP RLP0N EOD EEX",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.034046,
+  "settled": false
+ },
+ "publication_label": "2025-12",
+ "schema": 1,
+ "source_url": "https://cdn.sanity.io/files/8navd656/production-be/3076f7b2e8e2c03ab8b7e4cd6bb77362bcfc0d95.pdf",
+ "supplier": "frank",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.001057,
+  "excise": [
+   [
+    12000.0,
+    0.008723999999999999
+   ],
+   [
+    null,
+    0.009431
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2025-12-31"
+}

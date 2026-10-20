@@ -1,0 +1,85 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "pdf": "0c06a25c019060797b6c8b73f266115dac9642037c5a5b763e710fe22fd76d7a",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/1727f74ebea4125ed60e5aa554eaeab12f81ffb435218c4fb2aed4fac11be558.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_8_GAZ-VARIABLE_GAS_WAL_FR.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "archive",
+ "contract": "totalenergies_gaz_variable",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.0429
+    ],
+    "t2": [
+     140.93,
+     0.022099999999999998
+    ],
+    "t3": [
+     889.48,
+     0.016399999999999998
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.0253
+    ],
+    "t3": [
+     962.74,
+     0.022400000000000003
+    ]
+   },
+   "transport": 0.0017000000000000001
+  }
+ },
+ "energy": {
+  "base": 0.0074624,
+  "factor": 0.0010674200000000001,
+  "fee": 100.0,
+  "formula": "0.1007 * TTF_M_RLP + 0.704",
+  "index": "TTF_M_RLP",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0641,
+  "settled": false
+ },
+ "publication_label": "2026-08",
+ "schema": 1,
+ "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_8_GAZ-VARIABLE_GAS_WAL_FR.pdf",
+ "supplier": "totalenergies",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0001,
+  "contribution": 0.0011,
+  "excise": [
+   [
+    12000.0,
+    0.0109
+   ],
+   [
+    null,
+    0.0118
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-08-31"
+}

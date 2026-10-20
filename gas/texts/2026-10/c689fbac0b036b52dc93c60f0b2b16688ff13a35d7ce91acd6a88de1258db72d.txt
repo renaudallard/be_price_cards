@@ -1,0 +1,183 @@
+(*) Cet avantage est valable sur Luminus Entretien Chaudière pour l’entretien périodique de votre chaudière de chauffage central au gaz. Pour en bénéficier, vous devez souscrire séparément à un contrat Luminus Entretien Chaudière. 
+Vous trouverez toutes les infos et conditions concernant ce produit sur luminus.be/entretienchaudiere. L’avantage sera octroyé automatiquement et vous permettra de ne payer que 5,45 € (TVA de 6 % incluse) par mois via 
+domiciliation bancaire pendant les 24 premiers mois, au lieu de 7,95 €, à condition que vous conserviez votre contrat Comfy Gaz actuel et que vous n’ayez pas encore bénéficié de cette réduction. Le montant à payer passera à 7,95 € 
+par mois après les 24 premiers mois ou si vous résiliez votre contrat Comfy Gaz. Cet avantage équivaut à une réduction de 60 € au total. En cas de déménagement, cette réduction restera valable si vous transférez votre contrat actuel 
+à votre nouvelle adresse. Le lien de réservation sera envoyé par e-mail 6 mois après la date de début. Cette promotion n’est pas cumulable avec d’autres réductions.
+Luminus ComfyFlex Gaz(septembre 2024) 
+Conditions particulières : (GCF0C2.0)
+Consommateurs : résidentiels
+Tarif : variable
+Durée du contrat : 1 an 
+Valable pour les Consommateurs résidentiels avec une consommation de gaz annuelle < 100 MWh et des raccordements au réseau de gaz naturel basse pression avec relevé 
+annuel. Dans le cas contraire, Luminus se réserve le droit d’adapter votre prix. 
+VOS AVANTAGES :
+Économie
+Vous bénéficiez des baisses des prix 
+du marché.
+Économie
+Promotion intéressante pour 
+l’entretien de votre chaudière au 
+gaz.
+Service
+Luminus propose un service 5 étoiles 
+en termes de prestations.
+SERVICES INCLUS :
+Luminus Extras
+Tous vos avantages sur vos marques 
+préférées.
+My Luminus
+Votre espace client pour gérer tous 
+vos services en ligne.
+FactureManager
+La flexibilité de paiement et 
+l’assurance d’un budget sous 
+contrôle.
+VOS PROMOS :
+Promo entretien chaudière
+L’entretien obligatoire prévu par la 
+loi de votre chaudière au gaz pour 
+130,80 EUR TVA de 6 % incluse.
+(*)
+Plus d'infos sur luminus.be
+TARIFS :
+Composition du prix de l'energie
+1 Énergie fournie par Luminus
+2 Coût de transport de l'énergie
+3 Taxes et redevances
+4 TVA 6%
+1 Prix de l’énergie fournie par Luminus (TVA incl.)1 :
+Prix du jour
+Énergie (c€/kWh) 5,00
+Estimation annuelle de 
+l'énergie fournie (c€/kWh)2 5,95
+Redevance fixe (€/an) 42,40
+1 Pour plus d’informations, voir ci-dessous : ‘Informations sur votre tarif’. 
+2 Cette estimation annuelle est basée sur l'évolution actuelle et attendue des prix au cours des quatre prochains trimestres. 
+2 Coûts d'utilisation des réseaux :
+Coûts de distribution
+Gestionnaire de réseau Petite consommation
+<= 5.000 kWh
+Variable
+(c€/kWh)
+Fixe
+(€/an)
+Consommation moyenne
+> 5.000 et <= 150.000 kWh
+Variable
+(c€/kWh)
+Fixe
+(€/an)
+Grande consommation
+> 150.000 kWh
+Variable
+(c€/kWh)
+Fixe
+(€/an)
+Coûts de transport
+(c€/kWh)
+Tarif gestion des 
+données / Activité de 
+mesure et de comptage
+(€/an)
+FL
+Fluvius (Gaselwest) 2,12 14,68 1,12 64,67 0,74 631,28 0,1622 13,95
+Fluvius (Imewo) 2,45 17,00 0,89 95,37 0,64 470,96 0,1622 13,95
+Fluvius (Intergem) 1,89 12,96 0,90 62,60 0,60 503,78 0,1622 13,95
+Fluvius (Iveka) 2,02 13,98 0,79 75,10 0,53 469,45 0,1622 13,95
+Fluvius (Iverlek) 2,05 14,24 0,92 70,95 0,61 531,76 0,1622 13,95
+Fluvius (Sibelgas) 1,97 13,47 0,74 74,73 0,68 165,29 0,1622 13,95
+Fluvius Antwerpen 2,33 15,97 0,65 99,87 0,45 399,50 0,1622 13,95
+Fluvius Limburg 1,94 17,10 1,01 63,26 0,48 855,38 0,1622 13,95
+Fluvius West 2,81 7,75 1,19 88,73 0,65 890,05 0,1622 13,95
+WAL
+ORES (Brabant Wallon) 3,80 25,74 1,86 104,68 1,41 646,64 0,1622 -
+ORES (Hainaut Gaz) 3,80 25,74 1,86 104,68 1,41 646,64 0,1622 -
+ORES (Luxembourg) 3,80 25,74 1,86 104,68 1,41 646,64 0,1622 -
+ORES (Mouscron) 3,80 25,74 1,86 104,68 1,41 646,64 0,1622 -
+ORES (Namur) 3,80 25,74 1,86 104,68 1,41 646,64 0,1622 -
+TECTEO RESA 3,71 33,37 2,02 117,77 1,78 928,99 0,1622 -
+3 Taxes et redevances : FL WAL
+Cotisation sur l"énergie (c€/kWh)
+Droit d’accise spécial (*) (c€/kWh)
+Redevance de raccordement (**)(***) (c€/kWh)
+0,1058
+0,8724
+-
+0,1058
+0,8724
+0,0075
+ (*) Tarif différent dépendant de la consommation sur base annuelle : 0-12.000 kWh : 0,8724 c€/kWh, >= 12.001 kWh : 0,9755 c€/
+kWh 
+ (**) TVA non applicable. 
+ (***) Non applicable sur les premiers 100 kWh. Cette redevance est majorée d’un montant forfaitaire de €  0,0075. 
+INFORMATION SUR VOTRE TARIF :
+La TVA sur les prix indiqués et les éventuelles promotions est de 6 %. Si le taux de TVA en vigueur 
+change pendant la durée de votre contrat, alors les prix et les promotions changent également.
+Formules tarifaires pour le coût de l’énergie (HTVA):
+Index (HTVA): TTF DAHW =  31,54 €/MWh (valeur de l'indice du 2ième trimestre 2024); TTF 1-0-3 
+= 34,92 €/MWh (valeur de l'indice du 3ième trimestre 2024); 0,1000  x  TTF DAHW  +   0,0000  x  
+TTF 1-0-3  + 1,5585
+Les montants mentionnés sont arrondis. Votre tarif sera indexé tous les trimestres. Les trimestres 
+commencent le 1er janvier, 1er avril, 1er juillet et 1er octobre. La méthode de calcul, ainsi que 
+les valeurs de l’index et de ses composantes, sont publiées sur le site www.luminus.be. Sur le 
+décompte, Luminus appliquera les valeurs moyennes trimestrielles pour les périodes déjà connues 
+au moment du décompte. Pour les périodes auxquelles ces valeurs ne sont pas encore connues au 
+moment du décompte, Luminus appliquera les valeurs moyennes mensuelles. Nous nous réservons 
+le droit d’utiliser de nouveaux paramètres ou de nouvelles composantes pour calculer la formule 
+du prix si les paramètres actuels viennent à changer, sont supprimés ou s'ils devaient ne plus être 
+disponibles. Luminus s'efforcera de maintenir le prix moyen au même niveau. 
+Le coût de l’énergie, qui varie en fonction de l’évolution des paramètres composant la formule 
+tarifaire indexée, est calculé sur base de l’index applicable durant la période pour laquelle vous 
+êtes facturés lors du décompte de votre consommation réelle. Les montants mentionnés dans votre 
+décompte peuvent dès lors varier par rapport aux prix ci-dessus.
+La redevance fixe est une redevance annuelle forfaitaire par raccordement au réseau de gaz 
+qui couvre tous les coûts d’exploitation fixes de Luminus. Si le contrat avec Luminus est résilié 
+prématurément (= dans le courant du premier semestre à compter du début de la fourniture), le 
+client sera tenu de payer la moitié de la redevance fixe annuelle par raccordement au réseau de 
+gaz. Au terme du premier semestre à compter du début de la fourniture, la redevance fixe n’est 
+imputée qu’au prorata de la durée effective de fourniture ininterrompue de gaz par Luminus. La 
+redevance fixe est imputée sur le décompte ou le décompte de clôture.. Les coûts d'utilisation 
+des réseaux mentionnés ci-dessus sont les coûts approuvés par les régulateurs régionaux (VREG, 
+CWaPE et BRUGEL) et les valeurs des taxes, redevances, cotisations et surcharges sont les valeurs 
+les plus récentes connues au moment de l’édition de ces conditions particulières. Les éventuelles 
+modifications de ces éléments vous seront intégralement refacturées au prix coûtant.
+DUREE DE VOTRE CONTRAT :
+Luminus ComfyFlex Gaz est un contrat d’une durée d’un an pour des points de fourniture situés 
+dans la Région flamande ou wallonne, qui est automatiquement prolongé de périodes successives 
+d’un an, conformément à l’article 4.2 de nos conditions générales.
+Si vous êtes un nouveau client Luminus, ce contrat entrera en vigueur à la date de début de 
+fourniture. Si vous êtes déjà client chez Luminus pour votre  gaz pour le Point de fourniture et 
+conformément à l’article 11.4 des Conditions générales, souhaitez passer au contrat  Luminus 
+ComfyFlex Gaz , le nouveau contrat entrera en vigueur 21 jours calendrier après la date de signature, 
+sauf si une autre date est convenue en concertation avec nous.
+L’article 4.3 des Conditions générales demeure inchangé.
+Si vous n’êtes pas encore client chez Luminus, votre contrat chez Luminus doit débuter au plus tard 
+4 mois après la signature. Si tel n’est pas le cas, Luminus est en droit de refuser votre demande de 
+contrat ou de vous faire une nouvelle proposition de contrat.
+PAIEMENT ET MODE D'ENVOI DE VOS FACTURES :
+Vous choisissez votre mode de paiement (domiciliation ou virement) et la fréquence de facturation 
+(mensuelle, bimestrielle ou trimestrielle). Si vous n’avez pas encore de domiciliation mais décidez 
+d’opter pour ce mode de paiement, vous bénéficiez d’une réduction unique de 20 € (TVA incl.) et 
+vous ne recevrez plus que votre décompte annuel et donc plus de factures d’acompte. Toutes vos 
+factures seront cependant disponibles en ligne via la zone self-service sur www.luminus.be. Si vous 
+souhaitez quand même recevoir toutes vos factures, cette réduction n’est pas d’application. 
+Vous choisissez le mode d’envoi de vos factures : par courrier ou par voie digitale (par email ou via 
+le service Zoomit disponible dans votre programme d’Internet banking habituel). Si vous souhaitez 
+recevoir vos factures Luminus par voie digitale, vous bénéficiez d’une réduction unique de 20 € 
+(TVA incl.) sur votre prochain décompte.
+Les réductions pour la domiciliation et la facture digitale ne sont pas cumulables. Si vous vous 
+approvisionnez en électricité et en gaz chez nous, cette réduction n’est applicable qu’une seule 
+fois.
+En cas de retard de paiement, nous vous enverrons au moins un rappel. En cas de défaut de 
+paiement dans le délai prévu par le rappel, nous vous enverrons une mise en demeure. Si votre 
+point de fourniture se trouve en Région Wallonne ou dans la Région de Bruxelles-Capitale, un 
+rappel coûte 7,5 EUR et une mise en demeure 15 EUR. Si votre point de fourniture se trouve en 
+Région Flamande, une lettre de rappel coûte 8 EUR. Le premier rappel ne vous est pas facturé pour 
+les trois premières factures échues de l’année calendrier. Les mises en demeure vous sont facturées 
+10 EUR. En cas de paiement tardif, vous êtes en outre tenu au paiement d’intérêts de retard au 
+taux d’intérêt légal. Si nous avons transmis votre facture à un tiers, vous êtes également redevable 
+d’une indemnisation forfaitaire de 10 % sur chaque montant impayé, avec un minimum de 55 
+EUR, en dédommagement des frais de recouvrement extrajudiciaires, sans préjudice du droit de 
+prouver des dommages et préjudices supérieurs.
+Luminus est une marque et un nom commercial de Luminus SA, Boulevard Roi Albert II 7, 1210 Bruxelles, TVA-BE0471811661, RPM Bruxelles. IBAN BE 76 3350 5545 9895 BIC BBRUBEBB
+ 

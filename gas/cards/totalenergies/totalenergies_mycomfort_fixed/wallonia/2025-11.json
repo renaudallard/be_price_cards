@@ -1,0 +1,79 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "pdf": "c20e1db303a084f6e550eb9c559f52ba1ad6058e3e164065fed70ba32a417c58",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/ed93685d894d04ce81a93f9ef73d4b36e6baad305e1091748d8f8c6413fad1ce.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2025_11_MYCOMFORT-FIXED_GAS_WAL_FR.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "archive",
+ "contract": "totalenergies_mycomfort_fixed",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     30.86,
+     0.0404
+    ],
+    "t2": [
+     135.41,
+     0.0204
+    ],
+    "t3": [
+     853.33,
+     0.015
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     33.97,
+     0.048600000000000004
+    ],
+    "t2": [
+     119.9,
+     0.029300000000000003
+    ],
+    "t3": [
+     945.72,
+     0.026699999999999998
+    ]
+   },
+   "transport": 0.0017000000000000001
+  }
+ },
+ "energy": {
+  "fee": 90.0,
+  "kind": "fixed",
+  "price": 0.0489
+ },
+ "publication_label": "2025-11",
+ "schema": 1,
+ "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2025_11_MYCOMFORT-FIXED_GAS_WAL_FR.pdf",
+ "supplier": "totalenergies",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0001,
+  "contribution": 0.0011,
+  "excise": [
+   [
+    12000.0,
+    0.0087
+   ],
+   [
+    null,
+    0.009399999999999999
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2025-11-30"
+}

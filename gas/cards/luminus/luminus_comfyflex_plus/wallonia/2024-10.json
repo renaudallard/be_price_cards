@@ -1,0 +1,90 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "text": "texts/2026-10/2a1c7079b29f794406637f482d0ba5275b153e31c9bdb85084d2ebc6fbaef96c.txt",
+   "url": "https://www.luminus.be/api/pricelist/products?language=FR&customerSegment=Residential&energyType=Gas&region=Wallonia&signing=2024-10",
+   "variant": "text"
+  },
+  {
+   "pdf": "e0d7e40c1e4336d38b8f66cf38926e8452515684c922b0c9989b20513cf5395e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/789009cb4de1bc51c026c17115bc59efb307dab59d09cf6418e4a8c38666cf35.txt",
+   "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000BygB2AAJ&date=2024-10&region=Wallonia&inline=true",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "luminus_comfyflex_plus",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     25.74,
+     0.038
+    ],
+    "t2": [
+     104.68,
+     0.018600000000000002
+    ],
+    "t3": [
+     646.64,
+     0.0141
+    ]
+   },
+   "transport": 0.0016220000000000002
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     33.37,
+     0.0371
+    ],
+    "t2": [
+     117.77,
+     0.0202
+    ],
+    "t3": [
+     928.99,
+     0.0178
+    ]
+   },
+   "transport": 0.0016220000000000002
+  }
+ },
+ "energy": {
+  "base": 0.0209191,
+  "factor": 0.0010600000000000002,
+  "fee": 42.4,
+  "formula": "0,1000 x TTF DAHW + 0,0000 x TTF 1-0-3 + 1,9735",
+  "index": "TTF DAHW",
+  "kind": "indexed",
+  "period": "quarter",
+  "price": 0.0584,
+  "settled": false
+ },
+ "publication_label": "2024-10",
+ "schema": 1,
+ "source_url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000BygB2AAJ&date=2024-10&region=Wallonia&inline=true",
+ "supplier": "luminus",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010580000000000001,
+  "excise": [
+   [
+    12000.0,
+    0.008723999999999999
+   ],
+   [
+    null,
+    0.009847
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2024-10-31"
+}

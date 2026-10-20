@@ -1,0 +1,187 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "pdf": "e91818321ec81008bf2ea425ff6ec0f04afe9670d3a230184977120d65405717",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/534c550aba56c9512b06dbd0f8b2d0112cb6c37f766f7c5a2a5caf487e997f42.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2025_12_MYESSENTIAL-FIXED_GAS_VL_FR.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "archive",
+ "contract": "totalenergies_myessential_fixed",
+ "dsos": {
+  "fluvius_antwerpen": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     14.24,
+     0.021
+    ],
+    "t2": [
+     75.6,
+     0.0087
+    ],
+    "t3": [
+     511.1,
+     0.0058
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "fluvius_halle_vilvoorde": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     15.48,
+     0.022400000000000003
+    ],
+    "t2": [
+     82.19,
+     0.0091
+    ],
+    "t3": [
+     555.65,
+     0.0059
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "fluvius_imewo": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     17.01,
+     0.0245
+    ],
+    "t2": [
+     90.33,
+     0.009899999999999999
+    ],
+    "t3": [
+     610.68,
+     0.0064
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "fluvius_kempen": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     14.7,
+     0.0212
+    ],
+    "t2": [
+     78.09,
+     0.0086
+    ],
+    "t3": [
+     527.91,
+     0.005600000000000001
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "fluvius_limburg": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     13.32,
+     0.0209
+    ],
+    "t2": [
+     70.72,
+     0.009399999999999999
+    ],
+    "t3": [
+     478.09,
+     0.0067
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "fluvius_midden_vlaanderen": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     14.65,
+     0.0213
+    ],
+    "t2": [
+     77.78,
+     0.0087
+    ],
+    "t3": [
+     525.83,
+     0.005699999999999999
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "fluvius_west": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     17.15,
+     0.0248
+    ],
+    "t2": [
+     91.06,
+     0.01
+    ],
+    "t3": [
+     615.61,
+     0.006500000000000001
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "fluvius_zenne_dijle": {
+   "metering": 18.56,
+   "tiers": {
+    "t1": [
+     16.66,
+     0.0239
+    ],
+    "t2": [
+     88.46,
+     0.0096
+    ],
+    "t3": [
+     598.01,
+     0.0062
+    ]
+   },
+   "transport": 0.0017000000000000001
+  }
+ },
+ "energy": {
+  "fee": 35.0,
+  "kind": "fixed",
+  "price": 0.0434
+ },
+ "publication_label": "2025-12",
+ "schema": 1,
+ "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2025_12_MYESSENTIAL-FIXED_GAS_VL_FR.pdf",
+ "supplier": "totalenergies",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0011,
+  "excise": [
+   [
+    12000.0,
+    0.0087
+   ],
+   [
+    null,
+    0.009399999999999999
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2025-12-31"
+}

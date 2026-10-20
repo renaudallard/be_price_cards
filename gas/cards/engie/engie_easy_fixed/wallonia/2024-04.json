@@ -1,0 +1,79 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "pdf": "cc51807d1e03d97c5542ace283061dc48f3a54452adb2d4049e0b5b36606111b",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/180373b989a14273f08b5ac10a4d75838946ad981b3e0068d95d4606eb49393a.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EASY_R_GREY_C_F_12_W_F&monthOffset=30&segment=R&language=F",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "engie_easy_fixed",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     25.74,
+     0.03803
+    ],
+    "t2": [
+     104.68,
+     0.01861
+    ],
+    "t3": [
+     646.64,
+     0.014079999999999999
+    ]
+   },
+   "transport": 0.0016200000000000001
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     33.37,
+     0.03707
+    ],
+    "t2": [
+     117.77,
+     0.020179999999999997
+    ],
+    "t3": [
+     929.0,
+     0.017769999999999998
+    ]
+   },
+   "transport": 0.0016200000000000001
+  }
+ },
+ "energy": {
+  "fee": 40.81,
+  "kind": "fixed",
+  "price": 0.05453
+ },
+ "publication_label": "2024-04",
+ "schema": 1,
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EASY_R_GREY_C_F_12_W_F&monthOffset=30&segment=R&language=F",
+ "supplier": "engie",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087238
+   ],
+   [
+    null,
+    0.008957699999999999
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2024-04-30"
+}

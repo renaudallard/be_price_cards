@@ -1,0 +1,131 @@
+Tarif bâtiment vide
+Prix variables gaz naturel pour les contrats conclus en Novembre 2025
+Pour les particuliers en Région de Bruxelles-Capitale
+Prix, 6% de tva comprise(9)
+Composition du prix de votre énergie(6)
+Vos avantages
+- Vous payez uniquement
+votre consommation réelle
+sans redevance annuelle.
+- Cette offre d’énergie a été
+créée spécifiquement pour
+les maisons vides
+Services gratuits
+- Service client en ligne et
+hors ligne 5 étoiles
+- Facture électronique par
+défaut
+- Réductions chez nos
+partenaires
+- Avec la Smart App, vous
+pouvez facilement contrôler
+votre consommation
+d'énergie et votre facture
+Prix d'énergie Variable - durée indéterminée (10)
+Redevance fixe (€/an) Prix par kWh(1) (€cent/kWh)
+Prix mensuels
+8,531
+0,00 Prix par kWh(1) (€cent/kWh)
+Prix annuels estimés
+8,561
+Coûts de réseaux (distribution et transport)(2)
+Gestionnaire
+du réseau de
+Distribution
+TransportPetite consommation
+<= 5 000 kWh/an
+Moyenne consommation
+5 001 - 150 000 kWh/an
+Grande consommation
+>= 150 001 kWh/an Activité de mesure
+Terme fixe
+€/an
+Terme
+proportionnel
+€cent/kWh
+Terme fixe
+€/an
+Terme
+proportionnel
+€cent/kWh
+Terme fixe
+€/an
+Terme
+proportionnel
+€cent/kWh
+Relevé
+annuel
+€/an
+Relevé
+mensuel
+€/an
+€cent/kWh
+SIBELGA 12,72 1,949 42,24 1,360 983,95 0,731 24,59 442,68 0,165
+
+Tarif bâtiment vide
+Prix variables gaz naturel pour les contrats conclus en Novembre 2025
+Pour les particuliers en Région de Bruxelles-Capitale
+Prix, 6% de tva comprise(9)
+Suppléments
+Suppléments (€cent/kWh)
+Cotisation sur l'énergie 0,10577
+Accise fédérale(8) (€cent/kWh)
+Consommation entre 0 & 12.000 kWh 0,87238
+Consommation > 12.000 kWh 0,94309
+Droit pour le financement des Obligations de Service Public
+(OSP) (€/an)
+6 ou 10 m3/heure(4) 3,56
+6 ou 10 m3/heure(5) 12,34
+16 m3/heure 29,89
+25 m3/heure 73,78
+40 m3/heure 147,55
+65 m3/heure 368,88
+100 m3/heure 513,00
+160 m3/heure 658,77
+> 160 m3/heure 952,09
+(1) Le prix du gaz de votre Contrat est indexé mensuellement. Le
+paramètre d’indexation est la moyenne arithmétique des cotations
+journalières du gaz naturel sur les « European Spot Gas Markets »
+(« ESGM ») publiées par ICIS-Heren Energy Ltd., sous le titre « ZTP
+Price Assessment Day-Ahead» pour les jours de la semaine et sous
+le titre « ZTP Price Assessment Weekend» pour les jours du
+weekend durant le mois de fourniture. Le paramètre ZTPDAM
+(Heren), exprimé en €/MWh, est calculé et publié sur engie.be.
+La valeur du ZTPDAM (Heren) du mois en cours ne sera connue
+qu'en fin de mois. À titre informatif, les prix indiqués sont basés sur
+la dernière valeur du ZTPDAM (Heren) connue (Octobre 2025 :
+31,4700 €/MWh).
+Les valeurs historiques du ZTPDAM (Heren) peuvent être consultées
+sur engie.be.
+Le paramètre ZTPDAM (Heren) annuel estimé s’élève à 31,6114
+€/MWh pour ce mois-ci selon la méthodologie de la VREG :
+https://www.vreg.be/nl/faq/berekening-variabele-energieprijzen-de-
+v-testr
+La formule hors TVA d'application pour Novembre 2025 est la
+suivante:
+Prélèvement: 1,7540 + (0,2000 x ZTPDAM (Heren))
+Le résultat de ces formules est un montant exprimé en c€/kWh.
+(2) Les coûts de réseau sont approuvés par la CREG et par BRUGEL.
+(3) Vous ne payez pas de TVA sur ces coûts.
+(4) Lorsque la dernière consommation annuelle standardisée calculée
+est inférieure ou égale à 5 000 kWh.
+(5) Lorsque la dernière consommation annuelle standardisée calculée
+est supérieure à 5 000 kWh.
+(6) Le calcul a été effectué en janvier 2024 pour un contrat EASY
+Variable sur la base d'une consommation privée de 16000 kWh/an à
+Bruxelles. Prix 6% de tva comprise.
+(7) Vous trouverez plus d'informations sur vos paiements sur
+www.engie.be/fr/support/faq/facture/paiements.
+(8) Droit d’accises spécial d’application à partir du 01/01/2023
+remplaçant la cotisation fédérale. Il est calculé sur base annuelle,
+suivant un tarif dégressif par tranche de consommation.
+(9) La TVA peut être adaptée en fonction des modifications légales.
+(10) Nous nous réservons le droit d’adapter chaque année votre prix de
+l’énergie variable ou fixe conformément à la procédure prévue par
+l'article "Modification des conditions et des prix" des Conditions
+Générales pour consommateurs, indépendamment d'une éventuelle
+durée minimale du Contrat.
+Frais de rappel et de mise en demeure (3) (7)
+Montants d’application à partir du 1er décembre 2023
+Frais de rappel (3 premiers gratuits) 7,50 €
+Mise en demeure 15,00 €

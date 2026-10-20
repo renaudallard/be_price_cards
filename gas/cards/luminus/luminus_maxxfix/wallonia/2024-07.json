@@ -1,0 +1,84 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "text": "texts/2026-10/2a1c7079b29f794406637f482d0ba5275b153e31c9bdb85084d2ebc6fbaef96c.txt",
+   "url": "https://www.luminus.be/api/pricelist/products?language=FR&customerSegment=Residential&energyType=Gas&region=Wallonia&signing=2024-07",
+   "variant": "text"
+  },
+  {
+   "pdf": "a9a366dbd897edb20feb3be6b5bf63b56fe15427fb67109ae536450dd85163b1",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/a5197323aa90b576c6dd74360805d1ecd19a0251feb0b11b54da249ac5d5b8e1.txt",
+   "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1paa0000003dWLAAY&date=2024-07&region=Wallonia&inline=true",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "luminus_maxxfix",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     25.74,
+     0.038
+    ],
+    "t2": [
+     104.68,
+     0.018600000000000002
+    ],
+    "t3": [
+     646.64,
+     0.0141
+    ]
+   },
+   "transport": 0.0016220000000000002
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     33.37,
+     0.0371
+    ],
+    "t2": [
+     117.77,
+     0.0202
+    ],
+    "t3": [
+     928.99,
+     0.0178
+    ]
+   },
+   "transport": 0.0016220000000000002
+  }
+ },
+ "energy": {
+  "fee": 45.0,
+  "kind": "fixed",
+  "price": 0.0684
+ },
+ "publication_label": "2024-07",
+ "schema": 1,
+ "source_url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1paa0000003dWLAAY&date=2024-07&region=Wallonia&inline=true",
+ "supplier": "luminus",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010580000000000001,
+  "excise": [
+   [
+    12000.0,
+    0.008723999999999999
+   ],
+   [
+    null,
+    0.008958
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2024-07-31"
+}

@@ -1,0 +1,219 @@
+4,0 sur Reviews 4,1 sur
+Carte Tarifaire
+Bolt Variable Juin 2026 /Résidentiel /Gaz
+La plateforme énergétique à contre-courant
+Une facture transparente Pourquoi proposons-nous du gaz ?
+Le prix de votre énergie est toujours basé sur le prix du 
+gaz sur le marché. À cela s'ajoutent les frais de réseau 
+ainsi que les contributions destinées à l'État et au 
+gestionnaire de réseau. Enfin, Bolt facture des frais de 
+plateforme.
+Le gaz n’est pas encore durable. Nous le proposons 
+uniquement si vous souscrivez aussi à l’électricité chez 
+Bolt. Vous n’avez ainsi pas besoin de passer par deux 
+fournisseurs différents et vous pouvez tout de même 
+profiter d’une électricité durable. Comme il est 
+actuellement très difficile d’acheter du gaz vert en 
+Belgique, nous achetons du gaz naturel sur le marché de 
+gros.
+Composition de votre facture 
+d'énergie
+Gaz provenant du marché de 
+gros
+Frais de réseau et contributions
+Frais de plateforme
+Prix
+F rai s  d e pl atef o r m e
+€  10 , 99  /  mois
+Les frais de plateforme couvrent les coûts liés à la gestion de notre 
+plateforme énergétique : du service client et de la facturation aux 
+systèmes informatiques et au suivi de votre contrat d'énergie. 
+Nous veillons ainsi à ce que tout fonctionne de manière fluide et 
+transparente en coulisses.
+Un tarif h onn ê te ,  sur le long 
+terme
+D ’autres fournisseurs vous attirent avec des 
+prix cassés, qui augmentent fortement après 
+une courte période promotionnelle. Chez Bolt, 
+vous bénéficiez d’un prix juste et stable, sans 
+frais cachés ni mauvaises surprises.
++P rix
+TTC
+C onsomm ati on
+5 , 83
+5 , 16
+P rix annuel estimé 1
+P rix mensuel
+Forte hausse
+et tarifs élevés
+P rix
+Un prix honnête et 
+stable Prix 
+promotionnel
+T empsT emps
+A utres fo urnisseurs d ' éner g ieBo lt
+G a z  p r ov e n a n t du  m ar ché  d e g r os ( c €/kW h )
+· Boulevard S aint - Lazare 4- 10 , 1 2 10  Bruxelles · BT W  BE 0 72 6 . 6 33 . 73 0  · bonjour @ boltenergie.be • boltenergie.be 1
+Distribution et transport TTC
+Coûts de distribution Transport Relevé de compteur
+Petite consommation
+<= 5.000kWh
+Consommation moyenne
+> 5.000 kWh et <= 150.000 kWh
+Variable
+(c€/kWh)
+Fixe
+( €/ an)
+Variable
+(c€/kWh)
+Fixe
+( €/ an) ( €/an)(c€/kWh)
+Wallonie
+ORES (Brabant Wallon)
+ORES (Hainaut Gaz)
+ORES (Luxembourg)
+ORES (Mouscron) 
+ORES (Namur ) 
+TECTEO RESA 
+0,1654 
+0,1654 
+0,1654 
+0,1654 
+0,1654 
+0,1654 
+-
+-
+-
+-
+-
+-
+Bruxelles
+SIBELGA 0,165 24,95
+Taxes et redevances TTC
+Flan d r es Wall o ni e B r u x e ll es
+Contribution sur l 'é nergie (c €/k W h ) 2
+Accise fé d é rale (c €/k W h )
+Redevance de raccordement (c €/k W h ) 3
+0,1058
+0, 8 72 4
+0,00750 
+0,1058
+0, 8 72 4
+-
+O bli g ations de service publi q ue ( Bruxelles ) €/ an
+6 o f  10 m3 /h  4
+6 o f  10 m3 /h  5
+16 m3 /h
+25m3 /h
+40 m3 /h
+65 m3 /h
+100 m3 /h
+160 m3 /h
+3,5 6
+12,5 4
+30,4 0
+75,18
+150,35
+376,0 0
+522,7 9
+671,36
+4,198
+4,198
+4,198
+4,198
+4,198
+4,640
+31,91
+31,91
+31,91
+31,91
+31,91
+34,59
+1,990 15,90
+2,115
+2,115
+2,115
+2,115
+2,115
+2,259
+140,9 3
+140,9 3
+140,9 3
+140,9 3
+140,9 3
+122,05
+1,447 43,07
+· Boulevard Saint-Lazare 4-10, 1210 Bruxelles · BTW BE 0726.633.730 · bonjour@boltenergie.be • boltenergie.be 2
+Informations sur les éléments et la formule tarifaire
+Comment le coût de mon énergie est-il calculé ? I nformations concernant la formule tarifaire
+Le coût de l'énergie est déterminé par Bolt sur la base des prix de gros. 
+Nous appliquons la formule TTF + coût affréteur . C’est le coût que Bolt 
+doit payer à un partenaire pour assurer l'approvisionnement en gaz. 6
+L 'indice TTF est dé f ini comme suit :  c'est la moyenne arithmétique des 
+prix TTF "D ay A head " . Les prix TTF D ay A head sont publiés 
+quotidiennement. Le tableau ci-dessus indique le prix de vente basé sur 
+la valeur TTF la plus récente .
+D ans la facturation, la consommation journali è re est multipliée par la 
+valeur de la TTF pour cette journée. Si la consommation à facturer 
+obtenue aupr è s du gestionnaire de réseau ne contient aucune valeur de 
+jour, nous redistribuerons la consommation pondérée R L P  ( publication 
+par Synergrid ).
+Bolt peut appliquer de nouveaux param è tres ou de nouveaux 
+composants à la formule tarifaire, à condition que les param è tres 
+actuels ne soient plus représentatifs de la valeur économique, soient 
+supprimés, ne soient plus disponibles, ne soient pas publiés ou soient 
+publiés de mani è re irréguli è re. D ans ce cas, Bolt s'efforcera de maintenir 
+un niveau de prix équivalent. Le coût de l'énergie, qui varie en fonction 
+de l'évolution des param è tres qui composent la formule tarifaire, est 
+calculé sur base de l'indice applicable pendant la période pour laquelle 
+vous ê tes facturé lors du calcul de votre consommation réelle. Les 
+montants mentionnés dans votre relevé peuvent donc différer des prix 
+indiqués ci-dessus.  
+L ’abonnement mensuel pour l’utilisation de la plateforme est calculé au 
+prorata par point raccordement ( gaz et/ ou électricité )  et est facturés 
+sur chaque facture d’acompte ou de régularisation. Cela couvre les frais 
+d'exploitation f ixes de Bolt.  
+Les tarifs susmentionnés pour l'utilisation du réseau sont les coûts 
+approuvés par le régulateur compétent. Le montant des taxes, 
+prél è vements, contributions et surtaxes sont les valeurs les plus 
+récentes, publiées par le législateur au moment de la création des 
+présentes conditions particuli è res. T oute modi f ication de ces éléments 
+sera facturée en totalité au prix coûtant tel que dé f ini dans les 
+conditions générales de vente du contrat de fourniture. Cela peut 
+également ê tre fait rétroactivement.
+Paiement et facturation
+La signature de ce contrat ne peut se faire qu'en ligne. Le mode de 
+paiement ( prél è vement automatique ou virement bancaire )  ainsi que le 
+canal de communication ( courrier ou e-mail )  est choisi par le client. En 
+cas de non-paiement dans le délai indiqué par le premier rappel, une 
+lettre de mise en demeure sera envoyée et facturée 15 €.  Si la somme 
+due n’a toujours pas été per ç ue apr è s le deuxi è me rappel, le client 
+particulier est tenu de payer des intér ê ts moratoires au taux d'intér ê t 
+légal, le client professionnel, au taux d'intér ê t stipulé dans la loi sur le 
+retard de paiement dans les transactions commerciales d'août 2002. 
+Lorsque la facture est transférée à un tiers, une indemnité forfaitaire 
+de 10% sur chaque montant impayé sera facturée,  avec un minimum de 
+55 E UR , à titre de compensation pour frais de recouvrement 
+extrajudiciaires et ce, sans préjudice d’autres dommages et intér ê ts. 
+D uree des conditions du contrat de fourniture
+Les conditions du contrat de fourniture sont d'application pour une 
+durée indéterminée.
+Q uestions ou c ommentaires ?
+N otre éq uipe s e fero n t u n  plai s ir de v ou s  aide r 
+du lu n di au v e n dredi, de 9  h à  1 7  h .
+bonjour@boltenergie.be
+02 899 33 00
+Type de compteur TTF Q1 2026 Formule tarifaire ( €/MWh, HTVA)
+Simple 38,50 €/MWh TTF * 1,09 + 10,90
+Ce prix annuel estimé est basé sur l’évolution actuelle et prévue des prix pour les quatre 
+prochains trimestres .
+Non applicable sur les premiers 100 k Wh. Cette contribution est majorée d’un montant 
+forfaitaire de 0,0075 € .
+T arif variable en fonction de la consommation annuelle :  0 - 20 000 000 k Wh :  0,0660 c€/
+k Wh.
+· Boulevard Saint-Lazare 4-10, 1210 Bruxelles · BTW BE 0726.633.730 
+Si la derni è re consommation annuelle normalisée est inférieure ou égale à 5 000 k Wh .
+Si la derni è re consommation annuelle normalisée dépasse 5 000 k Wh .
+Les valeurs de l’indice TTF sont publiées quotidiennement sur :   
+https : / / www .po w ernext.com/ spot-mar k et-data
+· bonjour@boltenergie.be • boltenergie.be 3

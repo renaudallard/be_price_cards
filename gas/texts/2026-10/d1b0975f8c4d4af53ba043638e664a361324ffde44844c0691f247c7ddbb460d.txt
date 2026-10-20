@@ -1,0 +1,113 @@
+EASY Variable 1 an
+Prix variables gaz naturel pour les contrats conclus en Décembre 2024
+Pour les particuliers en Région Wallonne
+Prix, 6% de tva comprise(9)
+Composition du prix de votre énergie(6)
+Vos avantages
+- Profitez d’un prix variable,
+qui reste fixe durant 1 mois
+quelle que soit l’évolution du
+marché de l’énergie
+Services gratuits
+- Service client en ligne et
+hors ligne 5 étoiles
+- Facture électronique par
+défaut
+- Réductions chez nos
+partenaires
+- Avec la Smart App, vous
+pouvez facilement contrôler
+votre consommation
+d'énergie et votre facture
+Prix d'énergie Variable - 1 an
+Redevance fixe (€/an) Prix par kWh(1) (€cent/kWh)
+Prix mensuels
+6,626
+47,00 Prix par kWh(1) (€cent/kWh)
+Prix annuels estimés
+6,777
+Coûts de réseaux (distribution et transport)(2)
+Gestionnaire
+du réseau de distribution
+Distribution
+TransportPetite consommation
+<= 5 000 kWh/an
+Moyenne consommation
+5 001 - 150 000 kWh/an
+Grande consommation
+>= 150 001 kWh/an
+Terme fixe
+€/an
+Terme
+proportionnel
+€cent/kWh
+Terme fixe
+€/an
+Terme
+proportionnel
+€cent/kWh
+Terme fixe
+€/an
+Terme
+proportionnel
+€cent/kWh
+€cent/kWh
+ORES (Brabant Wallon) 25,74 3,803 104,68 1,861 646,64 1,408 0,162
+ORES (Hainaut Gaz) 25,74 3,803 104,68 1,861 646,64 1,408 0,162
+ORES (Luxembourg) 25,74 3,803 104,68 1,861 646,64 1,408 0,162
+ORES (Mouscron) 25,74 3,803 104,68 1,861 646,64 1,408 0,162
+ORES (Namur) 25,74 3,803 104,68 1,861 646,64 1,408 0,162
+TECTEO - RESA 33,37 3,707 117,77 2,018 929,00 1,777 0,162
+
+EASY Variable 1 an
+Prix variables gaz naturel pour les contrats conclus en Décembre 2024
+Pour les particuliers en Région Wallonne
+Prix, 6% de tva comprise(9)
+Suppléments
+Suppléments (€cent/kWh)
+Cotisation sur l'énergie 0,10577
+Redevance raccordement(3) 0,00750
+Accise fédérale(8) (€cent/kWh)
+Consommation entre 0 & 12.000 kWh 0,87238
+Consommation > 12.000 kWh 0,98468
+(1) Le prix variable offert peut être modifié dans le courant du mois
+(p.ex. suite à des variations dans la disponibilité du gaz naturel sur
+le marché). Le prix valable est celui qui est affiché sur engie.be à la
+date de souscription du contrat. Les formules de prix sont valables
+pour tous les contrats conclus en Décembre 2024 et débutant au
+plus tard le dernier jour du 6e mois après la souscription du contrat.
+Le prix du gaz de votre Contrat est indexé mensuellement. Le
+paramètre d’indexation est la moyenne arithmétique des cotations
+journalières du gaz naturel pour le mois de fourniture concerné sur
+les "European Spot Gas Markets" ("ESGM") (telles que publiées par
+ICIS-Heren Energy Ltd., sous le titre "ZTP Price Assessment")
+pendant le mois précédant le mois de fourniture. Le paramètre
+ZTP101 (Heren), exprimé en €/MWh, est calculé et publié sur
+engie.be.
+Le prix ci-dessus a été calculé sur la base du paramètre ZTP101
+(Heren) du mois = 44,5890 €/MWh, d’application pour Décembre
+2024. Le paramètre ZTP101 (Heren) annuel estimé s’élève à
+46,0107 €/MWh pour ce mois-ci selon la méthodologie de la VREG:
+https://www.vreg.be/nl/faq/berekening-variabele-energieprijzen-de-
+v-testr
+Les factures de consommation sont établies sur la base de la
+moyenne pondérée des prix de la période de consommation
+concernée.
+La formule hors TVA d'application pour Décembre 2024 est la
+suivante:
+Prélèvement: 1,7923 + (0,1000 x ZTP101 (Heren)
+(2) Les coûts de réseau sont approuvés par la CREG et par la CWaPE.
+(3) Vous ne payez pas de TVA sur ces coûts.
+(6) Le calcul a été effectué en janvier 2024 pour un contrat EASY
+Variable sur la base d'une consommation privée de 16000 kWh/an
+en Walllonie. Prix 6% de tva comprise.
+(7) Vous trouverez plus d'informations sur vos paiements sur
+www.engie.be/fr/support/faq/facture/paiements.
+(8) Droit d’accises spécial d’application à partir du 01/01/2023
+remplaçant la cotisation fédérale. Il est calculé sur base annuelle,
+suivant un tarif dégressif par tranche de consommation.
+(9) La TVA peut être adaptée en fonction des modifications légales.
+Frais de rappel et de mise en demeure (3) (7)
+Montants d’application à partir du 1er décembre 2023
+Frais de rappel (3er gratuit) 7,50 €
+Mise en demeure 15,00 €

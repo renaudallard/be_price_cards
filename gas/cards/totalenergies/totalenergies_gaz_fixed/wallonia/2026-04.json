@@ -1,0 +1,79 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "pdf": "2665b95ea8308a03ce3a63f223aee79a032f0570a06c3ec73afa9e1f1e7d9481",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/c2e007e0d59e18355a58d0f5e139619d069f0cde45cb9a5708f9bfcb9c0ee00a.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_4_GAZ-FIXE_GAS_WAL_FR.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "archive",
+ "contract": "totalenergies_gaz_fixed",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.0429
+    ],
+    "t2": [
+     140.93,
+     0.022099999999999998
+    ],
+    "t3": [
+     889.48,
+     0.016399999999999998
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.0253
+    ],
+    "t3": [
+     962.74,
+     0.022400000000000003
+    ]
+   },
+   "transport": 0.0017000000000000001
+  }
+ },
+ "energy": {
+  "fee": 100.0,
+  "kind": "fixed",
+  "price": 0.08109999999999999
+ },
+ "publication_label": "2026-04",
+ "schema": 1,
+ "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_4_GAZ-FIXE_GAS_WAL_FR.pdf",
+ "supplier": "totalenergies",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0001,
+  "contribution": 0.0011,
+  "excise": [
+   [
+    12000.0,
+    0.0087
+   ],
+   [
+    null,
+    0.009899999999999999
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-04-30"
+}

@@ -1,0 +1,71 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "pdf": "fafe6ee3efd01811c0768f021355e86f3ea3dcd228e43f74be8d5471f7a6784a",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/f066a6e9e0ba4a502915bef807b6717f41ede041e051358c903e3a43d0ce2c01.txt",
+   "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012403_NL_ENECO_GAS_FIX.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "eneco_aardgas_vast",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     25.74,
+     0.038
+    ],
+    "t2": [
+     104.68,
+     0.018600000000000002
+    ]
+   },
+   "transport": 0.0016200000000000001
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     33.37,
+     0.0371
+    ],
+    "t2": [
+     117.77,
+     0.0202
+    ]
+   },
+   "transport": 0.0016200000000000001
+  }
+ },
+ "energy": {
+  "fee": 65.0,
+  "kind": "fixed",
+  "price": 0.054400000000000004
+ },
+ "publication_label": "2024-03",
+ "schema": 1,
+ "source_url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012403_NL_ENECO_GAS_FIX.pdf",
+ "supplier": "eneco",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010580000000000001,
+  "excise": [
+   [
+    12000.0,
+    0.008723999999999999
+   ],
+   [
+    null,
+    0.009532
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2024-03-31"
+}

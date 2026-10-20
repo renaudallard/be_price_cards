@@ -1,0 +1,79 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "pdf": "0081c7a2e71d0f99f968a11571fe3600b501e351395cc82313200e92faaa2661",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/97887902904312dac00f0d7156202c6f038969d09017b38c92cc6a70de092416.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2025_11_MYESSENTIAL-FIXED_GAS_WAL_FR.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "archive",
+ "contract": "totalenergies_myessential_fixed",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     30.86,
+     0.0404
+    ],
+    "t2": [
+     135.41,
+     0.0204
+    ],
+    "t3": [
+     853.33,
+     0.015
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     33.97,
+     0.048600000000000004
+    ],
+    "t2": [
+     119.9,
+     0.029300000000000003
+    ],
+    "t3": [
+     945.72,
+     0.026699999999999998
+    ]
+   },
+   "transport": 0.0017000000000000001
+  }
+ },
+ "energy": {
+  "fee": 35.0,
+  "kind": "fixed",
+  "price": 0.0478
+ },
+ "publication_label": "2025-11",
+ "schema": 1,
+ "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2025_11_MYESSENTIAL-FIXED_GAS_WAL_FR.pdf",
+ "supplier": "totalenergies",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0001,
+  "contribution": 0.0011,
+  "excise": [
+   [
+    12000.0,
+    0.0087
+   ],
+   [
+    null,
+    0.009399999999999999
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2025-11-30"
+}

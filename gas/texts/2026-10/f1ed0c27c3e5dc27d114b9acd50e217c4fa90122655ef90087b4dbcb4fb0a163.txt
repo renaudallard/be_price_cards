@@ -1,0 +1,76 @@
+TARIEFKAART EBEM Aardgas Variabel_24_01 september 2025
+Variabel tarief voor levering aan particulieren en klein zakelijk verbruik. Uiterste startdatum 6 maand na tekendatum contract.
+GESCHATTE GESCHATTE
+EBEM
+VERSIE 2025 G09 EXCL. BTW INCL. BTW 6% JAARPRIJS JAARPRIJS
+TARIEFFORMULE
+EXCL. BTW INCL. BTW 6%
+Prijs per kilowattuur
+0,105 ZTP +0,675 4,0403 c€/kWh 4,2817 c€/kWh 4,2356 c€/kWh 4,4897 c€/kWh
+(variabel) RLP0
+Vaste vergoeding 70,75 €/jaar 75,00 €/jaar
+De energieprijzen zijn variabele tarieven, geïndexeerd volgens indexatieparameter DIT CONTRACT IS VAN
+ZTP. Voor de huidige maand is deze index nog niet gekend. Vorige maand bedroeg deze ONBEPAALDE DUUR
+index 32,05. In de prijssimulator van Ebem en in die van de V-test bij de VREG wordt
+een door de VREG ingeschatte parameter voor het toekomstige verbruik gebruikt:
+33,91002. Weging gebeurt met het gemiddelde van de RLP’s in Vlaanderen van
+Synergid. Meer uitleg hierover vindt u op onze website. Alle abonnementen
+worden prorata afgerekend.
+Uiterste startdatum is 6 maand na tekendatum contract.
+Webonly
+TARIEFKAART EBEM G@S+_24_01 september 2025
+Variabel tarief voor levering aan particulieren en klein zakelijk verbruik. Uiterste startdatum 4 maand na tekendatum contract.
+GESCHATTE GESCHATTE
+EBEM
+VERSIE 2025 G09 EXCL. BTW INCL. BTW 6% JAARPRIJS JAARPRIJS
+TARIEFFORMULE
+EXCL. BTW INCL. BTW 6%
+Prijs per kilowattuur
+0,105 ZTP +0,625 3,9903 c€/kWh 4,2297 c€/kWh 4,1856 c€/kWh 4,4367 c€/kWh
+(variabel) RLP0
+Vaste vergoeding 61,32 €/jaar 65,00 €/jaar
+De energieprijzen zijn variabele tarieven, geïndexeerd volgens indexatieparameter ZTP. DIT CONTRACT IS VAN
+Voor de huidige maand is deze index nog niet gekend. Vorige maand bedroeg deze index ONBEPAALDE DUUR
+32,05. In de prijssimulator van Ebem en in die van de V-test bij de VREG wordt een door de
+VREG ingeschatte parameter voor het toekomstige verbruik gebruikt: 33,91002.
+Weging gebeurt met het gemiddelde van de RLP’s in Vlaanderen van Synergid. Meer uitleg
+hierover vindt u op onze website. Alle abonnementen worden prorata afgerekend.
+Uiterste startdatum is 6 maand na tekendatum contract.
+Bijkomende voorwaarden voor dit product:
+- Correspondentie en facturatie via elektronische weg worden aanbevolen en automatisch
+toegepast.
+- Enkel mogelijk via inschrijvingen via de website.
+Nettarieven aardgas incl BTW 6%*
+Dit is de kost voor het gebruik van de distributienetten en wordt integraal doorgestort aan uw netbeheerder. Binnenlandse
+transportkosten maken niet langer deel uit van het energietarief. * Op 1 januari 2025 werden distributie- en de transporttarieven
+aangepast. Deze transportkost van 1,56 €/MWh (excl BTW), 1,65 €/MWh (incl BTW) wordt apart aangerekend (zie verder).
+NETKOSTEN
+T1 (<5000kWh) T2 (5000<150000kWh) T3 (150000<1000000kWh) TARIEF TRANSPORT
+NETBEHEERDER VAST VARIABEL VAST VARIABEL VAST VARIABEL DATABEHEER €/MWh
+€/jaar €/kWh €/jaar €/kWh €/jaar €/kWh €/jaar
+Fluvius Antwerpen 14,24 2,10 75 ,60 0,87 511,10 0,58 18,56 1,65
+Fluvius Halle Vilvoorde 15,48 2,24 82,19 0,91 555,65 0,59 18,56 1,65
+Fluvius Imewo 17,01 2,45 90,33 0,99 610,68 0,64 18,56 1,65
+Fluvius Kempen 14,70 2,12 78,09 0,86 527,91 0,56 18,56 1,65
+Fluvius Limburg 13,32 2,09 70,72 0,94 478,09 0,67 18,56 1,65
+Fluvius Midden-Vlaanderen 14,65 2,13 77,78 0,87 525,83 0,57 18,56 1,65
+Fluvius West 17,15 2,48 91,06 1,00 615,61 0,65 18,56 1,65
+Fluvius Zenne-Dijle 16,66 2,39 88,46 0,96 598,01 0,62 18,56 1,65
+Belastingen, heffingen en toeslagen
+Deze kost wordt integraal doorgestort aan de bevoegde overheden.
+ENERGIEBIJDRAGE BIJZONDERE ACCIJNZEN INCL BTW
+Huishoudelijk: 0,105764 c€/kWh - Zakelijk (excl BTW): 0,09978 c€/kWh Staffel Huishoudelijk (incl BTW)
+0-12 MWh 0,87238 c€/kWh
+Alle bedragen zijn inclusief 6% BTW voor huishoudelijke klanten. Bij
+12-20.000 MWh 0,87717 c€/kWh
+zakelijke klanten wordt 21% toegepast. De cijfers op de tariefkaarten
+zijn afgerond op 2 cijfers na de komma. Bij berekeningen en facturatie Sociaal tarief
+wordt er met 7 cijfers na de komma gewerkt in €. De “Bijzondere Accijns” geen 0,2936
+werd ingevoerd vanaf 01/01/2022. Ebem rekent nettarieven, belastingen,
+Zakelijk (Excl BTW)
+heffingen en toeslagen door zoals goedgekeurd door de CREG/VREG en de
+0-20.000 MWh 0,066 c€/kWh
+bevoegde overheden, en gepubliceerd door de bevoegde netbeheerders.
+De toeslagen worden opgelegd door de bevoegde overheid en via de
+netbeheerder en leverancier doorgerekend aan de eindklant. De prijzen op deze tariefkaart zijn enkel geldig voor aansluitingen met een
+jaarlijks gelezen meter met huishoudelijk of kleinzakelijk verbruik met een maximum van 100.000 KWh/jaar.

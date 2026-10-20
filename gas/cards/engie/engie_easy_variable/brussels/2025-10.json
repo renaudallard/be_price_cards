@@ -1,0 +1,77 @@
+{
+ "_seen_on": "2026-10-20",
+ "_sources": [
+  {
+   "pdf": "1f917ae884ecbd7ab3bbe5690b459fefec99697a8d10f94d030638575e8e9c28",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/4b7f5346a7bf42287c8e01d7985a654e59649ff05b3060c576ab6b62036de969.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EASY_R_GREY_C_I_36_B_F&monthOffset=12&segment=R&language=F",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "engie_easy_variable",
+ "dsos": {
+  "sibelga": {
+   "metering": 24.59,
+   "tiers": {
+    "t1": [
+     12.72,
+     0.01949
+    ],
+    "t2": [
+     42.24,
+     0.013600000000000001
+    ],
+    "t3": [
+     983.95,
+     0.00731
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.01556292,
+  "factor": 0.0010600000000000002,
+  "fee": 50.0,
+  "formula": "Prélèvement: 1,4682 + (0,1000 x ZTP101 (Heren)",
+  "index": "ZTP101",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.04962,
+  "settled": true
+ },
+ "publication_label": "2025-10",
+ "schema": 1,
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EASY_R_GREY_C_I_36_B_F&monthOffset=12&segment=R&language=F",
+ "supplier": "engie",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087238
+   ],
+   [
+    null,
+    0.009430899999999999
+   ]
+  ],
+  "osp": {
+   "gt160": 952.09,
+   "q100": 513.0,
+   "q10_gt5000": 12.34,
+   "q10_le5000": 3.56,
+   "q16": 29.89,
+   "q160": 658.77,
+   "q25": 73.78,
+   "q40": 147.55,
+   "q65": 368.88
+  },
+  "vat_rate": 0.0
+ },
+ "valid_until": "2025-10-31"
+}
