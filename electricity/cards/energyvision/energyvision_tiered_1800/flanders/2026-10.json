@@ -1,19 +1,19 @@
 {
- "_cached_at": "2026-10-18T09:54:56.200358+00:00",
+ "_cached_at": "2026-10-23T10:31:56.575172+00:00",
  "_probe_key": null,
  "_schema_version": 83,
- "_seen_on": "2026-10-18",
+ "_seen_on": "2026-10-23",
  "_sources": [
   {
-   "text": "texts/2026-10/0831a24d138131e2a72794251a27e6827c320c1a0a4e018f4d91652eb68ff443.txt",
+   "text": "texts/2026-10/2e8efccfa75704dc65d6b6e271fa8703664e6b7d7c83a2bfb0893676779ccad8.txt",
    "url": "https://www.energyvision.be/nl-be/tariefkaart",
    "variant": "text"
   },
   {
-   "pdf": "141f0fd4cfc534a835593c819dd64d957be2aef6ac4125aec08d97e82fcce0a7",
+   "pdf": "5b7eb5192e034e061948a9a31e5d7af8f9cb2401d9f63d1c5facf04796d1f6f6",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-10/11329d8cd087b35f064f3fb88e967fbe6e398abc6176780e1072a322aab1634a.txt",
-   "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1026-GS1800V-nl_0.pdf",
+   "text": "texts/2026-10/27df8a26af0f2e508aba4c8ebc669952bd1c296a118f2d2d4a01114d3bc17f93.txt",
+   "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1026-GS1800V-nl_1.pdf",
    "variant": "layout"
   }
  ],
@@ -195,7 +195,7 @@
   "factor_transition": null,
   "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": "0,6 x Belpex-SPP-M - 15 EUR/MWh",
+  "formula": "0,6 x Belpex-SPP-M -\n15 EUR/MWh",
   "minimum": 0.01,
   "month_indexed": false,
   "offpeak": null,
@@ -206,7 +206,7 @@
   "vat_applies": false
  },
  "publication_label": "oktober 2026",
- "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1026-GS1800V-nl_0.pdf",
+ "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1026-GS1800V-nl_1.pdf",
  "supplier": "energyvision",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
