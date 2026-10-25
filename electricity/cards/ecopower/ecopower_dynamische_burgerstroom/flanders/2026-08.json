@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-18T09:54:56.200358+00:00",
+ "_cached_at": "2026-10-25T10:09:22.333846+00:00",
  "_probe_key": null,
- "_schema_version": 83,
- "_seen_on": "2026-10-18",
+ "_schema_version": 84,
+ "_seen_on": "2026-10-25",
  "_sources": [
   {
-   "text": "texts/2026-10/a0ff6ac0937474ffefbc301c70df5f4e9ba65b24b82bc0a7a74d9c2072537c9a.txt",
+   "text": "texts/2026-10/6e5d697554f9b55f6f40fa29b0e3f75a1f9c8684dd6fc28851000eafaaa000b7.txt",
    "url": "https://ecopower.be/groene-stroom/dynamische-burgerstroom",
    "variant": "text"
   },
@@ -208,6 +208,7 @@
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
  "welcome_credit_kwh_rate": null,
+ "welcome_credit_lump_capped": false,
  "welcome_credit_pct_of_energy": null,
  "welcome_credit_requires_direct_debit": false,
  "welcome_credit_signing_month": null

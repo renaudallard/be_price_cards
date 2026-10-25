@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-18T09:54:56.200358+00:00",
+ "_cached_at": "2026-10-25T10:09:22.333846+00:00",
  "_probe_key": null,
- "_schema_version": 83,
- "_seen_on": "2026-10-18",
+ "_schema_version": 84,
+ "_seen_on": "2026-10-25",
  "_sources": [
   {
-   "text": "texts/2026-10/0831a24d138131e2a72794251a27e6827c320c1a0a4e018f4d91652eb68ff443.txt",
+   "text": "texts/2026-10/2e8efccfa75704dc65d6b6e271fa8703664e6b7d7c83a2bfb0893676779ccad8.txt",
    "url": "https://www.energyvision.be/nl-be/tariefkaart",
    "variant": "text"
   },
@@ -162,6 +162,7 @@
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
  "welcome_credit_kwh_rate": null,
+ "welcome_credit_lump_capped": false,
  "welcome_credit_pct_of_energy": null,
  "welcome_credit_requires_direct_debit": false,
  "welcome_credit_signing_month": null

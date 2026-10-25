@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-18T09:54:56.200358+00:00",
+ "_cached_at": "2026-10-25T10:09:22.333846+00:00",
  "_probe_key": null,
- "_schema_version": 83,
- "_seen_on": "2026-10-18",
+ "_schema_version": 84,
+ "_seen_on": "2026-10-25",
  "_sources": [
   {
-   "text": "texts/2026-10/19d4d2bdecaa24bdb9b230f189edc33f6f27976a8e40564b470e2cac1b0c0dd8.txt",
+   "text": "texts/2026-10/4ae656a9554e6367363969ac2d92d6ec76b67996563a1ff6a3c9d48780bd732b.txt",
    "url": "https://eneco.be/nl/elektriciteit-gas/tariefkaarten",
    "variant": "text"
   },
@@ -288,6 +288,7 @@
  "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
  "welcome_credit_kwh_rate": null,
+ "welcome_credit_lump_capped": false,
  "welcome_credit_pct_of_energy": null,
  "welcome_credit_requires_direct_debit": false,
  "welcome_credit_signing_month": null

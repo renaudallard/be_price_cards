@@ -497,7 +497,7 @@
 					function resetNewsSubscribe(obj) { if (obj.value == "") { obj.value = "Geef hier uw emailadres in"; } }
                     function submitNewsSubscribe() {
                         var mail = $("#txtMailNewsSubscribe").val();
-						var check = "fea7afaaecf02c80170d98d420ef3ff1ff8b31b5";
+						var check = "7f97a5f8acd2539f77d65b428693c1f16f8230d0";
 						window.location.href = "https://mijn.ebem.be/Subscribe.aspx?mail=" + mail + "&check=" + encodeURIComponent(check);
                     }
                             </script>

@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-18T09:54:56.200358+00:00",
+ "_cached_at": "2026-10-25T10:09:22.333846+00:00",
  "_probe_key": null,
- "_schema_version": 83,
- "_seen_on": "2026-10-18",
+ "_schema_version": 84,
+ "_seen_on": "2026-10-25",
  "_sources": [
   {
-   "text": "texts/2026-10/52841c76aba0250998915d9ef6beb8294ccac702c90b45281be4efa9e5c97d80.txt",
+   "text": "texts/2026-10/f8d96ffdfcdb2e7e0fdc848a2e37b7fe69b0666a31975f99eaa276a17bf9a949.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
@@ -162,6 +162,7 @@
  "welcome_credit_kind": "anniversary",
  "welcome_credit_kwh": null,
  "welcome_credit_kwh_rate": null,
+ "welcome_credit_lump_capped": false,
  "welcome_credit_pct_of_energy": null,
  "welcome_credit_requires_direct_debit": false,
  "welcome_credit_signing_month": null

@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-10-18T09:54:56.200358+00:00",
+ "_cached_at": "2026-10-25T10:09:22.333846+00:00",
  "_probe_key": null,
- "_schema_version": 83,
- "_seen_on": "2026-10-18",
+ "_schema_version": 84,
+ "_seen_on": "2026-10-25",
  "_sources": [
   {
-   "text": "texts/2026-10/488ce5433f0877873010517220cf95029acc6828b111071bcfb2ef3d218f74b1.txt",
+   "text": "texts/2026-10/8c1af2f5b274e9fc80167488bc41a99acd944873895f8b95911ac29106547387.txt",
    "url": "https://8navd656.api.sanity.io/v2023-01-01/data/query/production-be?[('query', '*[_type==\"sanity.fileAsset\" && originalFilename match \"*Dynamisch*\" && !(originalFilename match \"*Gas*\")]{originalFilename,url,_createdAt} | order(_createdAt desc)[0..29]')]",
    "variant": "text"
   },
@@ -208,6 +208,7 @@
  "welcome_credit_kind": "anniversary",
  "welcome_credit_kwh": null,
  "welcome_credit_kwh_rate": null,
+ "welcome_credit_lump_capped": false,
  "welcome_credit_pct_of_energy": null,
  "welcome_credit_requires_direct_debit": false,
  "welcome_credit_signing_month": null

@@ -17,8 +17,6 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<base href="/" />
 	<meta name="format-detection" content="telephone=no">
-	
-	<!-- <link rel="alternate" hreflang="x-default" href="https://www.mega.be/fr/energie/cartes-tarifaires" /> -->
 
 	<!-- Mobile Color -->
 	<!-- Windows Phone -->
@@ -35,7 +33,7 @@
 						<title>Cartes tarifaires pour le gaz et l’électricité | Mega</title>
 			
 	<!-- Styles -->
-	<link rel="preload" as="style" href="../../css/dist/input.css?v=149724">
+	<link rel="preload" as="style" href="../../css/dist/input.css?v=150147">
 
 	<!-- Splide -->
 	<link href="../../css/src/splide.min.css" rel="stylesheet">
@@ -48,7 +46,7 @@
 
 	<!-- preload css / css -->
 	<link rel="preload" href="../../css/dist/input.css" as="style">
-	<link rel="stylesheet" href="../../css/dist/input.css?v=149724">
+	<link rel="stylesheet" href="../../css/dist/input.css?v=150147">
 
 	<!-- Favicon -->
 	<link rel="icon" type="image/x-icon" href="images/favicon/favicon.ico?v=1.1">
@@ -86,6 +84,7 @@
 	<!-- META -->
 	<link rel="alternate" hreflang="nl-BE" href="https://www.mega.be/nl/energie/tariefkaarten" />
 	<link rel="alternate" hreflang="fr-BE" href="https://www.mega.be/fr/energie/cartes-tarifaires" />
+	<link rel="alternate" hreflang="x-default" href="https://www.mega.be/fr/energie/cartes-tarifaires" />
 
 		<meta name="description" content="Énergie - Cartes tarifaires" />
 		<meta name="msvalidate.01" content="33CD740B57B5332BE8462D882B9AE352" />
@@ -96,7 +95,7 @@
 		<meta property="og:title" content="Cartes tarifaires pour le gaz et l’électricité | Mega" />
 			<meta property="og:description" content="Énergie - Cartes tarifaires" />
 		<meta property="og:url" content="https://www.mega.be/fr/energie/cartes-tarifaires" />
-	<meta property="og:image" content="https://www.mega.be/images/favicon/android-chrome-512x512.png" />
+	<meta property="og:image" content="https://www.mega.be/images/meta-mega.jpg" />
 	
 		<meta property="og:locale" content="fr_BE" />
 		<meta property="og:site_name" content="Mega">
@@ -106,7 +105,7 @@
 	<meta name="twitter:creator" content="@we_are_mega" />
 			<meta name="twitter:title" content="Cartes tarifaires pour le gaz et l’électricité | Mega" />
 				<meta name="twitter:description" content="Énergie - Cartes tarifaires" />
-		<meta name="twitter:image" content="https://www.mega.be/images/ogImage.png" />
+		<meta name="twitter:image" content="https://www.mega.be/images/meta-mega.jpg" />
 	<link rel="manifest" href="/manifest.json">
 	<link rel="canonical" href="https://www.mega.be/fr/energie/cartes-tarifaires" />
 	<link rel="shortlink" href="https://www.mega.be/fr/energie/cartes-tarifaires" />
@@ -403,7 +402,7 @@
 
 				<input type="text" class="hidden" name="contact-email-adress" value="" />
 
-				<p class="text-sm">En remplissant ce formulaire, vous acceptez <a class="link" href="https://www.mega.be/fr/">notre politique de confidentialité.</a></p>
+				<p class="text-sm">En remplissant ce formulaire, vous acceptez <a class="link" href="https://www.mega.be/fr">notre politique de confidentialité.</a></p>
 				<input class="btn btn-info btn-yellow mt-4 mx-auto" type="submit" value="Appelez-moi">
 			</form>
 		</div>
@@ -1156,9 +1155,9 @@
                     Consommation vers et depuis l’étranger                </p>
                 <ul class="list-disc pl-5">
                     <li class="mb-2"><span class="font-bold">En Belgique (vers des numéros belges) :</span> vous utilisez les minutes d'appel, les SMS et les données inclus dans votre abonnement.</li>
-<li class="mb-2"><span class="font-bold">Depuis la Belgique vers des numéros étrangers (y compris ceux de l'UE et du Royaume-Uni) :</span> les <a class="link" href="fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>
+<li class="mb-2"><span class="font-bold">Depuis la Belgique vers des numéros étrangers (y compris ceux de l'UE et du Royaume-Uni) :</span> les <a class="link" href="/fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>
 <li class="mb-2"><span class="font-bold">Dans l’UE et au Royaume-Uni  :</span> vous utilisez les données incluses dans votre abonnement, ainsi que les SMS et les minutes d'appel pour les numéros locaux et les appels vers des numéros belges.</li>
-<li class="mb-2"><span class="font-bold">En dehors de l’UE et du Royaume-Uni  : </span>les <a class="link" href="fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>                </ul>
+<li class="mb-2"><span class="font-bold">En dehors de l’UE et du Royaume-Uni  : </span>les <a class="link" href="/fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>                </ul>
             </div>
             <div>
                 <p class="h4 mb-2 text-left w-full">
@@ -1240,9 +1239,9 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
                     Consommation vers et depuis l’étranger                </p>
                 <ul class="list-disc pl-5">
                     <li class="mb-2"><span class="font-bold">En Belgique (vers des numéros belges) :</span> vous utilisez les minutes d'appel, les SMS et les données inclus dans votre abonnement.</li>
-<li class="mb-2"><span class="font-bold">Depuis la Belgique vers des numéros étrangers (y compris ceux de l'UE et du Royaume-Uni) :</span> les <a class="link" href="fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>
+<li class="mb-2"><span class="font-bold">Depuis la Belgique vers des numéros étrangers (y compris ceux de l'UE et du Royaume-Uni) :</span> les <a class="link" href="/fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>
 <li class="mb-2"><span class="font-bold">Dans l’UE et au Royaume-Uni  :</span> vous utilisez les données (max. 15 GB de données, tarif hors abonnement : 0,18c€/MB) incluses dans votre abonnement, ainsi que les SMS et les minutes d'appel pour les numéros locaux et les appels vers des numéros belges.</li>
-<li class="mb-2"><span class="font-bold">En dehors de l’UE et du Royaume-Uni  : </span>les <a class="link" href="fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>                </ul>
+<li class="mb-2"><span class="font-bold">En dehors de l’UE et du Royaume-Uni  : </span>les <a class="link" href="/fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>                </ul>
             </div>
             <div>
                 <p class="h4 mb-2 text-left w-full">
@@ -1350,9 +1349,9 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
                     Consommation vers et depuis l’étranger                </p>
                 <ul class="list-disc pl-5">
                     <li class="mb-2"><span class="font-bold">En Belgique (vers des numéros belges) :</span> vous utilisez les minutes d'appel, les SMS et les données inclus dans votre abonnement.</li>
-<li class="mb-2"><span class="font-bold">Depuis la Belgique vers des numéros étrangers (y compris ceux de l'UE et du Royaume-Uni) :</span> les <a class="link" href="fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>
+<li class="mb-2"><span class="font-bold">Depuis la Belgique vers des numéros étrangers (y compris ceux de l'UE et du Royaume-Uni) :</span> les <a class="link" href="/fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>
 <li class="mb-2"><span class="font-bold">Dans l’UE et au Royaume-Uni  :</span> vous utilisez les données (max. 25 GB de données, tarif hors abonnement : 0,18c€/MB) incluses dans votre abonnement, ainsi que les SMS et les minutes d'appel pour les numéros locaux et les appels vers des numéros belges.</li>
-<li class="mb-2"><span class="font-bold">En dehors de l’UE et du Royaume-Uni  : </span>les <a class="link" href="fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>                </ul>
+<li class="mb-2"><span class="font-bold">En dehors de l’UE et du Royaume-Uni  : </span>les <a class="link" href="/fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>                </ul>
             </div>
             <div>
                 <p class="h4 mb-2 text-left w-full">
@@ -1442,9 +1441,9 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
                     Consommation vers et depuis l’étranger                </p>
                 <ul class="list-disc pl-5">
                     <li class="mb-2"><span class="font-bold">En Belgique (vers des numéros belges) :</span> vous utilisez les minutes d'appel, les SMS et les données inclus dans votre abonnement.</li>
-<li class="mb-2"><span class="font-bold">Depuis la Belgique vers des numéros étrangers (y compris ceux de l'UE et du Royaume-Uni) :</span> les <a class="link" href="fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>
+<li class="mb-2"><span class="font-bold">Depuis la Belgique vers des numéros étrangers (y compris ceux de l'UE et du Royaume-Uni) :</span> les <a class="link" href="/fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>
 <li class="mb-2"><span class="font-bold">Dans l’UE et au Royaume-Uni  :</span> vous utilisez les données (max. 30 GB de données, tarif hors abonnement : 0,18c€/MB) incluses dans votre abonnement, ainsi que les SMS et les minutes d'appel pour les numéros locaux et les appels vers des numéros belges.</li>
-<li class="mb-2"><span class="font-bold">En dehors de l’UE et du Royaume-Uni  : </span>les <a class="link" href="fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>                </ul>
+<li class="mb-2"><span class="font-bold">En dehors de l’UE et du Royaume-Uni  : </span>les <a class="link" href="/fr/telecom/international-roaming" target="_blank">tarifs internationaux</a> sont d’application.</li>                </ul>
             </div>
             <div>
                 <p class="h4 mb-2 text-left w-full">
@@ -1581,8 +1580,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Type d’énergie		</label>
 		<div class="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-4">
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="1949ff9a" type="checkbox" name="elec" />
-				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="1949ff9a">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="e5645956" type="checkbox" name="elec" />
+				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="e5645956">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1595,8 +1594,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</label>
 			</div>
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="1949ff9a1" type="checkbox" name="gas" />
-				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="1949ff9a1">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="e56459561" type="checkbox" name="gas" />
+				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="e56459561">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1613,12 +1612,12 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Code postal		</label>
 		<div class="flex md:flex-row flex-col items-start md:items-center gap-4 sm:gap-6">
 			<div class="flex flex-col [&_div]:flex-1 w-full md:basis-6/12">
-				<input data-zipCode="1949ff9a" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
-				<div data-zipcodelist="1949ff9a" class="input rounded-xs px-0 hidden">
+				<input data-zipCode="e5645956" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
+				<div data-zipcodelist="e5645956" class="input rounded-xs px-0 hidden">
 					<ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
 					</ul>
 				</div>
-				<p data-zipcode-badnumber='1949ff9a' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+				<p data-zipcode-badnumber='e5645956' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
 				<div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
 					<img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
 					<div>
@@ -1626,8 +1625,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</div>
 			</div>
 			<div class="flex flex-row items-end relative md:basis-6/12">
-									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="1949ff9a2" type="checkbox" />
-								<label class="cbx rounded-xs flex gap-1" for="1949ff9a2">
+									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="e56459562" type="checkbox" />
+								<label class="cbx rounded-xs flex gap-1" for="e56459562">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1789,8 +1788,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Type d’énergie		</label>
 		<div class="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-4">
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="5fa84e95" type="checkbox" name="elec" />
-				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="5fa84e95">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="295b455d" type="checkbox" name="elec" />
+				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="295b455d">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1803,8 +1802,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</label>
 			</div>
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="5fa84e951" type="checkbox" name="gas" />
-				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="5fa84e951">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="295b455d1" type="checkbox" name="gas" />
+				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="295b455d1">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1821,12 +1820,12 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Code postal		</label>
 		<div class="flex md:flex-row flex-col items-start md:items-center gap-4 sm:gap-6">
 			<div class="flex flex-col [&_div]:flex-1 w-full md:basis-6/12">
-				<input data-zipCode="5fa84e95" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
-				<div data-zipcodelist="5fa84e95" class="input rounded-xs px-0 hidden">
+				<input data-zipCode="295b455d" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
+				<div data-zipcodelist="295b455d" class="input rounded-xs px-0 hidden">
 					<ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
 					</ul>
 				</div>
-				<p data-zipcode-badnumber='5fa84e95' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+				<p data-zipcode-badnumber='295b455d' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
 				<div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
 					<img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
 					<div>
@@ -1834,8 +1833,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</div>
 			</div>
 			<div class="flex flex-row items-end relative md:basis-6/12">
-									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="5fa84e952" type="checkbox" checked />
-								<label class="cbx rounded-xs flex gap-1" for="5fa84e952">
+									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="295b455d2" type="checkbox" checked />
+								<label class="cbx rounded-xs flex gap-1" for="295b455d2">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1994,8 +1993,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 	<label class="block italic" for="">Type d’énergie</label>
 	<div class="flex flex-col sm:flex-row gap-2 sm:gap-5 mb-2">
 		<div class="flex-1 relative">
-			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="394d5db7" type="checkbox" checked />
-			<label class="cbx border-2 border-grey bg-greyLight  p-4 pr-0 rounded-xs flex" for="394d5db7">
+			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="f2108725" type="checkbox" checked />
+			<label class="cbx border-2 border-grey bg-greyLight  p-4 pr-0 rounded-xs flex" for="f2108725">
 				<span class="min-w-[22px] ml-[-27px] bg-white outline outline-2 outline-white outline-offset-0">
 					<svg width="18px" height="15px" viewbox="0 0 12 10">
 						<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2006,8 +2005,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			</label>
 		</div>
 		<div class="flex-1 relative">
-			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="394d5db71" type="checkbox" />
-			<label class="cbx border-2 border-grey bg-greyLight p-4 pr-0 rounded-xs flex" for="394d5db71">
+			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="f21087251" type="checkbox" />
+			<label class="cbx border-2 border-grey bg-greyLight p-4 pr-0 rounded-xs flex" for="f21087251">
 				<span class="min-w-[22px] ml-[-27px] bg-white outline outline-2 outline-white outline-offset-0">
 					<svg width="18px" height="15px" viewbox="0 0 12 10">
 						<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2043,8 +2042,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Type d’énergie		</label>
 		<div class="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-4">
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="b461a30c" type="checkbox" name="elec" />
-				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="b461a30c">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="e5ed3a28" type="checkbox" name="elec" />
+				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="e5ed3a28">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2057,8 +2056,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</label>
 			</div>
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="b461a30c1" type="checkbox" name="gas" />
-				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="b461a30c1">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="e5ed3a281" type="checkbox" name="gas" />
+				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="e5ed3a281">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2075,12 +2074,12 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Code postal		</label>
 		<div class="flex md:flex-row flex-col items-start md:items-center gap-4 sm:gap-6">
 			<div class="flex flex-col [&_div]:flex-1 w-full md:basis-6/12">
-				<input data-zipCode="b461a30c" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
-				<div data-zipcodelist="b461a30c" class="input rounded-xs px-0 hidden">
+				<input data-zipCode="e5ed3a28" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
+				<div data-zipcodelist="e5ed3a28" class="input rounded-xs px-0 hidden">
 					<ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
 					</ul>
 				</div>
-				<p data-zipcode-badnumber='b461a30c' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+				<p data-zipcode-badnumber='e5ed3a28' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
 				<div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
 					<img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
 					<div>
@@ -2088,8 +2087,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</div>
 			</div>
 			<div class="flex flex-row items-end relative md:basis-6/12">
-									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="b461a30c2" type="checkbox" />
-								<label class="cbx rounded-xs flex gap-1" for="b461a30c2">
+									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="e5ed3a282" type="checkbox" />
+								<label class="cbx rounded-xs flex gap-1" for="e5ed3a282">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2355,11 +2354,11 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
 <p>Comparez nos offres en quelques clics et réduisez votre facture d’énergie sans effort. Aucune paperasse, aucun frais caché : on s’occupe de tout pour vous.</p>                </div>
                                 </div>
     </div>
-    <div class="block max-md:ml-auto md:absolute right-0 bottom-0 top-0 w-[80%] md:w-[45%] lg:block lg:z-[-1]">
+    <div class="block max-md:ml-auto lg:absolute right-0 bottom-0 top-0 w-[80%] md:w-[45%] lg:block lg:z-[-1]">
         <picture>
             <source srcset="../../images/tarif-card-banana.webp" type="image/webp">
             <source srcset="../../images/tarif-card-banana.png" type="image/png">
-            <img class="w-full max-w-[690px] absolute right-0" src="../../images/tarif-card-banana.png" alt="Alt Text!">
+            <img class="w-full max-w-[690px] lg:absolute right-0" src="../../images/tarif-card-banana.png" alt="Alt Text!">
         </picture>
     </div>
 </section>
@@ -2381,12 +2380,12 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 <form data-check='form' action="" method="post">
                     <label class="block h4 mb-4" for="contact-zipCode">
                         Code postal                    </label>
-                    <input data-zipCode="c35a497a" data-check='zipCode' data-input-card="tarifCard" class="h-11 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
-                    <div data-zipcodelist="c35a497a" class="input rounded-xs px-0 hidden max-w-[400px]">
+                    <input data-zipCode="bf2e366c" data-check='zipCode' data-input-card="tarifCard" class="h-11 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
+                    <div data-zipcodelist="bf2e366c" class="input rounded-xs px-0 hidden max-w-[400px]">
                         <ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
                         </ul>
                     </div>
-                    <p data-zipcode-badnumber='c35a497a' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+                    <p data-zipcode-badnumber='bf2e366c' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
                     <div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
                         <img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
                         <div>
@@ -3798,7 +3797,7 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
 </div>					</div>
 					<div class="content mt-2">
 						<p>
-							Besoin de plus de 100 MWh en électricité ou gaz ?							<a class="link" href="https://www.mega.be/fr/">
+							Besoin de plus de 100 MWh en électricité ou gaz ?							<a class="link" href="https://www.mega.be/fr">
 								Laissez-nous vous faire une offre sur mesure.							</a>
 						</p>
 						<p>
@@ -4208,12 +4207,12 @@ Offre valable du 01/10/2026 au 31/10/2026. La réduction moyenne de 317€ corre
 		<span class="h-[1px] w-full bg-grey block mb-4"></span>
 		<div>
                         <form data-check='form' action="" method="post">
-                <input data-zipCode="6d4612ad" data-check='zipCode' data-input-card="tarifCard" data-modal-close="postcode_modal" class="h-8 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
-                <div data-zipcodelist="6d4612ad" class="input rounded-xs px-0 hidden max-w-[400px]">
+                <input data-zipCode="d5635e78" data-check='zipCode' data-input-card="tarifCard" data-modal-close="postcode_modal" class="h-8 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
+                <div data-zipcodelist="d5635e78" class="input rounded-xs px-0 hidden max-w-[400px]">
                     <ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
                     </ul>
                 </div>
-                <p data-zipcode-badnumber='6d4612ad' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+                <p data-zipcode-badnumber='d5635e78' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
                 <div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
                     <img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
                     <div>
@@ -4426,7 +4425,7 @@ Offre valable du 01/10/2026 au 31/10/2026. La réduction moyenne de 317€ corre
 											Droit de renonciation										</a>
 									</li>
 																	<li>
-										<a href="https://www.mega.be/fr/telecom/recaptitulatifs-contractuels" class="text-xs block mt-[2px] w-fit lg:pb-[2px] lg:relative lg:overflow-hidden lg:before:absolute lg:before:bottom-0 lg:before:h-[3px] lg:before:w-full lg:before:bg-yellow lg:before:transition-all lg:before:duration-300 lg:before:-translate-x-full lg:hover:before:translate-x-0">
+										<a href="https://www.mega.be/fr/telecom/recapitulatifs-contractuels" class="text-xs block mt-[2px] w-fit lg:pb-[2px] lg:relative lg:overflow-hidden lg:before:absolute lg:before:bottom-0 lg:before:h-[3px] lg:before:w-full lg:before:bg-yellow lg:before:transition-all lg:before:duration-300 lg:before:-translate-x-full lg:hover:before:translate-x-0">
 											Récapitulatifs contractuels										</a>
 									</li>
 																	<li>
@@ -4629,7 +4628,7 @@ Lorsque vous naviguez sur notre site web, vous pouvez toujours ajuster vos param
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.0/gsap.min.js"></script>
 -->
-<script defer src="./js/script.js?v=30983"></script>
+<script defer src="./js/script.js?v=32166"></script>
  
 <!-- <script>
     $('#playContent').click(function () {

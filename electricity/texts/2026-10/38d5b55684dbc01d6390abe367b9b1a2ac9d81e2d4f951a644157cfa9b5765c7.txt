@@ -52,7 +52,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=global-styles-inline-css */
 </style>
 
-<link rel='stylesheet' id='aspiravienergy-stylesheet-css' href='https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/css/main.css?ver=1782996662' media='all' />
+<link rel='stylesheet' id='aspiravienergy-stylesheet-css' href='https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/css/main.css?ver=1792510304' media='all' />
 <link rel='stylesheet' id='aspiravienergy-fontawesome-css' href='https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/inc/fontawesome/css/all.min.css?ver=7.1.3' media='' />
 <link rel='stylesheet' id='aspiravienergy-fontawesome-sharp-css' href='https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/inc/fontawesome/css/sharp-solid.min.css?ver=7.1.3' media='' />
 <link rel='stylesheet' id='aspiravienergy-slick-css' href='https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/inc/slick/slick.css?ver=7.1.3' media='' />
@@ -116,20 +116,19 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 				}
 			</style>
-   <!-- Favicon -->
-   <link rel="apple-touch-icon" sizes="180x180"
-      href="https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/favicon/apple-touch-icon.png">
+   <!-- Favicon (Aspiravi Energy Co-op — site-wide, so Google shows the co-op icon for every page) -->
+   <link rel="icon" type="image/png" sizes="96x96"
+      href="https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/favicon/co-op/favicon-96x96.png">
    <link rel="icon" type="image/svg+xml"
-      href="https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/favicon/favicon.svg">
-   <link rel="icon" type="image/png" sizes="32x32"
-      href="https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/favicon/favicon-32x32.png">
-   <link rel="icon" type="image/png" sizes="16x16"
-      href="https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/favicon/favicon-16x16.png">
-   <link rel="manifest" href="https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/favicon/site.webmanifest">
-   <link rel="mask-icon" href="https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/favicon/safari-pinned-tab.svg"
-      color="#004467">
-   <meta name="msapplication-TileColor" content="#004467">
-   <meta name="theme-color" content="#004467">
+      href="https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/favicon/co-op/favicon.svg">
+   <link rel="shortcut icon"
+      href="https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/favicon/co-op/favicon.ico">
+   <link rel="apple-touch-icon" sizes="180x180"
+      href="https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/favicon/co-op/apple-touch-icon.png">
+   <meta name="apple-mobile-web-app-title" content="Aspiravi Energy Co-op">
+   <link rel="manifest"
+      href="https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/favicon/co-op/site.webmanifest">
+   <meta name="theme-color" content="#31514A">
 
    <!-- Google Tag Manager -->
    <script>(function (w, d, s, l, i) {
@@ -334,7 +333,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
   </div>
           <input type="hidden" id="ajax_url" value="https://aspiravi-energy.be/wp-admin/admin-ajax.php">
         <input type="hidden" id="template-directory" value="https://aspiravi-energy.be/wp-content/themes/aspiravienergy"></div>
-    <script id="aspiravienergy-scripts-js" src="https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/js/main.js?ver=1782996696&#039;%20defer=&#039;defer"></script>
+    <script id="aspiravienergy-scripts-js" src="https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/js/main.js?ver=1792510314&#039;%20defer=&#039;defer"></script>
 </body>
 
 </html>
