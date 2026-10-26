@@ -1,0 +1,179 @@
+{
+ "_seen_on": "2026-10-26",
+ "_sources": [
+  {
+   "pdf": "7a0c7e022143e361d3111f1f509dde6b4ee838ca36e059c74774166a1effda9b",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/39d25788d8036479f8a82560927b0cfa86bb321a79cb2980ae7ca7733c5544c2.txt",
+   "url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/G-TSS-FR-2025-Q4.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "social",
+ "dsos": {
+  "fluvius_antwerpen": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     0.0,
+     0.0087
+    ],
+    "t2": [
+     0.0,
+     0.0087
+    ],
+    "t3": [
+     0.0,
+     0.0087
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_halle_vilvoorde": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     0.0,
+     0.0087
+    ],
+    "t2": [
+     0.0,
+     0.0087
+    ],
+    "t3": [
+     0.0,
+     0.0087
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_imewo": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     0.0,
+     0.0087
+    ],
+    "t2": [
+     0.0,
+     0.0087
+    ],
+    "t3": [
+     0.0,
+     0.0087
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_kempen": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     0.0,
+     0.0087
+    ],
+    "t2": [
+     0.0,
+     0.0087
+    ],
+    "t3": [
+     0.0,
+     0.0087
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_limburg": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     0.0,
+     0.0087
+    ],
+    "t2": [
+     0.0,
+     0.0087
+    ],
+    "t3": [
+     0.0,
+     0.0087
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_midden_vlaanderen": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     0.0,
+     0.0087
+    ],
+    "t2": [
+     0.0,
+     0.0087
+    ],
+    "t3": [
+     0.0,
+     0.0087
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_west": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     0.0,
+     0.0087
+    ],
+    "t2": [
+     0.0,
+     0.0087
+    ],
+    "t3": [
+     0.0,
+     0.0087
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_zenne_dijle": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     0.0,
+     0.0087
+    ],
+    "t2": [
+     0.0,
+     0.0087
+    ],
+    "t3": [
+     0.0,
+     0.0087
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "fee": 0.0,
+  "formula": null,
+  "kind": "variable",
+  "price": 0.0371
+ },
+ "publication_label": "2025-11",
+ "schema": 1,
+ "source_url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/G-TSS-FR-2025-Q4.pdf",
+ "supplier": "social",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0,
+  "excise": [],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2025-11-30"
+}

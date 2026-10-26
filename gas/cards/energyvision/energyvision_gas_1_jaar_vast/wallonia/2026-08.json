@@ -1,0 +1,70 @@
+{
+ "_seen_on": "2026-10-26",
+ "_sources": [
+  {
+   "pdf": "11204306b69d731025869dbafb33f0bdaae06234f4ae36f4e5f7e6395f3ebcc4",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/b852a1a40929402624ff1dbc2a6abe69a9d7de3130d9d92ad9f582a905fb1429.txt",
+   "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0826-GS1JVG-WAL-fr.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "archive",
+ "contract": "energyvision_gas_1_jaar_vast",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.042800000000000005
+    ],
+    "t2": [
+     140.93,
+     0.022000000000000002
+    ],
+    "t3": [
+     889.48,
+     0.0163
+    ]
+   },
+   "transport": 0.00165
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0463
+    ],
+    "t2": [
+     122.05,
+     0.0252
+    ],
+    "t3": [
+     962.74,
+     0.022400000000000003
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "fee": 75.0,
+  "kind": "fixed",
+  "price": 0.07
+ },
+ "publication_label": "2026-08",
+ "schema": 1,
+ "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0826-GS1JVG-WAL-fr.pdf",
+ "supplier": "energyvision",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0,
+  "excise": [],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-08-31"
+}

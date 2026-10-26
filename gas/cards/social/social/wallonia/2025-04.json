@@ -1,0 +1,71 @@
+{
+ "_seen_on": "2026-10-26",
+ "_sources": [
+  {
+   "pdf": "0da8a4427222d35a4d37d8d809cd9b0ca13fc56953e6bd0854d693307c8e6458",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "text": "texts/2026-10/e773e681793f2a876b9edae0a71c7a0916a7df747dee664c671469ed7e528a67.txt",
+   "url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/G-TSS-FR-2025-Q2.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "social",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     0.0,
+     0.0087
+    ],
+    "t2": [
+     0.0,
+     0.0087
+    ],
+    "t3": [
+     0.0,
+     0.0087
+    ]
+   },
+   "transport": 0.00165
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     0.0,
+     0.0087
+    ],
+    "t2": [
+     0.0,
+     0.0087
+    ],
+    "t3": [
+     0.0,
+     0.0087
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "fee": 0.0,
+  "formula": null,
+  "kind": "variable",
+  "price": 0.051550000000000006
+ },
+ "publication_label": "2025-04",
+ "schema": 1,
+ "source_url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/G-TSS-FR-2025-Q2.pdf",
+ "supplier": "social",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0,
+  "excise": [],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2025-04-30"
+}

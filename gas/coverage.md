@@ -28,6 +28,7 @@ blank cell is a month the archive does not hold.
 - [prijspunten](coverage/prijspunten.md): 1 row, 2026-07 to 2026-10
 - [servolt](coverage/servolt.md): 3 rows, 2026-01 to 2026-10
 - [smappee_smiles](coverage/smappee_smiles.md): 1 row, 2026-01 to 2026-10
+- [social](coverage/social.md): 3 rows, 2024-12 to 2026-10
 - [sparki](coverage/sparki.md): 4 rows, 2026-04 to 2026-10
 - [totalenergies](coverage/totalenergies.md): 19 rows, 2025-10 to 2026-10
 - [trevion](coverage/trevion.md): 1 row, 2025-07 to 2026-10
