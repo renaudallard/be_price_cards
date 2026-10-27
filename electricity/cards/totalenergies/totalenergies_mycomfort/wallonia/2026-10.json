@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-10-25T10:09:22.333846+00:00",
+ "_cached_at": "2026-10-27T10:59:56.759338+00:00",
  "_probe_key": null,
  "_schema_version": 84,
- "_seen_on": "2026-10-25",
+ "_seen_on": "2026-10-27",
  "_sources": [
   {
    "pdf": "d360ee5a4f4c76a033708dff3914a53ff2e6116f06f86d30190a2c5d66de6a07",
@@ -12,9 +12,9 @@
    "variant": "layout"
   },
   {
-   "pdf": "f20e4e74b2d60b29096636fb18a81b88388301dda0903e8593285045dc79428f",
+   "pdf": "739dd43f3d320b0f684bd8d08a3b2f5c0b887a9611caa206a222177254e8461c",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-10/cb7e11a53ad000462e0f8402aa6457f8fa28bb004039495db8a8a249dc016d08.txt",
+   "text": "texts/2026-10/0f1ac539856e28a232695aacefcaeb1fc444f70f1eb20c3115f784808111d5da.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT_ELECTRICITY_WAL_FR.pdf",
    "variant": "layout"
   },

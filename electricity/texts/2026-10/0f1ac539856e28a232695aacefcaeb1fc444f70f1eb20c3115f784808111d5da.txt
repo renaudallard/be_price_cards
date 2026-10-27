@@ -1,0 +1,139 @@
+Carte tarifaire
+Avantages de la formule * Coût de l’énergie
+fournie par TotalEnergies
+Coût de transport et distribution
+de l’énergie
+Contribution énergie verte
+Taxes et surcharges
+TVA
+90:2
+6202
+erbmetpes
+22
+| WR_RF_CELE_elbairaV
+trofmoCym_C2B
+| TSAF
+TotalEnergies myComfort Variable
+(cid:83)(cid:71)(cid:88)(cid:83)(cid:70)(cid:86)(cid:73)(cid:4)(cid:22)(cid:20)(cid:22)(cid:26)
+Conditions particulières relatives à la formule myComfort Variable
+• Électricité en Région wallonne
+• TVA (cid:26) % incluse
+"myComfort Variable"
+(cid:129)Electricitéverteetbelge
+(cid:129)Gérezvotrecontratdansl'appetsuivezvotre
+consommationglobaleparappareil
+(cid:129)Téléphonezetchattezavecunexpertenénergie
+(cid:129)Facturationpare-mailoucourrier
+*Basésuruneconsommationmoyennede2.500kWh/and'unefamille(ayantun
+compteurmonohoraire),etleprixmoyendesgestionnairesderéseaux.
+Conditions particulières applicables aux consommateurs 1. Tarifs fournisseur :
+résidentiels en Région wallonne. 1.1 [Coût de l’énergie fournie par TotalEnergies] :
+Ces conditions sont applicables aux nouveaux contrats pour Le prix variable de l’énergie et de la redevance fixe
+une durée d’un an établis en (cid:83) (cid:71) (cid:88) (cid:83) (cid:70) (cid:86) (cid:73) (cid:4) (cid:22) (cid:20) (cid:22) (cid:26) et aux contrats
+1.2 [Contribution énergie verte]:
+renouvelés en (cid:78) (cid:69) (cid:82) (cid:90) (cid:77) (cid:73) (cid:86) (cid:4) (cid:22) (cid:20) (cid:22) (cid:27) (pour les renouvellements, la
+Contribution instaurée par l’Etat pour soutenir le développement
+carte tarifaire est ainsi connue deux mois avant application).
+des énergies renouvelables
+L'offre"TotalEnergiesmyComfortVariable"estuneformule 2. Tarifs régulés [Coûts de réseaux et prélèvements] :
+tarifaireaccessibleauxconsommateursrésidentielsavecdes
+2.1 [Coût de transport et distribution de l’énergie](intégralement
+compteursàrelevéannuel. restitués aux GRD/GRT)
+Lesprixquivoussontfacturésenvertudevotrecontratsont
+2.2 [Taxes et surcharges]
+constituésde2parties: (intégralement restituées aux entités concernées)
+Coûts de l’énergie
+Prix de l’énergie 0
+Redevance
+fixe 1 (c€/kWh)
+(€/an) Compteur Compteur double** Compteur
+simple Heures pleines Heures creuses excl. nuit
+Consommation***
+(cid:22)(cid:23)(cid:16)(cid:25)(cid:27) (cid:22)(cid:25)(cid:16)(cid:25)(cid:25) (cid:22)(cid:21)(cid:16)(cid:28)(cid:24) (cid:22)(cid:22)(cid:16)(cid:24)(cid:27) Tarif mensuel
+(cid:29)(cid:20)
+(cid:20)(cid:18)(cid:21)(cid:20)(cid:29)(cid:26)(cid:4)(cid:14)(cid:4)(cid:38)(cid:41)(cid:48)(cid:52)(cid:41)(cid:60)(cid:49)(cid:67)(cid:54)(cid:48)(cid:52) (cid:20)(cid:18)(cid:21)(cid:22)(cid:22)(cid:4)(cid:14)(cid:4)(cid:38)(cid:41)(cid:48)(cid:52)(cid:41)(cid:60)(cid:49)(cid:67)(cid:54)(cid:48)(cid:52) (cid:20)(cid:18)(cid:20)(cid:29)(cid:28)(cid:28)(cid:4)(cid:14)(cid:4)(cid:38)(cid:41)(cid:48)(cid:52)(cid:41)(cid:60)(cid:49)(cid:67)(cid:54)(cid:48)(cid:52) (cid:20)(cid:18)(cid:21)(cid:20)(cid:23)(cid:24)(cid:4)(cid:14)(cid:4)(cid:38)(cid:41)(cid:48)(cid:52)(cid:41)(cid:60)(cid:49)(cid:67)(cid:54)(cid:48)(cid:52) Formule tarifaire
+(cid:15)(cid:4)(cid:25)(cid:18)(cid:28)(cid:28) (cid:15)(cid:4)(cid:25)(cid:18)(cid:28)(cid:28) (cid:15)(cid:4)(cid:25)(cid:18)(cid:28)(cid:28) (cid:15)(cid:4)(cid:25)(cid:18)(cid:27)(cid:28)
+Laformule(HTVA)présentéedansletableauci-dessusvapermettreàTotalEnergiesdecalculerleprixdel'énergieàdeuxmomentsdel'année.1/Aumomentde
+déterminerlemontantdelafactured'acompte,leprixdel'électricitéseradéterminésurbasedelavaleurdel’indicereprisdanscetteformule.2/Aumomentdela
+régularisationannuelle,laformuledeprixestutiliséepourcalculerleprixfinal.
+Qu'est-cequel'indice?L’indiceBELPEX_M_RLPreprésentelamoyennepondéréedescotationsjournalières«DayAheadBaseload»parleprofilRLPdurantlemois
+defourniture.LesvaleursduBelpexsontdisponiblessurlesitehttps://www.epexspot.com/en.Qu'est-cequeleprofilRLP?LeprofilRLPcorrespondàlamoyenne
+arithmétiquedesprofilsdeconsommationsRLP(=RealLoadProfiles)detouslesgestionnairesderéseauenBelgiquepubliésparSynergrid.
+**Letarifbihorairen'estpascompatibleaveclastructuretarifaireincitative(TarifIMPACT) dugestionnaireduréseaudedistributionpourlaquellevouspouvez
+opterdepuisjanvier2026.
+***Lesprixreprisdansletableauci-dessusetindexésmensuellementsontestiméspourleprélèvementdel'énergieselonlaméthodologieduVlaamse
+Nutsregulator:https://www.vlaamsenutsregulator.be/nl/faq/hoe-berekent-de-v-testr-de-geschatte-jaarkost-voor-variabele-contracten.Lavaleurexactedel’indice
+reprisdansvotreformulen’estconnuequ’àlafindumoisencours.Cetteméthodologienouspermetdecalculeruneestimationdesprixfutursafind'êtreauplus
+prochedesévolutionsdesprixdel'énergie.
+Atitreindicatif,ci-dessouslesprixmensuelscalculéssurbasedeladernièrevaleurconnueduBELPEX_M_RLP(dumoisprécédent):
+Consommation
+Compteur Simple : (cid:22)(cid:25)(cid:18)(cid:21)(cid:27) € cent/kWh
+Compteur Double
+Heures Pleines : (cid:22)(cid:27)(cid:18)(cid:23)(cid:23) € cent/kWh
+Heures Creuses : (cid:22)(cid:23)(cid:18)(cid:22)(cid:28) € cent/kWh
+Compteur Excl. Nuit : (cid:22)(cid:23)(cid:18)(cid:29)(cid:28) € cent/kWh
+90:2
+6202
+erbmetpes
+22
+| WR_RF_CELE_elbairaV
+trofmoCym_C2B
+| TSAF
+Carte tarifaire
+TotalEnergies myComfort Variable
+(cid:83)(cid:71)(cid:88)(cid:83)(cid:70)(cid:86)(cid:73)(cid:4)(cid:22)(cid:20)(cid:22)(cid:26)
+Coûts de réseaux et prélèvements
+Coûts de transport et de distribution Taxes et surcharges 4
+Ces surcharges sont intégralement reversées aux gestionnaires de réseaux de distribution et Ces surcharges sont intégralement
+de transport. reversées aux autorités publiques.
+Distribution 2 (c€/kWh) Coût Tarif capacitaire 8
+activité (€/kWh)
+Gestionnaire Tarif IMPACT 7 de Transport 3 Tarif Tarif
+de réseau Bi-horaire Bi-horaire mesure prosumer 6 Tarif
+Mono- Exclusif (c€/kWh) de puissance
+de distribution Heures Heures et (€/kVA/an) de base -
+horaire pleines creuses nuit He P u IC res M H E e D u I r U es M H E e C ur O es co ( m €/ p a t n a ) ge ≤ p 1 o 2 in ,7 t e k s W sup > p p l 1 é o 2 m in ,7 e t e n k s t W a ire -
+Région wallonne
+AIEG (cid:21)(cid:20)(cid:16)(cid:28)(cid:27) (cid:21)(cid:22)(cid:16)(cid:20)(cid:25) (cid:26)(cid:16)(cid:26)(cid:26) (cid:26)(cid:16)(cid:26)(cid:26) (cid:21)(cid:25)(cid:16)(cid:20)(cid:28) (cid:29)(cid:16)(cid:28)(cid:22) (cid:24)(cid:16)(cid:25)(cid:26) (cid:21)(cid:29)(cid:16)(cid:24)(cid:29) (cid:22)(cid:16)(cid:27)(cid:24) (cid:28)(cid:21)(cid:16)(cid:20)(cid:23) 0.00 0.00
+AIESH (cid:21)(cid:23)(cid:16)(cid:26)(cid:24) (cid:21)(cid:25)(cid:16)(cid:21)(cid:27) (cid:28)(cid:16)(cid:22)(cid:21) (cid:28)(cid:16)(cid:22)(cid:21) (cid:21)(cid:29)(cid:16)(cid:20)(cid:27) (cid:21)(cid:22)(cid:16)(cid:22)(cid:28) (cid:25)(cid:16)(cid:25)(cid:20) (cid:21)(cid:27)(cid:16)(cid:29)(cid:23) (cid:22)(cid:16)(cid:27)(cid:24) (cid:29)(cid:29)(cid:16)(cid:22)(cid:29) 0.00 0.00
+RESA SA (cid:21)(cid:21)(cid:16)(cid:20)(cid:26) (cid:21)(cid:22)(cid:16)(cid:22)(cid:20) (cid:27)(cid:16)(cid:20)(cid:21) (cid:27)(cid:16)(cid:20)(cid:21) (cid:21)(cid:25)(cid:16)(cid:21)(cid:21) (cid:21)(cid:20)(cid:16)(cid:20)(cid:25) (cid:24)(cid:16)(cid:29)(cid:29) (cid:22)(cid:26)(cid:16)(cid:25)(cid:20) (cid:22)(cid:16)(cid:27)(cid:24) (cid:28)(cid:24)(cid:16)(cid:22)(cid:22) 0.00 0.00
+ORES (Namur - Namen) (cid:21)(cid:21)(cid:16)(cid:29)(cid:28) (cid:21)(cid:23)(cid:16)(cid:22)(cid:27) (cid:27)(cid:16)(cid:23)(cid:29) (cid:27)(cid:16)(cid:23)(cid:29) (cid:21)(cid:26)(cid:16)(cid:25)(cid:27) (cid:21)(cid:20)(cid:16)(cid:28)(cid:23) (cid:25)(cid:16)(cid:20)(cid:29) (cid:21)(cid:24)(cid:16)(cid:21)(cid:20) (cid:22)(cid:16)(cid:27)(cid:24) (cid:28)(cid:25)(cid:16)(cid:28)(cid:24) 0.00 0.00
+ORES(Hainaut - Henegouwen) (cid:21)(cid:21)(cid:16)(cid:29)(cid:28) (cid:21)(cid:23)(cid:16)(cid:22)(cid:27) (cid:27)(cid:16)(cid:23)(cid:29) (cid:27)(cid:16)(cid:23)(cid:29) (cid:21)(cid:26)(cid:16)(cid:25)(cid:27) (cid:21)(cid:20)(cid:16)(cid:28)(cid:23) (cid:25)(cid:16)(cid:20)(cid:29) (cid:21)(cid:24)(cid:16)(cid:21)(cid:20) (cid:22)(cid:16)(cid:27)(cid:24) (cid:28)(cid:25)(cid:16)(cid:28)(cid:24) 0.00 0.00
+ORES (Est) (cid:21)(cid:21)(cid:16)(cid:29)(cid:28) (cid:21)(cid:23)(cid:16)(cid:22)(cid:27) (cid:27)(cid:16)(cid:23)(cid:29) (cid:27)(cid:16)(cid:23)(cid:29) (cid:21)(cid:26)(cid:16)(cid:25)(cid:27) (cid:21)(cid:20)(cid:16)(cid:28)(cid:23) (cid:25)(cid:16)(cid:20)(cid:29) (cid:21)(cid:24)(cid:16)(cid:21)(cid:20) (cid:22)(cid:16)(cid:27)(cid:24) (cid:28)(cid:25)(cid:16)(cid:28)(cid:24) 0.00 0.00
+ORES(Luxembourg - Luxemburg) (cid:21)(cid:21)(cid:16)(cid:29)(cid:28) (cid:21)(cid:23)(cid:16)(cid:22)(cid:27) (cid:27)(cid:16)(cid:23)(cid:29) (cid:27)(cid:16)(cid:23)(cid:29) (cid:21)(cid:26)(cid:16)(cid:25)(cid:27) (cid:21)(cid:20)(cid:16)(cid:28)(cid:23) (cid:25)(cid:16)(cid:20)(cid:29) (cid:21)(cid:24)(cid:16)(cid:21)(cid:20) (cid:22)(cid:16)(cid:27)(cid:24) (cid:28)(cid:25)(cid:16)(cid:28)(cid:24) 0.00 0.00
+ORES (Verviers) (cid:21)(cid:22)(cid:16)(cid:24)(cid:28) (cid:21)(cid:23)(cid:16)(cid:27)(cid:28) (cid:27)(cid:16)(cid:28)(cid:24) (cid:27)(cid:16)(cid:28)(cid:24) (cid:21)(cid:26)(cid:16)(cid:25)(cid:27) (cid:21)(cid:20)(cid:16)(cid:28)(cid:23) (cid:25)(cid:16)(cid:20)(cid:29) (cid:22)(cid:26)(cid:16)(cid:24)(cid:24) (cid:22)(cid:16)(cid:27)(cid:24) (cid:29)(cid:23)(cid:16)(cid:20)(cid:20) 0.00 0.00
+REGIE DE WAVRE (cid:21)(cid:21)(cid:16)(cid:29)(cid:28) (cid:21)(cid:23)(cid:16)(cid:22)(cid:27) (cid:27)(cid:16)(cid:23)(cid:29) (cid:27)(cid:16)(cid:23)(cid:29) (cid:21)(cid:27)(cid:16)(cid:21)(cid:21) (cid:21)(cid:21)(cid:16)(cid:23)(cid:22) (cid:25)(cid:16)(cid:25)(cid:22) (cid:21)(cid:24)(cid:16)(cid:21)(cid:20) (cid:22)(cid:16)(cid:27)(cid:24) (cid:28)(cid:25)(cid:16)(cid:28)(cid:24) 0.00 0.00
+ORES (Waals-Brabant Wallon) (cid:21)(cid:21)(cid:16)(cid:29)(cid:28) (cid:21)(cid:23)(cid:16)(cid:22)(cid:27) (cid:27)(cid:16)(cid:23)(cid:29) (cid:27)(cid:16)(cid:23)(cid:29) (cid:21)(cid:26)(cid:16)(cid:25)(cid:27) (cid:21)(cid:20)(cid:16)(cid:28)(cid:23) (cid:25)(cid:16)(cid:20)(cid:29) (cid:21)(cid:24)(cid:16)(cid:21)(cid:20) (cid:22)(cid:16)(cid:27)(cid:24) (cid:28)(cid:25)(cid:16)(cid:28)(cid:24) 0.00 0.00
+ORES(Mouscron - Moeskroen) (cid:21)(cid:21)(cid:16)(cid:29)(cid:28) (cid:21)(cid:23)(cid:16)(cid:22)(cid:27) (cid:27)(cid:16)(cid:23)(cid:29) (cid:27)(cid:16)(cid:23)(cid:29) (cid:21)(cid:26)(cid:16)(cid:25)(cid:27) (cid:21)(cid:20)(cid:16)(cid:28)(cid:23) (cid:25)(cid:16)(cid:20)(cid:29) (cid:21)(cid:24)(cid:16)(cid:21)(cid:20) (cid:22)(cid:16)(cid:27)(cid:24) (cid:28)(cid:25)(cid:16)(cid:28)(cid:24) 0.00 0.00
+Accise fédérale 5 c€/kWh Suppléments c€/kWh
+Consommation entre 0 et 3.000 kWh (cid:24)(cid:16)(cid:28)(cid:28) Cotisation sur l’énergie (cid:20)(cid:16)(cid:22)(cid:20)
+Consommation entre 3.000 et 20.000 kWh (cid:24)(cid:16)(cid:28)(cid:28) Redevance de raccordement (cid:20)(cid:16)(cid:20)(cid:27)
+Consommation entre 20.000 et 50.000 kWh (cid:24)(cid:16)(cid:28)(cid:28)
+Consommation entre 50.000 et 1.000.000 kWh 4,88
+TotalEnergiesgarantitauxclientsrésidentielssignantuncontrat100%vertquecetengagementserarespectépendantladuréedeleurcontrat.
+L'offreTotalEnergiesmyComfortVariableestsoumiseauxconditionsdeTotalEnergies
+(https://totalenergies.be/fr/particuliers/conditions-generales-totalenergies-groupe).
+•Rendez-vous sur votre espace client
+Besoin d’aide? •Consultez notre FAQ
+https://totalenergies.be/fr/particuliers/aide-et-contact/
+questions-frequentes
+•Posez vos questions via notre chat
+0Lesprixdel'énergieetlesformulestarifairesindiquéssurlaprésentecartetarifairecomprennentlaContributionÉnergieVerte(CEV),dontlemontantestfixéà: (cid:23)(cid:16)(cid:23)(cid:26) € cent/kWh
+1Laredevancefixeestuneindemnitéforfaitaireparraccordementélectrique.EncasderésiliationanticipéeparleClientsixmoisaprèsledébutdelafournitureconformémentaucontratde
+fournitureinitialouencasderésiliationàpartirdeladeuxièmeannée,uneredevancefixeserafacturéeauproratadunombredejoursdefourniture.
+2TotalEnergiesintervientdanslacollectedescoûtsderéseaudedistributionentantqu'intermédiaire.LessommesperçuessontintégralementrestituéesauxGestionnairesdeRéseaude
+Distribution(GRD).Tarifsderéseaudedistributiontelsqu'approuvésparlerégulateurrégional(CWaPE)etpubliéssursonsiteofficiel(www.cwape.be).
+3TotalEnergiesintervientdanslacollectedescoûtsderéseaudetransportentantqu'intermédiaire.LessommesperçuessontintégralementrestituéesauGestionnairedeRéseaude
+Transport(GRT),Elia.Tarifsderéseaudetransporttelsqu'approuvésparlerégulateurfédéral(CREG)etpubliéssursonsiteofficiel(www.creg.be).
+4Lescontributions,taxesetsurchargestellesqu'envigueuràladatedel'établissementdecettecartetarifaire(publiéssurlesiteofficielwww.cwape.be).Toutemodificationlégaledes
+taxes,cotisationsoucontributionsserarépercutéeauclientsansmajoration.
+5LeproduitdecettecotisationfédéraleestdestinéaufinancementdecinqfondsgérésparlaCREG:lefondsdedénucléarisation,lefondsCREG,lefondssocialénergie,lefondsgazàeffet
+deserreetlefondsclientsprotégés.Lemontantdecettecotisationestfixépararrêtéenapplicationdelaloidu29avril1999relativeàl'organisationdumarchédel'électricité.LaCREGest
+habilitéeàcontrôlerlacorrecteapplicationdesdispositionsrelativesàlacotisationfédérale.
+6Exemplepourunefamille:Installationde2,9kWdanslarégionInter-Energa:2,9kWx85,4865(cid:413)=247,91(cid:413)(TVAincl.).
+7Letarif‘‘IMPACT’’estunenouvelletarificationincitativecomprenanttroisprixparjour.Plusd’information:https://www.cwape.be/
+8Letarifcapacitaires'appliquepourlescompteursélectroniquesdontlafonctioncommunicanteestactive.Pourlesannées2026à2029,cetarifestfixéà0(cid:413)/kWh.
+Conformémentàl'article6.4.desconditionsgénéralesdeventepourlafournitured'électricitéet/oudegaznaturelauxparticuliers,leClientquiremplitlesconditionsduTarifSocial
+conformémentàl'article2del'arrêtéministérieldu30mars2007,ouconformémentàl'article4delaLoiProgrammedu27avril2007,ouconformémentàlalégislationquilesremplacerait,
+peutbénéficierduTarifSocial.AcompterdumomentoùleTarifSocialestappliqué,leClientbénéficiedecetarifspécifiqueetlesconditionsparticulièresdeceTarifSocials'appliquerontau
+Client.
