@@ -8,7 +8,7 @@
   },
   {
    "pdf": "14bf62a82af6be633d56f90b34d443207f129bc54b87e2f281b0a7f2cf6c1469",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/9215ee0c6456848450653ad19b359ccc57dba258a4db6da9cbbbee2c5ce40933.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Juni_Tariefkaart_Energie_be_Vast_NG_Res_4a48cc9950.pdf",
    "variant": "layout"

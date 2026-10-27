@@ -1,0 +1,53 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "text": "texts/2026-10/2a1c7079b29f794406637f482d0ba5275b153e31c9bdb85084d2ebc6fbaef96c.txt",
+   "url": "https://www.luminus.be/api/pricelist/products?language=FR&customerSegment=Residential&energyType=Gas&region=Flanders&signing=2024-06",
+   "variant": "text"
+  },
+  {
+   "pdf": "ff39ab86a5c180b5937ef6a3312b11b0658bd88fb7cddd14bf4bbbe612e854d6",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/cfd06096f78b80a736ff3910902d1974984c8efd08057143407edad6b6bd0bec.txt",
+   "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000BygAeAAJ&date=2024-06&region=Flanders&inline=true",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "luminus_comfyflex",
+ "dsos": {},
+ "energy": {
+  "base": 0.0165201,
+  "factor": 0.0010600000000000002,
+  "fee": 42.4,
+  "formula": "0,1000 x TTF DAHW + 0,0000 x TTF 1-0-3 + 1,5585",
+  "index": "TTF DAHW",
+  "kind": "indexed",
+  "period": "quarter",
+  "price": 0.045599999999999995,
+  "settled": false
+ },
+ "publication_label": "2024-06",
+ "schema": 1,
+ "source_url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000BygAeAAJ&date=2024-06&region=Flanders&inline=true",
+ "supplier": "luminus",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0010580000000000001,
+  "excise": [
+   [
+    12000.0,
+    0.008723999999999999
+   ],
+   [
+    null,
+    0.008958
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2024-06-30"
+}

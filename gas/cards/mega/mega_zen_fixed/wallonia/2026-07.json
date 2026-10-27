@@ -8,7 +8,7 @@
   },
   {
    "pdf": "cd330430f528ad111dab016a4a0ec5c99d415cec97762257620a1802cc8da72e",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/68a551dd34d32790e6c475c3d8a13adbdb99f8538c3ba6c08d3af7b7700a0593.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-072026-Zen0107-Fix.pdf",
    "variant": "plain"

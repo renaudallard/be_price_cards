@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "df06b380eefe9271e77559edd44eaf360d9ea9a18f307d1b84aa8a03ec7832f0",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/00b1b7c3aed469281862301c45a4128b4287819e98c0049d545991c4499a4df5.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0726-GS1JVG-nl.pdf",
    "variant": "layout"

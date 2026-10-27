@@ -1,0 +1,50 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "text": "texts/2026-10/5ecf187641b66d4f4ba2952e4bb90981c29b7be574dcd4820efbef14179a2029.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTarifArchive?Lang=FR&Region=VL&AnneeMois=202310&Nrj=G&Canal=website&TypeContrat=RE",
+   "variant": "text"
+  },
+  {
+   "text": "texts/2026-10/ab2aaa1a648242b6fffdbd87b8ba74eba567784bb92d02501bf20316229e0b84.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2023-10+G+OCTA%2BFIXED+RE+VL+FR.pdf",
+   "variant": "text"
+  },
+  {
+   "pdf": "afb79d8bc4dceb78a1938acf0ec2af76702f10956a1d65bb799574375f8d5d91",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/f52eab866c02cbcf18ef8d5e6a2bbba8870cd88073f1f64d31c5d38b7506cd1b.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2023-10+G+OCTA%2BFIXED+RE+VL+FR.pdf",
+   "variant": "layout"
+  },
+  {
+   "pdf": "afb79d8bc4dceb78a1938acf0ec2af76702f10956a1d65bb799574375f8d5d91",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/79c747f724123c3edc09cb92c48cf53d8d2234d966ec6ff31d95947b27c850d0.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2023-10+G+OCTA%2BFIXED+RE+VL+FR.pdf",
+   "variant": "rows"
+  }
+ ],
+ "_via": "archive",
+ "contract": "octaplus_fixed",
+ "dsos": {},
+ "energy": {
+  "fee": 65.0,
+  "kind": "fixed",
+  "price": 0.08289999999999999
+ },
+ "publication_label": "2023-10",
+ "schema": 1,
+ "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2023-10+G+OCTA%2BFIXED+RE+VL+FR.pdf",
+ "supplier": "octaplus",
+ "taxes": {
+  "card_vat_rate": null,
+  "connection_fee": 0.0,
+  "contribution": 0.0,
+  "excise": [],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2023-10-31"
+}

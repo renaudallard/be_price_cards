@@ -8,7 +8,7 @@
   },
   {
    "pdf": "18568774e415caf45688d26a915bdec25277bd0cee168bf667d20109c94fa5f4",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/e50b2b24f360228d9f6d11746f6c77a04249fb15f6621ce959fcdd5c868dd41e.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-022024-Prepaid.pdf",
    "variant": "plain"

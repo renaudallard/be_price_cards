@@ -8,7 +8,7 @@
   },
   {
    "pdf": "571924c68f50894376a99fd5f302d86da32d3b5cf4695ddcf4097ee7753ee69e",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/c96b7fd117c3f333a9aa8ee73f32796256c4dcb375891c924563f2f43dfafa41.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-072024-Smart0107-Fixed.pdf",
    "variant": "plain"

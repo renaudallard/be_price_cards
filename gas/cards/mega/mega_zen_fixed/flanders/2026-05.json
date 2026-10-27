@@ -8,7 +8,7 @@
   },
   {
    "pdf": "229120b29f2ece54af3d4370d2b8affea5dff9db05cc1cf3d84a39aaacecd2a7",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/b11400455284442b268ecc2002b75853e12101ea370d1a294c427d261425e4a1.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-052026-Zen0105-Fix.pdf",
    "variant": "plain"

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "e6d2fee6b84622988cb0f9b06a23d676a11d4475b840532eacc3bd539aba8a1d",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/bc4cd6b8628f8f1b077c2070685ffc701029daaf7f58c3966133fbbb14e5adc2.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-022026-Online0102-Fixed.pdf",
    "variant": "plain"

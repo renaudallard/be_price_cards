@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-10-20",
+ "_seen_on": "2026-10-27",
  "_sources": [
   {
-   "text": "texts/2026-10/3c4069a835cfecd9d11ffaa79a52f7eed1de6bdabd9ed439b6810829f04bf3cb.txt",
+   "text": "texts/2026-10/9129853a42a4b29b8d5fd219910ed021c0a41d935b24a2ecc107b16115a7f941.txt",
    "url": "https://www.smappeesmiles.be/products",
    "variant": "text"
   },
   {
    "pdf": "5341a75c2d492293f9e259f35c1b74d2d183430863766ea9b5a05faefb953c47",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/b102d44e8fbf2fb7a7680530eb9751475aa817c388d47c1b34adc1928bb25bcd.txt",
    "url": "https://www.smappeesmiles.be/web/content/xx.product.group.tariff.card/1907/file",
    "variant": "plain"

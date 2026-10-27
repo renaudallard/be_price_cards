@@ -8,7 +8,7 @@
   },
   {
    "pdf": "b340de2ae3cd487996c210a1b24969ae6a72f8ca35eff3997ceabd4c99e77f51",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/0e1a57b85bb9bf0f3cbc55e0046ba1c78293b006ecd5351d856085fde956c36d.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-092025-Online0109-Fixed.pdf",
    "variant": "plain"

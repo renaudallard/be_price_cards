@@ -8,7 +8,7 @@
   },
   {
    "pdf": "fdc8318b5388c3dd5e850b4d039729432071d26a7fef798cb86038fd4940eb8e",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/c499db5c7a1e980b4d70f695ccf59684f84786437bd243eac8aedfef0c42447b.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-062026-Prepaid0106-Fix.pdf",
    "variant": "plain"

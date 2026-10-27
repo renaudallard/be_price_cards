@@ -8,14 +8,14 @@
   },
   {
    "pdf": "3cf527f163933cb8b9ea96e0d6c3ac6cdd10e368d1d37e22e9cebaf6681cf273",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/81823eca093371d411048bf24cdce5a7c515072e2ebdf1c704f4427637b096b2.txt",
    "url": "https://cdn.sanity.io/files/8navd656/production-be/0c2154ca7ccc9625bd8f8fb37363a45e7d031864.pdf",
    "variant": "layout"
   },
   {
    "pdf": "a1caaac698c450c591f0180093f257cd071f8f35733985c59718ae2b544ff1bd",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/f7a165231b715c5acb33297e6ad02250f7e4080192ad588b5062a87913c8ea5a.txt",
    "url": "https://cdn.sanity.io/files/8navd656/production-be/e69cabe48032ddcfd845a1e5a036af307c45e064.pdf",
    "variant": "layout"

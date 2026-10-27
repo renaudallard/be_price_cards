@@ -1,0 +1,56 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "text": "texts/2026-10/02f724b150ddfd367a82e4d0aba4f51c60ae0f995214e70fb44eb27c50c79ae0.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTarifArchive?Lang=FR&Region=VL&AnneeMois=202503&Nrj=G&Canal=website&TypeContrat=RE",
+   "variant": "text"
+  },
+  {
+   "text": "texts/2026-10/1ef6189bf0d5d592f5439364735482a9691a475210f01998e918c9fd65c57f3f.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-03+G+OCTA%2BSMARTVARIABLE+RE+VL+FR.pdf",
+   "variant": "text"
+  },
+  {
+   "pdf": "93ce99bb7e43cddf6ff8faa92e0af0792840364fccb6100d7b3bffe125829c92",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/c9959824fab1202fb5b791d09db28809b00eb5d768dfa71324949f6ed7f51862.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-03+G+OCTA%2BSMARTVARIABLE+RE+VL+FR.pdf",
+   "variant": "layout"
+  },
+  {
+   "pdf": "93ce99bb7e43cddf6ff8faa92e0af0792840364fccb6100d7b3bffe125829c92",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/15eb3d5dd660ebfa45dd0401be9fa30ce98b30a7ae362c3147d82e27c9db51ba.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-03+G+OCTA%2BSMARTVARIABLE+RE+VL+FR.pdf",
+   "variant": "rows"
+  }
+ ],
+ "_via": "archive",
+ "contract": "octaplus_smartvariable",
+ "dsos": {},
+ "energy": {
+  "base": 0.0106,
+  "factor": 0.001219,
+  "fee": 160.0,
+  "formula": "ZTP RLP M* 1,15+ 10",
+  "index": "ZTP RLP M",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0729,
+  "settled": false
+ },
+ "publication_label": "2025-03",
+ "schema": 1,
+ "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-03+G+OCTA%2BSMARTVARIABLE+RE+VL+FR.pdf",
+ "supplier": "octaplus",
+ "taxes": {
+  "card_vat_rate": null,
+  "connection_fee": 0.0,
+  "contribution": 0.0,
+  "excise": [],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2025-03-31"
+}

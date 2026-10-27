@@ -1,0 +1,48 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "pdf": "271770707aad6d883d5315f4b68e5c7745e2f23163e880c76622ee5600a5aae1",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/2ff9919af2a5b41b9dd39e16f81753651ae41587128151f2398913a15fb53390.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EMPTYHOUSE_R_GREY_C_I_00_V_F&monthOffset=24&segment=R&language=F",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "engie_empty_house",
+ "dsos": {},
+ "energy": {
+  "base": 0.018592400000000002,
+  "factor": 0.0021200000000000004,
+  "fee": 0.0,
+  "formula": "Prélèvement: 1,7540 + (0,2000 x ZTPDAM (Heren)",
+  "index": "ZTPDAM",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.09541000000000001,
+  "settled": false
+ },
+ "publication_label": "2024-10",
+ "schema": 1,
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EMPTYHOUSE_R_GREY_C_I_00_V_F&monthOffset=24&segment=R&language=F",
+ "supplier": "engie",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087238
+   ],
+   [
+    null,
+    0.0098468
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2024-10-31"
+}

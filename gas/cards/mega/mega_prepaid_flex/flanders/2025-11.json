@@ -8,7 +8,7 @@
   },
   {
    "pdf": "a11701e90ae5af32acb9df4d6880a13d3f1fac71bcc66f2d9a8aa369a058f25c",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/d4874e37904395107cb9f6628bd11debf86dea800afc9f4f77401afe7f3fa940.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-112025-Prepaid.pdf",
    "variant": "plain"

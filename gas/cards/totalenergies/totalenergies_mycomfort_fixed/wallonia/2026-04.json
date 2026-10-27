@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "7f84e4601a39cb38571d3ce6f30cf0514aa5260f70be405a0e531d20afd9a2a4",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/d495207ccd9a81f056de43ae910a7fdb1f01806846e7b6388ae173cea4a8057e.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_4_MYCOMFORT-FIXED_GAS_WAL_FR.pdf",
    "variant": "layout"

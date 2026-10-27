@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "0f3b3335b22260107d2a871a2ac79547e4df5c0ed2634c6e946e06c516fbe188",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/ef937bac50ac21bfc932a705389da7bd677157994c6dc473344f587fefcc895d.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_1_MYESSENTIAL_GAS_WAL_FR.pdf",
    "variant": "layout"

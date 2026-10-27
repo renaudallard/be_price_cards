@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "08a7fc1756800fe55de9cc793637cf8fa5c27f7e422248d6d6772eb713582c06",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/515ba36b8b600b9dc6038d6d93b46289f0f9d04eeda705fefbd04092a9f809b1.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EASY_R_GREY_C_I_36_B_F&monthOffset=30&segment=R&language=F",
    "variant": "plain"

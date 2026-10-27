@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "0da8a4427222d35a4d37d8d809cd9b0ca13fc56953e6bd0854d693307c8e6458",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/e773e681793f2a876b9edae0a71c7a0916a7df747dee664c671469ed7e528a67.txt",
    "url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/G-TSS-FR-2025-Q2.pdf",
    "variant": "plain"

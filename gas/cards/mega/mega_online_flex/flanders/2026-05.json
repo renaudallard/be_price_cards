@@ -8,7 +8,7 @@
   },
   {
    "pdf": "5c64aa34a03f081a7b58fa6d8f7bf46dd48be0b0abed4aec003bb285ca9c4725",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/ff9d2dca76e415109b6920a425cc4b5f16cfe4af653155e75bb15c8606f7b0f0.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-052026-Online0105.pdf",
    "variant": "plain"

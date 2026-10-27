@@ -8,7 +8,7 @@
   },
   {
    "pdf": "c62710d8698c0c4cd86c8189055c69cb7fa85768461817ee8c245a2a0ae30178",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/8304e9e48f0857e08ee9ef392fddf2ac47e9101aa7d665ecac8d95b1ebb3af34.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-032026-Cosy0103.pdf",
    "variant": "plain"

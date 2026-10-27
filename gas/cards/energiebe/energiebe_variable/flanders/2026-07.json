@@ -8,7 +8,7 @@
   },
   {
    "pdf": "f0f31b10f4538b40a80ea3e619a6a847051c34de9aeb941073947f5054269b4f",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/40d9ad99f20cc5dae80bc4db6f3671ae1a8310bd437ba292a6f4053a0233d591.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Juli_Tariefkaart_Energie_be_Variabel_NG_Res_ff6c605b76.pdf",
    "variant": "layout"

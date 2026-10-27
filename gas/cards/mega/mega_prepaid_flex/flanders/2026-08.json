@@ -8,7 +8,7 @@
   },
   {
    "pdf": "507d74bb13ccea6c4c58b652dc669451a23a2d26a1e626f26a304906d7273e2c",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/8c6fa5a77e32bb4c048c9320ca1cdf19c2310f63d28835a28b45ce461306ad5e.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-082026-Prepaid.pdf",
    "variant": "plain"

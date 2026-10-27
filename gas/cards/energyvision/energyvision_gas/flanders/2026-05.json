@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "5d077472a3a81c16df960134da998737647f2f420fe691c37bd7429c6166539a",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/29ebe4db36adb256178150c4e3bb1b89039f37605cfe395a5bca75c8ce8ca974.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0526-GSG-nl.pdf",
    "variant": "layout"

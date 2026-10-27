@@ -8,7 +8,7 @@
   },
   {
    "pdf": "44121491befd88fe3ed7e77dd68371e908189d87aac55d498ce97132c6162245",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/8a512523738e5d7c594e6b9ba133cc3773652ec1446e273ce2f0160ca555eaf7.txt",
    "url": "https://www.elegant.be/api/tarief-archief/tariff-chart?tariffChartPath=%2Fapi%2Fv1%2Ftariff-charts%3FproductOfferKey%3DZekerVastGas_20260301%26proposalDate%3D2026-03-01T00%253A00%253A00.0000000%252B01%253A00%26Partner%3DElegant%26Channel%3DOnline%26Campaign%3DNone%26Process%3DContractSignup%26CustomerType%3DResidential%26archive%3Dtrue%26Language%3DDutch",
    "variant": "layout"

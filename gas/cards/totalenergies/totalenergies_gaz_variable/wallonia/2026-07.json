@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "c2a98705871b261f51cfdbb688e8ffbf683306f1dc35b2ea7d8e400d36d69b06",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/983d4a945d43e581a78597ba20a1d92695d478bf7c527b3552c199c5d3dd3e59.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_7_GAZ-VARIABLE_GAS_WAL_FR.pdf",
    "variant": "layout"

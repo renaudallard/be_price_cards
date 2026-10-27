@@ -8,7 +8,7 @@
   },
   {
    "pdf": "599edbafc4ae970d02fa85a041db95599c1a1903862ce334900c81789c076014",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/572b072a7d512d583ae3685494fed86fa31ab5bf6ee5c7b4dfbbd167bdb6e6b3.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-032026-Offpeak-Bi0103-Fix.pdf",
    "variant": "plain"

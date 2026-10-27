@@ -1,0 +1,90 @@
+Tarif : Smart Variable
+Clients résidentiels en Flandre - 11/2023 - Tarifs 6% TVAC
+Votre facture d'énergie
+Votre facture de gaz se compose de plusieurs parties*:
+Coût de l'énergie OCTA+
+Coûts de Réseaux
+OCTA
+Taxes et surcharges fixées par les pouvoirs publics
+TVA
+* Basé sur une consommation moyenne de 22.000 kWh/an d'une famille, et le prix moyen des
+gestionnaires de réseaux.
+Le coût de l'énergie
+(c€/kWh)
+Le coût de l’énergie se compose d’une redevance fixe annuelle et du prix de l’énergie.
+SMART VARIABLE
+Le prix de l'énergie est indexé mensuellement et suit les prix du marché
+Durée 1 an
+Redevance fixe (€/an) 160,00
+Tarifs Prix mensuels Prix estimés
+Coût du gaz 6,39 7,64
+Facturation Par poste ou digitale via e-mail ou Zoomit.
+Paiement Par domiciliation, virement ou Zoomit.
+Vous choississez votre mode de gestion : dans nos bureaux auprès de notre
+Service 5 étoiles service clientèle, via téléphone ou Online (e-mail, site internet, Facebook,
+Twitter, Whatsapp).
+Pour des raisons de transparence et de clarté, vous voyez dans le tableau ci-dessus une colonne « Prix mensuels » et une colonne « Prix estimés ».
+La colonne « Prix mensuels » contient les derniers prix connus au moment de la publication de cette fiche tarifaire. Etant donné que les prix sont indexés seulement à la fin de
+chaque mois, nous affichons dans cette colonne les prix du mois dernier
+La colonne « Prix estimés » contient les moyennes des prix estimés pour les douze mois à venir. Celles-ci proviennent d’un modèle de calcul du régulateur flamand (VREG) et vous
+permettent de mieux anticiper le montant de votre future facture énergétique.
+OCTA+ Energie s.a.
+Schaarbeeklei 600 1800 Vilvoorde T. 0800/43.002 (appel gratuit) energie@octaplus.be www.octaplus.be 1/2
+Les tarifs de réseaux
+Ces surcharges sont intégralement reversées aux gestionnaires de réseaux.
+Distribution Location compteur Transport
+0 - 5 000 kWh/an 5 001 - 150 000 kWh/an
+Gestionnaire du réseaux de Terme Terme Relevé annuel Relevé mensuel
+Terme fixe Terme fixe €/MWh
+distribution proportionnel proportionnel €/an €/an
+€/an c€/kWh €/an c€/kWh
+Région flamande
+Fluvius Antwerpen 15,19 2,22 94,95 0,62 13,39 97,45 1,53
+Fluvius Limburg 14,99 1,71 55,45 0,90 13,39 97,45 1,53
+Fluvius West 7,05 2,56 80,77 1,09 13,39 97,45 1,53
+Fluvius (Gaselwest) 13,76 19,90 60,61 10,53 13,39 88,89 1,53
+Fluvius (Imewo) 15,66 2,26 87,82 0,81 13,39 97,45 1,53
+Fluvius (Intergem) 12,02 1,76 58,06 0,83 13,39 97,45 1,53
+Fluvius (Iveka) 12,46 1,80 66,92 0,71 13,39 97,45 1,53
+Fluvius (Iverlek) 13,22 1,91 65,90 0,85 13,39 97,45 1,53
+Fluvius (Sibelgas) 13,02 1,92 72,23 0,73 13,39 97,45 1,53
+Région wallonne
+ORES (Brabant wallon) 26,27 3,53 107,91 1,62 0,00 0,00 1,53
+ORES (Hainaut Gaz) 25,54 3,85 103,40 1,88 0,00 0,00 1,53
+ORES (Luxembourg) 22,45 2,89 84,29 1,38 0,00 0,00 1,53
+ORES (Mouscron) 22,83 3,06 86,66 1,56 0,00 0,00 1,53
+ORES (Namur) 26,50 3,75 109,38 1,74 0,00 0,00 1,53
+Tecteo - RESA 29,21 3,30 103,10 1,82 0,00 0,00 1,53
+Les surcharges
+(c€/kWh)
+Ces surcharges sont intégralement transférées aux autorités publiques.
+Les prix affichés du coût de l'énergie sont d'application pour les points de raccordement résidentiels qui disposent d’un compteur avec relevé annuel ou mensuel et avec un raccordement basse pression. Ils sont
+valables pour tout contrat signé entre le 01/11/2023 et le 30/11/2023 par un client résidentiel.
+Le prix du gaz OCTA+ Smart Variable est indexé mensuellement. Il est formé par la moyenne pondérée des cotations du ZTP DAP « Zeebrugge Trading Point Daily Average Price » par le profil RLP (publié par Synergrid).
+La formule tarifaire est : ZTP RLP * 1,15+ 10 €/MWh avec une valeur ZTP RLP de 43,71 €/MWh HTVA.
+La formule tarifaire est renouvelée chaque année. Deux mois avant la fin de votre année tarifaire, vous pouvez consulter votre nouvelle formule tarifaire sur www.octaplus.be – tarifs et documents.
+La redevance fixe est facturée au prorata du nombre de jours livrés, sauf si le contrat prend fin endéans les 6 premiers mois qui suivent son commencement, auquel cas la redevance est facturée pour une période de
+6 mois.
+Tous les frais liés à l’utilisation des réseaux, tout comme les taxes, les redevances, les surcharges, sont variables, modifiables et sont intégralement répercutés au client, même rétroactivement. Ces éléments du prix
+sont ceux approuvés par les Régulateurs au moment de l’élaboration de la carte tarifaire. En cas de contradiction entre les tarifs d'OCTA+ d'une part et ceux des Régulateurs d'autre part, ce sont ces derniers qui
+prévalent.
+A
+CC
+ccise fé d
+o n so m m
+o n so m m
+é ra le (c€ /k W h )
+a tio n e n tre 0 & 1 2
+a tio n > 1 2 .0 0 0 k W
+.0h 0 0 k W h
+D ro its d 'a ccise
+sp é cia u x
+0 ,8 7 2 4
+0 ,9 0 8 4
+C o tisa tio n su
+l'é n e rg ie
+0 ,1 0 5 8
+0 ,1 0 5 8
+r
+OCTA+ Energie s.a.
+Schaarbeeklei 600 1800 Vilvoorde T. 0800/43.002 (appel gratuit) energie@octaplus.be www.octaplus.be 2/2

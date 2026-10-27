@@ -1,0 +1,1 @@
+{"Response":{"Ok":"True","TariffSheet":"data:application/pdf;base64,{{card:746783fedced6e3edb39905ff0f717c0021e621ba7808e376428f172d3a7c007}}"},"Request":{"CustomerNumber":"","ContractNumber":"","EGPdfTarif":"2024-08 G OCTA+SMARTVARIABLE RE WL FR.pdf","Canal":"website","RequestedPDF":"2024-08 G OCTA+SMARTVARIABLE RE WL FR.pdf"}}

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "2b234d0681382d4f77a321cf669217249612dd3970f2a4e08d80cbbaa435eb62",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/4a289b85476c83c0583e1ee81e853d7ba0603bd7089650c6f3d5e225fc1ea58e.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-072026-Online0107-Fixed.pdf",
    "variant": "plain"

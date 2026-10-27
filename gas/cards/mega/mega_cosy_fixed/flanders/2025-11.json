@@ -8,7 +8,7 @@
   },
   {
    "pdf": "0c5b9da540af6d4b6c838cac95a8f67f5defbab370cd7ffa24fc4a7e16edd06c",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/067dc8311a7c3454a07ef4531f54ec7237deddc55dfaef0398af96ad95016cc9.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-112025-Cosy0111-Fixed.pdf",
    "variant": "plain"

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "c70fb9d649997984d23cc1e6dc06840a4cc959f36c2243b2983dc585564c0a6f",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/d452a343726dbd58c2f7c8cf87af1accf06ed1a175e470d0ff2081c2b85cfb1f.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Augustus_Tariefkaart_Energie_be_Vast_NG_Res_5672c0e918.pdf",
    "variant": "layout"

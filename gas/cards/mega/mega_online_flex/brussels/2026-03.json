@@ -8,7 +8,7 @@
   },
   {
    "pdf": "cd133af2bd34cbb0bd9a34208379fcea2f44136adce685fda8f950334536d6f0",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/e4fb8fda8de88c74faead4a9c0f3f0b4b2227f4417d9ca8bcc7599e9ca107232.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-032026-Online0103.pdf",
    "variant": "plain"

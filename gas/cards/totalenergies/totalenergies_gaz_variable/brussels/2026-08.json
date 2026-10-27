@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "5141c69ff8cc05a192f8641d2a4cae00d2a20e4b2329ac0d7a8739aafddc936c",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/2ca5a88802f781f494ce3d60cf207dc8ea9d9004aacb9cdb690c6f298672d014.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_8_GAZ-VARIABLE_GAS_BXL_FR.pdf",
    "variant": "layout"

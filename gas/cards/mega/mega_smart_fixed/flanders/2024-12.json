@@ -1,0 +1,47 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "text": "texts/2026-10/f6ed380de098d65f34eacd49d96f819ac2f22d626adfe4c0fe06b0b6d4cb03b2.txt",
+   "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
+   "variant": "text"
+  },
+  {
+   "pdf": "c30a30ee904cb3a9616c52e2f1c2397774da071a1d870d023cc27f103ba7e1c1",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/8b07c1beebb3a0d940f26a9706e173ac42ba408695b7de9ad305b489a3d74cb8.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-122024-Smart0112-Fixed.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "mega_smart_fixed",
+ "dsos": {},
+ "energy": {
+  "fee": 111.3,
+  "kind": "fixed",
+  "price": 0.07139999999999999
+ },
+ "publication_label": "2024-12",
+ "schema": 1,
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-122024-Smart0112-Fixed.pdf",
+ "supplier": "mega",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087238
+   ],
+   [
+    null,
+    0.0098468
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2024-12-31"
+}

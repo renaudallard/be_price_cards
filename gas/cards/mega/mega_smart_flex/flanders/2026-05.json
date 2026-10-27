@@ -8,7 +8,7 @@
   },
   {
    "pdf": "411d5d5d7545ac9b40ebef146d869fe07dfbc08cb30fbab73d6b03f059e27dca",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/5e8be46a9da2c10d1aa2845b249d1a28a75e9871e14cae23d6b12d3fc8eb75a4.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-052026-Smart0105.pdf",
    "variant": "plain"

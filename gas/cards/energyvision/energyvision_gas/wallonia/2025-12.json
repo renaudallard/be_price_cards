@@ -1,0 +1,48 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "pdf": "5ca965c31015e1252f55e0cdf5b4504407b94b81ecccd6fc1a79f890f5bda14b",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/2a74a4179df588506f1682e2de6e23f87ae9f870e7f943ff849f754ee9c2716d.txt",
+   "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1225-GSG-WAL-fr.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "archive",
+ "contract": "energyvision_gas",
+ "dsos": {},
+ "energy": {
+  "base": 0.004770000000000001,
+  "factor": 0.0010812000000000003,
+  "fee": 50.0,
+  "formula": "1,02 x ZTP-RLP-M + 4,5 EUR/MWh",
+  "index": "ZTP-RLP-M",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0366,
+  "settled": false
+ },
+ "publication_label": "2025-12",
+ "schema": 1,
+ "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1225-GSG-WAL-fr.pdf",
+ "supplier": "energyvision",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087238
+   ],
+   [
+    null,
+    0.0087717
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2025-12-31"
+}

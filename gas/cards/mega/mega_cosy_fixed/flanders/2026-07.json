@@ -8,7 +8,7 @@
   },
   {
    "pdf": "c408d585407e33d0132a29c7c17efa1300dd196eb4b1c494ba1a8e7eaa6cc89e",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/0a36f2b34330770d718ac57a9c1ecee3fa87a226bf1b2d85f5b6cd6de429471c.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-072026-Cosy0107-Fixed.pdf",
    "variant": "plain"

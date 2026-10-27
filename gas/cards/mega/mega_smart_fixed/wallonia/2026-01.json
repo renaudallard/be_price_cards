@@ -8,7 +8,7 @@
   },
   {
    "pdf": "5c48c557932e054169cd5547307d1e8c8655d665c46b168d1fb55612958a3ee1",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/b83efd2600b57aae3432eb045359e68d3df0cc06a37c9bc96c9ccf0a2570b6e0.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-012026-Smart0101-Fixed.pdf",
    "variant": "plain"

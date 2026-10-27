@@ -8,7 +8,7 @@
   },
   {
    "pdf": "e34aa9093defeb59dffc9ace137d927f0b370d11e446b6e029b37eb6fc5df6f0",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/0ebe19dfcf93a0b6e9debd35d635f8f3bc8510b8e3008a6291c41544a4e9e445.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-062025-Cosy0106-Fixed.pdf",
    "variant": "plain"

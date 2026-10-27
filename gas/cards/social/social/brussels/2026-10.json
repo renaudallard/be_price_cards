@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-10-26",
+ "_seen_on": "2026-10-27",
  "_sources": [
   {
    "pdf": "9a5b996183bb0b633372193c8851bc0162b167f40c18b8e6bed8f553b2d86a46",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/87b673884c5f32df394ea20158a8d42bc1c2eb9d93d9685cd03ca14e20fead53.txt",
    "url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/G-TSS-FR-2026-Q4.pdf",
    "variant": "plain"

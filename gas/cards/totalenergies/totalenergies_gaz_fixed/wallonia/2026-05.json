@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "0f2e512cf0d8df7b5c1b5cb4b3ddb9da722973be641355810f65331b3b72f6f0",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/723142d1b78eb891f51208f821b88502f39a084eabd84c6d63c9731eec8eecb0.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_5_GAZ-FIXE_GAS_WAL_FR.pdf",
    "variant": "layout"

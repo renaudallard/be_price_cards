@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-10-20",
+ "_seen_on": "2026-10-27",
  "_sources": [
   {
-   "text": "texts/2026-10/9d1490e59f3b88c5578fbadd52602dcfc3463be4aee99aea23be6c7ebf36efa8.txt",
+   "text": "texts/2026-10/271828319587ddbed959f77919c0123c7d216fc8c75f170aa52334d94c6fa17b.txt",
    "url": "https://www.elegant.be/tariefkaarten",
    "variant": "text"
   },
   {
    "pdf": "c670402ff8307a5eb0b45411db00696178ab75e0134d2fb368c5c4de3a6173cc",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/a605d46bb5a0f0a1f056b289b97663d06d45b230a26ad191c1712638d7923cc8.txt",
    "url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/FlexGas_Residential.pdf",
    "variant": "layout"

@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "778a76f6ff179f85255995e4cbac012152e059734b2236a87722e637c5b6e8cd",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/9447190924d86f8e9ee034700bc3f72c011f715ddbc80c248893bc032594b451.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EMPOWER_R_GREY_C_F_00_W_F&monthOffset=3&segment=R&language=F",
    "variant": "plain"

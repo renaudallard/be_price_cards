@@ -8,7 +8,7 @@
   },
   {
    "pdf": "55083a767f0beebf8567455a085c9ddf9bb56a16a83c5ab2b165f62461c4205e",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/b6cdd5eb623a8aebea9614d84698b88960439cd92f00557b0c62540f75250fc1.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-092025-Prepaid.pdf",
    "variant": "plain"

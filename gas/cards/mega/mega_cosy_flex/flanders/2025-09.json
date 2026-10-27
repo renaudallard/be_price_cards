@@ -8,7 +8,7 @@
   },
   {
    "pdf": "75a9928261109ef7419f7f78c7f79283232a8203d6d36e13c04947821cff65cc",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/43d30a5152749d64213890ce1e468e6bc3e4da4575e46d2ef0b002cc40e7c9d5.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-092025-Cosy0109.pdf",
    "variant": "plain"

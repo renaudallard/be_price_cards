@@ -1,0 +1,1 @@
+{"Response":{"Ok":"True","TariffSheet":"data:application/pdf;base64,{{card:d67146210b4de4c60c8e8b21f4c10109d3e787d66abfdae9ac92621914f5d29b}}"},"Request":{"CustomerNumber":"","ContractNumber":"","EGPdfTarif":"2026-02 G OCTA+ECOFLUX RE VL FR.pdf","Canal":"website","RequestedPDF":"2026-02 G OCTA+ECOFLUX RE VL FR.pdf"}}

@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "72699e3a3fefbad36d39d845de0535c1390b079898d9b3a29c4e9ebb2ffb7805",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/304767e14794ac545ee0310305c2903b6b8606186d7de72e09db733fb5d36f33.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0626-GSG-WAL-fr.pdf",
    "variant": "layout"

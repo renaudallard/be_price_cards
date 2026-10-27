@@ -8,7 +8,7 @@
   },
   {
    "pdf": "4952af61f96979943b8850bd6fe8c08e9f699f9fd9bc13383f28ed4891636010",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/2427dd4ae0f78020e0fcc72b267ebf856f8aa57e6c02bfbc0e4d025d4bfb6ecb.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-082025-Smart0108-Fixed.pdf",
    "variant": "plain"

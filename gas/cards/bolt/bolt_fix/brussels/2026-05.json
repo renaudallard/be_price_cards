@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "a0988d98f9f9b53fd0ea399a90bd0d4d838e51b20f3c9bc1e06917a9884c9d6d",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/986e09d72d4e9b1babff1352633fa0a9fa041f68dc5429a30b796d324f2db112.txt",
    "url": "https://files.boltenergie.be/pricelists/fix/fix_res_ng_fr_202605.pdf",
    "variant": "layout"

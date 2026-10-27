@@ -8,7 +8,7 @@
   },
   {
    "pdf": "4e56cd6b5fb5b0183087212e83f749c2bdfd7e6a1b95e5f815ecbd513b94f692",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/eee9aa7c0991e3e4309f8ac0f818c55b793312a18c06afa132a68b58971b234d.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Mei_Tariefkaart_Energie_be_Variabel_NG_Res_c54cb6a81e.pdf",
    "variant": "layout"

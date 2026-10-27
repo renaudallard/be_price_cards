@@ -8,7 +8,7 @@
   },
   {
    "pdf": "9692c86148e519b36689649fd21ece0adc3f603494279892f464e17f2a228af8",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/55cfbf216996aaecc17c40a5e0a69ed5d1ede6348da31dd9edfcc4a142633dcd.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Augustus_Tariefkaart_Energie_be_Variabel_NG_RES_3aa9f66512.pdf",
    "variant": "layout"

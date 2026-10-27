@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "fc4ff423dffe4a3369e09f8266ee6fc54dbfc2c06c81e46bc089a619cbad01d5",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/e9645cbb273beb492b44b58014974e8736ecd837275fee45a62cdcbfef83b194.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EMPTYHOUSE_R_GREY_C_I_00_V_F&monthOffset=15&segment=R&language=F",
    "variant": "plain"

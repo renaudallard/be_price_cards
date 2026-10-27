@@ -8,7 +8,7 @@
   },
   {
    "pdf": "3b4e04645e2d3de8b3d59ef81138498ed9d2ef0b3419d7946088ced47c80aaab",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/79d6089edefe7b19b57a6a5695efdce07cd6da646a99077da79663d6ce4f0e91.txt",
    "url": "https://www.elegant.be/api/tarief-archief/tariff-chart?tariffChartPath=%2Fapi%2Fv1%2Ftariff-charts%3FproductOfferKey%3DFlexGas_20260701%26proposalDate%3D2026-07-01T00%253A00%253A00.0000000%252B02%253A00%26Partner%3DElegant%26Channel%3DOnline%26Campaign%3DNone%26Process%3DContractSignup%26CustomerType%3DResidential%26archive%3Dtrue%26Language%3DDutch",
    "variant": "layout"

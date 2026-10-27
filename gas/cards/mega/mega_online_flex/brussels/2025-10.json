@@ -8,7 +8,7 @@
   },
   {
    "pdf": "49fd599dea159d06a45db59de3a95fe4698b1112bca2c0d9c01a5fad68308c72",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/237231267517437051b2a57933d046de89e90e2deb82cf3ecb0de65995c58ef5.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-102025-Online0110.pdf",
    "variant": "plain"

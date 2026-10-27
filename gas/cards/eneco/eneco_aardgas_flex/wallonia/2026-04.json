@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "05626ede351e87a44dcd4ed07c35d4c9f882a52631fb2779af549fc2fa98afce",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/a01fbdd2c14bf7d61fe6b784a4aaf22e0c09ae0d4ad7c8fa6160380562f2ee40.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012604_NL_ENECO_GAS_FLEX.pdf",
    "variant": "plain"

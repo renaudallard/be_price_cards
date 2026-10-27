@@ -1,0 +1,56 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "text": "texts/2026-10/5f9ba2bd1819c6c9fe8844b34f762411af7054c0464f3e8f605c561ca39df2f9.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTarifArchive?Lang=FR&Region=VL&AnneeMois=202508&Nrj=G&Canal=website&TypeContrat=RE",
+   "variant": "text"
+  },
+  {
+   "text": "texts/2026-10/96eaff9576585e965c9cc527b89449cb107e0e6d2a9c6d634594cb537b1f647a.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-08+G+OCTA%2BFLUX+RE+VL+FR.pdf",
+   "variant": "text"
+  },
+  {
+   "pdf": "31c647a0e547151e506cc418686e04b0ad2a6648917a6f7deeed19b519c32a39",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/06ad4f19c4d1d82d2eac582b568c2f96f6247f389b3d47298f8f367a6234aa97.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-08+G+OCTA%2BFLUX+RE+VL+FR.pdf",
+   "variant": "layout"
+  },
+  {
+   "pdf": "31c647a0e547151e506cc418686e04b0ad2a6648917a6f7deeed19b519c32a39",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/4f48dcf9bfc6edf8420b583d9f6dff458358662ad6a61b5191c248c90830434e.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-08+G+OCTA%2BFLUX+RE+VL+FR.pdf",
+   "variant": "rows"
+  }
+ ],
+ "_via": "archive",
+ "contract": "octaplus_flux",
+ "dsos": {},
+ "energy": {
+  "base": 0.0022896,
+  "factor": 0.0010706000000000001,
+  "fee": 65.0,
+  "formula": "ZTP RLP * 1,01 + 2,16",
+  "index": "ZTP RLP M",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0377,
+  "settled": false
+ },
+ "publication_label": "2025-08",
+ "schema": 1,
+ "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-08+G+OCTA%2BFLUX+RE+VL+FR.pdf",
+ "supplier": "octaplus",
+ "taxes": {
+  "card_vat_rate": null,
+  "connection_fee": 0.0,
+  "contribution": 0.0,
+  "excise": [],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2025-08-31"
+}

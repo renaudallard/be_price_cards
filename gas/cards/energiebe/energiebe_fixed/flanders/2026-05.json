@@ -8,7 +8,7 @@
   },
   {
    "pdf": "8a37d0074b17d4689368df522bc62e40bff6757b8b02cc7ddd58ff82fb81bdca",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/507fa47af829ddb2997e7eddf9bcb896b23b941b8b97f091a5c96b47dbaa2189.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Mei_Tariefkaart_Energie_be_Vast_NG_Res_0bff1073a3.pdf",
    "variant": "layout"

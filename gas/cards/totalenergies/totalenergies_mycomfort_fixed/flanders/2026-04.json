@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "1e2e462b23ef29fb06bd79215a3978e628a84bfbda9a030d59f3bef41d5484b8",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/ebf1de5a50cd9898871aec60e1f6bb275a3a8a5da046f684cd9655fb55e3af27.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_4_MYCOMFORT-FIXED_GAS_VL_FR.pdf",
    "variant": "layout"

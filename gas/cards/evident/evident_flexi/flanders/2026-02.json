@@ -8,7 +8,7 @@
   },
   {
    "pdf": "604ca7e918c57f36ba15db941a814f0e172f2a3d4c5b1d6404ae023472e67858",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/bdd9c081c7b56b404db9fe348062e409b23604b6f8624d020db8679e1169e9b0.txt",
    "url": "https://www.evidentenergie.be/web/content/xx.product.group.tariff.card/1191/file",
    "variant": "plain"

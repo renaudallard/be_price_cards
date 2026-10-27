@@ -8,7 +8,7 @@
   },
   {
    "pdf": "b18d6535e690d7bb7a4d85fb2a17433257d896142385a8276b35a5db37fd4055",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/519982e5eb0e61a88f4f9b16b70163be7b109c48808c6732de133cad062132cf.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-122025-Online0112-Fixed.pdf",
    "variant": "plain"

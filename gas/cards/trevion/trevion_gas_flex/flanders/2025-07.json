@@ -18,7 +18,7 @@
   },
   {
    "pdf": "425631d1602fcdca175e784872d616a3d74aee4e9a018cd274650111032a3030",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/8da1bd892fe39b48982186487d3c07880b6ac7902d019839ca22b90e30df9fce.txt",
    "url": "https://trevion.be/tariefkaarten/Tariefkaart-Gas-Flex-Particulier-202507.pdf",
    "variant": "plain"

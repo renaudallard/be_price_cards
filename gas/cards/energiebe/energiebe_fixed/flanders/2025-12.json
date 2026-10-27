@@ -8,7 +8,7 @@
   },
   {
    "pdf": "e9d7d5d817def104c3d1c8ac2fe8a4ffedac599f613435ba83a123f16fc07cc4",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/b9fba63469dbcd631a8541e3f59f5f06ebac48a722d872cd0568e90f6df99480.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/December_Tariefkaart_Energie_be_Vast_NG_Res_937ed5ba83.pdf",
    "variant": "layout"

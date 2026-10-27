@@ -13,7 +13,7 @@
   },
   {
    "pdf": "9e3e8cc8c2b71d3f411e48ec457b74c61b7f8ade58e946d5f58a92332822e5be",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/dc61da6a762e8f322ed247b68dca94e3675c64a7f2e8c5017f4d000da682c5ea.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-06+G+OCTA%2BSMARTVARIABLE+RE+WL+FR.pdf",
    "variant": "layout"

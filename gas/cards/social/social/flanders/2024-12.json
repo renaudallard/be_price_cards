@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "62e8c692ebc851a3c0cc22d00ac36ee25b996103313867f2bf46ee139cc38499",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/d78b8df388fa5d2246816daa1f7cf16bfda28ab055c987a80b64b8aed4935ca8.txt",
    "url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/G-TSS-FR-2024-Q4.pdf",
    "variant": "plain"

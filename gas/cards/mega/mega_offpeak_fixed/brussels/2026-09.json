@@ -8,7 +8,7 @@
   },
   {
    "pdf": "15cc30e92f41f9e5b4ed35a74b9b24c506dd39fe55d9142903eca11a36110aa2",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/e1fa1d1a7a69d95946058be3b963fe5b02a9ac0b2149296371d6a73ac496d3cf.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-092026-Offpeak-Bi0109-Fix.pdf",
    "variant": "plain"

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "002242eb4cbb1ac94edc97f92f5db2a40237bcb1d25483a4216be136ecbd348e",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/0b11848b33a3ac73771e5f73f94c8e5009954aadee66a05a567a4aa909ecd905.txt",
    "url": "https://www.hoa.energy/web/content/xx.product.group.tariff.card/1251/file",
    "variant": "plain"

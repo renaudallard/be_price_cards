@@ -1,0 +1,53 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "pdf": "2328383927f2995abf1c8f8b64ece49abc2cea4b98fe73bbed30dc7724466d77",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/789cd6a327c97b0be3ab78696ff992622b2761f1d0aa1f156bc4cc7689b9907d.txt",
+   "url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/G-TSS-FR-2023-Q4.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "social",
+ "dsos": {
+  "sibelga": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     0.0,
+     0.00712
+    ],
+    "t2": [
+     0.0,
+     0.00712
+    ],
+    "t3": [
+     0.0,
+     0.00712
+    ]
+   },
+   "transport": 0.00153
+  }
+ },
+ "energy": {
+  "fee": 0.0,
+  "formula": null,
+  "kind": "variable",
+  "price": 0.04037000000000001
+ },
+ "publication_label": "2023-10",
+ "schema": 1,
+ "source_url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/G-TSS-FR-2023-Q4.pdf",
+ "supplier": "social",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0,
+  "excise": [],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2023-10-31"
+}

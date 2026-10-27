@@ -1,0 +1,53 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "text": "texts/2026-10/f6ed380de098d65f34eacd49d96f819ac2f22d626adfe4c0fe06b0b6d4cb03b2.txt",
+   "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
+   "variant": "text"
+  },
+  {
+   "pdf": "03b3e4bc601fb150ef3a00374797cb9d614c6112ddba68c875a52905ab531b43",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/2af0d5a4952c6e13067b1029e8f7fe19b73f1419db3547729f3b7a4b4b292588.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-082024-Smart0108.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "mega_smart_flex",
+ "dsos": {},
+ "energy": {
+  "base": 0.0106,
+  "factor": 0.0011448,
+  "fee": 58.3,
+  "formula": "ZTP x 1,08 + 1 c€/kWh",
+  "index": "ZTP mensuel",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0473,
+  "settled": false
+ },
+ "publication_label": "2024-08",
+ "schema": 1,
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-082024-Smart0108.pdf",
+ "supplier": "mega",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087238
+   ],
+   [
+    null,
+    0.0097549
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2024-08-31"
+}

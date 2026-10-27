@@ -8,7 +8,7 @@
   },
   {
    "pdf": "926a490001c3a340fb13676f9e6c2acf47f692539d68b2bc0aefa665b9290518",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/c5a1bca641255f6c49d0de1e8612e1d54c15186f2c2e65345033658aa1f4cbe9.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/April_Tariefkaart_Energie_be_Variabel_NG_Res_096fa1199f.pdf",
    "variant": "layout"

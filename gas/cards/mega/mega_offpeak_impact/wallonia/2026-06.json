@@ -8,7 +8,7 @@
   },
   {
    "pdf": "66b6b5d61e0b1a8df634017a59b1369718000ea09cd0c39e2a71b0ed72b4af45",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/d478239f88c6b557110fb032d71cefb81364ed70375edf94c33dd885fc505718.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-062026-Offpeak-Impact-Var.pdf",
    "variant": "plain"

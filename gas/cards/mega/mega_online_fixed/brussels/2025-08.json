@@ -8,7 +8,7 @@
   },
   {
    "pdf": "4be0244f6f4a398d478711639294a515a1946344356ea09ccfea3c50fb79b699",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/5def3754b108de089459dd12ec7a3f154d449aab686244a97de6e66cce6dd218.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-082025-Online0108-Fixed.pdf",
    "variant": "plain"

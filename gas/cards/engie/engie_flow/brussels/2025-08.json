@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "7a50d9247136f887e211732d3a024a2837f2db0e40b5c2d8b7556cca298ea8d0",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/1c5fe28524d1cf1e946939214f378b12a75477739c19258dca18240600b210eb.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_FLOW_R_GREY_C_I_48_B_F&monthOffset=14&segment=R&language=F",
    "variant": "plain"

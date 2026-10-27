@@ -1,0 +1,87 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "text": "texts/2026-10/fd8f013e737337c5c25644a3f3b0e5ad7eebd77a4fa5bdc4a1a3e491f33268b8.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTarifArchive?Lang=FR&Region=WL&AnneeMois=202606&Nrj=G&Canal=website&TypeContrat=RE",
+   "variant": "text"
+  },
+  {
+   "text": "texts/2026-10/a6d814139dd941c622b02fd4173c49a42e51b6b9d71ef33cee189804fd0ee32e.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-06+G+OCTA%2BECOFLUX+RE+WL+FR.pdf",
+   "variant": "text"
+  },
+  {
+   "pdf": "0e16187fe667b4b3e09d56ab6ba40c586f9abdffd5a1e94df724ddeb1d59eb4f",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/715d5fe9ce4060a23c7e342cf6befd8a66fd37dabc6c610aa47ce8a33792982f.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-06+G+OCTA%2BECOFLUX+RE+WL+FR.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "archive",
+ "contract": "octaplus_ecoflux",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.0429
+    ],
+    "t2": [
+     140.93,
+     0.022099999999999998
+    ]
+   },
+   "transport": 0.00165
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.0253
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.0211046,
+  "factor": 0.0010706000000000001,
+  "fee": 130.0,
+  "formula": "TTF RLP M * 1,010 + 19,910",
+  "index": "TTF RLP M",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.06849999999999999,
+  "settled": false
+ },
+ "publication_label": "2026-06",
+ "schema": 1,
+ "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-06+G+OCTA%2BECOFLUX+RE+WL+FR.pdf",
+ "supplier": "octaplus",
+ "taxes": {
+  "card_vat_rate": null,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010580000000000001,
+  "excise": [
+   [
+    12000.0,
+    0.008723999999999999
+   ],
+   [
+    null,
+    0.009623
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-06-30"
+}

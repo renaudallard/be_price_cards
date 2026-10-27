@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "98c0de14df12b0aecd06214485f3860b70cc3a47d34abccc37a4a059fa362a47",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/d80683ec4db93693758662f0d600611d34aded9007e409424b5ef109cca76c5a.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_2_MYESSENTIAL-FIXED_GAS_BXL_FR.pdf",
    "variant": "layout"

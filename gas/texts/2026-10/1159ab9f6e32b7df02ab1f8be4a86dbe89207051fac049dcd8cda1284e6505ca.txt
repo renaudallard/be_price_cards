@@ -1,0 +1,1 @@
+{"Response":{"Ok":"True","TariffSheet":"data:application/pdf;base64,{{card:edc6047b4a74c6bec0d02a8cb88e2be14ef5a83f10f6a75d8d16f3442c8441b5}}"},"Request":{"CustomerNumber":"","ContractNumber":"","EGPdfTarif":"2025-05 G OCTA+ECOFIXED RE VL FR.pdf","Canal":"website","RequestedPDF":"2025-05 G OCTA+ECOFIXED RE VL FR.pdf"}}

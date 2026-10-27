@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "aa524156090a07195cec4ede66f41fd2afa16a8b24a53fc18b9fa23d25da65d1",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/fcbc023572e866ff0d211f2c7223a248ef00794e80ffa9070d33dd4a530641b3.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_5_IMPACT_GAS_WAL_FR.pdf",
    "variant": "layout"

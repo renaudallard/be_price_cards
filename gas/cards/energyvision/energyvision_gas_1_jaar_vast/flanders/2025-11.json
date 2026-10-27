@@ -1,0 +1,42 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "pdf": "e12d4b9d79b77adf79d63e08b610449c70a8870951b9c49faf0de1e69b44f640",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/05e15534c0159a39c7ac59f2266c68b1c759f16b1255844fa3bb79a5ca3a7093.txt",
+   "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1125-GS1JVG-nl.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "archive",
+ "contract": "energyvision_gas_1_jaar_vast",
+ "dsos": {},
+ "energy": {
+  "fee": 75.0,
+  "kind": "fixed",
+  "price": 0.045
+ },
+ "publication_label": "2025-11",
+ "schema": 1,
+ "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1125-GS1JVG-nl.pdf",
+ "supplier": "energyvision",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087238
+   ],
+   [
+    null,
+    0.0094757
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2025-11-30"
+}

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "14347ada37328bbdc9fba120a375761c42fce3d039fe89d47e1107eb3a2f7ba9",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/9353b7b1216d0c8148de05187f0969e4a7dfc28cd2ab756810c11d1f8c250f7f.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-082024-Smart0108-Fixed.pdf",
    "variant": "plain"

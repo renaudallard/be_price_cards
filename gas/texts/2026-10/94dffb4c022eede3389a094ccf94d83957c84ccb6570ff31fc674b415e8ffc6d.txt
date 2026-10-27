@@ -1,0 +1,1 @@
+{"Response":{"Ok":"True","TariffSheet":"data:application/pdf;base64,{{card:f9cb1750d8683e4da8f14fff05fe63f669cecef9a5a72b01616ed9b07179e5ff}}"},"Request":{"CustomerNumber":"","ContractNumber":"","EGPdfTarif":"2025-09 G OCTA+SMARTVARIABLE RE VL FR.pdf","Canal":"website","RequestedPDF":"2025-09 G OCTA+SMARTVARIABLE RE VL FR.pdf"}}

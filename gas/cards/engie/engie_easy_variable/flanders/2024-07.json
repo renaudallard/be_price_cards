@@ -1,0 +1,48 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "pdf": "30b95a9d24d151c367645b70120d90cfce41a5ddd9364ce637e06c2f8e17b9d9",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/802aa001664b05e0b8d5ba953e0d098d57cb5b13cc6a6be838845be94eeb4686.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EASY_R_GREY_C_I_12_V_F&monthOffset=27&segment=R&language=F",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "engie_easy_variable",
+ "dsos": {},
+ "energy": {
+  "base": 0.01943086,
+  "factor": 0.0010600000000000002,
+  "fee": 40.81,
+  "formula": "Prélèvement: 1,8331 + (0,1000 x ZTP101 (Heren)",
+  "index": "ZTP101",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0558,
+  "settled": true
+ },
+ "publication_label": "2024-07",
+ "schema": 1,
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EASY_R_GREY_C_I_12_V_F&monthOffset=27&segment=R&language=F",
+ "supplier": "engie",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087238
+   ],
+   [
+    null,
+    0.0097549
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2024-07-31"
+}

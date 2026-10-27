@@ -1,0 +1,48 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "pdf": "e8fad32b9eaf4faf24c1079130c270c0e958b4e1feadab026b8bd9b9feb4a8e1",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/7b4503bc090fd64678a83cad66f12ae18e4a4f90271b422bf520584fb9789d59.txt",
+   "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012312_NL_ENECO_GAS_FLEX.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "eneco_aardgas_flex",
+ "dsos": {},
+ "energy": {
+  "base": 0.0127412,
+  "factor": 0.00106,
+  "fee": 65.0,
+  "formula": "(0,1 X TTFDAW-RLP-M + 1,202) X 1,06",
+  "index": "TTFDAW-RLP-M",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0588,
+  "settled": false
+ },
+ "publication_label": "2023-12",
+ "schema": 1,
+ "source_url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012312_NL_ENECO_GAS_FLEX.pdf",
+ "supplier": "eneco",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0010580000000000001,
+  "excise": [
+   [
+    12000.0,
+    0.008723999999999999
+   ],
+   [
+    null,
+    0.009084
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2023-12-31"
+}

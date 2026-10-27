@@ -8,7 +8,7 @@
   },
   {
    "pdf": "fa40d3beb3070ed98e41c743b16ea00aef7ff7ee44a42618fc6f20891532d2ea",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/0be58741b4b47e9aed910144ac11a3fcbe16959c5a7882a18846f5bcfc555668.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-022025-Prepaid.pdf",
    "variant": "plain"

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "6e22ee6cf2049b16dd24651a093347eaae6a0a513116216ff8b300c6f587fcf3",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/62f1e75c6eacf99ddf487ce1f4e6b7da870ea246126dedf3cee54ec3937a5cde.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-092026-Offpeak-Bi-Var.pdf",
    "variant": "plain"

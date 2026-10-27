@@ -8,7 +8,7 @@
   },
   {
    "pdf": "7610a7b3b855fcedad438d6887d1ee759b53289c7caa780d2ad97d069dfc0b40",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/8141ea0d9028596c95795a20e3f2ada24993f8d3b4c4dd31563ae5c76569f753.txt",
    "url": "https://www.ebem.be/media/kr2bpe4c/ebem_tariefkaart-gas-08-2025.pdf",
    "variant": "layout"

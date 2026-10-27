@@ -8,7 +8,7 @@
   },
   {
    "pdf": "987f8f0b1e02db39b2ba452974e4153f1d607e166528a29455f9bc29e10b7d6c",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/b3c0aa52fd0e52ce4b5e9e9e6a7a9c009ef90c7a515d4d2df4b0118ea396967c.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Januari_Tariefkaart_Energie_be_Vast_Ng_Res_300ca017fc.pdf",
    "variant": "layout"

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "0c02d329e954afd7960e8a0ebf907f7d280773a42a78dc3bab1bd40b2cfd25d1",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/de8b63615995fc5268c8b5ab8a2d1dc6ecbfd6c205cb36f98c2eea9735ac84a6.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-012025-Smart0101.pdf",
    "variant": "plain"

@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "0bc9670a7c382f7fdba506d1722b48c2c29e6e88cdb0aded3ffcbc6ca1465f3b",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/acfea1cf4b8db5a58fde15f5fc8529bb80d1b99bb38994a60e1318039bdb1d28.txt",
    "url": "https://files.boltenergie.be/pricelists/fix/plenty_fix_res_ng_fr_202609.pdf",
    "variant": "layout"

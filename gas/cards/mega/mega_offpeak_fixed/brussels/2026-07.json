@@ -8,7 +8,7 @@
   },
   {
    "pdf": "8dc5ce279aa9295b0dadf81a6d8707ff5e903812c76c5f806c9bb35367dfc2d8",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/903880b98d4b9d58ca3eef8bb68f77ea4f34cfa3f36a87527d74d1a137b19687.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-072026-Offpeak-Bi0107-Fix.pdf",
    "variant": "plain"

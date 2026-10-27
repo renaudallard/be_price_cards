@@ -8,7 +8,7 @@
   },
   {
    "pdf": "30721afb52aee9db840faf9b79475458be29d9007976ee6defb3bf26cf7a888b",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/9c64be9931e90439dcdcbe6b4eb6525c828a1acbfd8a2ed654a18566e6fef4ff.txt",
    "url": "https://www.ebem.be/media/fxibbvor/ebem_tariefkaart-gas-01-2026.pdf",
    "variant": "layout"

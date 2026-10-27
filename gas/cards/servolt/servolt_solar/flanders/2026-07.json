@@ -8,7 +8,7 @@
   },
   {
    "pdf": "8795a45238bad677502f89312395e14106860a452bcc2e87095e21db009f523e",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/c2285c7391183f0afefe4deee04ea929d7489c2483ec7fe0f52410cc2422f477.txt",
    "url": "https://www.servoltenergie.be/web/content/xx.product.group.tariff.card/1617/file",
    "variant": "plain"

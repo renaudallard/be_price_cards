@@ -8,7 +8,7 @@
   },
   {
    "pdf": "ee79560f73012b1e1857813d6da6945eee8f3d8ab09dd1e9eb84d689d2460660",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/b829dbb21544ae4dc17cde63d1dba4299bfa1e1aae0f0c736a4809f054d84096.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-092025-Smart0109-Fixed.pdf",
    "variant": "plain"

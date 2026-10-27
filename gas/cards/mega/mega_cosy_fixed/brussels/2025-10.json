@@ -8,7 +8,7 @@
   },
   {
    "pdf": "b16e126aa799f6b6c81254d02815e22b5f6044ac16f3fed051b07feaa0c0f6ba",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/25d064589a8383e5c43f477843e9be3ca2a2b33b1b794bdc5377935ad6729b6e.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-102025-Cosy0110-Fixed.pdf",
    "variant": "plain"

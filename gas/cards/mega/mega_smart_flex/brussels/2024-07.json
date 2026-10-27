@@ -8,7 +8,7 @@
   },
   {
    "pdf": "dd7b76e8c2e017a7d0ff6f71a592bed9921cb51c65a188d64aafef8f6c493d4e",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/d9500c97528811233bd22526db29f764953c43611772db9538c5dd5eab78e997.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-072024-Smart0107.pdf",
    "variant": "plain"

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "5f95bbd463aba8763ea07efb8f351f21139a8d8b189ab803ef03177ca686bf89",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/b14bad3785770405bc6bd3a626ce50f0527be43292c0f759dee71eb8d98219c3.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-122025-Smart0112-Fixed.pdf",
    "variant": "plain"

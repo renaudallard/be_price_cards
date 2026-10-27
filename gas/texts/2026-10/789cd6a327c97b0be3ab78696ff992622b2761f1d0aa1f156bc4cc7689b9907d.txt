@@ -1,0 +1,25 @@
+22000
+hors TVA TVA 6% comprise
+TARIF SOCIAL
+Composante énergie (€cent/kWh) 3,808 4,037
+Composante distribution (€cent/kWh) 0,672 0,712
+Composante transport (€cent/kWh) 0,144 0,153
+Total (€cent/kWh)* 4,624 4,902
+* Dans ce tableau, les tarifs sociaux sont exprimés en €cent/kWh, c'est-à-dire en centimes d'euros par kWh. 
+Pour les convertir en euros par kWh, il convient de les diviser par 100. 
+Pour les convertir en euros par MWh, il convient de les multiplier par 10. 
+Ces tarifs ne comprennent ni la cotisation énergie, ni l'accise spéciale, ni la redevance de raccordement (Wallonie).
+Les clients protégés sont exonérés de la cotisation énergie.
+Les tarifs de réseaux de transport et de distribution sont inclus.
+Les données par composante sont uniquement communiquées à titre d'information.
+Il est recommandé de reprendre seulement le tarif total sur la facture du client.
+Les services qui ne sont pas liés à la composante énergie et à la composante réseau, notamment le raccordement, l'entretien et la pose 
+d'installations ne sont pas inclus dans le tarif social chaleur. Ils peuvent être facturés de manière additionnelle par l’opérateur de chaleur.
+Gaz naturel et chaleur
+4e trimestre 2023 (1er octobre 2023 - 31 décembre 2023)
+Clients protégés
+Prix social maximal 
+Pour le gaz naturel, la TVA de 6 % et les accises résidentielles sont appliquées pour la clientèle résidentielle, et pour les organismes de 
+logement qui ont signé une déclaration telle que reprise à l'article 7 de la loi du 19 mars 2023 portant réforme de la fiscalité sur la 
+facture d'énergie (TVA de 21 % et accises professionnelles pour les autres clients professionnels).
+Pour la chaleur, la TVA de 6 % est appliquée pour la clientèle résidentielle (TVA de 21 % pour les clients professionnels).

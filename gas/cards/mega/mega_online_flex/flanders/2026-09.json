@@ -8,7 +8,7 @@
   },
   {
    "pdf": "ec5a48158a39a6cfc533143e0fc3a740d2165afbf91c11d87256aa8402a81bac",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/5272b61f3d61620c8bb996090dfd6059fa1a337b4ce607e35c600edbcf98d5bb.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-092026-Online0109.pdf",
    "variant": "plain"

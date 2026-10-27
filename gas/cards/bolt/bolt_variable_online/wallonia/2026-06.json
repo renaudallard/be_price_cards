@@ -8,28 +8,28 @@
   },
   {
    "pdf": "3dce0ee5931137aa80be24e1a931064e7d03f2d48f5e5ad5a5628e4aea9f7633",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/0063e8d73a5dfb1659f584225707554ff15db4d43a1bcda18e8c844827e54044.txt",
    "url": "https://files.boltenergie.be/pricelists/var/online_res_ng_fr_12.pdf",
    "variant": "layout"
   },
   {
    "pdf": "3dce0ee5931137aa80be24e1a931064e7d03f2d48f5e5ad5a5628e4aea9f7633",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/c28666a478ae710f80b87639836187b7886c3a1cd2ff75b1957d3ca53157c9d3.txt",
    "url": "https://files.boltenergie.be/pricelists/var/online_res_ng_fr_12.pdf",
    "variant": "plain"
   },
   {
    "pdf": "8796a74f1abf5c76f36b2161f3eeb2d8dbc08bece1fd0e3209b4042dad347244",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/e1913b1e5fdf64c81ecf5df2bb7e781224915b693004203c0c5cd11bc4e30b9f.txt",
    "url": "https://files.boltenergie.be/pricelists/var/online_res_ng_fr_13.pdf",
    "variant": "plain"
   },
   {
    "pdf": "d96a37f1dc2c16464c87a9516d23cceafd5fd698902b0c1156da5e992fb63431",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/bad9ff0d6ca9ce3804787f6f1ec77e69785793cf48ce847a0b7b2158f4aefdca.txt",
    "url": "https://files.boltenergie.be/pricelists/var/online_res_ng_fr_14.pdf",
    "variant": "plain"

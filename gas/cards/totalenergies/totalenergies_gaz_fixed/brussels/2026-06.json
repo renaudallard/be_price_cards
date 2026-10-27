@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "d3ac42156d8cce8704537377fc5fbe62b2acd3fc5ed70622721485bba2600931",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/10b9b91ffed6c4cb187b1ab53eef1ac5eccd245dd4bbecca7de4cad9afbad6b9.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_6_GAZ-FIXE_GAS_BXL_FR.pdf",
    "variant": "layout"

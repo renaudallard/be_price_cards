@@ -8,7 +8,7 @@
   },
   {
    "pdf": "531dd160e3bd98cd7af05b512cdf613d2c5b686006c25cee8e4a61d055f87251",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/f8be8d4e61b8b053d8ae165c34f009e3ad195578af20a674ed27b29d8f366060.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-042026-Online0104.pdf",
    "variant": "plain"

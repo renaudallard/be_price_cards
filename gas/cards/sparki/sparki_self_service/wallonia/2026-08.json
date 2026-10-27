@@ -8,7 +8,7 @@
   },
   {
    "pdf": "52b0d7003d633626e7da822f1f69dbdd96f398ad21c9043787641097e27b7b1f",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/d49d5740e4b285fcf9580ae15096079e383e792dad013ff25f236cc047666af5.txt",
    "url": "https://sparki.be/wp-content/uploads/2026/08/Sparki_Tariefkaart_augustus_Particulier_SelfService_Gas_FR.pdf",
    "variant": "layout"

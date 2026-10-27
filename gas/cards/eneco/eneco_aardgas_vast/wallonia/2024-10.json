@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "1db6c210988c00e698ee13b4a3387cee0c9e5a54b203a28ad0508735da7e2ef4",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/ebef78e244aae83847b928d9febb257370e39c7858567afa5e5fa136827c4dc0.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012410_NL_ENECO_GAS_FIX.pdf",
    "variant": "plain"

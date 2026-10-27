@@ -1,0 +1,91 @@
+Tarif : Flux
+Clients résidentiels en Flandre - 04/2026 - Tarifs 6% TVAC
+Votre facture d'énergie
+Votre facture de gaz se compose de plusieurs parties*:
+Coût de l'énergie OCTA+
+Coûts de Réseaux
+OCTA
+Taxes et surcharges fixées par les pouvoirs
+publics
+* Basé sur une consommation moyenne de 22.000 kWh/an d'une famille, et le prix moyen des
+gestionnaires de réseaux.
+Le coût de l'énergie
+(c€/kWh)
+Le coût de l’énergie se compose d’une redevance fixe annuelle et du prix de l’énergie.
+Flux
+Le prix de l'énergie est indexé mensuellement et suit les prix du marché
+Durée Indéterminé
+Redevance fixe (€/an) 65,00
+Tarifs Prix estimés
+Coût du gaz 6,02
+Si vous souscrivez un nouveau contrat Flux, vous recevrez une réduction (*) de
+Promotion 110 € TVA incluse, que vous soyez un nouveau client ou un client existant
+choisissant ce nouveau contrat
+Vous pouvez recevoir vos factures gratuitement par e-mail ou via Zoomit.
+Pour des factures papier, nous facturons 2 € par envoi.
+Facturation Le saviez-vous ? Si vous avez un compteur communicant, vous pouvez nous
+demander gratuitement de vous envoyer chaque mois une facture de
+consommation.
+Paiement Par domiciliation, virement ou Zoomit.
+Vous choississez votre mode de gestion : dans nos bureaux auprès de notre
+Service 5 étoiles service clientèle, via téléphone ou Online (e-mail, site internet, Facebook,
+Twitter, Whatsapp).
+La colonne « Prix estimés » contient les moyennes des prix estimés pour les douze mois à venir. Celles-ci proviennent d’un modèle de calcul du régulateur flamand (Vlaamse
+Nutsregulator) et vous permettent de mieux anticiper le montant de votre future facture énergétique.
+Dans les centres de conseil indépendants pour les consommateurs du régulateur flamand (Vlaamse Nutsregulator) et de la VEKA, vous pouvez obtenir des conseils sur les mesures
+d’efficacité énergétique disponibles, les profils de référence de votre consommation d’énergie et les détails techniques des appareils consommateurs d’énergie.
+OCTA+ Energie s.a.
+Schaarbeeklei 600 1800 Vilvoorde T. 0800/43.002 (appel gratuit) energie@octaplus.be www.octaplus.be 1/2
+Les tarifs de réseaux
+Ces surcharges sont intégralement reversées aux gestionnaires de réseaux.
+Distribution Tarif Gestion
+Transport
+0 - 5000 kWh/an 5001 - 150000 kWh/an données
+Gestionnaire du réseau de
+distribution Terme Terme
+Terme fixe Terme fixe Mensuel/Annuel
+proportionnel proportionnel c€/MWh
+€/an €/an €/an
+c€/kWh c€/kWh
+Région flamande
+Fluvius Antwerpen 15,68 2,26 83,22 0,91 18,92 0,165
+Fluvius Halle-Vilvoorde 17,59 2,50 93,38 0,98 18,92 0,165
+Fluvius Imewo 18,61 2,63 98,81 1,02 18,92 0,165
+Fluvius Kempen 16,17 2,27 85,83 0,88 18,92 0,165
+Fluvius Limburg 14,59 2,24 77,46 0,98 18,92 0,165
+Fluvius Midden-Vlaanderen 16,33 2,32 86,71 0,91 18,92 0,165
+Fluvius West 19,03 2,69 101,02 1,05 18,92 0,165
+Fluvius Zenne-Dijle 18,40 2,60 97,72 1,02 18,92 0,165
+Région wallonne
+ORES (Brabant Wallon) 31,91 4,29 140,93 2,21 - 0,165
+ORES (Hainaut Gaz) 31,91 4,29 140,93 2,21 - 0,165
+ORES (Luxembourg) 31,91 4,29 140,93 2,21 - 0,165
+ORES (Mouscron) 31,91 4,29 140,93 2,21 - 0,165
+ORES (Namur) 31,91 4,29 140,93 2,21 - 0,165
+RESA 34,59 4,64 122,05 2,53 - 0,165
+Les surcharges
+(c€/kWh)
+Ces surcharges sont intégralement transférées aux autorités publiques.
+Droits
+Cotisation
+Accise fédérale (c€/kWh) d'accise
+sur l'énergie
+spéciaux
+Consommation entre 0 & 12.000 kWh 0,8724 0,1058
+Consommation > 12.000 kWh 0,9623 0,1058
+Les prix affichés du coût de l'énergie sont d'application pour les points de raccordement résidentiels qui disposent d’un compteur avec relevé annuel ou mensuel et avec un raccordement basse pression. Ils sont
+valables pour tout contrat signé entre le 01/04/2026 et le 30/04/2026 par un client résidentiel.
+Le prix du gaz OCTA+ Flux est indexé mensuellement. Il est formé par la moyenne pondérée des cotations du ZTP DAP « Zeebrugge Trading Point Daily Average Price » par le profil RLP (publié par Synergrid). La
+formule tarifaire est : ZTP RLP * 1,01 + 2,16 €/MWh.
+La redevance fixe est facturée au prorata du nombre de jours livrés, sauf si le contrat prend fin endéans les 6 premiers mois qui suivent son commencement, auquel cas la redevance est facturée pour une période
+de 6 mois.
+Tous les frais liés à l’utilisation des réseaux, tout comme les taxes, les redevances, les surcharges, sont variables, modifiables et sont intégralement répercutés au client, même rétroactivement. Ces éléments du prix
+sont ceux approuvés par les Régulateurs au moment de l’élaboration de la carte tarifaire. En cas de contradiction entre les tarifs d'OCTA+ d'une part et ceux des Régulateurs d'autre part, ce sont ces derniers qui
+prévalent.
+Dès l’entrée en vigueur du nouveau système européen de gestion des quotas d’émissions CO2, communément appelé « ETS2 », les coûts associés seront ajoutés à votre facturation, en conformité avec la
+réglementation applicable.
+(*) La ristourne vous est uniquement accordée après douze mois ininterrompus de consommation et octroyée sur une note de crédit diverse après cette période. Cette ristourne ne peut être cumulée avec d'autres
+promotions ou réductions.
+Nos conditions générales de vente s’appliquent. Elles sont disponibles sur www.octaplus.be – Tarifs & documents.
+OCTA+ Energie s.a.
+Schaarbeeklei 600 1800 Vilvoorde T. 0800/43.002 (appel gratuit) energie@octaplus.be www.octaplus.be 2/2

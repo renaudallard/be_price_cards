@@ -8,7 +8,7 @@
   },
   {
    "pdf": "25f0ce382f1f6d752fe2dc0db3a3080fdb333994fbbd39abbbccdaf5fd63d8d3",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/dd63cc7e200514aad76b1f4016acb0c8b69b67809f41b0c04da25b979fbe397e.txt",
    "url": "https://sparki.be/wp-content/uploads/2026/07/Sparki_Tariefkaart_juni_Particulier_AtYourService_Gas_NL.pdf",
    "variant": "layout"

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "4c7e13b95e0c5ef3f9acb28860e3564fa9682d4818276c4a6ec2d607f97f444f",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/843aa29940bd6976623eec5f587ec93a0cca0e1eb08f29022d56b72b6df39cc8.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-042025-Online0104-Fixed.pdf",
    "variant": "plain"

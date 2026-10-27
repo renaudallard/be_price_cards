@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "462ff2519ea96d20ef1f0b3a3073a6ee0749c70fb7970b445004e77d2bc79c34",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/f7d051f426a70e80f50936d1200b4aec8fc5aa86c5f7e3cf8a53618a50561c09.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy&energyType=gas&language=fr&tabValue=Wallonia",
    "variant": "plain"

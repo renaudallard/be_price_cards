@@ -1,0 +1,115 @@
+Tarif bâtiment vide
+Prix variables gaz naturel pour les contrats conclus en Août 2024
+Pour les particuliers en Région Flamande
+Prix, 6% de tva comprise(9)
+Composition du prix de votre énergie(6)
+Vos avantages
+- Vous payez uniquement
+votre consommation réelle
+sans redevance annuelle.
+- Cette offre d’énergie a été
+créée spécifiquement pour
+les maisons vides
+Services gratuits
+- Service client en ligne et
+hors ligne 5 étoiles
+- Facture électronique par
+défaut
+- Réductions chez nos
+partenaires
+- Avec la Smart App, vous
+pouvez facilement contrôler
+votre consommation
+d'énergie et votre facture
+Prix d'énergie Variable - durée indéterminée
+Redevance fixe (€/an) Prix par kWh(1) (€cent/kWh)
+Prix mensuels
+8,629
+0,00 Prix par kWh(1) (€cent/kWh)
+Prix annuels estimés
+9,912
+Coûts de réseaux (distribution et transport)(2)
+Gestionnaire
+du réseau
+de
+distribution
+Distribution
+TransportPetite consommation
+<= 5 000 kWh/an
+Moyenne consommation
+5 001 - 150 000 kWh/an
+Grande consommation
+>= 150 001 kWh/an
+Tarif Gestion
+données
+Terme fixe
+€/an
+Terme
+proportionnel
+€cent/kWh
+Terme fixe
+€/an
+Terme
+proportionnel
+€cent/kWh
+Terme fixe
+€/an
+Terme
+proportionnel
+€cent/kWh
+Mensuel/Annuel
+€/an € cent/kWh
+FLUVIUS ANTWERPEN 15,97 2,329 99,87 0,651 399,50 0,452 13,95 0,162
+FLUVIUS LIMBURG 17,10 1,936 63,26 1,012 855,38 0,484 13,95 0,162
+FLUVIUS WEST 7,75 2,808 88,73 1,188 890,05 0,654 13,95 0,162
+GASELWEST 14,68 2,122 64,67 1,123 631,28 0,745 13,95 0,162
+IMEWO 17,00 2,454 95,37 0,887 470,96 0,637 13,95 0,162
+INTERGEM 12,96 1,891 62,60 0,899 503,78 0,604 13,95 0,162
+IVEKA 13,98 2,017 75,10 0,795 469,45 0,532 13,95 0,162
+IVERLEK 14,24 2,051 70,95 0,917 531,76 0,610 13,95 0,162
+SIBELGAS 13,47 1,971 74,73 0,745 165,29 0,685 13,95 0,162
+
+Tarif bâtiment vide
+Prix variables gaz naturel pour les contrats conclus en Août 2024
+Pour les particuliers en Région Flamande
+Prix, 6% de tva comprise(9)
+Suppléments
+Suppléments (€cent/kWh)
+Cotisation sur l'énergie 0,10577
+Accise fédérale(8) (€cent/kWh)
+Consommation entre 0 & 12.000 kWh 0,87238
+Consommation > 12.000 kWh 0,97549
+(1) Le prix du gaz de votre Contrat est indexé mensuellement. Le
+paramètre d’indexation est la moyenne arithmétique des cotations
+journalières du gaz naturel sur les « European Spot Gas Markets »
+(« ESGM ») publiées par ICIS-Heren Energy Ltd., sous le titre « ZTP
+Price Assessment Day-Ahead» pour les jours de la semaine et sous
+le titre « ZTP Price Assessment Weekend» pour les jours du
+weekend durant le mois de fourniture. Le paramètre ZTPDAM
+(Heren), exprimé en €/MWh, est calculé et publié sur engie.be.
+La valeur du ZTPDAM (Heren) du mois en cours ne sera connue
+qu'en fin de mois. À titre informatif, les prix indiqués sont basés sur
+la dernière valeur du ZTPDAM (Heren) connue (Juillet 2024 :
+31,9330 €/MWh).
+Les valeurs historiques du ZTPDAM (Heren) peuvent être consultées
+sur engie.be.
+Le paramètre ZTPDAM (Heren) annuel estimé s’élève à 37,9838
+€/MWh pour ce mois-ci selon la méthodologie de la VREG :
+https://www.vreg.be/nl/faq/berekening-variabele-energieprijzen-de-
+v-testr
+La formule hors TVA d'application pour Août 2024 est la suivante:
+Prélèvement: 1,7540 + (0,2000 x ZTPDAM (Heren))
+(2) Les coûts de réseau sont approuvés par la CREG et par la VREG.
+(3) Vous ne payez pas de TVA sur ces coûts.
+(6) Le calcul a été effectué en janvier 2024 pour un contrat EASY
+Variable sur la base d'une consommation privée de 16000 kWh/an
+en Flandre. Prix 6% de tva comprise.
+(7) Vous trouverez plus d'informations sur vos paiements sur
+www.engie.be/fr/support/faq/facture/paiements.
+(8) Droit d’accises spécial d’application à partir du 01/01/2023
+remplaçant la cotisation fédérale. Il est calculé sur base annuelle,
+suivant un tarif dégressif par tranche de consommation.
+(9) La TVA peut être adaptée en fonction des modifications légales.
+Frais de rappel et de mise en demeure (3) (7)
+Montants d’application à partir du 1er décembre 2023
+Frais de rappel (3er gratuit) 7,50 €

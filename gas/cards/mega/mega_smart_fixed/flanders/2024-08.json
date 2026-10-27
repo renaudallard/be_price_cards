@@ -1,0 +1,47 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "text": "texts/2026-10/f6ed380de098d65f34eacd49d96f819ac2f22d626adfe4c0fe06b0b6d4cb03b2.txt",
+   "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
+   "variant": "text"
+  },
+  {
+   "pdf": "6271999065d385cbcde4fbf4b8f73b1b85e16780825b97dd85c4491216bdc5e2",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/28f3241e7ae1b4ba6ee3f6752caa4eef8a8abb57887dc01d23d9abb1c7f67d77.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-082024-Smart0108-Fixed.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "mega_smart_fixed",
+ "dsos": {},
+ "energy": {
+  "fee": 111.3,
+  "kind": "fixed",
+  "price": 0.059800000000000006
+ },
+ "publication_label": "2024-08",
+ "schema": 1,
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-082024-Smart0108-Fixed.pdf",
+ "supplier": "mega",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087238
+   ],
+   [
+    null,
+    0.0097549
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2024-08-31"
+}

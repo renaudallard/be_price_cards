@@ -8,7 +8,7 @@
   },
   {
    "pdf": "72e13a5e40d7554b716ef8d6f9d7f0a8cd2c84ce17929b678b68f36d2ba0c0a0",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/3d07bfa697eed71f135faa049d3a933036a59d92ad5a87a357b2ebcdcf2efa02.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-062025-Online0106-Fixed.pdf",
    "variant": "plain"

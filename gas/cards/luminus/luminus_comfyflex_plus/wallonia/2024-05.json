@@ -8,7 +8,7 @@
   },
   {
    "pdf": "ab423d95122405d38acb5be779f369640f9356b4e06cb67960ba62113df69f18",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/191f30f39cbf1affdb54b11e4ef0218fb76a5f1c9c802c8d5a18b905dddc6030.txt",
    "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000BygB2AAJ&date=2024-05&region=Wallonia&inline=true",
    "variant": "plain"

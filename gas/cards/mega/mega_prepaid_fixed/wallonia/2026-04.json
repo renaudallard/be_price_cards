@@ -8,7 +8,7 @@
   },
   {
    "pdf": "f06ba7ea32ce0b9950e0a7cd6d0ad9efd5f04aeb322b83eb93d055236a6f631f",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/bd90a20b7025f6fbfb68ae5adff45c5ee2e956e82be0b367ccb97f71a3135f1a.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-042026-Prepaid0104-Fix.pdf",
    "variant": "plain"

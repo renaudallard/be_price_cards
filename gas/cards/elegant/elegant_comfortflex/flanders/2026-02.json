@@ -8,7 +8,7 @@
   },
   {
    "pdf": "fd47008c7e43c15df0067593cfbb7d670cd986207ff26b2c66282d4dfa4057d6",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/f5d44715327b64680e41ea36de74fb6c87d6f61a3a6ab2256fb8729d2cdcfedb.txt",
    "url": "https://www.elegant.be/api/tarief-archief/tariff-chart?tariffChartPath=%2Fapi%2Fv1%2Ftariff-charts%3FproductOfferKey%3DComfortFlexGas_20260201%26proposalDate%3D2026-02-01T00%253A00%253A00.0000000%252B01%253A00%26Partner%3DElegant%26Channel%3DOnline%26Campaign%3DNone%26Process%3DContractSignup%26CustomerType%3DResidential%26archive%3Dtrue%26Language%3DDutch",
    "variant": "layout"

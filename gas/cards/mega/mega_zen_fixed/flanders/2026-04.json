@@ -8,7 +8,7 @@
   },
   {
    "pdf": "ebf4def44810991a25d20cfd4fc0f098e6d7e7ba951600de60af52f2d99ccbce",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/1a86a2d54ff16eda30ca766d05b09c16b85987c519e66fbbad530ed05ff0d606.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-042026-Zen0104-Fix.pdf",
    "variant": "plain"

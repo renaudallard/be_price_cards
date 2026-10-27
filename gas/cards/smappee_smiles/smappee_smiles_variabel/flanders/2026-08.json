@@ -8,7 +8,7 @@
   },
   {
    "pdf": "9f2941899a49079eb6bc8ab2c7404ffd8761894102dd2eece8a5df761dbeb1bd",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/55b80e69995cbd42e69b0e043b82d92198baac981466cd7b7cb24b970248a06f.txt",
    "url": "https://www.smappeesmiles.be/web/content/xx.product.group.tariff.card/1739/file",
    "variant": "plain"

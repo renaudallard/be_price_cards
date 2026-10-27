@@ -8,7 +8,7 @@
   },
   {
    "pdf": "acb77b6e75f16883a904ab6eefadd08bff5aca854a826a82bf97b149c81ef4c9",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/5e34e306f67a6f028b3634950dafe206893f997794cbb6f530ea3586f394856f.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-052025-Smart0105.pdf",
    "variant": "plain"

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "e78e3ca05623c5699b45843c69c0ba7cf0977356884be4ddaa625f980a35fe84",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/9764c50ee69bd6a8a46311bf9c62040623b778ccbd38caf62bf30a69a65dc1e3.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-042026-Offpeak-Bi0104-Fix.pdf",
    "variant": "plain"

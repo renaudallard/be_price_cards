@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "0ef960cf3fefb2135b4bd59212a608d34c1096dd85938cfdf96d0c8d8fff5afe",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/dba4e8adbdfc3f0d975a74876ad99a1fd90e85f9f5a38bcc2659266c8227d11b.txt",
    "url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/G-TSS-FR-2026-Q1.pdf",
    "variant": "plain"

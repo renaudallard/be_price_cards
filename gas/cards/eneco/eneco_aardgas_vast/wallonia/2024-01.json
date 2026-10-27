@@ -1,0 +1,42 @@
+{
+ "_seen_on": "2026-10-27",
+ "_sources": [
+  {
+   "pdf": "195d026dfa707386e25050a9a788823d4e06c16556117203bcc5f8566167f28a",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "text": "texts/2026-10/691d772211167846e0bcbc6ac341beaa39adb05517de61cbb28a8f04550296ca.txt",
+   "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012401_NL_ENECO_GAS_FIX.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "eneco_aardgas_vast",
+ "dsos": {},
+ "energy": {
+  "fee": 65.0,
+  "kind": "fixed",
+  "price": 0.06309999999999999
+ },
+ "publication_label": "2024-01",
+ "schema": 1,
+ "source_url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012401_NL_ENECO_GAS_FIX.pdf",
+ "supplier": "eneco",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010580000000000001,
+  "excise": [
+   [
+    12000.0,
+    0.008723999999999999
+   ],
+   [
+    null,
+    0.009532
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2024-01-31"
+}

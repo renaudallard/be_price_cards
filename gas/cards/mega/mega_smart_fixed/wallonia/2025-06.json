@@ -8,7 +8,7 @@
   },
   {
    "pdf": "7ef2367bdbe8ca70fe8c89d0e774bc2058c57c919976d890da05cfc287ade770",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/ca3c586d494ff115f45e211aaf82bbd521fb26c1291d179144d2b1c736073172.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-062025-Smart0106-Fixed.pdf",
    "variant": "plain"

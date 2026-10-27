@@ -8,7 +8,7 @@
   },
   {
    "pdf": "ad32ba51e48ea3c86b0ffe0eb86823c0fbd28d9dec3c97e4efe53cf209d3dffd",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/f4e963d7bc83a236beac7c65273a6d41f623b57e2bb1023bb92fcf9d9f051d01.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/April_Tariefkaart_Energie_be_Vast_NG_RES_73057f1f4e.pdf",
    "variant": "layout"

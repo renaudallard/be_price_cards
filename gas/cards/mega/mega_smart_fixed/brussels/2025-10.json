@@ -8,7 +8,7 @@
   },
   {
    "pdf": "cbe22bf4f8544f5503ef9de4a78bfb76f2e584bf58af450e5a03101ea18b85d9",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/c5c839c8cc9fbb75a003abf1f7212a5ffee09cdf8f8c00edcb86653dfe08c24b.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-102025-Smart0110-Fixed.pdf",
    "variant": "plain"
