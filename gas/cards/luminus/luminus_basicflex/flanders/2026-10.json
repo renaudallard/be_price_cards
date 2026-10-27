@@ -1,8 +1,8 @@
 {
- "_seen_on": "2026-10-20",
+ "_seen_on": "2026-10-27",
  "_sources": [
   {
-   "pdf": "0788b5b7c5a599976fb91dbb2942fa222c65e701121eb748fad61353d35507f3",
+   "pdf": "c88470f3a41c05eff9c3ecec2c82fb8a6de8eab64ffd12cfe1ef490ee8b67bc3",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
    "text": "texts/2026-10/cedc730c4a7ae09d435076cf56c3f55d98ebe193160a0e9f882470be28c6d169.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicflex&energyType=gas&language=fr&tabValue=Flanders",
