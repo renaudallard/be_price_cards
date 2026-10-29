@@ -1,0 +1,187 @@
+{
+ "_cached_at": "2026-10-29T11:46:01.556165+00:00",
+ "_probe_key": null,
+ "_schema_version": 85,
+ "_seen_on": "2026-10-29",
+ "_sources": [
+  {
+   "text": "texts/2026-10/741b53d5f3095357f07f7392756f1443c2126ec5f9a36a66ebcd0a713bd1e1f7.txt",
+   "url": "https://www.luminus.be/api/pricelist/products?language=FR&customerSegment=Residential&energyType=Electricity&region=Wallonia&signing=2025-11",
+   "variant": "text"
+  },
+  {
+   "pdf": "faa14bfe4eef8eff9fb029fd0340523b96d62dc9890f34323f945796f4ace4c9",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-10/7d74b1131574d8cea11c37395a5453be25790cfe2c94cb8c1bd1f68858ca75dd.txt",
+   "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000BygAdAAJ&date=2025-11&region=Wallonia&inline=true",
+   "variant": "plain"
+  },
+  {
+   "pdf": "a7f9556f150d699b735e5f9f7e52142f7c029183e2d020a576eeead5b9d6edda",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-10/879f2f4ff03703ece9a4c49252e2cc9deea85cfb847cd3fca28fdb7652bb2007.txt",
+   "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000CVjzAAAT&date=2025-11&region=Wallonia&inline=true",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "luminus_dynamic",
+ "direct_debit_discount_eur": null,
+ "dsos": {
+  "aieg": {
+   "brussels_osp_by_tier": null,
+   "brussels_power_term_above_13kva": null,
+   "capacity_eur_per_kw_year": null,
+   "data_management_per_year": 19.08,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.07,
+   "distribution_medium": null,
+   "distribution_offpeak": 0.0765,
+   "distribution_peak": 0.0956,
+   "distribution_pic": null,
+   "distribution_single": 0.0946,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": null,
+   "transport": 0.0298
+  },
+  "aiesh": {
+   "brussels_osp_by_tier": null,
+   "brussels_power_term_above_13kva": null,
+   "capacity_eur_per_kw_year": null,
+   "data_management_per_year": 18.22,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0776,
+   "distribution_medium": null,
+   "distribution_offpeak": 0.0776,
+   "distribution_peak": 0.1421,
+   "distribution_pic": null,
+   "distribution_single": 0.128,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": null,
+   "transport": 0.0298
+  },
+  "ores": {
+   "brussels_osp_by_tier": null,
+   "brussels_power_term_above_13kva": null,
+   "capacity_eur_per_kw_year": null,
+   "data_management_per_year": 13.84,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0541,
+   "distribution_medium": null,
+   "distribution_offpeak": 0.0663,
+   "distribution_peak": 0.11460000000000001,
+   "distribution_pic": null,
+   "distribution_single": 0.1079,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": null,
+   "transport": 0.0298
+  },
+  "resa": {
+   "brussels_osp_by_tier": null,
+   "brussels_power_term_above_13kva": null,
+   "capacity_eur_per_kw_year": null,
+   "data_management_per_year": 26.5,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0504,
+   "distribution_medium": null,
+   "distribution_offpeak": 0.059800000000000006,
+   "distribution_peak": 0.1199,
+   "distribution_pic": null,
+   "distribution_single": 0.10619999999999999,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": null,
+   "transport": 0.0298
+  },
+  "rew": {
+   "brussels_osp_by_tier": null,
+   "brussels_power_term_above_13kva": null,
+   "capacity_eur_per_kw_year": null,
+   "data_management_per_year": 28.09,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0617,
+   "distribution_medium": null,
+   "distribution_offpeak": 0.0721,
+   "distribution_peak": 0.1165,
+   "distribution_pic": null,
+   "distribution_single": 0.1148,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": null,
+   "transport": 0.0298
+  }
+ },
+ "energy": {
+  "base": 0.022594960000000004,
+  "factor": 1.07908,
+  "quarter_hourly": false,
+  "yearly_fixed_fee": 75.0
+ },
+ "energy_kind": "dynamic",
+ "injection": {
+  "base": -0.012685,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": null,
+  "factor": 1.018,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": false,
+  "floor_at_zero": false,
+  "formula": "Injection (Compteur mono-horaire et bi-horaire) =  0,1018 x Belpex H - 1,2685",
+  "minimum": null,
+  "month_indexed": false,
+  "offpeak": null,
+  "peak": null,
+  "slot_indexed": false,
+  "spp_indexed": false,
+  "transition": null,
+  "vat_applies": false
+ },
+ "publication_label": "novembre 2025",
+ "source_url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000CVjzAAAT&date=2025-11&region=Wallonia&inline=true",
+ "supplier": "luminus",
+ "supplier_prosumer_eur_per_kva_year": null,
+ "taxes": {
+  "brussels_renewables": 0.0,
+  "card_vat_rate": 0.06,
+  "energy_contribution": 0.002042,
+  "energy_fund_eur_per_month": 0.0,
+  "federal_excise": 0.050329,
+  "federal_excise_bands": [
+   [
+    3000.0,
+    0.050329
+   ],
+   [
+    20000.0,
+    0.050329
+   ],
+   [
+    50000.0,
+    0.048188
+   ]
+  ],
+  "flanders_renewables": 0.0,
+  "published_vat_rate": 0.0,
+  "region_connection_fee": 0.00075,
+  "region_connection_fee_unavailable": false,
+  "vat_rate": 0.0,
+  "wallonia_renewables": 0.03
+ },
+ "valid_until": null,
+ "welcome_credit_after_months": 12,
+ "welcome_credit_cap_eur": null,
+ "welcome_credit_direct_debit_eur": null,
+ "welcome_credit_eur": null,
+ "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": null,
+ "welcome_credit_kind": "pro_rata",
+ "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
+ "welcome_credit_lump_capped": false,
+ "welcome_credit_pct_of_energy": null,
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
+}

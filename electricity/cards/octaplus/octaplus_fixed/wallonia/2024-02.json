@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-25T10:09:22.333846+00:00",
+ "_cached_at": "2026-10-29T11:46:01.556165+00:00",
  "_probe_key": null,
- "_schema_version": 84,
+ "_schema_version": 85,
  "_seen_on": "2026-10-20",
  "_sources": [
   {
@@ -20,12 +20,100 @@
    "text": "texts/2026-10/dd2f94fa51e941cb65a5ef874ecf1396a2c4d30f2489f75c2e6a9af7f61604ce.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2024-02 E OCTA+FIXED RE WL FR.pdf",
    "variant": "aligned"
+  },
+  {
+   "pdf": "8c2e2490b6f4b63f4451286c217ff07e404572bf13610121f8e5c62aa87710a1",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-10/ab39aed0cfa0e6dc5d00b317a4b182acfb660c4c309e9e3c16e32c7fb996fd1d.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2024-02 E OCTA+FIXED RE WL FR.pdf",
+   "variant": "plain"
   }
  ],
  "_via": "archive",
  "contract": "octaplus_fixed",
  "direct_debit_discount_eur": null,
- "dsos": {},
+ "dsos": {
+  "aieg": {
+   "brussels_osp_by_tier": null,
+   "brussels_power_term_above_13kva": null,
+   "capacity_eur_per_kw_year": null,
+   "data_management_per_year": 25.48,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0553,
+   "distribution_medium": null,
+   "distribution_offpeak": 0.06309999999999999,
+   "distribution_peak": 0.08199999999999999,
+   "distribution_pic": null,
+   "distribution_single": 0.0783,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": 59.02,
+   "transport": 0.026099999999999998
+  },
+  "aiesh": {
+   "brussels_osp_by_tier": null,
+   "brussels_power_term_above_13kva": null,
+   "capacity_eur_per_kw_year": null,
+   "data_management_per_year": 15.84,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0664,
+   "distribution_medium": null,
+   "distribution_offpeak": 0.0733,
+   "distribution_peak": 0.12240000000000001,
+   "distribution_pic": null,
+   "distribution_single": 0.11900000000000001,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": 82.17,
+   "transport": 0.026099999999999998
+  },
+  "ores": {
+   "brussels_osp_by_tier": null,
+   "brussels_power_term_above_13kva": null,
+   "capacity_eur_per_kw_year": null,
+   "data_management_per_year": 13.97,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.04650000000000001,
+   "distribution_medium": null,
+   "distribution_offpeak": 0.056600000000000004,
+   "distribution_peak": 0.09630000000000001,
+   "distribution_pic": null,
+   "distribution_single": 0.0907,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": 66.19,
+   "transport": 0.026099999999999998
+  },
+  "resa": {
+   "brussels_osp_by_tier": null,
+   "brussels_power_term_above_13kva": null,
+   "capacity_eur_per_kw_year": null,
+   "data_management_per_year": 23.75,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0525,
+   "distribution_medium": null,
+   "distribution_offpeak": 0.0603,
+   "distribution_peak": 0.11,
+   "distribution_pic": null,
+   "distribution_single": 0.0987,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": 70.67,
+   "transport": 0.026099999999999998
+  },
+  "rew": {
+   "brussels_osp_by_tier": null,
+   "brussels_power_term_above_13kva": null,
+   "capacity_eur_per_kw_year": null,
+   "data_management_per_year": 18.53,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0872,
+   "distribution_medium": null,
+   "distribution_offpeak": 0.0872,
+   "distribution_peak": 0.11019999999999999,
+   "distribution_pic": null,
+   "distribution_single": 0.1085,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": 76.26,
+   "transport": 0.026099999999999998
+  }
+ },
  "energy": {
   "exclusive_night": 0.1405,
   "offpeak": 0.1378,

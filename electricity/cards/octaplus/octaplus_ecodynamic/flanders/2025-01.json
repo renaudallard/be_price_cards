@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-10-25T10:09:22.333846+00:00",
+ "_cached_at": "2026-10-29T11:46:01.556165+00:00",
  "_probe_key": null,
- "_schema_version": 84,
+ "_schema_version": 85,
  "_seen_on": "2026-10-20",
  "_sources": [
   {
@@ -55,7 +55,7 @@
    "distribution_pic": null,
    "distribution_single": 0.062,
    "network_ceiling_eur_per_kwh": null,
-   "prosumer_eur_per_kva_year": null,
+   "prosumer_eur_per_kva_year": 65.46,
    "transport": 0.0
   },
   "fluvius_imewo": {
@@ -71,7 +71,7 @@
    "distribution_pic": null,
    "distribution_single": 0.062400000000000004,
    "network_ceiling_eur_per_kwh": null,
-   "prosumer_eur_per_kva_year": null,
+   "prosumer_eur_per_kva_year": 63.48,
    "transport": 0.0
   },
   "fluvius_intergem": {
@@ -87,7 +87,7 @@
    "distribution_pic": null,
    "distribution_single": 0.056100000000000004,
    "network_ceiling_eur_per_kwh": null,
-   "prosumer_eur_per_kva_year": null,
+   "prosumer_eur_per_kva_year": 59.75,
    "transport": 0.0
   },
   "fluvius_iveka": {
@@ -103,7 +103,7 @@
    "distribution_pic": null,
    "distribution_single": 0.0644,
    "network_ceiling_eur_per_kwh": null,
-   "prosumer_eur_per_kva_year": null,
+   "prosumer_eur_per_kva_year": 65.61,
    "transport": 0.0
   },
   "fluvius_limburg": {
@@ -119,7 +119,7 @@
    "distribution_pic": null,
    "distribution_single": 0.068,
    "network_ceiling_eur_per_kwh": null,
-   "prosumer_eur_per_kva_year": null,
+   "prosumer_eur_per_kva_year": 68.18,
    "transport": 0.0
   },
   "fluvius_west": {
@@ -135,7 +135,7 @@
    "distribution_pic": null,
    "distribution_single": 0.0747,
    "network_ceiling_eur_per_kwh": null,
-   "prosumer_eur_per_kva_year": null,
+   "prosumer_eur_per_kva_year": 72.92,
    "transport": 0.0
   },
   "fluvius_zenne_dijle": {
@@ -151,7 +151,7 @@
    "distribution_pic": null,
    "distribution_single": 0.0642,
    "network_ceiling_eur_per_kwh": null,
-   "prosumer_eur_per_kva_year": null,
+   "prosumer_eur_per_kva_year": 67.08,
    "transport": 0.0
   }
  },

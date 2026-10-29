@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-10-25T10:09:22.333846+00:00",
+ "_cached_at": "2026-10-29T11:46:01.556165+00:00",
  "_probe_key": null,
- "_schema_version": 84,
- "_seen_on": "2026-10-25",
+ "_schema_version": 85,
+ "_seen_on": "2026-10-29",
  "_sources": [
   {
    "pdf": "59aa40e8704de7fc1ab60ec93da794bf7856b03e4a4e48662d6568add63b42bc",
@@ -103,6 +103,7 @@
   "ceiling_peak": null,
   "ceiling_single": null,
   "current": 0.23725000000000002,
+  "day_night_under_impact": true,
   "exclusive_night": 0.20440000000000003,
   "formula": null,
   "formula_base": 0.029881400000000002,
