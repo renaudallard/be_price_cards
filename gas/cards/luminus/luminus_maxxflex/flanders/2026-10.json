@@ -1,8 +1,8 @@
 {
- "_seen_on": "2026-10-27",
+ "_seen_on": "2026-10-29",
  "_sources": [
   {
-   "pdf": "0192ddf7198090b4483f0c4df2a7afddfda25e9d40b9f8fe05311ab2a499356e",
+   "pdf": "fcf9f57be263c541d61ffa78460e6208a78710a772662ca3e1daaf9f7327c5a1",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
    "text": "texts/2026-10/9b2c732acd282ac7ce725c664fa3e0b83b1196ae5f9fab857df20e7b0935eef6.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxflex&energyType=gas&language=fr&tabValue=Flanders",

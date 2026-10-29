@@ -101,9 +101,8 @@ de prix de l’énergie conformément à l’article 11 des Conditions général
 du client décrit dans ce même article. 
 La TVA sur les prix indiqués et les éventuelles promotions est de 6 %. Si le taux de TVA en vigueur 
 change pendant la durée de votre contrat, alors les prix et les promotions changent également.
-Formules tarifaires pour le coût de l’énergie (HTVA):
-Index (HTVA): TTF DAHW =  63,23 €/MWh (valeur de l'indice du 3ième trimestre 2026); 0,1004  x  
-TTF DAHW  +   0,0000  x  TTF 1-0-3  + 2,3954
+Index (HTVA) :  TTF DAHW  =  63,233 €/MWh (valeur de l'indice du 3ième trimestre 2026)
+Formule tarifaire pour le coût de l’énergie (HTVA) :  0,1004  x  TTF DAHW  +  2,3954  
 Les montants mentionnés sont arrondis. Votre tarif sera indexé tous les trimestres. Les trimestres 
 commencent le 1er janvier, 1er avril, 1er juillet et 1er octobre. La méthode de calcul, ainsi que 
 les valeurs de l’index et de ses composantes, sont publiées sur le site www.luminus.be. Sur le 
