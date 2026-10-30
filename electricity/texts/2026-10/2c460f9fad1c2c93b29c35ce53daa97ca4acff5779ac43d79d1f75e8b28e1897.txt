@@ -17,36 +17,31 @@ votre producteur d'énergie
 Frais de réseau et contributions
 Frais de plateforme
 Prix
-TTC
+HTVA
 Frais de plateforme +
 Consommation
-€ 11,99 / mois
+€ 5,99 / mois
 Compteur double
-Compteur simple Exclusif nuit
-Prix mensuel 21,08 21,08
+Compteur simple Jour Nuit Exclusif nuit
+Prix mensuel 21,08 21,08 21,08 21,08
 Injection
 (rémunération pour l’électricité que vous injectez sur le réseau)
 Compteur double
-Cette redevance fixe nous Compteur simple Exclusif nuit
+Cette redevance fixe nous Compteur simple Jour Nuit Exclusif nuit
 permet de gérer tout ce qui
 concerne l’électricité durable de Prix annuel estimé 1
  6,34
  6,34
+ 6,34
+ 6,34
 
-votre producteur local, votre Prix mensuel 6,21 1,82
+votre producteur local, votre Prix mensuel 6,21 7,95 1,82 1,82
 service client personnalisé et
 votre accès à My Bolt. Vous avez des panneaux solaires ? Bénéficiez chez Bolt du meilleur tarif d’injection du marché.
 Forte hausse
 
 et tarifs élevés xirP xirP
 Prix de l'électricité verte (c€/kWh)
-Jour Nuit
-21,08 21,08
-Jour Nuit
-6,34
- 6,34
-
-7,95 1,82
 Un tarif honnête, sur le long
 terme
 Un prix honnête et

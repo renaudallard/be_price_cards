@@ -1,21 +1,33 @@
 {
- "_cached_at": "2026-10-29T11:46:01.556165+00:00",
+ "_cached_at": "2026-10-30T11:39:09.522048+00:00",
  "_probe_key": null,
  "_schema_version": 85,
- "_seen_on": "2026-10-27",
+ "_seen_on": "2026-10-30",
  "_sources": [
   {
-   "pdf": "4c8a05549b18daeb1f19a2d484cb405e649d7bbf71bfada5082b56735f3c7a67",
+   "text": "texts/2026-10/8c8cd0cef6fc0512be623d1f14ef3ecded02f7cac68fdb51c190ce0f8ffe6938.txt",
+   "url": "https://www.luminus.be/api/pricelist/products?language=FR&customerSegment=Residential&energyType=Electricity&region=Wallonia&signing=2026-10",
+   "variant": "text"
+  },
+  {
+   "pdf": "a2a224a14c56bc19ff861d865fecf50e70eb1e7c0c21091d78b2ca3ca5cb0998",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-10/8a99b36e3d011ddc9362221412339f5b605edb412d60b2c3ae05403ab5b46704.txt",
+   "text": "texts/2026-10/47d4898396359984c9b30344509b6fa0d689f83a1d759d37860c4fb60078b076.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"
   },
   {
-   "pdf": "44334c1747934e8bbb1dff58833b0a2450b849f4f80762d8a669457a92272284",
+   "pdf": "fbb038ede2ce86f520d3e2368a966afa0a153205bec032b4f1ca8255ab4521a9",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-10/bcf314ef8de1cf0c36292dbfdf6d736cec4471bf3f884f660ffeed1a82c8cf5e.txt",
+   "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=smartflex&energyType=electricity&language=fr&tabValue=Wallonia",
+   "variant": "plain"
+  },
+  {
+   "pdf": "1902fd3709dcd70966d1f812739407647c68c6671fcc696f6b3a056c5c567630",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-10/e0d965e7c044f9986b66d8b8893b6946bab7a5f86c612931c97983a9bd2fdf92.txt",
-   "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=smartflex&energyType=electricity&language=fr&tabValue=Wallonia",
+   "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1paa000001tfOXAAY&date=2026-10&region=Wallonia&inline=true",
    "variant": "plain"
   }
  ],

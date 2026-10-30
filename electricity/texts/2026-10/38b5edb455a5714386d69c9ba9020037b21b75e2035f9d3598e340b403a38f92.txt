@@ -1,30 +1,27 @@
-(*) Si vous êtes client Luminus Comfy Electricité sans interruption depuis au moins 12 mois et que votre domiciliation est toujours active comme mode de paiement au moment du renouvellement de votre contrat par Luminus, vous 
-bénéficiez pour chaque kWh consommé d'une remise de 5 % sur les coûts énergétiques (prix unitaire de l'énergie, hors redevance fixe) dans le cadre de votre tarif Luminus Comfy Electricité, pendant la durée de votre contrat 
-renouvelé. Cette remise est calculée au pro rata sur votre (vos) décompte(s). En cas de déménagement, cette réduction est uniquement valable si vous transférez votre contrat actuel à votre nouvelle adresse. Non cumulable avec la 
-remise de 10 % si vous êtes déjà client Luminus Comfy Electricité sans interruption depuis 24 mois.
-(**) Si vous êtes client Luminus Comfy Electricité sans interruption depuis au moins 24 mois et que votre domiciliation est toujours active comme mode de paiement au moment du renouvellement de votre contrat par Luminus, vous 
-bénéficiez pour chaque kWh consommé d'une remise de 10 % sur les coûts énergétiques (prix unitaire de l'énergie, hors redevance fixe) dans le cadre de votre tarif Luminus Comfy Electricité. Cette remise est calculée au pro rata sur 
-votre (vos) décompte(s). En cas de déménagement, cette réduction est uniquement valable si vous transférez votre contrat actuel à votre nouvelle adresse.
-(***) En tant que nouveau client pour Luminus Comfy Electricité, vous bénéficiez pour chaque kWh consommé d'une remise de 30 % sur les coûts énergétiques (prix unitaire de l'énergie, hors redevance fixe) pendant 12 mois. Cette 
-remise sera répartie au pro rata sur votre (vos) prochain(s) décompte(s). En cas de déménagement, cette réduction est uniquement valable si vous transférez votre contrat actuel à votre nouvelle adresse.
-Comfy Electricité(octobre 2026) 
-Conditions particulières : (EC1C2.0)
+BasicFix Online Electricité(octobre 2026) 
+Conditions particulières : (EBFI2C2.0)
 Région : Wallonie
 Consommateurs : résidentiels
 Tarif : fixe
 Injection: variable
-Durée du contrat : 1 an 
+Durée du contrat : 2 ans 
 Valable pour les Consommateurs résidentiels avec une consommation d’électricité annuelle < 50 MWh. Dans le cas contraire, Luminus se réserve le droit d’adapter votre prix. 
 Cette offre est valable pendant la période indiquée sur la carte tarifaire, sous réserve de la disponibilité des volumes de gaz et/ou d'électricité prévus pour ce produit.
 VOS AVANTAGES :
-Durable
-Electricité 100% verte et belge.
-Confort
-Une compensation variable annuelle 
+Sécurité
+Un prix fixe compétitif pour 2 ans et 
+une compensation variable annuelle 
 pour injection si vous avez des 
 panneaux solaires.
-Sécurité
-Un prix fixe pendant 1 an.
+Facilité
+Vous gérez votre compte et vos 
+factures dans My Luminus, votre 
+espace client en ligne.
+Service
+Self service 100 % en ligne : vous gérez vous-
+même, facilement et à tout moment, vos 
+données et services dans votre espace client 
+sécurisé.
 SERVICES INCLUS :
 Luminus Extras & Energenius
 Avantages clients sur vos marques 
@@ -36,21 +33,6 @@ FactureManager
 La flexibilité de paiement et 
 l’assurance d’un budget sous 
 contrôle.
-VOS PROMOS :
-5 %
-Remise de fidélité sur les 
-coûts énergétiques en cas de 
-paiement par domiciliation.
-(*)
-10 %
-Remise de fidélité sur les 
-coûts énergétiques en cas de 
-paiement par domiciliation.
-(**)
-30,00 %
-Remise de bienvenue sur les coûts 
-énergétiques pendant 12 mois.
-(***)
 Plus d'infos sur luminus.be
 TARIFS :
 Composition du prix de l'energie
@@ -68,7 +50,7 @@ cogénération
 de qualité
 WAL
 Le produit que vous 
-utilisez 100,00% - - -
+utilisez - 55,70% 44,30% -
 L'énergie fournie par 
 Luminus 62,72% 20,76% 16,52% -
 Pour des informations sur les conséquences pour l’environnement en ce qui concerne les émissions CO2 et déchets radioactifs de la production 
@@ -84,25 +66,20 @@ Heures
 pleines
 Heures 
 creuses
-Énergie fournie  (c€/kWh) 24,43 28,47 21,19 21,19
+Prix de l’énergie (c€/kWh)2
+Énergie fournie + énergie verte 21,03 24,87 17,94 17,94
  Tarif de l'énergie 
-injectée (c€/kWh)2 6,88 6,88 6,88 -
+injectée (c€/kWh)3 6,38 6,38 6,38 -
 Estimation annuelle du tarif 
-de l'énergie injectée (c€/kWh)3 5,23 5,23 5,23 -
-Redevance fixe (€/an) 65,00 65,00 -
-Coûts énergie verte (c€/kWh)4
-WAL
-3,03
+de l'énergie injectée (c€/kWh) 4,74 4,74 4,74 -
+Redevance fixe (€/an) 25,00 25,00 -
 1 Pour plus d’informations, voir ci-dessous : ‘Informations sur votre tarif’. 
-2 Compensation à taux variable pour les propriétaires de panneaux solaires avec un compteur 
+2 Le prix mentionné pour l'énergie fournie comprend le coût de l'énergie et les coûts énergie 
+verte (CEV). 
+3 Compensation à taux variable pour les propriétaires de panneaux solaires avec un compteur 
 digital (uniquement applicable à un point de livraison utilisé à la fois pour le prélèvement 
 et l'injection). La TVA s'élève à 0%. Pour plus d'info, voir ci-dessous: "Information sur votre 
 tarif". 
-3 Cette estimation annuelle se base sur l'évolution actuelle et prévue des prix des 12 prochains 
-mois. 
-4 Les coûts de l’électricité verte sont adaptés en fonction des modifications législatives. Les 
-montants mentionnés dans les présentes conditions sont valables pour le trimestre en cours. 
-Vous trouverez de plus amples informations sur www.luminus.be/tarifselectriciteverte. 
 2 Coûts d'utilisation des réseaux :
 Coûts de distribution (c€/kWh)
 Gestionnaire de réseau Compteur mono-horaire Compteur bi-horaireHeures pleines Heures creuses Exclusif nuit Coûts de transport(c€/kWh) Tarif gestion des données / Activité de mesure et de comptage / Terme fixe GRD(€/an) Tarif prosumer(€/kW/an) (*)
@@ -143,8 +120,8 @@ La TVA sur les prix indiqués et les éventuelles promotions est de 6 %. Si le t
 change pendant la durée de votre contrat, alors les prix et les promotions changent également.
 Formule tarifaire de l’énergie injectée (si d’application pour vous) (HTVA) : 
 Index (HTVA): Belpex  =  156,41 €/MWh (valeur de l'indice de septembre 2026); Compteur mono-
-horaire =  0,0481 x Belpex - 0,6392; Heures pleines (Compteur bi-horaire) =  0,0481 x Belpex - 
-0,6392; Heures creuses =  0,0481 x Belpex - 0,6392;
+horaire =  0,0481 x Belpex - 1,1377; Heures pleines (Compteur bi-horaire) =  0,0481 x Belpex - 
+1,1377; Heures creuses =  0,0481 x Belpex - 1,1377;
 Les montants mentionnés sont arrondis. Votre tarif sera indexé chaque mois. La méthode 
 de calcul, ainsi que les valeurs de l’index et de ses composantes, sont publiées sur le site 
 www.luminus.be/parametres-d-indexation. La compensation de l'énergie injectée est calculé sur 
@@ -162,37 +139,34 @@ d'utilisation des réseaux mentionnés ci-dessus sont les coûts approuvés par 
 et les valeurs des taxes, redevances, cotisations et surcharges sont les valeurs les plus récentes 
 connues au moment de l’édition de ces conditions particulières. Les éventuelles modifications de 
 ces éléments vous seront intégralement refacturées au prix coûtant.
-Luminus vous garantit une électricité provenant exclusivement de sources d'énergie renouvelables 
-belges pendant toute la durée de votre contrat.
+Tarif exclusivement en ligne : 
+Luminus BasicFix Online Electricité est un contrat exclusivement en ligne par lequel vous acceptez 
+expressément :
+- de pouvoir contacter Luminus exclusivement via le formulaire de contact, par chat ou en ligne via 
+My Luminus et
+- de recevoir exclusivement vos factures de manière digitale.
+ Si vous souhaitez toutefois bénéficier de l’aide de notre service client téléphonique ou si vous 
+souhaitez malgré tout recevoir vos factures au format papier, cela peut se faire uniquement si vous 
+souscrivez un contrat qui inclut notre service clientèle téléphonique.
+  
 DUREE DE VOTRE CONTRAT :
-Luminus Comfy Electricité est un contrat d’une durée d’un an pour des points de fourniture situés 
-dans la Région wallonne, qui est automatiquement prolongé de périodes successives d’un an, 
-conformément à l’article 4.2 de nos conditions générales.
+Si le point de fourniture est situé en Région wallonne, votre contrat a une durée de 2 ans et sera 
+automatiquement prolongé pour des périodes successives de 2 ans.
 Si vous êtes un nouveau client Luminus, ce contrat entrera en vigueur à la date de début de 
 fourniture. Si vous êtes déjà client chez Luminus pour votre  électricité pour le Point de fourniture 
 et conformément à l’article 11.4 des Conditions générales, souhaitez passer au contrat  Luminus 
-Comfy Electricité , le nouveau contrat entrera en vigueur 21 jours calendrier après la date de 
-signature, sauf si une autre date est convenue en concertation avec nous.
+BasicFix Online Electricité , le nouveau contrat entrera en vigueur 21 jours calendrier après la date 
+de signature, sauf si une autre date est convenue en concertation avec nous.
 L’article 4.3 des Conditions générales demeure inchangé.
 Si vous n’êtes pas encore client chez Luminus, votre contrat chez Luminus doit débuter au plus tard 
 4 mois après la signature. Si tel n’est pas le cas, Luminus est en droit de refuser votre demande de 
 contrat ou de vous faire une nouvelle proposition de contrat.
 PAIEMENT ET MODE D'ENVOI DE VOS FACTURES :
-Vous choisissez votre mode de paiement (domiciliation ou virement) et la fréquence de facturation 
-(mensuelle, bimestrielle ou trimestrielle). 
-Si vous n’avez pas encore de domiciliation, mais décidez d’opter pour ce mode de paiement, vous 
-bénéficiez d’une réduction unique de 20 € (TVA comprise) en cas de paiement à temps et vous ne 
-recevrez pas de factures d’acompte, mais uniquement votre décompte annuel. 
-Toutes vos factures seront cependant disponibles en ligne via votre Espace Client sur 
-www.luminus.be. 
-Si vous souhaitez quand même recevoir toutes vos factures par la poste, cette réduction n’est pas 
-d’application. Si vous activez votre domiciliation au cours de la première année de fourniture, cette 
-réduction sera attribuée 1 an après la date de début. Si vous activez votre domiciliation après la 
-première année de fourniture, cette réduction sera attribuée sur votre prochain décompte. 
-Les réductions pour la domiciliation et la facture numérique ne sont pas cumulables. Si vous êtes 
-client chez nous pour l’électricité et le gaz, cette réduction n’est appliquée qu’une seule fois. 
-Vous choisissez le mode d’envoi de vos factures : par courrier ou par voie digitale (par email ou via 
-le service Zoomit disponible dans votre programme d’Internet banking habituel).
+Vous choisissez votre mode de paiement (domiciliation, virement ou tout autre mode de paiement 
+proposé par Luminus) et la fréquence de facturation (mensuelle, bimestrielle ou trimestrielle). Si 
+vous optez pour la domiciliation, vous ne recevrez pas de factures d’acompte, mais uniquement 
+votre décompte annuel. Toutes vos factures seront toutefois disponibles en ligne via votre Espace 
+Client sur www.luminus.be.
 En cas de retard de paiement ou de refus d’un ordre de domiciliation, vous êtes tenus, en plus du 
 solde dû :
 - des rappels à 7,50€ - le 1er rappel n’est pas facturé pour les 3 premières dettes échues dans une 

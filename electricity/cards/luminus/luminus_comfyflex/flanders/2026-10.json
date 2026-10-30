@@ -1,14 +1,26 @@
 {
- "_cached_at": "2026-10-29T11:46:01.556165+00:00",
+ "_cached_at": "2026-10-30T11:39:09.522048+00:00",
  "_probe_key": null,
  "_schema_version": 85,
- "_seen_on": "2026-10-27",
+ "_seen_on": "2026-10-30",
  "_sources": [
   {
-   "pdf": "04879a4aacf6cbd91a75a5edcc2801b99188cc48a2fae680a3b974fd320c2cee",
+   "text": "texts/2026-10/8c8cd0cef6fc0512be623d1f14ef3ecded02f7cac68fdb51c190ce0f8ffe6938.txt",
+   "url": "https://www.luminus.be/api/pricelist/products?language=FR&customerSegment=Residential&energyType=Electricity&region=Flanders&signing=2026-10",
+   "variant": "text"
+  },
+  {
+   "pdf": "3a1caf6def1fa0c9703de52288af5bd4d7527a8ded0fd45d4c5fb5b6c8c070a6",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-10/e15d59a472e6b16ecb21c744649d85703bb6c2845b396fc3f69de5decd7c21ee.txt",
+   "text": "texts/2026-10/e4763d35473af7b857559089a1aa1b05efe5c5a5bed7ba648d2426881ebb59a6.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex&energyType=electricity&language=fr&tabValue=Flanders",
+   "variant": "plain"
+  },
+  {
+   "pdf": "818174835c79645aea5ce8822f42963736b01098904b8ab6cd5c05e94f05ba4c",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-10/f901a8adfa5643cc386d6018642a718077a2e76193c894bda86d554d7d7d4a52.txt",
+   "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000BygAdAAJ&date=2026-10&region=Flanders&inline=true",
    "variant": "plain"
   }
  ],

@@ -1,15 +1,14 @@
-(*) Si vous êtes client Luminus Comfy+ Electricité sans interruption depuis au moins 12 mois et que votre domiciliation est toujours active comme mode de paiement au moment du renouvellement de votre contrat par Luminus, vous 
-bénéficiez pour chaque kWh consommé d'une remise de 5 % sur les coûts énergétiques (prix unitaire de l'énergie, hors redevance fixe) dans le cadre de votre tarif Luminus Comfy+ Electricité, pendant la durée de votre contrat 
+(*) Si vous êtes client Luminus Comfy Electricité sans interruption depuis au moins 12 mois et que votre domiciliation est toujours active comme mode de paiement au moment du renouvellement de votre contrat par Luminus, vous 
+bénéficiez pour chaque kWh consommé d'une remise de 5 % sur les coûts énergétiques (prix unitaire de l'énergie, hors redevance fixe) dans le cadre de votre tarif Luminus Comfy Electricité, pendant la durée de votre contrat 
 renouvelé. Cette remise est calculée au pro rata sur votre (vos) décompte(s). En cas de déménagement, cette réduction est uniquement valable si vous transférez votre contrat actuel à votre nouvelle adresse. Non cumulable avec la 
-remise de 10 % si vous êtes déjà client Luminus Comfy+ Electricité sans interruption depuis 24 mois.
-(**) Si vous êtes client Luminus Comfy+ Electricité sans interruption depuis au moins 24 mois et que votre domiciliation est toujours active comme mode de paiement au moment du renouvellement de votre contrat par Luminus, vous 
-bénéficiez pour chaque kWh consommé d'une remise de 10 % sur les coûts énergétiques (prix unitaire de l'énergie, hors redevance fixe) dans le cadre de votre tarif Luminus Comfy+ Electricité. Cette remise est calculée au pro rata 
-sur votre (vos) décompte(s). En cas de déménagement, cette réduction est uniquement valable si vous transférez votre contrat actuel à votre nouvelle adresse.
-(***) En tant que nouveau client, vous bénéficiez d'une remise de 675 kWh pour la conclusion d'un contrat Luminus Comfy+ Electricité en octobre 2026. Cette remise est accordée 12 mois après la date de début via un cashback, à 
-condition qu'il n'y ait pas de retard de paiement. Ce montant est calculé en multipliant par 675 kWh le prix unitaire en €/kWh TVAC des coûts énergétiques applicable aux compteurs mono-horaires, tel qu'indiqué dans les conditions 
-particulières. 
-Comfy+ Electricité(octobre 2026) 
-Conditions particulières : (EC+1C2.0)
+remise de 10 % si vous êtes déjà client Luminus Comfy Electricité sans interruption depuis 24 mois.
+(**) Si vous êtes client Luminus Comfy Electricité sans interruption depuis au moins 24 mois et que votre domiciliation est toujours active comme mode de paiement au moment du renouvellement de votre contrat par Luminus, vous 
+bénéficiez pour chaque kWh consommé d'une remise de 10 % sur les coûts énergétiques (prix unitaire de l'énergie, hors redevance fixe) dans le cadre de votre tarif Luminus Comfy Electricité. Cette remise est calculée au pro rata sur 
+votre (vos) décompte(s). En cas de déménagement, cette réduction est uniquement valable si vous transférez votre contrat actuel à votre nouvelle adresse.
+(***) En tant que nouveau client pour Luminus Comfy Electricité, vous bénéficiez pour chaque kWh consommé d'une remise de 30 % sur les coûts énergétiques (prix unitaire de l'énergie, hors redevance fixe) pendant 12 mois. Cette 
+remise sera répartie au pro rata sur votre (vos) prochain(s) décompte(s). En cas de déménagement, cette réduction est uniquement valable si vous transférez votre contrat actuel à votre nouvelle adresse.
+Comfy Electricité(octobre 2026) 
+Conditions particulières : (EC1C2.0)
 Région : Wallonie
 Consommateurs : résidentiels
 Tarif : fixe
@@ -33,10 +32,10 @@ préférées.
 My Luminus
 Votre espace client pour gérer tous 
 vos services en ligne.
-Assistance Comfy+
-Chaque année 1 intervention gratuite 
-(conditions sur www.luminus.be/
-AssistanceComfyPlus).
+FactureManager
+La flexibilité de paiement et 
+l’assurance d’un budget sous 
+contrôle.
 VOS PROMOS :
 5 %
 Remise de fidélité sur les 
@@ -48,8 +47,9 @@ Remise de fidélité sur les
 coûts énergétiques en cas de 
 paiement par domiciliation.
 (**)
-3 mois d’électricité gratuite
-675 kWh cashback après 12 mois.
+30,00 %
+Remise de bienvenue sur les coûts 
+énergétiques pendant 12 mois.
 (***)
 Plus d'infos sur luminus.be
 TARIFS :
@@ -84,25 +84,20 @@ Heures
 pleines
 Heures 
 creuses
-Énergie fournie  (c€/kWh) 26,24 30,57 22,79 22,79
+Prix de l’énergie (c€/kWh)2
+Énergie fournie + énergie verte 24,43 28,47 21,19 21,19
  Tarif de l'énergie 
-injectée (c€/kWh)2 6,88 6,88 6,88 -
+injectée (c€/kWh)3 6,88 6,88 6,88 -
 Estimation annuelle du tarif 
-de l'énergie injectée (c€/kWh)3 5,23 5,23 5,23 -
+de l'énergie injectée (c€/kWh) 5,23 5,23 5,23 -
 Redevance fixe (€/an) 65,00 65,00 -
-Coûts énergie verte (c€/kWh)4
-WAL
-3,03
 1 Pour plus d’informations, voir ci-dessous : ‘Informations sur votre tarif’. 
-2 Compensation à taux variable pour les propriétaires de panneaux solaires avec un compteur 
+2 Le prix mentionné pour l'énergie fournie comprend le coût de l'énergie et les coûts énergie 
+verte (CEV). 
+3 Compensation à taux variable pour les propriétaires de panneaux solaires avec un compteur 
 digital (uniquement applicable à un point de livraison utilisé à la fois pour le prélèvement 
 et l'injection). La TVA s'élève à 0%. Pour plus d'info, voir ci-dessous: "Information sur votre 
 tarif". 
-3 Cette estimation annuelle se base sur l'évolution actuelle et prévue des prix des 12 prochains 
-mois. 
-4 Les coûts de l’électricité verte sont adaptés en fonction des modifications législatives. Les 
-montants mentionnés dans les présentes conditions sont valables pour le trimestre en cours. 
-Vous trouverez de plus amples informations sur www.luminus.be/tarifselectriciteverte. 
 2 Coûts d'utilisation des réseaux :
 Coûts de distribution (c€/kWh)
 Gestionnaire de réseau Compteur mono-horaire Compteur bi-horaireHeures pleines Heures creuses Exclusif nuit Coûts de transport(c€/kWh) Tarif gestion des données / Activité de mesure et de comptage / Terme fixe GRD(€/an) Tarif prosumer(€/kW/an) (*)
@@ -165,20 +160,18 @@ ces éléments vous seront intégralement refacturées au prix coûtant.
 Luminus vous garantit une électricité provenant exclusivement de sources d'énergie renouvelables 
 belges pendant toute la durée de votre contrat.
 DUREE DE VOTRE CONTRAT :
-Luminus Comfy+ Electricité est un contrat d’une durée d’un an pour des points de fourniture 
-situés dans la Région wallonne, qui est automatiquement prolongé de périodes successives d’un 
-an, conformément à l’article 4.2 de nos conditions générales.
+Luminus Comfy Electricité est un contrat d’une durée d’un an pour des points de fourniture situés 
+dans la Région wallonne, qui est automatiquement prolongé de périodes successives d’un an, 
+conformément à l’article 4.2 de nos conditions générales.
 Si vous êtes un nouveau client Luminus, ce contrat entrera en vigueur à la date de début de 
 fourniture. Si vous êtes déjà client chez Luminus pour votre  électricité pour le Point de fourniture 
 et conformément à l’article 11.4 des Conditions générales, souhaitez passer au contrat  Luminus 
-Comfy+ Electricité , le nouveau contrat entrera en vigueur 21 jours calendrier après la date de 
+Comfy Electricité , le nouveau contrat entrera en vigueur 21 jours calendrier après la date de 
 signature, sauf si une autre date est convenue en concertation avec nous.
 L’article 4.3 des Conditions générales demeure inchangé.
 Si vous n’êtes pas encore client chez Luminus, votre contrat chez Luminus doit débuter au plus tard 
 4 mois après la signature. Si tel n’est pas le cas, Luminus est en droit de refuser votre demande de 
 contrat ou de vous faire une nouvelle proposition de contrat.
-Conformément à l'article 4 des conditions générales de l'Assistance Comfy+, l'assistance énergie 
-va de pair avec votre contrat d'électricité. 
 PAIEMENT ET MODE D'ENVOI DE VOS FACTURES :
 Vous choisissez votre mode de paiement (domiciliation ou virement) et la fréquence de facturation 
 (mensuelle, bimestrielle ou trimestrielle). 

@@ -1,14 +1,26 @@
 {
- "_cached_at": "2026-10-29T11:46:01.556165+00:00",
+ "_cached_at": "2026-10-30T11:39:09.522048+00:00",
  "_probe_key": null,
  "_schema_version": 85,
- "_seen_on": "2026-10-27",
+ "_seen_on": "2026-10-30",
  "_sources": [
   {
-   "pdf": "31d6198e2996b2eff794002227f17a4c6748068ba35c01a723b5fb50bac1f95f",
+   "text": "texts/2026-10/8c8cd0cef6fc0512be623d1f14ef3ecded02f7cac68fdb51c190ce0f8ffe6938.txt",
+   "url": "https://www.luminus.be/api/pricelist/products?language=FR&customerSegment=Residential&energyType=Electricity&region=Wallonia&signing=2026-10",
+   "variant": "text"
+  },
+  {
+   "pdf": "7b0152bf909b0db297f7bd0cb13293f2bd78ea9320fac6100fc79039d1637278",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-10/78115526b91729340797c85ff4ecd292745cbe7ed26e4fa4259f249bdb20dec7.txt",
+   "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=dynamic&energyType=electricity&language=fr&tabValue=Wallonia",
+   "variant": "plain"
+  },
+  {
+   "pdf": "1b868013472fabc5b63200cc42c18176a81a5c12e4d82091129c7eab01406860",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-10/44fb194b0284e286ac8be639410514835631ffee2929b8560fbc495672188fa9.txt",
-   "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=dynamic&energyType=electricity&language=fr&tabValue=Wallonia",
+   "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000CVjzAAAT&date=2026-10&region=Wallonia&inline=true",
    "variant": "plain"
   }
  ],

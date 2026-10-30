@@ -1,14 +1,26 @@
 {
- "_cached_at": "2026-10-29T11:46:01.556165+00:00",
+ "_cached_at": "2026-10-30T11:39:09.522048+00:00",
  "_probe_key": null,
  "_schema_version": 85,
- "_seen_on": "2026-10-27",
+ "_seen_on": "2026-10-30",
  "_sources": [
   {
-   "pdf": "acb9d3983e8dfa72ca231b59660307c1a91d8550e6b2078f4e1d384db10a819c",
+   "text": "texts/2026-10/8c8cd0cef6fc0512be623d1f14ef3ecded02f7cac68fdb51c190ce0f8ffe6938.txt",
+   "url": "https://www.luminus.be/api/pricelist/products?language=FR&customerSegment=Residential&energyType=Electricity&region=Wallonia&signing=2026-10",
+   "variant": "text"
+  },
+  {
+   "pdf": "4cc7f887343d812fccf2bb846d0ff530491c59f5d79a05aa30366ce8712cefb3",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-10/067a73b8906a1d0df7a4c295426ff666b52fa5e497a18403a5bd39dc559bae2d.txt",
+   "text": "texts/2026-10/a905ef6154266ccaa7a0affbee4a8e578f7f6f2dd9c6ececf616dee2eab1a5fa.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxflex&energyType=electricity&language=fr&tabValue=Wallonia",
+   "variant": "plain"
+  },
+  {
+   "pdf": "ec0270cabefc3ba22af14f6cdb999655e40c712ca50b2fc00155c6bc90a36358",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-10/029398f10853312453930d77b23a6a8b1e2a82402bdff4fe3971a38530245925.txt",
+   "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1paa0000003dWIAAY&date=2026-10&region=Wallonia&inline=true",
    "variant": "plain"
   }
  ],

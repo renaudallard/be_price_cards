@@ -1,26 +1,30 @@
-(*) En tant que nouveau client, vous bénéficiez d'une remise de 675 kWh pour la conclusion d'un contrat Luminus MaxxFix Electricité en octobre 2026. Cette remise est accordée 12 mois après la date de début via un cashback, à 
-condition qu'il n'y ait pas de retard de paiement. Ce montant est calculé en multipliant par 675 kWh le prix unitaire en €/kWh TVAC des coûts énergétiques applicable aux compteurs mono-horaires, tel qu'indiqué dans les conditions 
-particulières. 
-MaxxFix Electricité(octobre 2026) 
-Conditions particulières : (EXFI2C2.0)
+(*) Si vous êtes client Luminus Comfy Electricité sans interruption depuis au moins 12 mois et que votre domiciliation est toujours active comme mode de paiement au moment du renouvellement de votre contrat par Luminus, vous 
+bénéficiez pour chaque kWh consommé d'une remise de 5 % sur les coûts énergétiques (prix unitaire de l'énergie, hors redevance fixe) dans le cadre de votre tarif Luminus Comfy Electricité, pendant la durée de votre contrat 
+renouvelé. Cette remise est calculée au pro rata sur votre (vos) décompte(s). En cas de déménagement, cette réduction est uniquement valable si vous transférez votre contrat actuel à votre nouvelle adresse. Non cumulable avec la 
+remise de 10 % si vous êtes déjà client Luminus Comfy Electricité sans interruption depuis 24 mois.
+(**) Si vous êtes client Luminus Comfy Electricité sans interruption depuis au moins 24 mois et que votre domiciliation est toujours active comme mode de paiement au moment du renouvellement de votre contrat par Luminus, vous 
+bénéficiez pour chaque kWh consommé d'une remise de 10 % sur les coûts énergétiques (prix unitaire de l'énergie, hors redevance fixe) dans le cadre de votre tarif Luminus Comfy Electricité. Cette remise est calculée au pro rata sur 
+votre (vos) décompte(s). En cas de déménagement, cette réduction est uniquement valable si vous transférez votre contrat actuel à votre nouvelle adresse.
+(***) En tant que nouveau client pour Luminus Comfy Electricité, vous bénéficiez pour chaque kWh consommé d'une remise de 30 % sur les coûts énergétiques (prix unitaire de l'énergie, hors redevance fixe) pendant 12 mois. Cette 
+remise sera répartie au pro rata sur votre (vos) prochain(s) décompte(s). En cas de déménagement, cette réduction est uniquement valable si vous transférez votre contrat actuel à votre nouvelle adresse.
+Comfy Electricité(octobre 2026) 
+Conditions particulières : (EC1C2.0)
 Région : Flandre
 Consommateurs : résidentiels
 Tarif : fixe
 Injection: variable
-Durée du contrat : 2 ans 
+Durée du contrat : 1 an 
 Valable pour les Consommateurs résidentiels avec une consommation d’électricité annuelle < 50 MWh. Dans le cas contraire, Luminus se réserve le droit d’adapter votre prix. 
 Cette offre est valable pendant la période indiquée sur la carte tarifaire, sous réserve de la disponibilité des volumes de gaz et/ou d'électricité prévus pour ce produit.
 VOS AVANTAGES :
-Sécurité
-Un prix fixe compétitif pour 2 ans et 
-une compensation variable annuelle 
-pour injection si vous avez des 
-panneaux solaires.
 Durable
 Electricité 100% verte et belge.
-Service
-Luminus propose un service 5 étoiles 
-en termes de prestations.
+Confort
+Une compensation variable annuelle 
+pour injection si vous avez des 
+panneaux solaires.
+Sécurité
+Un prix fixe pendant 1 an.
 SERVICES INCLUS :
 Luminus Extras & Energenius
 Avantages clients sur vos marques 
@@ -28,13 +32,25 @@ préférées.
 My Luminus
 Votre espace client pour gérer tous 
 vos services en ligne.
-My Luminus App
-Contrôlez facilement votre 
-consommation d'énergie.
+FactureManager
+La flexibilité de paiement et 
+l’assurance d’un budget sous 
+contrôle.
 VOS PROMOS :
-3 mois d’électricité gratuite
-675 kWh cashback après 12 mois.
+5 %
+Remise de fidélité sur les 
+coûts énergétiques en cas de 
+paiement par domiciliation.
 (*)
+10 %
+Remise de fidélité sur les 
+coûts énergétiques en cas de 
+paiement par domiciliation.
+(**)
+30,00 %
+Remise de bienvenue sur les coûts 
+énergétiques pendant 12 mois.
+(***)
 Plus d'infos sur luminus.be
 TARIFS :
 Composition du prix de l'energie
@@ -68,28 +84,22 @@ Heures
 pleines
 Heures 
 creuses
-Énergie fournie  (c€/kWh) 22,12 24,07 19,53 19,53
+Prix de l’énergie (c€/kWh)2
+Énergie fournie, énergie 
+verte + cogénération 
+23,90 25,84 21,31 21,31
  Tarif de l'énergie 
-injectée (c€/kWh)2 6,88 6,88 6,88 -
+injectée (c€/kWh)3 6,88 6,88 6,88 -
 Estimation annuelle du tarif 
-de l'énergie injectée (c€/kWh)3 5,23 5,23 5,23 -
+de l'énergie injectée (c€/kWh) 5,23 5,23 5,23 -
 Redevance fixe (€/an) 65,00 65,00 -
-Coûts énergie verte (c€/kWh)4
-Coûts cogénération (c€/kWh)4
-FL
-1,17
-0,39
 1 Pour plus d’informations, voir ci-dessous : ‘Informations sur votre tarif’. 
-2 Compensation à taux variable pour les propriétaires de panneaux solaires avec un compteur 
+2 Le prix mentionné pour l'énergie fournie comprend le coût de l'énergie, les coûts énergie 
+verte (CEV) et les coûts de la cogénération (COG). 
+3 Compensation à taux variable pour les propriétaires de panneaux solaires avec un compteur 
 digital (uniquement applicable à un point de livraison utilisé à la fois pour le prélèvement 
 et l'injection). La TVA s'élève à 0%. Pour plus d'info, voir ci-dessous: "Information sur votre 
 tarif". 
-3 Cette estimation annuelle se base sur l'évolution actuelle et prévue des prix des 12 prochains 
-mois. 
-4 Les coûts de l’électricité verte et les coûts de la cogénération sont adaptés en fonction 
-des modifications législatives. Les montants mentionnés dans les présentes conditions 
-sont valables pour le trimestre en cours. Vous trouverez de plus amples informations sur 
-www.luminus.be/tarifselectriciteverte. 
 2 Coûts d'utilisation des réseaux :
 Compteur digital (*) Compteur classique
 Gestionnaire de réseau
@@ -148,13 +158,12 @@ Formule tarifaire de l’énergie injectée (si d’application pour vous) (HTVA
 Index (HTVA): Belpex  =  156,41 €/MWh (valeur de l'indice de septembre 2026); Compteur mono-
 horaire =  0,0481 x Belpex - 0,6392; Heures pleines (Compteur bi-horaire) =  0,0481 x Belpex - 
 0,6392; Heures creuses =  0,0481 x Belpex - 0,6392;
-Les montants mentionnés sont arrondis. Votre tarif sera indexé tous les mois. La valeur Belpex du 
-mois en cours n’est connue qu’à la fin du mois. Les prix affichés sont calculés sur la base de la 
-dernière valeur Belpex connue (mois précédent). La méthode de calcul, ainsi que les valeurs de 
-l’index et de ses composantes, sont publiées sur le site www.luminus.be/parametres-d-indexation. 
-Nous nous réservons le droit d’utiliser de nouveaux paramètres ou de nouvelles composantes pour 
-calculer la formule du prix si les paramètres actuels viennent à changer, sont supprimés ou s'ils 
-devaient ne plus être disponibles. Luminus s'efforcera de maintenir le prix moyen au même niveau.
+Les montants mentionnés sont arrondis. Votre tarif sera indexé chaque mois. La méthode 
+de calcul, ainsi que les valeurs de l’index et de ses composantes, sont publiées sur le site 
+www.luminus.be/parametres-d-indexation. La compensation de l'énergie injectée est calculé sur 
+base de l’index applicable durant la période pour laquelle vous êtes facturés lors du décompte de 
+votre consommation réelle. Les montants mentionnés dans votre décompte peuvent dès lors
+varier par rapport aux prix ci-dessus. 
 La redevance fixe est une redevance annuelle forfaitaire par raccordement au réseau d’électricité 
 qui couvre tous les coûts d’exploitation fixes de Luminus. Si le contrat avec Luminus est résilié 
 prématurément (= dans le courant de la première année à compter de la date de début de la 
@@ -169,13 +178,13 @@ modifications de ces éléments vous seront intégralement refacturées au prix 
 Luminus vous garantit une électricité provenant exclusivement de sources d'énergie renouvelables 
 belges pendant toute la durée de votre contrat.
 DUREE DE VOTRE CONTRAT :
-Luminus MaxxFix Electricité est un contrat d’une durée de 2 ans pour des points de fourniture situés 
-dans la Région flammande, qui est automatiquement prolongé de périodes successives de 2 ans, 
+Luminus Comfy Electricité est un contrat d’une durée d’un an pour des points de fourniture situés 
+dans la Région flammande, qui est automatiquement prolongé de périodes successives d’un an, 
 conformément à l’article 4.2 de nos conditions générales.
 Si vous êtes un nouveau client Luminus, ce contrat entrera en vigueur à la date de début de 
 fourniture. Si vous êtes déjà client chez Luminus pour votre  électricité pour le Point de fourniture 
 et conformément à l’article 11.4 des Conditions générales, souhaitez passer au contrat  Luminus 
-MaxxFix Electricité , le nouveau contrat entrera en vigueur 21 jours calendrier après la date de 
+Comfy Electricité , le nouveau contrat entrera en vigueur 21 jours calendrier après la date de 
 signature, sauf si une autre date est convenue en concertation avec nous.
 L’article 4.3 des Conditions générales demeure inchangé.
 Si vous n’êtes pas encore client chez Luminus, votre contrat chez Luminus doit débuter au plus tard 

@@ -5,9 +5,6 @@ remise de 10 % si vous êtes déjà client Luminus ComfyFlex+ Electricité sans 
 (**) Si vous êtes client Luminus ComfyFlex+ Electricité sans interruption depuis au moins 24 mois et que votre domiciliation est toujours active comme mode de paiement au moment du renouvellement de votre contrat par Luminus, vous 
 bénéficiez pour chaque kWh consommé d'une remise de 10 % sur les coûts énergétiques (prix unitaire de l'énergie, hors redevance fixe) dans le cadre de votre tarif Luminus ComfyFlex+ Electricité. Cette remise est calculée au pro 
 rata sur votre (vos) décompte(s). En cas de déménagement, cette réduction est uniquement valable si vous transférez votre contrat actuel à votre nouvelle adresse.
-(***) En tant que nouveau client, vous bénéficiez d'une remise de 675 kWh pour la conclusion d'un contrat Luminus ComfyFlex+ Electricité en octobre 2026. Cette remise est accordée 12 mois après la date de début via un cashback, 
-à condition qu'il n'y ait pas de retard de paiement. Ce montant est calculé en multipliant par 675 kWh le prix unitaire en €/kWh TVAC de l'estimation annuelle de l'énergie fournie applicable aux compteurs mono-horaires, tel 
-qu'indiqué dans les conditions particulières. 
 ComfyFlex+ Electricité(octobre 2026) 
 Conditions particulières : (ECF+0C2.0)
 Région : Flandre
@@ -48,9 +45,6 @@ Remise de fidélité sur les
 coûts énergétiques en cas de 
 paiement par domiciliation.
 (**)
-3 mois d’électricité gratuite
-675 kWh cashback après 12 mois.
-(***)
 Plus d'infos sur luminus.be
 TARIFS :
 Composition du prix de l'energie

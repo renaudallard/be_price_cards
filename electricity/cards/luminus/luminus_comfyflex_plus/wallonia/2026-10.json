@@ -1,14 +1,26 @@
 {
- "_cached_at": "2026-10-29T11:46:01.556165+00:00",
+ "_cached_at": "2026-10-30T11:39:09.522048+00:00",
  "_probe_key": null,
  "_schema_version": 85,
- "_seen_on": "2026-10-27",
+ "_seen_on": "2026-10-30",
  "_sources": [
   {
-   "pdf": "33449940db1c3a7da016df37f1ae29b0138cc46768400972d79d19b58576f7c9",
+   "text": "texts/2026-10/8c8cd0cef6fc0512be623d1f14ef3ecded02f7cac68fdb51c190ce0f8ffe6938.txt",
+   "url": "https://www.luminus.be/api/pricelist/products?language=FR&customerSegment=Residential&energyType=Electricity&region=Wallonia&signing=2026-10",
+   "variant": "text"
+  },
+  {
+   "pdf": "3ea470b0f6ec6468995f061a98d3a7e0eba2df55d84f2b61a41595db88e2e3cb",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-10/32532bcae9ba9c80f7802a1105383329f66834bdb6c177e8831a931fd45f7320.txt",
+   "text": "texts/2026-10/501d3c536b495ed0d6d961215e779820ecfcc6fa2aa0c46220c71ecd0d68acd1.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex-plus&energyType=electricity&language=fr&tabValue=Wallonia",
+   "variant": "plain"
+  },
+  {
+   "pdf": "e8421f1e2cd3454d6b36d7826254a3e2586d9505f7d52f4224734b9c57aff177",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-10/bd4b3206a838476a3eff64a850bc1671d35a60959f6749b8d6a256bc74676862.txt",
+   "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000BygB1AAJ&date=2026-10&region=Wallonia&inline=true",
    "variant": "plain"
   }
  ],
