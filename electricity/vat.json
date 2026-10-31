@@ -508,6 +508,7 @@
     "cociter",
     "ebem",
     "ecofix",
+    "ecopower",
     "elegant",
     "eneco",
     "energyknights",
@@ -520,6 +521,14 @@
     "totalenergies",
     "trevion"
    ]
+  },
+  "2026-11": {
+   "too_few": {
+    "0.06": [
+     "ebem",
+     "frank"
+    ]
+   }
   }
  },
  "standard": {}
