@@ -10,8 +10,8 @@ blank cell is a month the archive does not hold.
 
 - [belvus](coverage/belvus.md): 2 rows, 2026-05 to 2026-10
 - [bolt](coverage/bolt.md): 18 rows, 2026-04 to 2026-10
-- [dots](coverage/dots.md): 1 row, 2026-09 to 2026-10
-- [ebem](coverage/ebem.md): 2 rows, 2025-01 to 2026-10
+- [dots](coverage/dots.md): 1 row, 2026-09 to 2026-11
+- [ebem](coverage/ebem.md): 2 rows, 2025-01 to 2026-11
 - [ecofix](coverage/ecofix.md): 4 rows, 2026-09 to 2026-10
 - [elegant](coverage/elegant.md): 3 rows, 2025-12 to 2026-10
 - [eneco](coverage/eneco.md): 8 rows, 2023-10 to 2026-10
