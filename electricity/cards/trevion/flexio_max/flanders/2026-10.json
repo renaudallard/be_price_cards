@@ -1,18 +1,18 @@
 {
- "_cached_at": "2026-10-29T11:46:01.556165+00:00",
+ "_cached_at": "2026-11-01T12:02:40.036697+00:00",
  "_probe_key": null,
- "_schema_version": 85,
- "_seen_on": "2026-10-29",
+ "_schema_version": 86,
+ "_seen_on": "2026-11-01",
  "_sources": [
   {
-   "text": "texts/2026-10/5094b5ebe819a85bc8f833aaf4023a06cae17eccbe4aba9933960143e0c99853.txt",
+   "text": "texts/2026-11/0ea7a2a038ca461c53628a54d19c9f05cc9691a83ce8275cab4dd9c1d1505321.txt",
    "url": "https://trevion.be/tariefkaarten/",
    "variant": "text"
   },
   {
    "pdf": "9f492e39edd7d51f4c88bb03874db425df6370d95d816297cb46cef9c3d884ca",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-10/ca6e7cc9b7ae2604e3ae9e465563922d4648c73a28ee6c30cb7944a2cb566978.txt",
+   "text": "texts/2026-11/ca6e7cc9b7ae2604e3ae9e465563922d4648c73a28ee6c30cb7944a2cb566978.txt",
    "url": "https://trevion.be/tariefkaarten/Tariefkaart-FlexiO-Max-by-Trevion-Particulier-202610.pdf",
    "variant": "layout"
   }

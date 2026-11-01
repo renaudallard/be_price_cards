@@ -1,18 +1,18 @@
 {
- "_cached_at": "2026-10-29T11:46:01.556165+00:00",
+ "_cached_at": "2026-11-01T12:02:40.036697+00:00",
  "_probe_key": null,
- "_schema_version": 85,
- "_seen_on": "2026-10-29",
+ "_schema_version": 86,
+ "_seen_on": "2026-11-01",
  "_sources": [
   {
-   "text": "texts/2026-10/5094b5ebe819a85bc8f833aaf4023a06cae17eccbe4aba9933960143e0c99853.txt",
+   "text": "texts/2026-11/0ea7a2a038ca461c53628a54d19c9f05cc9691a83ce8275cab4dd9c1d1505321.txt",
    "url": "https://trevion.be/tariefkaarten/",
    "variant": "text"
   },
   {
    "pdf": "83d254e5b2e0ed699c6f3c2362896f35110b2127e43f19c21a659d2cb77db315",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-10/094f40d736ec5469f4a0326186250c0e42334818e4f929720da096aad95f25cb.txt",
+   "text": "texts/2026-11/094f40d736ec5469f4a0326186250c0e42334818e4f929720da096aad95f25cb.txt",
    "url": "https://trevion.be/tariefkaarten/Tariefkaart-EnergreenByTrevion-Particulier-202610.pdf",
    "variant": "layout"
   }

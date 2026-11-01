@@ -1,18 +1,25 @@
 {
- "_cached_at": "2026-10-29T11:46:01.556165+00:00",
+ "_cached_at": "2026-11-01T12:02:40.036697+00:00",
  "_probe_key": null,
- "_schema_version": 85,
- "_seen_on": "2026-10-29",
+ "_schema_version": 86,
+ "_seen_on": "2026-11-01",
  "_sources": [
+  {
+   "pdf": "d01c5adc1f49f1133b50f3745c6b9856c3e6f3f03ac1911f4c5905bd608df7b6",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-11/bb96c62a94e9e16ef4f6313e277d8b9e309fd94cd7bb57d4eb5d5b2aec05a23a.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_DIRECT_ONLINE_R_GREEN_C_I_36_B_F&monthOffset=0&segment=R&language=F",
+   "variant": "plain"
+  },
   {
    "pdf": "393f83f550a107beefb3d4f01152ac4b43e369e5495b2bc4cdc490e0d8c368bc",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-10/619dddcbd510d9e5c6e8ebdca21ef3e057ddf105cc343a65434197a7e30fcd94.txt",
-   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_DIRECT_ONLINE_R_GREEN_C_I_36_B_F&monthOffset=0&segment=R&language=F",
+   "text": "texts/2026-11/619dddcbd510d9e5c6e8ebdca21ef3e057ddf105cc343a65434197a7e30fcd94.txt",
+   "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_DIRECT_ONLINE_R_GREEN_C_I_36_B_F&monthOffset=1&segment=R&language=F",
    "variant": "plain"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "engie_direct_online",
  "direct_debit_discount_eur": null,
  "dsos": {
@@ -47,8 +54,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.2167,
-  "exclusive_night": 0.18587,
+  "current": 0.239029364,
+  "exclusive_night": 0.20465526000000003,
   "formula": null,
   "formula_base": 0.022553620000000003,
   "formula_base_exclusive_night": 0.02256422,
@@ -61,9 +68,10 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
+  "index_realised": 0.1744,
   "month_indexed": true,
-  "offpeak": 0.18587,
-  "peak": 0.23706,
+  "offpeak": 0.20465526000000003,
+  "peak": 0.261792228,
   "rlp_blend": "distinct",
   "rlp_indexed": false,
   "yearly_fixed_fee": 30.0,
@@ -75,7 +83,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.05989,
+  "current": 0.0683236,
   "factor": 0.469,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -83,6 +91,7 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": "-1.3470 + (0.0469 x EPEXDAM)",
+  "index_realised": 0.1744,
   "minimum": null,
   "month_indexed": true,
   "offpeak": null,
@@ -93,7 +102,7 @@
   "vat_applies": false
  },
  "publication_label": "Octobre 2026",
- "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_DIRECT_ONLINE_R_GREEN_C_I_36_B_F&monthOffset=0&segment=R&language=F",
+ "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_DIRECT_ONLINE_R_GREEN_C_I_36_B_F&monthOffset=1&segment=R&language=F",
  "supplier": "engie",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {

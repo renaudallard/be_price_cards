@@ -1,23 +1,23 @@
 {
- "_cached_at": "2026-10-31T11:14:51.040536+00:00",
+ "_cached_at": "2026-11-01T12:02:40.036697+00:00",
  "_probe_key": null,
- "_schema_version": 85,
- "_seen_on": "2026-10-31",
+ "_schema_version": 86,
+ "_seen_on": "2026-11-01",
  "_sources": [
   {
-   "text": "texts/2026-10/fc1a2fb09173718faf571a52791e767c1f23dde98990b965570612b2e8ea3bf2.txt",
+   "text": "texts/2026-11/cf8da9cf6c980c335059edae85cc26f8fe0457ff69fa86636035ae9c5da0ef0e.txt",
    "url": "https://ecopower.be/groene-stroom/prijs-nieuw",
    "variant": "text"
   },
   {
    "pdf": "e1da4930f3356c49535c6de3d21aa11778b75b5f303e4e89af8234b5bd5f7e0d",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-10/44edc6affcd267e80275978f6789c4695396357b4be46cd11d6d231ecb9c0ab1.txt",
+   "text": "texts/2026-11/44edc6affcd267e80275978f6789c4695396357b4be46cd11d6d231ecb9c0ab1.txt",
    "url": "https://cdn.nimbu.io/s/4tn7vz5/channelentries/0lj1326/files/1793373861408/202610_gbs_tariefkaart.pdf?0a5mo0s=&dl=1",
    "variant": "layout"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "ecopower_burgerstroom",
  "direct_debit_discount_eur": null,
  "dsos": {
@@ -155,7 +155,7 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.1759,
+  "current": 0.17591812,
   "exclusive_night": null,
   "formula": null,
   "formula_base": 0.085,
@@ -169,6 +169,7 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
+  "index_realised": 0.18183624,
   "month_indexed": true,
   "offpeak": null,
   "peak": null,
@@ -183,7 +184,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0687,
+  "current": 0.06868436450000001,
   "factor": 0.45,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -191,6 +192,7 @@
   "fixed_for_term": false,
   "floor_at_zero": true,
   "formula": "Injectie Groene Burgerstroom (terugleververgoeding) VAST 50% × 0,02 euro VARIABEL +50% × 0,11736873 euro deze waarde volgt de formule 0,9 × 0,14152081 [EPEX SPP 2] - 0,01",
+  "index_realised": 0.14152081,
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,

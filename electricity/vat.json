@@ -1,13 +1,5 @@
 {
  "residential": {
-  "2023-10": {
-   "rate": 0.06,
-   "suppliers": [
-    "eneco",
-    "octaplus",
-    "social"
-   ]
-  },
   "2023-11": {
    "rate": 0.06,
    "suppliers": [
@@ -523,12 +515,18 @@
    ]
   },
   "2026-11": {
-   "too_few": {
-    "0.06": [
-     "ebem",
-     "frank"
-    ]
-   }
+   "rate": 0.06,
+   "suppliers": [
+    "ebem",
+    "eneco",
+    "energyknights",
+    "energyvision",
+    "engie",
+    "frank",
+    "luminus",
+    "mega",
+    "social"
+   ]
   }
  },
  "standard": {}

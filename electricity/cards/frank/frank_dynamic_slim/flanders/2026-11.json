@@ -1,18 +1,18 @@
 {
- "_cached_at": "2026-10-31T11:14:51.040536+00:00",
+ "_cached_at": "2026-11-01T12:02:40.036697+00:00",
  "_probe_key": null,
- "_schema_version": 85,
- "_seen_on": "2026-10-31",
+ "_schema_version": 86,
+ "_seen_on": "2026-11-01",
  "_sources": [
   {
-   "text": "texts/2026-10/59d4d94e5bf7fb8067afa0cd4b15a473d85f192e6a3d95717298295aaf1fd046.txt",
+   "text": "texts/2026-11/f5f9dbe4f6809cfd987a0fceb509b074a906f696379349bbfd2c5b3440c3b22d.txt",
    "url": "https://8navd656.api.sanity.io/v2023-01-01/data/query/production-be?[('query', '*[_type==\"sanity.fileAsset\" && originalFilename match \"*Dynamisch*\" && !(originalFilename match \"*Gas*\")]{originalFilename,url,_createdAt} | order(_createdAt desc)[0..29]')]",
    "variant": "text"
   },
   {
    "pdf": "2314e16371d8b1f12e74ebd12a9bd575fa5803ad7ee154a065727cdc66083f3f",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-10/1f1b67dd1cbe484219546c77881a421eee6b3524f4e0b5c282a084941674b0d0.txt",
+   "text": "texts/2026-11/1f1b67dd1cbe484219546c77881a421eee6b3524f4e0b5c282a084941674b0d0.txt",
    "url": "https://cdn.sanity.io/files/8navd656/production-be/4f7c1ecf1afaad7db0f74bfd4a29c079eab471bb.pdf",
    "variant": "layout"
   }

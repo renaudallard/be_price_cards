@@ -1,23 +1,25 @@
 {
- "_cached_at": "2026-10-29T11:46:01.556165+00:00",
+ "_cached_at": "2026-11-01T12:02:40.036697+00:00",
  "_probe_key": null,
- "_schema_version": 85,
- "_seen_on": "2026-10-29",
+ "_schema_version": 86,
+ "_seen_on": "2026-11-01",
  "_sources": [
-  {
-   "text": "texts/2026-10/7fc1691666d3cb3e58318c238540c4621c9a10773e814e968533130598dcee00.txt",
-   "url": "https://eneco.be/nl/elektriciteit-gas/tariefkaarten",
-   "variant": "text"
-  },
   {
    "pdf": "7e8ed1e141a93fb1d0047bbaef08c0865489e2744c6fe61b9ec185e312015f45",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-10/ba9b0c9f62e625c8009a32dfb5870445500b8e9e279c1f37a3a8f22cdaa7b4f3.txt",
+   "text": "texts/2026-11/ba9b0c9f62e625c8009a32dfb5870445500b8e9e279c1f37a3a8f22cdaa7b4f3.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012610_NL_ENECO_POWER_FLEX.pdf",
+   "variant": "plain"
+  },
+  {
+   "pdf": "a9025273cf717d96041961f3157dca1a83e712504dcdf5bd5a096c4685f87cfd",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-11/5b6cb4872761920596d1c334fbd094028d68c9bd18cacced6404b97be83d2b85.txt",
+   "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012611_NL_ENECO_POWER_FLEX.pdf",
    "variant": "plain"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "power_flex",
  "direct_debit_discount_eur": null,
  "dsos": {

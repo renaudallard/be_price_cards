@@ -1,18 +1,18 @@
 {
- "_cached_at": "2026-10-31T11:14:51.040536+00:00",
+ "_cached_at": "2026-11-01T12:02:40.036697+00:00",
  "_probe_key": null,
- "_schema_version": 85,
- "_seen_on": "2026-10-31",
+ "_schema_version": 86,
+ "_seen_on": "2026-11-01",
  "_sources": [
   {
-   "text": "texts/2026-10/59d4d94e5bf7fb8067afa0cd4b15a473d85f192e6a3d95717298295aaf1fd046.txt",
+   "text": "texts/2026-11/f5f9dbe4f6809cfd987a0fceb509b074a906f696379349bbfd2c5b3440c3b22d.txt",
    "url": "https://8navd656.api.sanity.io/v2023-01-01/data/query/production-be?[('query', '*[_type==\"sanity.fileAsset\" && originalFilename match \"*Dynamisch*\" && !(originalFilename match \"*Gas*\")]{originalFilename,url,_createdAt} | order(_createdAt desc)[0..29]')]",
    "variant": "text"
   },
   {
    "pdf": "e0ce99cbe1077e98f3d9a4198e4ac57e5e36945df3588b0f7f14a7c91484e7c7",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-10/7054f4468f6d86878ad5b3249c09db35a5a1c160118b3e3a997233cc6cc52155.txt",
+   "text": "texts/2026-11/7054f4468f6d86878ad5b3249c09db35a5a1c160118b3e3a997233cc6cc52155.txt",
    "url": "https://cdn.sanity.io/files/8navd656/production-be/6a750ad3a1bd9815750110a16cbff2872b92d1ac.pdf",
    "variant": "layout"
   }
@@ -154,7 +154,7 @@
   "base": 0.01272,
   "factor": 1.113,
   "quarter_hourly": false,
-  "yearly_fixed_fee": 0.0
+  "yearly_fixed_fee": 27.96
  },
  "energy_kind": "dynamic",
  "injection": {
@@ -201,11 +201,11 @@
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
- "welcome_credit_eur": null,
+ "welcome_credit_eur": 27.96,
  "welcome_credit_eur_per_kwh": null,
  "welcome_credit_excludes_night_meter": false,
  "welcome_credit_injection_eur_per_kwh": null,
- "welcome_credit_kind": "anniversary",
+ "welcome_credit_kind": "pro_rata",
  "welcome_credit_kwh": null,
  "welcome_credit_kwh_rate": null,
  "welcome_credit_lump_capped": false,
