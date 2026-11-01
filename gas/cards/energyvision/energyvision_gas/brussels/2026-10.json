@@ -1,15 +1,15 @@
 {
- "_seen_on": "2026-10-27",
+ "_seen_on": "2026-11-01",
  "_sources": [
   {
-   "text": "texts/2026-10/e3e480155b87fe517962678d46f46688dedea120ac940e8803b2f99722c75ec8.txt",
+   "text": "texts/2026-11/65334e7e355b3c60e4d5e5972a25e2614d7ea624d0965f7f4b8f9fa9d4264f0a.txt",
    "url": "https://www.brusol.be/nl/elektriciteit-en-gas/schrijf-je-in-voor-goedkope-stroom-van-brusol",
    "variant": "text"
   },
   {
    "pdf": "268b2f4243ff2e316a74b5849d9994fb63e67ff1f64c6b2c9f67cb4e81238441",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
-   "text": "texts/2026-10/7ac6676e2a5c8a05c46fa02dd98412654b22056fb2fa05607298009fc33b2136.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "text": "texts/2026-11/7ac6676e2a5c8a05c46fa02dd98412654b22056fb2fa05607298009fc33b2136.txt",
    "url": "https://www.brusol.be/sites/default/files/2026-09/EV-1026-GSG-BXL-nl.pdf",
    "variant": "layout"
   }

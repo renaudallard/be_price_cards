@@ -2,13 +2,8 @@
  "_seen_on": "2026-10-01",
  "_sources": [
   {
-   "text": "texts/2026-10/18fbb2da9c7e36227bddb4f00adb398a59ffa3cac6cfbca2c11ee956f365950e.txt",
-   "url": "https://www.energyvision.be/nl-be/tariefkaart",
-   "variant": "text"
-  },
-  {
    "pdf": "31574406f61f9adb639f92de9040676df42dd0fe1f93695517d18e13121f01f3",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
    "text": "texts/2026-10/e79b4da98c66edf89a80def84e9334d5ec04cf3f3a669af35ec79e9b565df166.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0926-GSG-WAL-fr.pdf",
    "variant": "layout"

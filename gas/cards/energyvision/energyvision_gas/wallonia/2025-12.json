@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "5ca965c31015e1252f55e0cdf5b4504407b94b81ecccd6fc1a79f890f5bda14b",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
    "text": "texts/2026-10/2a74a4179df588506f1682e2de6e23f87ae9f870e7f943ff849f754ee9c2716d.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1225-GSG-WAL-fr.pdf",
    "variant": "layout"

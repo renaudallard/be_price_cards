@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "35bde0b4a4109e55c0b618ef45ff5e67fab7ba57298d612fa8c2bb8f492f37d9",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
    "text": "texts/2026-10/1e371f9d422e22a6998c888e7f4be4b3a8888bdcffcc4b5bf91b44970349aef9.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1225-GSG-nl.pdf",
    "variant": "layout"

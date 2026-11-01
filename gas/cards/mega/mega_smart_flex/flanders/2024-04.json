@@ -8,7 +8,7 @@
   },
   {
    "pdf": "418a267773e39eaf47a9f52e8ffa630e858135bcb0596a96ea78d5422eb1cb66",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
    "text": "texts/2026-10/a23af01ecb53fccd356d78f1dbf4b5a6ec4e5ab574e737e2e5a1284e5de4c68e.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-042024-Smart0104.pdf",
    "variant": "plain"

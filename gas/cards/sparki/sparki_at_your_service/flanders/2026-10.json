@@ -1,15 +1,15 @@
 {
- "_seen_on": "2026-10-27",
+ "_seen_on": "2026-11-01",
  "_sources": [
   {
-   "text": "texts/2026-10/a7c0fa9cf7db06bf354588d951b0f63aa30d906180e26f277a522f093383fe3c.txt",
+   "text": "texts/2026-11/54b4075c66957cf2e76c7e89c9a9abeb2de4e737ab5ca0b6f7bda768aa73413b.txt",
    "url": "https://sparki.be/elektriciteit-gas/tariefkaarten/",
    "variant": "text"
   },
   {
    "pdf": "f55f5a8589247ed3e1d6a0c5595474d59277841c827a9d64542d18d72996bd2b",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
-   "text": "texts/2026-10/27856fcb2a45715dea9ced86bdcb85387cb5ab96e8a089cd41a8821e974fb36d.txt",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "text": "texts/2026-11/27856fcb2a45715dea9ced86bdcb85387cb5ab96e8a089cd41a8821e974fb36d.txt",
    "url": "https://sparki.be/wp-content/uploads/2026/10/Sparki_Tariefkaart_oktober_Particulier_AtYourService_Gas_NL.pdf",
    "variant": "layout"
   }

@@ -1,0 +1,82 @@
+{
+ "_seen_on": "2026-11-01",
+ "_sources": [
+  {
+   "text": "texts/2026-11/285e3e7026e3c9e58210d8ea41baf584279f2379249226a707d894212ad08da7.txt",
+   "url": "https://eneco.be/nl/elektriciteit-gas/tariefkaarten/",
+   "variant": "text"
+  },
+  {
+   "pdf": "8501d161a4adfdd72ffa692d5dbb6d8d3c72859293d189e9b161df48f6d15f3b",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "text": "texts/2026-11/cefc5af1b3be61543c1527253967acb0e8e9b60bec18dc63823bbe42c7fb8224.txt",
+   "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012611_NL_ENECO_GAS_FLEX.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "live",
+ "contract": "eneco_aardgas_flex",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.0429
+    ],
+    "t2": [
+     140.93,
+     0.022099999999999998
+    ]
+   },
+   "transport": 0.00165
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.0253
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.011384400000000001,
+  "factor": 0.00106,
+  "fee": 65.0,
+  "formula": "(0,1 X TTFDAW-RLP-M + 1,074) X 1,06",
+  "index": "TTFDAW-RLP-M",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.09119999999999999,
+  "settled": false
+ },
+ "publication_label": "2026-11",
+ "schema": 1,
+ "source_url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012611_NL_ENECO_GAS_FLEX.pdf",
+ "supplier": "eneco",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0,
+  "excise": [
+   [
+    12000.0,
+    0.010929
+   ],
+   [
+    null,
+    0.01183
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-11-30"
+}

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "2d9484bbadac9a208a43a2d7e7ba8c006a6b49d26de6fad3e6aeb4308c730196",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
    "text": "texts/2026-10/30ca02dadb084aba51021c5b7712144e20369bcf9652c6ca8d8259f0b1c114bb.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-122024-Smart0112.pdf",
    "variant": "plain"

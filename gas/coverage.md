@@ -9,26 +9,26 @@ copied from the supplier's own archive rather than captured while it was current
 blank cell is a month the archive does not hold.
 
 - [belvus](coverage/belvus.md): 2 rows, 2026-05 to 2026-10
-- [bolt](coverage/bolt.md): 18 rows, 2026-04 to 2026-10
+- [bolt](coverage/bolt.md): 18 rows, 2026-04 to 2026-11
 - [dots](coverage/dots.md): 1 row, 2026-09 to 2026-11
 - [ebem](coverage/ebem.md): 2 rows, 2025-01 to 2026-11
 - [ecofix](coverage/ecofix.md): 4 rows, 2026-09 to 2026-10
 - [elegant](coverage/elegant.md): 3 rows, 2025-12 to 2026-10
-- [eneco](coverage/eneco.md): 8 rows, 2023-10 to 2026-10
+- [eneco](coverage/eneco.md): 8 rows, 2023-11 to 2026-11
 - [energiebe](coverage/energiebe.md): 2 rows, 2025-12 to 2026-10
-- [energyvision](coverage/energyvision.md): 5 rows, 2025-11 to 2026-10
-- [engie](coverage/engie.md): 23 rows, 2024-04 to 2026-10
+- [energyvision](coverage/energyvision.md): 5 rows, 2025-11 to 2026-11
+- [engie](coverage/engie.md): 23 rows, 2024-04 to 2026-11
 - [evident](coverage/evident.md): 1 row, 2026-01 to 2026-10
-- [frank](coverage/frank.md): 5 rows, 2025-01 to 2026-10
+- [frank](coverage/frank.md): 5 rows, 2025-01 to 2026-11
 - [hoa_energy](coverage/hoa_energy.md): 3 rows, 2026-02 to 2026-10
-- [luminus](coverage/luminus.md): 16 rows, 2023-10 to 2026-10
-- [mega](coverage/mega.md): 34 rows, 2024-02 to 2026-10
-- [octaplus](coverage/octaplus.md): 20 rows, 2023-10 to 2026-10
+- [luminus](coverage/luminus.md): 16 rows, 2023-11 to 2026-11
+- [mega](coverage/mega.md): 34 rows, 2024-02 to 2026-11
+- [octaplus](coverage/octaplus.md): 20 rows, 2023-11 to 2026-10
 - [power2you](coverage/power2you.md): 2 rows, 2026-01 to 2026-10
 - [prijspunten](coverage/prijspunten.md): 1 row, 2026-07 to 2026-10
 - [servolt](coverage/servolt.md): 3 rows, 2026-01 to 2026-10
 - [smappee_smiles](coverage/smappee_smiles.md): 1 row, 2026-01 to 2026-10
-- [social](coverage/social.md): 3 rows, 2023-10 to 2026-10
+- [social](coverage/social.md): 3 rows, 2023-11 to 2026-11
 - [sparki](coverage/sparki.md): 4 rows, 2026-04 to 2026-10
 - [totalenergies](coverage/totalenergies.md): 19 rows, 2025-10 to 2026-10
 - [trevion](coverage/trevion.md): 1 row, 2025-07 to 2026-10
