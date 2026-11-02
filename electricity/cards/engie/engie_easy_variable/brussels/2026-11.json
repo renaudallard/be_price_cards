@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-11-01T12:02:40.036697+00:00",
+ "_cached_at": "2026-11-02T13:51:44.284501+00:00",
  "_probe_key": null,
- "_schema_version": 86,
- "_seen_on": "2026-11-01",
+ "_schema_version": 88,
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "pdf": "64c29738e4c6be73f2cb846ed0393b492fa2eeb0eab24805fa049baa162e9a16",
+   "pdf": "0c1d2a15eedf0592f827e8a58ab7bc1964841c956a4477904133335e30e1e711",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-11/614488c7e6747ddac446cbb401741cd6d46798c125b41ae57136f2789076a93d.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EASY_R_GREEN_C_I_36_B_F&monthOffset=0&segment=R&language=F",

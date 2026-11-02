@@ -1,38 +1,14 @@
 {
- "_cached_at": "2026-11-01T12:02:40.036697+00:00",
+ "_cached_at": "2026-11-02T13:51:44.284501+00:00",
  "_probe_key": null,
- "_schema_version": 86,
- "_seen_on": "2026-11-01",
+ "_schema_version": 88,
+ "_seen_on": "2026-11-02",
  "_sources": [
-  {
-   "text": "texts/2026-11/8c8cd0cef6fc0512be623d1f14ef3ecded02f7cac68fdb51c190ce0f8ffe6938.txt",
-   "url": "https://www.luminus.be/api/pricelist/products?language=FR&customerSegment=Residential&energyType=Electricity&region=Wallonia&signing=2026-10",
-   "variant": "text"
-  },
-  {
-   "text": "texts/2026-11/9a6781bc985a5b24eb7377bb9aef2e24fda3d9a681078a5d7685c62b4f11c932.txt",
-   "url": "https://www.luminus.be/api/pricelist/products?language=FR&customerSegment=Residential&energyType=Electricity&region=Wallonia&signing=2026-11",
-   "variant": "text"
-  },
   {
    "pdf": "95929c3551b43e115e78c2b88a341a56ee01eac173df7c898de0635f0b2f428c",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-11/52602eab36454ad0457726e050169110d69584af880a27217bf4f6349b306731.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy-plus&energyType=electricity&language=fr&tabValue=Wallonia",
-   "variant": "plain"
-  },
-  {
-   "pdf": "462db7ae6d7e3aad3c1a4fd65b2faf22db93ee4b9a5ca36a327586c1c31738e6",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-11/6bfafd71bdc66a455fd08197dcea38c1aeba931e279ad978add4ea8192dabfec.txt",
-   "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1paa0000021qxvAAA&date=2026-10&region=Wallonia&inline=true",
-   "variant": "plain"
-  },
-  {
-   "pdf": "45c2d87581c11fe091def81ce9ab8a237ce4a4750c3f57150453fc724daca70b",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-11/1eb049705812a50619725837fe3dc4f01bc1ca5524ee093b07caf1ecfb9f90e2.txt",
-   "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1paa0000021qxvAAA&date=2026-11&region=Wallonia&inline=true",
    "variant": "plain"
   }
  ],
@@ -167,8 +143,9 @@
   "published_vat_rate": 0.0,
   "region_connection_fee": 0.00075,
   "region_connection_fee_unavailable": false,
+  "renewables_in_energy": true,
   "vat_rate": 0.0,
-  "wallonia_renewables": 0.030299999999999997
+  "wallonia_renewables": 0.0
  },
  "valid_until": null,
  "welcome_credit_after_months": 12,

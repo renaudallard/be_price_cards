@@ -1,18 +1,18 @@
 {
- "_cached_at": "2026-11-01T12:02:40.036697+00:00",
+ "_cached_at": "2026-11-02T13:51:44.284501+00:00",
  "_probe_key": null,
- "_schema_version": 86,
- "_seen_on": "2026-11-01",
+ "_schema_version": 88,
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "text": "texts/2026-11/d6810a2ed6f45e124bdd5607d0a533b6b6198eeb18683a0e02c70a384d85b7d0.txt",
+   "text": "texts/2026-11/2ce84869904427b548137a4389bfb1596a3a3d993c6233524ea87a9614e67ca0.txt",
    "url": "https://eneco.be/nl/elektriciteit-gas/tariefkaarten",
    "variant": "text"
   },
   {
-   "pdf": "c18d0c0180757eede3b050cc6b094c9dba6fc14bdc9e9be42418fac5a4f834e4",
+   "pdf": "b2c329ef16d2cc65bcbd66d5388ce6786f60ea02ba62ac94d0b16336db9cf1ba",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-11/2a5e2b76c6ee22e848e87dbd705642d566391925aaf9bfb2fa93edcd9485bda3.txt",
+   "text": "texts/2026-11/ef1830b2509ca5847ee2b6ab394b3c765eddbd4aded94c4d1954a7099342e9f4.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012611_NL_ENECO_POWER_FLEX_ONE.pdf",
    "variant": "plain"
   }
@@ -235,7 +235,7 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.18,
+  "current": 0.1999,
   "day_night_under_impact": true,
   "exclusive_night": null,
   "formula": "(0,102 X BELPEX-RLP-M + 0,371)",
@@ -264,7 +264,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0889,
+  "current": 0.1024,
   "factor": 0.76,
   "factor_offpeak": null,
   "factor_peak": null,

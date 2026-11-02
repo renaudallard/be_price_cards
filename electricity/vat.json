@@ -518,6 +518,7 @@
    "rate": 0.06,
    "suppliers": [
     "ebem",
+    "ecofix",
     "eneco",
     "energyknights",
     "energyvision",
@@ -525,7 +526,9 @@
     "frank",
     "luminus",
     "mega",
-    "social"
+    "social",
+    "totalenergies",
+    "trevion"
    ]
   }
  },

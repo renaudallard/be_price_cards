@@ -1,0 +1,140 @@
+Tariefkaart
+• Elektriciteit in het Brussels Hoofdstedelijk Gewest
+• BTW % inbegrepen
+Voordelen van de formule * Kostprijs van de energie geleverd
+door TotalEnergies
+Kosten voor energietransport en
+-distributie
+Groenestroombijdrage
+Taksen en heffingen
+BTW
+Bijzondere voorwaarden voor residentiële verbruikers in het 1. Tarieven leverancier:
+Brussels Hoofdstedelijk Gewest. 1.1 [Kost voor de geleverde energie door TotalEnergies]:
+Deze voorwaarden zijn van toepassing op de nieuwe contracten die zijn De variabele energieprijs en de vaste vergoeding.
+afgesloten in en op contracten die zijn hernieuwd
+1.2 [Groenestroombijdrage]:
+in (voor verlengingen wordt de tariefkaart twee
+Door de staat ingevoerde bijdrage ter ondersteuning van de
+maanden vóór de toepassing ervan bekendgemaakt).
+ontwikkeling van hernieuwbare energiebronnen.
+2. Gereguleerde tarieven [Netwerkkosten en afnames]:
+2.1 [ Kosten voor energietransport en -distributie]
+(volledig doorgestort aan de DNB/TNB).
+2.2 [ Taksen en heffingen]
+(volledig doorgestort aan de betrokken instanties).
+Energiekosten
+72:01
+6202
+erbmetpes
+32
+| LXBR_LN_CELE_cimanyDym_C2B
+| TSAF
+TotalEnergies myDynamic
+november 2026
+Bijzondere voorwaarden voor de formule myDynamic
+6
+"myDynamic"
+• Dynamische uurtarief volgens marktprijs
+• App met realtime prijsinfo en dagelijks verbruik.
+• Beheer je contract in de app.
+• Groene elektriciteit
+• Bel of chat met een energie-expert
+* Gebaseerd op een gemiddeld gezinsverbruik van 2.500 kWh/jaar (met een enkelvoudige
+meter), en de gemiddelde prijs van de netbeheerders.
+november 2026
+februari 2027
+Het aanbod "TotalEnergies myDynamic" is een tarief beschikbaar voor
+residentiële verbruikers met een digitale meter en met activatie van de
+SMR3 functie (niet toepasselijk op exclusief nachttarief).
+Die prijzen die u worden gefactureerd op basis van uw contract, zijn
+samengesteld uit 2 delen:
+Energieprijs 0
+Vaste
+vergoeding 1 (c€/kWh)
+(€/jaar) Enkelvoudige Tweevoudige meter
+meter Piekuren Daluren
+Verbruik**
+25,87 25,87 25,87 Maandelijkstarief
+90,00
+0.1023 * BELPEXH + 6.68 0.1023 * BELPEXH + 6.68 0.1023 * BELPEXH + 6.68 Tariefformule
+Het dynamische tarief is een variabele prijs op uurbasis. Het wordt geïndexeerd volgens de formules (excl. btw 6%) in de bovenstaande tabel. Dit betekent dat de
+prijs van je elektriciteitslevering elk uur wordt geïndexeerd op basis van de coëfficiënt in de formule, de Belpex H-index, die elk uur de Day Ahead Belpex Baseload
+notering is. De Belpex H-waarden zijn een dag van tevoren bekend en zijn beschikbaar vanaf 15 uur op https://www.epexspot.com/en. De te verwachte energieprijs
+wordt de dag voordien omstreeks 15 uur vermeld in de TotalEnergies Power & Gas Belgium app en wordt eveneens op onze website gepubliceerd.
+De geschatte waarde voor de energiekost van de Belpex H-index voor het komende jaar is € 173,23 /MWh in november 2026. Bij de facturatie wordt er echter
+rekening gehouden met het reële uurtarief dat uur per uur kan wijzigen.
+** Geschatte jaarprijzen voor afname volgens de Vlaamse Nutsregulator methodologie:
+https://www.vlaamsenutsregulator.be/nl/faq/hoe-berekent-de-v-testr-de-geschatte-jaarkost-voor-variabele-contracten. Bij de berekening wordt er echter rekening
+gehouden met het reële uurtarief dat uur per uur kan wijzigen.
+Ter indicatie, hieronder de maandelijkse prijzen berekend op basis van de laatste bekende waarde van de BELPEX_M (van de vorige maand):
+Verbruik
+Enkelvoudige Meter: 25,97 € cent/kWh
+Tweevoudige Meter
+Piekuren: 25,97 € cent/kWh
+Daluren: 25,97 € cent/kWh
+Meter Excl. Nacht: 25,91 € cent/kWh
+72:01
+6202
+erbmetpes
+32
+| LXBR_LN_CELE_cimanyDym_C2B
+| TSAF
+Tariefkaart
+TotalEnergies myDynamic
+november 2026
+Netwerkkosten en afnames
+Transport- en distributiekosten Taksen en heffingen 4
+Deze heffingen worden integraal doorgestort aan de distributie- en Deze heffingen worden integraal doorgestort
+transportnetbeheerders. aan de overheid.
+Distribution2 (c€/kWh) Kosten voor
+Bijdrage op
+meet-en Transport3
+Distributienetbeheerder de energie
+TweevoudigTweevoudig Exclusief telactiviteit (c€/kWh)
+Enkelvoudig (c€/kWh)
+dag nacht nacht (€/jaar)
+Brussels Hoofdstedelijk Gewest
+SIBELGA 9,96 9,96 7,53 7,53 14,73 2,27 0,00
+Ter beschikking gesteld vermogen (Brussels Hoofdstedelijk Gewest) €/jaar
+<= 13kVA 50,07
+> 13kVA 100,15
+Bijdrage voor openbaredienstverplichtingen €/jaar
+< 1,44 kVA 0,00
+Tussen 1,44 en 6,00 kVA 13,36
+Tussen 6,01 en 9,60 kVA 21,37
+Tussen 9,61 en 13,00 kVA 26,71
+Tussen 13,01 en 18,00 kVA 39,94
+Tussen 18,01 en 36,00 kVA 53,30
+Tussen 36,01 en 56,00 kVA 106,59
+> 56,01 kVA 173,25
+Federale bijdrage 5 c€/kWh
+Verbruik tussen 0 & 3.000 kWh 4,47
+Verbruik tussen 3.000 & 20.000 kWh 4,47
+Verbruik tussen 20.000 & 50.000 kWh 4,47
+Verbruik tussen 50.000 & 1.000.000 kWh 4,4732
+Het aanbod TotalEnergies myDynamic is onderworpen aan de bijzondere voorwaarden van TotalEnergies myDynamic
+(https://totalenergies.be/nl/files/CGV-myDynamic.pdf) en aan de algemene voorwaarden van TotalEnergies
+(https://totalenergies.be/nl/particulieren/algemene-voorwaarden-van-totalenergies-groep). Indien de bijzondere voorwaarden afwijkend zijn
+van de algemene voorwaarden van TotalEnergies, dan zijn de onderhavige voorwaarden doorslaggevend.
+•Ga naar uw klantenzone
+• Zie onze FAQ
+Hulp nodig?
+https://totalenergies.be/nl/particulieren/hulp-encontact/
+veelgestelde-vragen
+•Stel uw vragen via onze chat
+0 De energieprijzen en tariefformules vermeld op deze tariefkaart omvatten de Bijdrage Groene Energie (BGE), waarvan het bedrag als volgt wordt vastgesteld 2,62 € cent/kWh
+1 De vaste vergoeding is een forfaitaire vergoeding per elektriciteitsaansluiting. Indien de Klant zijn leveringscontract van elektriciteit opzegt binnen de eerste 6 maanden na de aanvang van
+de levering overeenkomstig het initiële contract, zal een vaste vergoeding worden aangerekend van 6 maanden.
+2 TotalEnergies treedt op als tussenpersoon voor het innen van de distributienetkosten. De ontvangen bedragen worden integraal doorgestort aan de distributienetbeheerder (DNB).
+Distributienettarieven zoals goedgekeurd door de gewestelijke regulator (Brugel) en gepubliceerd op diens officiële website (www.brugel.be).
+3 TotalEnergies treedt op als tussenpersoon voor het innen van de transportnetkosten. De ontvangen bedragen worden integraal doorgestort aan de transportnetbeheerder (TNB), Elia.
+Transportnettarieven zoals goedgekeurd door de federale regulator (CREG) en gepubliceerd op diens officiële website (www.creg.be).
+4 De taksen, heffingen en bijdragen zoals die van toepassing zijn bij het opmaken van deze tariefkaart (gepubliceerd op de officiële website www.brugel.be). Elke wettelijke wijziging van
+taksen, heffingen of bijdragen wordt zonder meerkosten doorgerekend aan de klant.
+5 De opbrengst van deze federale bijdrage is bestemd voor de financiering van vijf fondsen die worden beheerd door de CREG: het denuclearisatiefonds, het CREG-fonds, het Sociaal
+Energiefonds, het fonds Broeikasgassen en het fonds Beschermde Klanten. Het bedrag van deze bijdrage werd vastgelegd in een Koninklijk Besluit voor de toepassing van de wet van 29 april
+1999 betreffende de organisatie van de elektriciteitsmarkt. De CREG is gerechtigd om de correcte toepassing van de bepalingen met betrekking tot de federale bijdrage te controleren.
+Overeenkomstig artikel 6.4. van de algemene verkoopvoorwaarden voor de levering van elektriciteit en/of aardgas voor particulieren, kan een Klant die voldoet aan de voorwaarden van het
+Sociaal Tarief conform artikel 2 van het Ministerieel Besluit van 30 maart 2007, of conform artikel 4 van de Programmawet van 27 april 2007, of conform de wetgeving die deze zou
+vervangen, genieten van het Sociaal Tarief. Vanaf het moment dat het Sociaal Tarief wordt toegepast zal de Klant genieten van dit specifieke tarief en zullen de bijzondere voorwaarden van dit
+Sociaal Tarief op de Klant van toepassing zijn.

@@ -1,38 +1,14 @@
 {
- "_cached_at": "2026-11-01T12:02:40.036697+00:00",
+ "_cached_at": "2026-11-02T13:51:44.284501+00:00",
  "_probe_key": null,
- "_schema_version": 86,
- "_seen_on": "2026-11-01",
+ "_schema_version": 88,
+ "_seen_on": "2026-11-02",
  "_sources": [
-  {
-   "text": "texts/2026-11/8c8cd0cef6fc0512be623d1f14ef3ecded02f7cac68fdb51c190ce0f8ffe6938.txt",
-   "url": "https://www.luminus.be/api/pricelist/products?language=FR&customerSegment=Residential&energyType=Electricity&region=Flanders&signing=2026-10",
-   "variant": "text"
-  },
-  {
-   "text": "texts/2026-11/9a6781bc985a5b24eb7377bb9aef2e24fda3d9a681078a5d7685c62b4f11c932.txt",
-   "url": "https://www.luminus.be/api/pricelist/products?language=FR&customerSegment=Residential&energyType=Electricity&region=Flanders&signing=2026-11",
-   "variant": "text"
-  },
   {
    "pdf": "ff2f61a071c157b1ac8c59e997da7022c4d2395d4df2aeefd9458d0e8cd7eabb",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-11/cdbf7d365079717fe07efc14b3e352d9da185e9fa8a30fa170f47c01f378cffa.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy-plus&energyType=electricity&language=fr&tabValue=Flanders",
-   "variant": "plain"
-  },
-  {
-   "pdf": "3e81ba4c950023a74796dd1851b70b727dc8757953a6de556a0c9152c00907bf",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-11/d09c2264ab405afe6789b0f830117bdd3b8fa3cd2464ff46c37bc422e00bd94e.txt",
-   "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1paa0000021qxvAAA&date=2026-10&region=Flanders&inline=true",
-   "variant": "plain"
-  },
-  {
-   "pdf": "543896b5c46e90c91f324da5ff08b308fff5cf64179977e5374327434e12b41c",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-11/18784684dea561e60885977ef04c878ba87264c4392623fc3e214f046a63327b.txt",
-   "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1paa0000021qxvAAA&date=2026-11&region=Flanders&inline=true",
    "variant": "plain"
   }
  ],
@@ -211,10 +187,11 @@
   "energy_fund_eur_per_month": 0.0,
   "federal_excise": 0.048760000000000005,
   "federal_excise_bands": null,
-  "flanders_renewables": 0.015600000000000001,
+  "flanders_renewables": 0.0,
   "published_vat_rate": 0.0,
   "region_connection_fee": 0.0,
   "region_connection_fee_unavailable": false,
+  "renewables_in_energy": true,
   "vat_rate": 0.0,
   "wallonia_renewables": 0.0
  },

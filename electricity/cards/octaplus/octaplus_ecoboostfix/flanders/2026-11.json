@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-01T12:02:40.036697+00:00",
+ "_cached_at": "2026-11-02T13:51:44.284501+00:00",
  "_probe_key": null,
- "_schema_version": 86,
- "_seen_on": "2026-11-01",
+ "_schema_version": 88,
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
    "pdf": "b3fcbc1600cce1cd678c73bc5efd05b04c8451daaf9964a82a4c8bd0a570151d",
@@ -155,12 +155,12 @@
  },
  "energy_kind": "fixed",
  "injection": {
-  "base": -0.00161,
+  "base": -0.0161,
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
   "current": 0.0663,
-  "factor": 0.0879,
+  "factor": 0.879,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,

@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-11-01T12:02:40.036697+00:00",
+ "_cached_at": "2026-11-02T13:51:44.284501+00:00",
  "_probe_key": null,
- "_schema_version": 86,
- "_seen_on": "2026-11-01",
+ "_schema_version": 88,
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "text": "texts/2026-11/0ea7a2a038ca461c53628a54d19c9f05cc9691a83ce8275cab4dd9c1d1505321.txt",
+   "text": "texts/2026-11/e1d29513f4a8d7ff4c921c870551b9d89d9b21291edb1d4bcb800fa33782d63c.txt",
    "url": "https://trevion.be/tariefkaarten/",
    "variant": "text"
   },
@@ -15,9 +15,16 @@
    "text": "texts/2026-11/d3587a5dd32c8c13e94dff1f13b92266b60c28a5e58ddb4a869951ea3fe45aff.txt",
    "url": "https://trevion.be/tariefkaarten/Tariefkaart-Groene-Stroom-Flex-Particulier-202610.pdf",
    "variant": "layout"
+  },
+  {
+   "pdf": "6fc9b0c1971676d9964010030221a118aacf305799647e6104be87c1edcab516",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-11/920e97699fda3dbe3a772d5379cd12293f2bb7def8f368f1dc2df059d96a1dc6.txt",
+   "url": "https://trevion.be/tariefkaarten/Tariefkaart-Groene-Stroom-Flex-Particulier-202611.pdf",
+   "variant": "layout"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "groene_stroom_flex",
  "direct_debit_discount_eur": null,
  "dsos": {
@@ -174,6 +181,7 @@
   "factor_peak": null,
   "factor_pic": null,
   "factor_transition": null,
+  "index_realised": 0.182447,
   "rlp_blend": "flanders",
   "rlp_indexed": true,
   "tier_kwh": null,
@@ -188,7 +196,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0705035,
+  "current": 0.10944494999999999,
   "factor": 0.95,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -196,6 +204,7 @@
   "fixed_for_term": false,
   "floor_at_zero": false,
   "formula": null,
+  "index_realised": 0.14152099999999998,
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,

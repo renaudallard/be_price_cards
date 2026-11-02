@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-01T12:02:40.036697+00:00",
+ "_cached_at": "2026-11-02T13:51:44.284501+00:00",
  "_probe_key": null,
- "_schema_version": 86,
- "_seen_on": "2026-11-01",
+ "_schema_version": 88,
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
    "pdf": "47a65291a950f7dc108be06d78668dc0754b432d7c55b014ecb859d106ddf659",
@@ -12,7 +12,7 @@
    "variant": "plain"
   },
   {
-   "pdf": "5cf00c37847b6cdc1178fa441f186471d264229dae1b9656740bdbfb38caf081",
+   "pdf": "0331f44167c8916bbb9bde595503a4462b8bfc072ad553803fbdf0a57b22f799",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-11/8f9094e1fa6f61effd8da2f23594ec93ab36ed5309d6ab4d8629f1d4bc1bbe22.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_SOCIAL_R_GREY_C_F_00_V_F&monthOffset=0&segment=R&language=F",

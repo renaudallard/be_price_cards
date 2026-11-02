@@ -14,8 +14,8 @@ month the archive does not hold.
 - [bolt](coverage/bolt.md): 36 rows, 2025-01 to 2026-11
 - [cociter](coverage/cociter.md): 3 rows, 2025-10 to 2026-10
 - [ebem](coverage/ebem.md): 3 rows, 2025-01 to 2026-11
-- [ecofix](coverage/ecofix.md): 8 rows, 2026-05 to 2026-10
-- [ecopower](coverage/ecopower.md): 2 rows, 2025-01 to 2026-10
+- [ecofix](coverage/ecofix.md): 8 rows, 2026-05 to 2026-11
+- [ecopower](coverage/ecopower.md): 2 rows, 2025-01 to 2026-11
 - [elegant](coverage/elegant.md): 3 rows, 2025-11 to 2026-10
 - [eneco](coverage/eneco.md): 10 rows, 2023-11 to 2026-11
 - [energiebe](coverage/energiebe.md): 3 rows, 2025-12 to 2026-10
@@ -28,4 +28,4 @@ month the archive does not hold.
 - [octaplus](coverage/octaplus.md): 27 rows, 2023-11 to 2026-11
 - [social](coverage/social.md): 9 rows, 2023-11 to 2026-11
 - [totalenergies](coverage/totalenergies.md): 25 rows, 2026-09 to 2026-11
-- [trevion](coverage/trevion.md): 7 rows, 2026-02 to 2026-10
+- [trevion](coverage/trevion.md): 7 rows, 2026-02 to 2026-11
