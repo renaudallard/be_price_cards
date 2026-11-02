@@ -1,0 +1,71 @@
+{
+ "_seen_on": "2026-11-02",
+ "_sources": [
+  {
+   "pdf": "2349d14a2204efed080185c1234ab7b7e573d6355e65a91b868182c1a5397cc3",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "text": "texts/2026-11/e8d95f2c57783218a963cc7ca9c2704cc55a9886d6d30e489575ad9c1a2240cc.txt",
+   "url": "https://files.octaplus.be/tariffs/G_OCTA_ECOBOOSTFIX_RE_WL_FR.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "live",
+ "contract": "octaplus_ecoboostfix",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.0429
+    ],
+    "t2": [
+     140.93,
+     0.022099999999999998
+    ]
+   },
+   "transport": 0.00165
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.0253
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "fee": 150.0,
+  "kind": "fixed",
+  "price": 0.1305
+ },
+ "publication_label": "2026-11",
+ "schema": 1,
+ "source_url": "https://files.octaplus.be/tariffs/G_OCTA_ECOBOOSTFIX_RE_WL_FR.pdf",
+ "supplier": "octaplus",
+ "taxes": {
+  "card_vat_rate": null,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010580000000000001,
+  "excise": [
+   [
+    12000.0,
+    0.010929
+   ],
+   [
+    null,
+    0.01183
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-11-30"
+}

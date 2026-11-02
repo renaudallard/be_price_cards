@@ -1,10 +1,10 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "pdf": "ba2df1c18f30daadb5575756e0ea7ab83bb7b3b2313064b17cf5305c5078b939",
+   "pdf": "03019f0770da914f1a0cd8e5f259fdbef17a1ec999c07ac35a2dd723b9af4762",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
-   "text": "texts/2026-11/fb692f1192a9b33c22c710c0a6ead956fb6d210575ef4620640ce45cab00761a.txt",
+   "text": "texts/2026-11/fbb94fd0cf753e99060f287302013a3d552ae5fe5e3b20276175f52c8b63daf9.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EMPOWER_R_GREY_C_I_00_W_F&monthOffset=0&segment=R&language=F",
    "variant": "plain"
   }
@@ -57,7 +57,7 @@
   "index": "ZTPDAM",
   "kind": "indexed",
   "period": "month",
-  "price": 0.09222,
+  "price": 0.10343999999999999,
   "settled": false
  },
  "publication_label": "2026-11",

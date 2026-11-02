@@ -1,8 +1,8 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "pdf": "aae16c4cdc943e0d4db3caddd693409d3c003fc33a03bd415a750070cd1d8332",
+   "pdf": "827b2cee72e9ac18404707620db9ce12109a6bfc4974c0bcd34fc3156a2013e8",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
    "text": "texts/2026-11/6af4619aa342eb79e48d15b8d5c7376716a7ccf2a8a977a4018d4acb09e1d1f1.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EMPOWER_R_GREY_C_F_00_W_F&monthOffset=0&segment=R&language=F",

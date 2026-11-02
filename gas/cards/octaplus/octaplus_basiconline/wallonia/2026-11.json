@@ -1,0 +1,77 @@
+{
+ "_seen_on": "2026-11-02",
+ "_sources": [
+  {
+   "pdf": "2cfee4fdb1fb356c2eff9fbf0529122a394b00fbe9e21f0f6e433b5618c59d2f",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "text": "texts/2026-11/9f3459fdfdbff6a48a7fb969ffdddfea5f7a28ea900c49e0526b5c95d1fd36b0.txt",
+   "url": "https://files.octaplus.be/tariffs/G_OCTA_BASICONLINE_RE_WL_FR.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "live",
+ "contract": "octaplus_basiconline",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.0429
+    ],
+    "t2": [
+     140.93,
+     0.022099999999999998
+    ]
+   },
+   "transport": 0.00165
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.0253
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.0020564000000000003,
+  "factor": 0.0010812,
+  "fee": 40.0,
+  "formula": "ZTP RLP M * 1,020 + 0,1940",
+  "index": "ZTP RLP M",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.09849999999999999,
+  "settled": false
+ },
+ "publication_label": "2026-11",
+ "schema": 1,
+ "source_url": "https://files.octaplus.be/tariffs/G_OCTA_BASICONLINE_RE_WL_FR.pdf",
+ "supplier": "octaplus",
+ "taxes": {
+  "card_vat_rate": null,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010580000000000001,
+  "excise": [
+   [
+    12000.0,
+    0.010929
+   ],
+   [
+    null,
+    0.01183
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-11-30"
+}

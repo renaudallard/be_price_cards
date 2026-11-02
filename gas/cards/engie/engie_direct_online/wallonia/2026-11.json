@@ -1,10 +1,10 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "pdf": "158dc7066f738285046eb1c480b56da2a7401b790d50457d5d47e09808d99371",
+   "pdf": "d3de34504828eef1aea2a4b489b1ec16865c5d7b193be86d981ab11c7b5e3949",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
-   "text": "texts/2026-11/555ff7f49b97e543d8c38c82037dd07d5e02089dd6939c19c00cc2e4c8d59ad9.txt",
+   "text": "texts/2026-11/56d788c17431c0b3e53af8f4c3f501bc43415b8428085bf502bbabd7022630b2.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_DIRECT_ONLINE_R_GREY_C_I_12_W_F&monthOffset=0&segment=R&language=F",
    "variant": "plain"
   }
@@ -57,7 +57,7 @@
   "index": "ZTPDAM",
   "kind": "indexed",
   "period": "month",
-  "price": 0.08868999999999999,
+  "price": 0.09991,
   "settled": false
  },
  "publication_label": "2026-11",

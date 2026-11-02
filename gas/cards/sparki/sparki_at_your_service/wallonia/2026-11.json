@@ -1,0 +1,85 @@
+{
+ "_seen_on": "2026-11-02",
+ "_sources": [
+  {
+   "text": "texts/2026-11/139707c481e8ac3762c8a95e12b96a9a942b7469e812a020e52c90252052a172.txt",
+   "url": "https://sparki.be/elektriciteit-gas/tariefkaarten/",
+   "variant": "text"
+  },
+  {
+   "pdf": "c24543b465cd188e01402ee382c9bda41d9b91dd9dea9c7ae30d8c90d35395be",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "text": "texts/2026-11/fd3914b1d9d2267ef650a2b9f5f9a609a121909133c41c933d4682be441879ac.txt",
+   "url": "https://sparki.be/wp-content/uploads/2026/11/Sparki_Tariefkaart_november_Particulier_AtYourService_Gas_FR.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "live",
+ "contract": "sparki_at_your_service",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.04289
+    ],
+    "t2": [
+     140.93,
+     0.02206
+    ],
+    "t3": [
+     889.48,
+     0.016390000000000002
+    ]
+   },
+   "transport": 0.00165
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.02529
+    ],
+    "t3": [
+     962.74,
+     0.02241
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "fee": 89.04,
+  "formula": "((0,105* TTF EGSI EEX DA)+0,8)*1,06",
+  "kind": "variable",
+  "price": 0.10779999999999999
+ },
+ "publication_label": "2026-11",
+ "schema": 1,
+ "source_url": "https://sparki.be/wp-content/uploads/2026/11/Sparki_Tariefkaart_november_Particulier_AtYourService_Gas_FR.pdf",
+ "supplier": "sparki",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010577,
+  "excise": [
+   [
+    12000.0,
+    0.0087338
+   ],
+   [
+    null,
+    0.009864000000000001
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-11-30"
+}

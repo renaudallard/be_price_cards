@@ -1,0 +1,85 @@
+{
+ "_seen_on": "2026-11-02",
+ "_sources": [
+  {
+   "pdf": "a4995fdd5f7af50bf0f08bc0fc94f1b00c77cc3b73c57707748b5ba8bbeca224",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "text": "texts/2026-11/6d43ffae2ca632d433b6a0d7dc8c9009fc7fdac4496c5edcd44dc0616641e867.txt",
+   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT_GAS_WAL_FR.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "live",
+ "contract": "totalenergies_mycomfort_variable",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.0429
+    ],
+    "t2": [
+     140.93,
+     0.022099999999999998
+    ],
+    "t3": [
+     889.48,
+     0.016399999999999998
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.0253
+    ],
+    "t3": [
+     962.74,
+     0.022400000000000003
+    ]
+   },
+   "transport": 0.0017000000000000001
+  }
+ },
+ "energy": {
+  "base": 0.008416400000000001,
+  "factor": 0.0010674200000000001,
+  "fee": 90.0,
+  "formula": "0.1007 * TTF_M_RLP + 0.794",
+  "index": "TTF_M_RLP",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0981,
+  "settled": false
+ },
+ "publication_label": "2026-11",
+ "schema": 1,
+ "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT_GAS_WAL_FR.pdf",
+ "supplier": "totalenergies",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0001,
+  "contribution": 0.0,
+  "excise": [
+   [
+    12000.0,
+    0.0109
+   ],
+   [
+    null,
+    0.0118
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-11-30"
+}

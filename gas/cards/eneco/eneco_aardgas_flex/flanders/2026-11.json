@@ -1,15 +1,15 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "text": "texts/2026-11/285e3e7026e3c9e58210d8ea41baf584279f2379249226a707d894212ad08da7.txt",
+   "text": "texts/2026-11/5eb37391b2304a4e3db17deaf94600d2e3b7a6f36d6b13414e2e8c9e89ac36c4.txt",
    "url": "https://eneco.be/nl/elektriciteit-gas/tariefkaarten/",
    "variant": "text"
   },
   {
-   "pdf": "8501d161a4adfdd72ffa692d5dbb6d8d3c72859293d189e9b161df48f6d15f3b",
+   "pdf": "daec34720e8947a398e3769fe02248aba7b516901e37dc1bac6e619a6bd08852",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
-   "text": "texts/2026-11/cefc5af1b3be61543c1527253967acb0e8e9b60bec18dc63823bbe42c7fb8224.txt",
+   "text": "texts/2026-11/e6911b0ac0ea438dcdae77881a1c82be9f62b11434f4f55ab5b4ef5c4eda3712.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012611_NL_ENECO_GAS_FLEX.pdf",
    "variant": "plain"
   }
@@ -138,7 +138,7 @@
   "index": "TTFDAW-RLP-M",
   "kind": "indexed",
   "period": "month",
-  "price": 0.09119999999999999,
+  "price": 0.105,
   "settled": false
  },
  "publication_label": "2026-11",
