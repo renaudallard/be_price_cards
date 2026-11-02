@@ -139,10 +139,15 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.05204600000000001,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base",
+   "price"
+  ]
  },
  "publication_label": "2026-02",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.servoltenergie.be/web/content/xx.product.group.tariff.card/1215/file",
  "supplier": "servolt",
  "taxes": {

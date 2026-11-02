@@ -23,7 +23,7 @@
   "price": 0.0834
  },
  "publication_label": "2023-12",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000BygAwAAJ&date=2023-12&region=Flanders&inline=true",
  "supplier": "luminus",
  "taxes": {

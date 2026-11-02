@@ -139,10 +139,15 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.067628,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base",
+   "price"
+  ]
  },
  "publication_label": "2026-04",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.power2you.be/web/content/xx.product.group.tariff.card/1387/file",
  "supplier": "power2you",
  "taxes": {

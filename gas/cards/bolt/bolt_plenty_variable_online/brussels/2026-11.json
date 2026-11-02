@@ -2,7 +2,7 @@
  "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "text": "texts/2026-11/01ec104c373703e0ba85568b80d9522ca38d41882b4d98777fc53e55530f1456.txt",
+   "text": "texts/2026-11/bc1189ad901b713921f0dda2d31d26f827266127b62139c6b6e8d87e03ca7ad8.txt",
    "url": "https://www.boltenergie.be/fr/listes-des-prix",
    "variant": "text"
   },
@@ -41,10 +41,14 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0834,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base"
+  ]
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://files.boltenergie.be/pricelists/var/plenty_online_res_ng_fr_14.pdf",
  "supplier": "bolt",
  "taxes": {

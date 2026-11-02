@@ -1,8 +1,8 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "text": "texts/2026-11/28289c6181ca843f21477572f1510428257ea6e85cb1cfe9286c5d1ab1279ab9.txt",
+   "text": "texts/2026-11/b6280a590338996beeaed47346db6aee7ac7514f358443acfca303b1387ddecf.txt",
    "url": "https://www.dotsenergy.be/dots-connect-gas-digital",
    "variant": "text"
   },
@@ -149,7 +149,7 @@
   "price": 0.10881
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.dotsenergy.be/web/content/122368?unique=764c14ff52c6e547239c55da38bfbfe541697d22&download=true",
  "supplier": "dots",
  "taxes": {

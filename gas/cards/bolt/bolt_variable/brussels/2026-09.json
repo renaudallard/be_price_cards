@@ -55,10 +55,14 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.061799999999999994,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base"
+  ]
  },
  "publication_label": "2026-09",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://files.boltenergie.be/pricelists/var/bolt_res_ng_fr_13.pdf",
  "supplier": "bolt",
  "taxes": {

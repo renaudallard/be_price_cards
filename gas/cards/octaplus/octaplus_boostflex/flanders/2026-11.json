@@ -134,10 +134,14 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0998,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base"
+  ]
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://files.octaplus.be/tariffs/G_OCTA_BOOSTFLEX_RE_VL_FR.pdf",
  "supplier": "octaplus",
  "taxes": {

@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
    "text": "texts/2026-11/8eb3804be9e0a757c3ae2b5f51b2b942e795105e598adabe2e434e858eed16bf.txt",
@@ -139,10 +139,14 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.076,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base"
+  ]
  },
  "publication_label": "2026-10",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://energie.blob.core.windows.net/cms/assets/Energie_be_Gas_Particulier_18ddc53692.pdf",
  "supplier": "energiebe",
  "taxes": {

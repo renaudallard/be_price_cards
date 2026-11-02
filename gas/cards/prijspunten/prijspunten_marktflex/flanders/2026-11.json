@@ -1,0 +1,171 @@
+{
+ "_seen_on": "2026-11-02",
+ "_sources": [
+  {
+   "text": "texts/2026-11/42f952181c48b8da240c9f3ad4ab2d67a8cad05c86d0acf4d30ace9446d9bee3.txt",
+   "url": "https://www.prijspuntenenergie.be/products",
+   "variant": "text"
+  },
+  {
+   "pdf": "d0f994043858417a46a7f77a79b32f2726ea2468ad488a30b7df07a294ab25b0",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "text": "texts/2026-11/bff5d7b6c43df132f52f942157294f788fbbc79ef84d48a5a39e4c9d32554e60.txt",
+   "url": "https://www.prijspuntenenergie.be/web/content/xx.product.group.tariff.card/1957/file",
+   "variant": "plain"
+  }
+ ],
+ "_via": "live",
+ "contract": "prijspunten_marktflex",
+ "dsos": {
+  "fluvius_antwerpen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     15.68,
+     0.0226
+    ],
+    "t2": [
+     83.22,
+     0.0091
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_halle_vilvoorde": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     17.59,
+     0.025
+    ],
+    "t2": [
+     93.38,
+     0.0098
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_imewo": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     18.61,
+     0.0263
+    ],
+    "t2": [
+     98.81,
+     0.0102
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_kempen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     16.17,
+     0.0227
+    ],
+    "t2": [
+     85.83,
+     0.0088
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_limburg": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     14.59,
+     0.022400000000000003
+    ],
+    "t2": [
+     77.46,
+     0.0098
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_midden_vlaanderen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     16.33,
+     0.0232
+    ],
+    "t2": [
+     86.71,
+     0.0091
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_west": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     19.03,
+     0.0269
+    ],
+    "t2": [
+     101.02,
+     0.0106
+    ]
+   },
+   "transport": 0.00165
+  },
+  "fluvius_zenne_dijle": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     18.4,
+     0.026000000000000002
+    ],
+    "t2": [
+     97.72,
+     0.0102
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.01272,
+  "factor": 0.0010600000000000002,
+  "fee": 120.0,
+  "formula": "(TTF_RLP x 1) + €12/MWh",
+  "index": "TTF_RLP",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.106106,
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base",
+   "price"
+  ]
+ },
+ "publication_label": "2026-11",
+ "schema": 2,
+ "source_url": "https://www.prijspuntenenergie.be/web/content/xx.product.group.tariff.card/1957/file",
+ "supplier": "prijspunten",
+ "taxes": {
+  "card_vat_rate": null,
+  "connection_fee": 0.0,
+  "contribution": 0.001057,
+  "excise": [
+   [
+    12000.0,
+    0.008723999999999999
+   ],
+   [
+    null,
+    0.009457
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-11-30"
+}

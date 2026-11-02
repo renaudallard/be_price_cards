@@ -139,10 +139,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.049964,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-05",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://cdn.sanity.io/files/8navd656/production-be/8bed6e2499d08b13c8d09efaf63dbd38595c0a51.pdf",
  "supplier": "frank",
  "taxes": {

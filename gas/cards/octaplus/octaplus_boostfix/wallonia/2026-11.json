@@ -47,7 +47,7 @@
   "price": 0.1159
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://files.octaplus.be/tariffs/G_OCTA_BOOSTFIX_RE_WL_FR.pdf",
  "supplier": "octaplus",
  "taxes": {

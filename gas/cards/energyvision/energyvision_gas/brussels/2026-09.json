@@ -45,10 +45,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.07200000000000001,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-09",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.brusol.be/sites/default/files/2026-08/EV-0926-GSG-BXL-nl.pdf",
  "supplier": "energyvision",
  "taxes": {

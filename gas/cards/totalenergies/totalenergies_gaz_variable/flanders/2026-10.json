@@ -166,10 +166,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0868,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-10",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/GAZ-VARIABLE_GAS_VL_FR.pdf",
  "supplier": "totalenergies",
  "taxes": {

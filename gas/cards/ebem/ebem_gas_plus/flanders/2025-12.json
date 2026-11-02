@@ -171,10 +171,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.039904,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2025-12",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.ebem.be/media/vz0g5e5w/ebem_tariefkaart-gas-12-2025.pdf",
  "supplier": "ebem",
  "taxes": {

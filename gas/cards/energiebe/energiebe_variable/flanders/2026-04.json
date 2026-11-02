@@ -139,10 +139,14 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.060899999999999996,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base"
+  ]
  },
  "publication_label": "2026-04",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://energie.blob.core.windows.net/cms/assets/April_Tariefkaart_Energie_be_Variabel_NG_Res_096fa1199f.pdf",
  "supplier": "energiebe",
  "taxes": {

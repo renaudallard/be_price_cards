@@ -171,10 +171,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.045743,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-02",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.ebem.be/media/zcgh4mwe/ebem_tariefkaart-gas-02-2026.pdf",
  "supplier": "ebem",
  "taxes": {

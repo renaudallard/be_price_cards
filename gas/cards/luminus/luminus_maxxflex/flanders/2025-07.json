@@ -171,10 +171,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0528,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2025-07",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1paa0000003dWMAAY&date=2025-07&region=Flanders&inline=true",
  "supplier": "luminus",
  "taxes": {

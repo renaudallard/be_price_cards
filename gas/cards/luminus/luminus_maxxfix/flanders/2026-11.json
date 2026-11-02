@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
    "pdf": "5b3aff40f4e3b7c067329e7985ff671cd6cac2a5ed0bafdd0add53095685299c",
@@ -163,7 +163,7 @@
   "price": 0.11220000000000001
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxfix&energyType=gas&language=fr&tabValue=Flanders",
  "supplier": "luminus",
  "taxes": {

@@ -136,7 +136,7 @@
   "price": 0.0696
  },
  "publication_label": "2026-04",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://energie.blob.core.windows.net/cms/assets/April_Tariefkaart_Energie_be_Vast_NG_RES_73057f1f4e.pdf",
  "supplier": "energiebe",
  "taxes": {

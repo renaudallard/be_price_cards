@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
    "pdf": "bc5f459f5408b6bd87da4e88074e75e16dfc008b10a2fdbcba9019c5e8a03d0b",
@@ -163,7 +163,7 @@
   "price": 0.1188
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy&energyType=gas&language=fr&tabValue=Flanders",
  "supplier": "luminus",
  "taxes": {

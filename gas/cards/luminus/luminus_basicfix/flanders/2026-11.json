@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
    "pdf": "31a94253c993f628e5ee5fd6f41dd8b68e0670613b128b34bd8f91bb3846a43f",
@@ -163,7 +163,7 @@
   "price": 0.1059
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicfix&energyType=gas&language=fr&tabValue=Flanders",
  "supplier": "luminus",
  "taxes": {

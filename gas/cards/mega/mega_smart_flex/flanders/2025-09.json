@@ -171,10 +171,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.047400000000000005,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2025-09",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-092025-Smart0109.pdf",
  "supplier": "mega",
  "taxes": {

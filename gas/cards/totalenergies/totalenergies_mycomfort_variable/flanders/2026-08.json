@@ -166,10 +166,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.063,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-08",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_8_MYCOMFORT_GAS_VL_FR.pdf",
  "supplier": "totalenergies",
  "taxes": {

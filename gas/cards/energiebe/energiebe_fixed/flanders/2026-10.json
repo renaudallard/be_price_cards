@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
    "text": "texts/2026-11/8eb3804be9e0a757c3ae2b5f51b2b942e795105e598adabe2e434e858eed16bf.txt",
@@ -136,7 +136,7 @@
   "price": 0.0857
  },
  "publication_label": "2026-10",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://energie.blob.core.windows.net/cms/assets/VAST_Energie_be_RES_GAS_pdf_276e3f8ac3.pdf",
  "supplier": "energiebe",
  "taxes": {

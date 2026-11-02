@@ -139,10 +139,15 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.060526,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base",
+   "price"
+  ]
  },
  "publication_label": "2026-07",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.prijspuntenenergie.be/web/content/xx.product.group.tariff.card/1645/file",
  "supplier": "prijspunten",
  "taxes": {

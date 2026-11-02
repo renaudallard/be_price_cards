@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
    "pdf": "390bbacaa32b05bd9cd70dae435b6f2535d2844895ec6bdab256c0c26ada5102",
@@ -166,10 +166,11 @@
   "kind": "indexed",
   "period": "quarter",
   "price": 0.0864,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex&energyType=gas&language=fr&tabValue=Flanders",
  "supplier": "luminus",
  "taxes": {

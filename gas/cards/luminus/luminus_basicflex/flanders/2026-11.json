@@ -166,10 +166,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0857,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicflex&energyType=gas&language=fr&tabValue=Flanders",
  "supplier": "luminus",
  "taxes": {

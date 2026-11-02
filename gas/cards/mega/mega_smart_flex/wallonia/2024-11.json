@@ -63,10 +63,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0564,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2024-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-112024-Smart0111.pdf",
  "supplier": "mega",
  "taxes": {

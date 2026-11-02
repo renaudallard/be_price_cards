@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
    "pdf": "232a9e10161a78d65d892c96b215704f7f546dfa80047fc38266a9c62383330e",
@@ -166,10 +166,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0943,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxflex&energyType=gas&language=fr&tabValue=Flanders",
  "supplier": "luminus",
  "taxes": {

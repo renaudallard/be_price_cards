@@ -60,7 +60,7 @@
   "price": 0.07200000000000001
  },
  "publication_label": "2026-06",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1paa0000003dWLAAY&date=2026-06&region=Wallonia&inline=true",
  "supplier": "luminus",
  "taxes": {

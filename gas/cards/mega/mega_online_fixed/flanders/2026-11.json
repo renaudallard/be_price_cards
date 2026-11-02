@@ -1,8 +1,8 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "text": "texts/2026-11/f9d802150766bb8b96e307cc1c8f59a19c9fb642dc1940933dc9b4f782f04cf4.txt",
+   "text": "texts/2026-11/4522b2311a69b21851fd8151f977bc56151e2d612e88cb0a0857e68e2a4994e9.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
@@ -168,7 +168,7 @@
   "price": 0.11220000000000001
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-112026-Online0111-Fixed.pdf",
  "supplier": "mega",
  "taxes": {

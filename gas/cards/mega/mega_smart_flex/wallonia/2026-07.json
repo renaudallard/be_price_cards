@@ -63,10 +63,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.061500000000000006,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-07",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-072026-Smart0107.pdf",
  "supplier": "mega",
  "taxes": {

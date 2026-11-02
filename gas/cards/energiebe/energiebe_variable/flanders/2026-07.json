@@ -139,10 +139,14 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0449,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base"
+  ]
  },
  "publication_label": "2026-07",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://energie.blob.core.windows.net/cms/assets/Juli_Tariefkaart_Energie_be_Variabel_NG_Res_ff6c605b76.pdf",
  "supplier": "energiebe",
  "taxes": {

@@ -37,7 +37,7 @@
   "price": 0.06293
  },
  "publication_label": "2024-10",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EASY_R_GREY_C_F_36_B_F&monthOffset=24&segment=R&language=F",
  "supplier": "engie",
  "taxes": {

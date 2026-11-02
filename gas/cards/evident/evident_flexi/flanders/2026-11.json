@@ -2,7 +2,7 @@
  "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "text": "texts/2026-11/5101eee6b8265e97d9b7770fae8bdaa02facf52fa4bed7f314e58f8c449a1ab2.txt",
+   "text": "texts/2026-11/b9912a89ff90b9370c641d089f13b89c50481d19774904635ddc3fc7a327ef16.txt",
    "url": "https://www.evidentenergie.be/products",
    "variant": "text"
   },
@@ -139,10 +139,15 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.107166,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base",
+   "price"
+  ]
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.evidentenergie.be/web/content/xx.product.group.tariff.card/1915/file",
  "supplier": "evident",
  "taxes": {

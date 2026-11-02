@@ -166,10 +166,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0391,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-02",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0226-GSG-nl.pdf",
  "supplier": "energyvision",
  "taxes": {

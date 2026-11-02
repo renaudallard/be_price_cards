@@ -55,10 +55,14 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0834,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base"
+  ]
  },
  "publication_label": "2026-10",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://files.boltenergie.be/pricelists/var/plenty_online_res_ng_fr_14.pdf",
  "supplier": "bolt",
  "taxes": {

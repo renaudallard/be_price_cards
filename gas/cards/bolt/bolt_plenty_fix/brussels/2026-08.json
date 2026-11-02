@@ -33,7 +33,7 @@
   "price": 0.0731
  },
  "publication_label": "2026-08",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://files.boltenergie.be/pricelists/fix/plenty_fix_res_ng_fr_202608.pdf",
  "supplier": "bolt",
  "taxes": {

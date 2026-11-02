@@ -136,7 +136,7 @@
   "price": 0.064
  },
  "publication_label": "2026-06",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://energie.blob.core.windows.net/cms/assets/Juni_Tariefkaart_Energie_be_Vast_NG_Res_4a48cc9950.pdf",
  "supplier": "energiebe",
  "taxes": {

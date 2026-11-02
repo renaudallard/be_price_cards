@@ -21,10 +21,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0524,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2024-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012411_NL_ENECO_GAS_FLEX.pdf",
  "supplier": "eneco",
  "taxes": {

@@ -58,10 +58,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0375,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-03",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0326-GSG-WAL-fr.pdf",
  "supplier": "energyvision",
  "taxes": {

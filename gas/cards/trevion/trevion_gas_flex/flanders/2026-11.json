@@ -2,7 +2,7 @@
  "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "text": "texts/2026-11/11cb70423158cbdb2f93316eb850338759d95d0e22f15f6bb06409df4b062a9a.txt",
+   "text": "texts/2026-11/503d20a6a96fc1cf2711949c8a51876dd51ae05981f4132eb1956396d7bbffd3.txt",
    "url": "https://trevion.be/tariefkaarten/",
    "variant": "text"
   },
@@ -139,10 +139,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.1005,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://trevion.be/tariefkaarten/Tariefkaart-Gas-Flex-Particulier-202611.pdf",
  "supplier": "trevion",
  "taxes": {

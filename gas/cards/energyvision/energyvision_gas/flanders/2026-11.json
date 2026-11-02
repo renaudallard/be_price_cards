@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
    "pdf": "382b3194e0b555d5ed78b7a6f9ffaae2d838761f80235deb2f146178ab62bae7",
@@ -166,10 +166,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.1012,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1126-GSG-nl.pdf",
  "supplier": "energyvision",
  "taxes": {

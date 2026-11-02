@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
    "pdf": "9a5b996183bb0b633372193c8851bc0162b167f40c18b8e6bed8f553b2d86a46",
@@ -56,7 +56,7 @@
   "price": 0.05035
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/G-TSS-FR-2026-Q4.pdf",
  "supplier": "social",
  "taxes": {

@@ -21,10 +21,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.039,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2025-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1125-GSG-nl.pdf",
  "supplier": "energyvision",
  "taxes": {

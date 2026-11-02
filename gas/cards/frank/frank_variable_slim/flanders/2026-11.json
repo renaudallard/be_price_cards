@@ -1,8 +1,8 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "text": "texts/2026-11/4f59963a0a7debe69dea7343401ba34eb5c7a1e3e99c42e15c6aacce06d17388.txt",
+   "text": "texts/2026-11/255ab2e511fbf56add481224f67a8429f0cb1bf89be680a82550ac9d86d8bc87.txt",
    "url": "https://8navd656.api.sanity.io/v2023-01-01/data/query/production-be?[('query', '*[_type==\"sanity.fileAsset\" && originalFilename match \"*Gas*\"]{originalFilename,url,_createdAt} | order(_createdAt desc)[0..39]')]",
    "variant": "text"
   },
@@ -139,10 +139,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.099422,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://cdn.sanity.io/files/8navd656/production-be/2a2e9927c9a8d288aaefdd832f93ec56563631b2.pdf",
  "supplier": "frank",
  "taxes": {

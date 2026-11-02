@@ -15,6 +15,14 @@ written daily by its `archive_cards.yml` workflow.
   and month, in EUR/MWh.
 - `pdfs.json`: which release holds each card, by SHA-256.
 - `parser.txt`: the digest of the parser the rows were last replayed with.
+- `vat.json`: per month, the residential VAT rate the cards agree on (three
+  suppliers or more stating one rate and none another); a month they disagree
+  on, or too few state, is listed as disputed or too_few and read by no
+  installation.
+- `law.json`: per month, what the integration bills on from the law (the
+  excise of both slices, the protected customer's rate and the energy
+  contribution), read from FPS Finance's tariff and Justel; a month they no
+  longer give keeps what was written.
 
 The PDFs themselves are the assets of the `gas-<YYYY-MM>` releases of this
 repository, one release per month of cards, each file named by its SHA-256.

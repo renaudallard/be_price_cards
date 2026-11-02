@@ -1,8 +1,8 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "text": "texts/2026-11/675226795d51e19ebd40edff862924de597c9bd39d876c2fc45d9aae0cabbdea.txt",
+   "text": "texts/2026-11/bc1189ad901b713921f0dda2d31d26f827266127b62139c6b6e8d87e03ca7ad8.txt",
    "url": "https://www.boltenergie.be/fr/listes-des-prix",
    "variant": "text"
   },
@@ -52,7 +52,7 @@
   "price": 0.11230000000000001
  },
  "publication_label": "2026-11",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://files.boltenergie.be/pricelists/fix/fix_res_ng_fr_202611.pdf",
  "supplier": "bolt",
  "taxes": {

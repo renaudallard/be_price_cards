@@ -139,10 +139,15 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.05119800000000001,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base",
+   "price"
+  ]
  },
  "publication_label": "2026-03",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.hoa.energy/web/content/xx.product.group.tariff.card/1249/file",
  "supplier": "hoa_energy",
  "taxes": {

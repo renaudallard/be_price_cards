@@ -166,10 +166,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.07643,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-09",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_FLOW_R_GREY_C_I_24_V_F&monthOffset=1&segment=R&language=F",
  "supplier": "engie",
  "taxes": {

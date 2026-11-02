@@ -139,10 +139,14 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.062,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base"
+  ]
  },
  "publication_label": "2026-08",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://energie.blob.core.windows.net/cms/assets/Augustus_Tariefkaart_Energie_be_Variabel_NG_RES_3aa9f66512.pdf",
  "supplier": "energiebe",
  "taxes": {

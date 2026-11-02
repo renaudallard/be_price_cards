@@ -139,10 +139,14 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.050199999999999995,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base"
+  ]
  },
  "publication_label": "2026-06",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://energie.blob.core.windows.net/cms/assets/Juni_Tariefkaart_Energie_be_Variabel_NG_Res_e632f6c9a4.pdf",
  "supplier": "energiebe",
  "taxes": {

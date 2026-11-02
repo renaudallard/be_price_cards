@@ -139,10 +139,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0868,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-10",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/FlexGas_Residential.pdf",
  "supplier": "elegant",
  "taxes": {

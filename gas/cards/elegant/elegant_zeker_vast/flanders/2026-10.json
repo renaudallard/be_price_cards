@@ -136,7 +136,7 @@
   "price": 0.091
  },
  "publication_label": "2026-10",
- "schema": 1,
+ "schema": 2,
  "source_url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/ZekerVastGas_Residential.pdf",
  "supplier": "elegant",
  "taxes": {
