@@ -1,14 +1,14 @@
 {
- "_cached_at": "2026-11-02T20:55:07.805533+00:00",
+ "_cached_at": "2026-11-02T21:40:35.440531+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-11-02",
  "_sources": [
   {
-   "pdf": "d8dda71cfcf9f501135a715263e4dd790dc5298d984384a7919d671b97a09a5f",
+   "pdf": "5b7eb5192e034e061948a9a31e5d7af8f9cb2401d9f63d1c5facf04796d1f6f6",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-11/a8457c8f65ce40c3f27ab7a80379d9ab60eadb1bee99065b9a68c649ca3bf555.txt",
-   "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1126-GS1800V-nl.pdf",
+   "text": "texts/2026-11/27df8a26af0f2e508aba4c8ebc669952bd1c296a118f2d2d4a01114d3bc17f93.txt",
+   "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1026-GS1800V-nl_2.pdf",
    "variant": "layout"
   }
  ],
@@ -172,7 +172,7 @@
   "rlp_blend": "flanders",
   "rlp_indexed": true,
   "tier_kwh": 1800.0,
-  "tier_rate": 0.1272,
+  "tier_rate": 0.106,
   "weekend_rule": "weekend_offpeak",
   "yearly_fixed_fee": 50.0,
   "yearly_fixed_fee_exclusive_night": null
@@ -183,7 +183,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.041299999999999996,
+  "current": 0.0327,
   "factor": 0.6,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -200,8 +200,8 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "november 2026",
- "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1126-GS1800V-nl.pdf",
+ "publication_label": "oktober 2026",
+ "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1026-GS1800V-nl_2.pdf",
  "supplier": "energyvision",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
@@ -218,7 +218,7 @@
   "vat_rate": 0.0,
   "wallonia_renewables": 0.0
  },
- "valid_until": "2026-11-30",
+ "valid_until": "2026-10-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
