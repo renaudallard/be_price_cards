@@ -1,14 +1,14 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-03T13:01:10.389764+00:00",
  "_probe_key": null,
  "_schema_version": 88,
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-03",
  "_sources": [
   {
    "pdf": "b6247ea440bee4fcdc533604ee01e68082dae5ad78e1feb7c8cd110d6684faf9",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-11/160614b4f889e10b9b01904d95d5d75a2de405b0c75c0f147a1ca2ede897fd7b.txt",
-   "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1126-GS1800V-WAL-fr.pdf",
+   "url": "https://www.energyvision.be/sites/default/files/2026-10/EV-1126-GS1800V-WAL-fr.pdf",
    "variant": "layout"
   }
  ],
@@ -153,7 +153,7 @@
   "vat_applies": false
  },
  "publication_label": "novembre 2026",
- "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1126-GS1800V-WAL-fr.pdf",
+ "source_url": "https://www.energyvision.be/sites/default/files/2026-10/EV-1126-GS1800V-WAL-fr.pdf",
  "supplier": "energyvision",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {

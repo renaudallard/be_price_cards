@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-03T13:01:10.389764+00:00",
  "_probe_key": null,
  "_schema_version": 88,
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-03",
  "_sources": [
   {
-   "pdf": "2fd0c2445d83a7c06bf067a62fd79b0fb876db8c708e1eba6b888eb1e2b9acf2",
+   "pdf": "9c941625c40e28ef314b1d8604b84c16cf1f21587dccd0d68ec6a58882f7836b",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-11/2cc66e0269134180a32d2ca7c001fba996b0599a926e365fb3b6a05d5cc49b8f.txt",
+   "text": "texts/2026-11/398df59bda875e35275fb6a618d4de9de87f19278d051ed2fc0c754369d72759.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=smartflex&energyType=electricity&language=fr&tabValue=Flanders",
    "variant": "plain"
   }
@@ -156,10 +156,10 @@
   "formula_factor_sunday": 0.0,
   "formula_factor_transition": 1.14798,
   "month_indexed": true,
-  "offpeak": 0.1093,
-  "peak": 0.2577,
+  "offpeak": 0.11710000000000001,
+  "peak": 0.2823,
   "sunday": 0.0,
-  "transition": 0.22039999999999998,
+  "transition": 0.2408,
   "weekend_rule": "smartflex_seasonal",
   "yearly_fixed_fee": 65.0
  },
@@ -169,7 +169,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0688,
+  "current": 0.07730000000000001,
   "factor": 0.481,
   "factor_offpeak": null,
   "factor_peak": null,

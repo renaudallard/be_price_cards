@@ -1,14 +1,14 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-03T13:01:10.389764+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-11-01",
  "_sources": [
   {
-   "pdf": "f34d8334442b69d50ffc55953034acc7f490da89553e29a4f2af86eef61eed22",
+   "pdf": "d907f0825b0910ed09ac8a112191417a5a551f9ff5070eda06819e4ae75b103f",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-11/bef7235b2567e0cbb7eeb7f1b29db35dfb1bf19223ad4dfa5f8c5e8d86199794.txt",
-   "url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/ComfortFlexElectricity_Residential.pdf",
+   "text": "texts/2026-11/01b26c70e30faebadcb609b06fb2e4542c66f0d394ee1eff2a8129dd7bc92658.txt",
+   "url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/ComfortFlex%20Electricity_Residential.pdf",
    "variant": "layout"
   }
  ],
@@ -150,8 +150,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.19870000000000002,
-  "exclusive_night": 0.1967,
+  "current": 0.21899999999999997,
+  "exclusive_night": 0.2168,
   "formula": "24h (1,0800 x EPEXDAMREK + 1,850) x 1,06 · Piek (1,0920 x EPEXDAMREK + 1,850) x 1,06 · Dal (1,0680 x EPEXDAMREK + 1,850) x 1,06 · Excl. nacht (1,0680 x EPEXDAMREK + 1,850) x 1,06 c€/kWh",
   "formula_base": 0.019610000000000002,
   "formula_base_exclusive_night": 0.019610000000000002,
@@ -165,8 +165,8 @@
   "impact_medium": null,
   "impact_pic": null,
   "month_indexed": true,
-  "offpeak": 0.1967,
-  "peak": 0.2007,
+  "offpeak": 0.2168,
+  "peak": 0.2212,
   "rlp_blend": "distinct",
   "rlp_indexed": false,
   "yearly_fixed_fee": 75.0,
@@ -178,7 +178,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0704,
+  "current": 0.10529999999999999,
   "factor": 0.85,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -195,8 +195,8 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "oktober 2026",
- "source_url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/ComfortFlexElectricity_Residential.pdf",
+ "publication_label": "november 2026",
+ "source_url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/ComfortFlex%20Electricity_Residential.pdf",
  "supplier": "elegant",
  "supplier_prosumer_eur_per_kva_year": 48.0,
  "taxes": {
@@ -204,7 +204,7 @@
   "card_vat_rate": 0.06,
   "energy_contribution": 0.0,
   "energy_fund_eur_per_month": 0.0,
-  "federal_excise": 0.048760000000000005,
+  "federal_excise": 0.04473,
   "federal_excise_bands": null,
   "flanders_renewables": 0.015899999999999997,
   "published_vat_rate": 0.0,
@@ -213,7 +213,7 @@
   "vat_rate": 0.0,
   "wallonia_renewables": 0.0
  },
- "valid_until": "2026-10-31",
+ "valid_until": "2026-11-30",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,

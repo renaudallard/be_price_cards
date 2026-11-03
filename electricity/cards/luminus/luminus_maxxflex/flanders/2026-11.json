@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-03T13:01:10.389764+00:00",
  "_probe_key": null,
  "_schema_version": 88,
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-03",
  "_sources": [
   {
-   "pdf": "a2861094a35d1a83fe5b28cab8e929a693d899a03737e9c97358faef04a99d41",
+   "pdf": "ee99e93086c20a5b1b3a3b6dff83312172e3c6b8b2cedad4eb4b527237876e09",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-11/518a7ad9b2f93991dd99395d31b456e4634f6a94368dc41b7540ddfc39e71455.txt",
+   "text": "texts/2026-11/42ab55f1ff4066eb3ed65f04e4f20fc0636b6f468466103e61fde3110e97d4d3.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxflex&energyType=electricity&language=fr&tabValue=Flanders",
    "variant": "plain"
   }
@@ -150,8 +150,8 @@
   "ceiling_offpeak": null,
   "ceiling_peak": null,
   "ceiling_single": null,
-  "current": 0.2305,
-  "exclusive_night": 0.2029,
+  "current": 0.25120000000000003,
+  "exclusive_night": 0.2211,
   "formula": null,
   "formula_base": 0.048611600000000005,
   "formula_base_exclusive_night": 0.042828240000000004,
@@ -165,8 +165,8 @@
   "impact_medium": null,
   "impact_pic": null,
   "month_indexed": true,
-  "offpeak": 0.2029,
-  "peak": 0.252,
+  "offpeak": 0.2211,
+  "peak": 0.2753,
   "rlp_blend": "distinct",
   "rlp_indexed": false,
   "yearly_fixed_fee": 65.0,
@@ -178,7 +178,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0688,
+  "current": 0.07730000000000001,
   "factor": 0.481,
   "factor_offpeak": null,
   "factor_peak": null,

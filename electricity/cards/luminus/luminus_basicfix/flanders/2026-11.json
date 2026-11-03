@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-03T13:01:10.389764+00:00",
  "_probe_key": null,
  "_schema_version": 88,
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-03",
  "_sources": [
   {
-   "pdf": "244584db5cdb21ae1822aebd515b1a4c497c472ce1ff4dc2c30d155901f361c5",
+   "pdf": "f4dbc0d49e5a773177c04a64130ddd6678f6f1259177d2aa49a281c005b028d3",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-11/e855f3f1ed458aca56d7dd80f42bb09fc5c2c854c0c2a10775d965327f87cbb6.txt",
+   "text": "texts/2026-11/fd5616bd6ae000ca98c00596a9eb411a192c95d0518cd13794a2d1d95f5d9249.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicfix&energyType=electricity&language=fr&tabValue=Flanders",
    "variant": "plain"
   }
@@ -159,7 +159,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0638,
+  "current": 0.0724,
   "factor": 0.481,
   "factor_offpeak": null,
   "factor_peak": null,

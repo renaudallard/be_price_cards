@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-03T13:01:10.389764+00:00",
  "_probe_key": null,
  "_schema_version": 88,
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-03",
  "_sources": [
   {
-   "pdf": "f88eb7283290d718b7d1a261ec5764cd9aaf7bd0704932bf6cbf25f4ef4c3b9e",
+   "pdf": "49bcaf6c275a4aafdb57a67dfcad85ef21ee44fed12cd8771ca5a4bf05f1aef9",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
    "text": "texts/2026-11/73af6e5e610b309382f0b1d55658196669fd1678a59bccafc177929253e28b57.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex-plus&energyType=electricity&language=fr&tabValue=Wallonia",

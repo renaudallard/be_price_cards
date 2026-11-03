@@ -1,14 +1,14 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-03T13:01:10.389764+00:00",
  "_probe_key": null,
  "_schema_version": 88,
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-03",
  "_sources": [
   {
-   "pdf": "d8dda71cfcf9f501135a715263e4dd790dc5298d984384a7919d671b97a09a5f",
+   "pdf": "ddcd1b74f53894d32c092f2bf64c01f77fc1c35b02e74bd3442d955abdf309ea",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-11/a8457c8f65ce40c3f27ab7a80379d9ab60eadb1bee99065b9a68c649ca3bf555.txt",
-   "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1126-GS1800V-nl.pdf",
+   "text": "texts/2026-11/ae17a1fb488334c402bfce129234ccacaedb4c5eeffba9d316928b22089d4190.txt",
+   "url": "https://www.energyvision.be/sites/default/files/2026-11/EV-1126-GS1800V-nl.pdf",
    "variant": "layout"
   }
  ],
@@ -201,7 +201,7 @@
   "vat_applies": false
  },
  "publication_label": "november 2026",
- "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1126-GS1800V-nl.pdf",
+ "source_url": "https://www.energyvision.be/sites/default/files/2026-11/EV-1126-GS1800V-nl.pdf",
  "supplier": "energyvision",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
@@ -222,7 +222,7 @@
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
- "welcome_credit_eur": 50.0,
+ "welcome_credit_eur": 35.0,
  "welcome_credit_eur_per_kwh": null,
  "welcome_credit_excludes_night_meter": false,
  "welcome_credit_injection_eur_per_kwh": null,

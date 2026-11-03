@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-03T13:01:10.389764+00:00",
  "_probe_key": null,
  "_schema_version": 88,
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-03",
  "_sources": [
   {
-   "pdf": "ff2f61a071c157b1ac8c59e997da7022c4d2395d4df2aeefd9458d0e8cd7eabb",
+   "pdf": "f57fa5f2347726c88539c235aa71e14ae932030240a9479875a093c66225b769",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-11/cdbf7d365079717fe07efc14b3e352d9da185e9fa8a30fa170f47c01f378cffa.txt",
+   "text": "texts/2026-11/87e0072aa442a07fe37bbd44b7e1003d53196552f9a8bb67c75945469db31fc9.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy-plus&energyType=electricity&language=fr&tabValue=Flanders",
    "variant": "plain"
   }
@@ -159,7 +159,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.0688,
+  "current": 0.07730000000000001,
   "factor": 0.481,
   "factor_offpeak": null,
   "factor_peak": null,
