@@ -1,10 +1,10 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-03",
  "_sources": [
   {
-   "pdf": "3b283cb6799caeb2eacb069e3b3df387b50270c9eab9fe9964b020d5b862c72f",
+   "pdf": "46a7328abe12301024d5d7363f2e6e29b1e586ca37ab6250d503573b9f0cad0c",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
-   "text": "texts/2026-11/81ece54bfacbedbead83f07289730d93e7a1c0de9dd6893b98c0c9b8edf4adff.txt",
+   "text": "texts/2026-11/bebafc25d44eda5a5d21c2fe6641bf50713c8c29d5755950b345aa1bfed205c9.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxflex&energyType=gas&language=fr&tabValue=Wallonia",
    "variant": "plain"
   }
@@ -57,7 +57,7 @@
   "index": "TTF DAH M",
   "kind": "indexed",
   "period": "month",
-  "price": 0.0967,
+  "price": 0.10800000000000001,
   "settled": false,
   "vat_grossed": []
  },

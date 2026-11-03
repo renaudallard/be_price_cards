@@ -1,10 +1,10 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-03",
  "_sources": [
   {
-   "pdf": "9e00d13f29dd80c87fa880251f12aa699e4aad044f05884a4b81834fb7ba23e4",
+   "pdf": "691e48215c39232b48bf9f1dcaf396a1010065b4638d5b2047b2e79194ccbcbc",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
-   "text": "texts/2026-11/ea885ebeb236f65bc55c4efc6b6ddad19df4d0a7740c964716fe7ea44b2f8242.txt",
+   "text": "texts/2026-11/708db079ac0869dd902ee494a27a72e8d84463e771c9ba36a0be3431c4a110be.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicflex&energyType=gas&language=fr&tabValue=Flanders",
    "variant": "plain"
   }
@@ -165,7 +165,7 @@
   "index": "TTF DAH M",
   "kind": "indexed",
   "period": "month",
-  "price": 0.0857,
+  "price": 0.09699999999999999,
   "settled": false,
   "vat_grossed": []
  },

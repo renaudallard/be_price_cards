@@ -1,21 +1,26 @@
 {
- "_seen_on": "2026-11-01",
+ "_seen_on": "2026-11-03",
  "_sources": [
   {
-   "text": "texts/2026-11/0edcd8238b7b04525272c94c1571b0144c75b3fafbe8068b086efc6e4b54e471.txt",
-   "url": "https://www.elegant.be/tariefkaarten",
+   "text": "texts/2026-11/d92801e828b9cfacdcc1111b4bd7fd9278ee3913ca2346709d7ab6d012c76bb7.txt",
+   "url": "https://www.belvus.be/diensten",
    "variant": "text"
   },
   {
-   "pdf": "43abb5d5b42630cdc5572c67d4abc0aac7d710435563b67221a84a2d53f1f826",
+   "text": "texts/2026-11/4852f4303821b7a66b4be0f7bb9292d3cc84fc3f2c7bf58a073642640ab10f83.txt",
+   "url": "https://www.belvus.be/historische-tariefkaarten",
+   "variant": "text"
+  },
+  {
+   "pdf": "dff0463d305f1c5ab6bd4346671c6c1a7c0992d9776a9e6186272f52dfbc9bc5",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
-   "text": "texts/2026-11/85471f3e617fd8de077bae78c6fa4bc97e0823c885f8f140d70061ab8e7c99f6.txt",
-   "url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/ComfortFlexGas_Residential.pdf",
-   "variant": "layout"
+   "text": "texts/2026-11/6041263151b46eadb14a01518746342cc6deff2caa5e38001f1147ec9788eb1f.txt",
+   "url": "https://www.belvus.be/public/tariefkaarten/2026-11/Tariefkaart_FlexOnline_GAS.pdf",
+   "variant": "plain"
   }
  ],
  "_via": "live",
- "contract": "elegant_comfortflex",
+ "contract": "belvus_flex_online",
  "dsos": {
   "fluvius_antwerpen": {
    "metering": 18.92,
@@ -29,7 +34,7 @@
      0.0091
     ]
    },
-   "transport": 0.0017000000000000001
+   "transport": 0.00165
   },
   "fluvius_halle_vilvoorde": {
    "metering": 18.92,
@@ -43,7 +48,7 @@
      0.0098
     ]
    },
-   "transport": 0.0017000000000000001
+   "transport": 0.00165
   },
   "fluvius_imewo": {
    "metering": 18.92,
@@ -57,7 +62,7 @@
      0.0102
     ]
    },
-   "transport": 0.0017000000000000001
+   "transport": 0.00165
   },
   "fluvius_kempen": {
    "metering": 18.92,
@@ -71,7 +76,7 @@
      0.0088
     ]
    },
-   "transport": 0.0017000000000000001
+   "transport": 0.00165
   },
   "fluvius_limburg": {
    "metering": 18.92,
@@ -85,7 +90,7 @@
      0.0098
     ]
    },
-   "transport": 0.0017000000000000001
+   "transport": 0.00165
   },
   "fluvius_midden_vlaanderen": {
    "metering": 18.92,
@@ -99,7 +104,7 @@
      0.0091
     ]
    },
-   "transport": 0.0017000000000000001
+   "transport": 0.00165
   },
   "fluvius_west": {
    "metering": 18.92,
@@ -110,10 +115,10 @@
     ],
     "t2": [
      101.02,
-     0.0105
+     0.0106
     ]
    },
-   "transport": 0.0017000000000000001
+   "transport": 0.00165
   },
   "fluvius_zenne_dijle": {
    "metering": 18.92,
@@ -127,41 +132,45 @@
      0.0102
     ]
    },
-   "transport": 0.0017000000000000001
+   "transport": 0.00165
   }
  },
  "energy": {
-  "base": 0.0049819999999999994,
-  "factor": 0.0010865,
-  "fee": 75.0,
-  "formula": "(1,0250 x TTFDAM + 0,470) x 1,06",
-  "index": "TTFDAM",
+  "base": 0.00371,
+  "factor": 0.0011024000000000001,
+  "fee": 50.0,
+  "formula": "(TTF_RLP × 1,04) + € 3,5/MWh",
+  "index": "TTF_RLP",
   "kind": "indexed",
   "period": "month",
-  "price": 0.0868,
+  "price": 0.100806,
   "settled": false,
-  "vat_grossed": []
+  "vat_grossed": [
+   "factor",
+   "base",
+   "price"
+  ]
  },
- "publication_label": "2026-10",
+ "publication_label": "2026-11",
  "schema": 2,
- "source_url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/ComfortFlexGas_Residential.pdf",
- "supplier": "elegant",
+ "source_url": "https://www.belvus.be/public/tariefkaarten/2026-11/Tariefkaart_FlexOnline_GAS.pdf",
+ "supplier": "belvus",
  "taxes": {
-  "card_vat_rate": 0.06,
+  "card_vat_rate": null,
   "connection_fee": 0.0,
-  "contribution": 0.0,
+  "contribution": 0.001057,
   "excise": [
    [
     12000.0,
-    0.01093
+    0.008723999999999999
    ],
    [
     null,
-    0.01183
+    0.009457
    ]
   ],
   "osp": null,
   "vat_rate": 0.0
  },
- "valid_until": "2026-10-31"
+ "valid_until": "2026-11-30"
 }

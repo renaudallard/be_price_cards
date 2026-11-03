@@ -1,19 +1,19 @@
 Tariefkaart Aardgas
-ComfortFlex
-Variabel 1 jaar Versie oktober 2026 Particulier Prijzen inclusief 6% btw
+Flex
+Variabel Onbepaalde duur Versie november 2026 Particulier Prijzen inclusief 6% btw
 Energiekost
 Prijzen
 Vaste vergoeding (€/jaar)(1) 75,00
 Energiekost
-(c€/kWh) 8,68 Maandelijkse prijzen
-(c€/kWh) 8,00 Geschatte jaarprijs
+(c€/kWh) 10,10 Maandelijkse prijzen
+(c€/kWh) 10,19 Geschatte jaarprijs
 Formule(2) (c€/kWh)
 (1,0250 x TTFDAM + 0,470) x 1,06
 (1) De vaste vergoeding is een administratieve vergoeding die jaarlijks verschuldigd is aan Elegant, pro rata van de looptijd van de Overeenkomst, behalve indien de Klant de Overeenkomst stopzet binnen de zes maanden na de aanvang van de
 levering onder de Overeenkomst, in welk geval de Klant een vaste vergoeding gelijk aan zes maanden verschuldigd is.
 (2) De aardgasprijs wordt maandelijks geïndexeerd op basis van de RLP gewogen quoteringen voor TTF Day Ahead (End Of Day), hierna TTFDAMRLP. De waarde van TTFDAMRLP van de lopende maand zal pas gekend zijn aan het einde van
-de maand. De aangegeven prijzen zijn gebaseerd op de laatst gekende waarde voor TTFDAMRLP, namelijk de waarde van september 2026. Deze bedroeg 7,531 c€/kWh. De geschatte jaarprijs voor TTFDAMRLP bedraagt 6,909 c€/kWh volgens
-de VREG methodologie. Deze vermelde prijzen zijn exclusief btw. Meer informatie en de waarden van deze parameters kan je terugvinden op elegant.be/indexatie.
+de maand. De aangegeven prijzen zijn gebaseerd op de laatst gekende waarde voor TTFDAMRLP, namelijk de waarde van oktober 2026. Deze bedroeg 8,838 c€/kWh. De geschatte jaarprijs voor TTFDAMRLP bedraagt 8,920 c€/kWh volgens de
+VREG methodologie. Deze vermelde prijzen zijn exclusief btw. Meer informatie en de waarden van deze parameters kan je terugvinden op elegant.be/indexatie.
 Nettarieven
 Transport- en distributiekosten
 Distributiekosten

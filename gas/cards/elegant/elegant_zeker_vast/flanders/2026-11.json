@@ -1,0 +1,160 @@
+{
+ "_seen_on": "2026-11-03",
+ "_sources": [
+  {
+   "text": "texts/2026-11/a629c8fd60273dcf6b50f28128f104caf665fd699aac48cc36e8f8ec7d1c8be1.txt",
+   "url": "https://www.elegant.be/tariefkaarten",
+   "variant": "text"
+  },
+  {
+   "pdf": "007ff1ec06097981733afbfefddbe13443319e9a8b1ae7d13034b77a6f08dcb2",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "text": "texts/2026-11/64d4543df4fe6e2f31954e3e23a2e1932f83880ba813c472c860256ac1478468.txt",
+   "url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/Zeker%20%26%20Vast%20Gas_Residential.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "live",
+ "contract": "elegant_zeker_vast",
+ "dsos": {
+  "fluvius_antwerpen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     15.68,
+     0.0226
+    ],
+    "t2": [
+     83.22,
+     0.0091
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "fluvius_halle_vilvoorde": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     17.59,
+     0.025
+    ],
+    "t2": [
+     93.38,
+     0.0098
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "fluvius_imewo": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     18.61,
+     0.0263
+    ],
+    "t2": [
+     98.81,
+     0.0102
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "fluvius_kempen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     16.17,
+     0.0227
+    ],
+    "t2": [
+     85.83,
+     0.0088
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "fluvius_limburg": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     14.59,
+     0.022400000000000003
+    ],
+    "t2": [
+     77.46,
+     0.0098
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "fluvius_midden_vlaanderen": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     16.33,
+     0.0232
+    ],
+    "t2": [
+     86.71,
+     0.0091
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "fluvius_west": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     19.03,
+     0.0269
+    ],
+    "t2": [
+     101.02,
+     0.0105
+    ]
+   },
+   "transport": 0.0017000000000000001
+  },
+  "fluvius_zenne_dijle": {
+   "metering": 18.92,
+   "tiers": {
+    "t1": [
+     18.4,
+     0.026000000000000002
+    ],
+    "t2": [
+     97.72,
+     0.0102
+    ]
+   },
+   "transport": 0.0017000000000000001
+  }
+ },
+ "energy": {
+  "fee": 120.0,
+  "kind": "fixed",
+  "price": 0.10490000000000001
+ },
+ "publication_label": "2026-11",
+ "schema": 2,
+ "source_url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/Zeker%20%26%20Vast%20Gas_Residential.pdf",
+ "supplier": "elegant",
+ "taxes": {
+  "card_vat_rate": 0.06,
+  "connection_fee": 0.0,
+  "contribution": 0.0,
+  "excise": [
+   [
+    12000.0,
+    0.01093
+   ],
+   [
+    null,
+    0.01183
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-11-30"
+}
