@@ -1,16 +1,11 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-04",
  "_sources": [
-  {
-   "text": "texts/2026-11/b6280a590338996beeaed47346db6aee7ac7514f358443acfca303b1387ddecf.txt",
-   "url": "https://www.dotsenergy.be/dots-connect-gas-digital",
-   "variant": "text"
-  },
   {
    "pdf": "28e51028c4eb95642934b2668f3a6d3f8597e238ea756c903f63296101deec78",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
    "text": "texts/2026-11/db9da6fcbb004022d7df95bae09f93e3c917b1fbac4aa3a5fbce8010dde9d590.txt",
-   "url": "https://www.dotsenergy.be/web/content/122368?unique=764c14ff52c6e547239c55da38bfbfe541697d22&download=true",
+   "url": "https://www.dotsenergy.be/api/tariefkaarten/dots-connect-gas-digital",
    "variant": "plain"
   }
  ],
@@ -150,7 +145,7 @@
  },
  "publication_label": "2026-11",
  "schema": 2,
- "source_url": "https://www.dotsenergy.be/web/content/122368?unique=764c14ff52c6e547239c55da38bfbfe541697d22&download=true",
+ "source_url": "https://www.dotsenergy.be/api/tariefkaarten/dots-connect-gas-digital",
  "supplier": "dots",
  "taxes": {
   "card_vat_rate": 0.06,

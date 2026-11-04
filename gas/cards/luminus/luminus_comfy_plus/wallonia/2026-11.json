@@ -1,8 +1,8 @@
 {
- "_seen_on": "2026-11-03",
+ "_seen_on": "2026-11-04",
  "_sources": [
   {
-   "pdf": "12068eb8beb428447ec4607eca6588e9569f3d480e47873c55b47ff4ab3dbe43",
+   "pdf": "17305d0c1db32ec898359ec7535ff41f554b5bc81d35bc71d39df9c004600bcd",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
    "text": "texts/2026-11/449c6e7687aed3bc6bca531b201fa678b43f58339eb4371d040a4730cd63dbd7.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy-plus&energyType=gas&language=fr&tabValue=Wallonia",

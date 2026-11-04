@@ -15,7 +15,7 @@ blank cell is a month the archive does not hold.
 - [ecofix](coverage/ecofix.md): 4 rows, 2026-09 to 2026-11
 - [elegant](coverage/elegant.md): 3 rows, 2025-12 to 2026-11
 - [eneco](coverage/eneco.md): 8 rows, 2023-11 to 2026-11
-- [energiebe](coverage/energiebe.md): 2 rows, 2025-12 to 2026-10
+- [energiebe](coverage/energiebe.md): 2 rows, 2025-12 to 2026-11
 - [energyvision](coverage/energyvision.md): 5 rows, 2025-11 to 2026-11
 - [engie](coverage/engie.md): 23 rows, 2024-04 to 2026-11
 - [evident](coverage/evident.md): 1 row, 2026-01 to 2026-11
