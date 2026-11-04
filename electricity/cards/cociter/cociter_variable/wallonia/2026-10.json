@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-04T13:17:03.157062+00:00",
  "_probe_key": null,
  "_schema_version": 88,
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-04",
  "_sources": [
   {
-   "text": "texts/2026-11/0e2438d6251f66cb15fe306891201b5c6a0b8932f0da4ec6fb3606ece171fd0a.txt",
+   "text": "texts/2026-11/58ba71c93f8e3132d7c056fed054a92e4f7428ac46b055cf4b43322e35208c8f.txt",
    "url": "https://www.cociter.be/electricite/cartes-tarifaires/",
    "variant": "text"
   },
@@ -15,9 +15,16 @@
    "text": "texts/2026-11/10635d41e8fc5754051b51445e736411e770a49175a37f71cb362e2dcf22ca76.txt",
    "url": "https://www.cociter.be/wp-content/uploads/RCVar_YMR_Coop-2610-fr.pdf",
    "variant": "plain"
+  },
+  {
+   "pdf": "114b3f218e1e1cd4392111b534516c1d5bf63f2d78ed029821455beb7a4190df",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-11/54e58ec7ee86ae7362d4058a06cc943e3ad93c2a8acc14bdb6bc972ce9385686.txt",
+   "url": "https://www.cociter.be/wp-content/uploads/RCVar_YMR_Coop-2611-fr.pdf",
+   "variant": "plain"
   }
  ],
- "_via": "live",
+ "_via": "archive",
  "contract": "cociter_variable",
  "direct_debit_discount_eur": null,
  "dsos": {
@@ -107,8 +114,8 @@
   "ceiling_offpeak": 0.265,
   "ceiling_peak": 0.265,
   "ceiling_single": 0.265,
-  "current": 0.177346,
-  "exclusive_night": 0.160766,
+  "current": 0.19148105000000004,
+  "exclusive_night": 0.17301691000000002,
   "formula": "(0,075 x BELIX + 5) c€/kWh + 6% VAT",
   "formula_base": 0.053000000000000005,
   "formula_base_exclusive_night": 0.053000000000000005,
@@ -121,9 +128,10 @@
   "impact_eco": null,
   "impact_medium": null,
   "impact_pic": null,
+  "index_realised": 0.17419,
   "month_indexed": true,
-  "offpeak": 0.160766,
-  "peak": 0.193925,
+  "offpeak": 0.17301691000000002,
+  "peak": 0.20994519000000006,
   "rlp_blend": "distinct",
   "rlp_indexed": false,
   "yearly_fixed_fee": 53.0,

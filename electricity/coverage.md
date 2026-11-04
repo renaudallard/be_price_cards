@@ -12,7 +12,7 @@ month the archive does not hold.
 
 - [aspiravi](coverage/aspiravi.md): 1 rows, 2024-04 to 2026-11
 - [bolt](coverage/bolt.md): 36 rows, 2025-01 to 2026-11
-- [cociter](coverage/cociter.md): 3 rows, 2025-10 to 2026-10
+- [cociter](coverage/cociter.md): 3 rows, 2025-10 to 2026-11
 - [ebem](coverage/ebem.md): 3 rows, 2025-01 to 2026-11
 - [ecofix](coverage/ecofix.md): 8 rows, 2026-05 to 2026-11
 - [ecopower](coverage/ecopower.md): 2 rows, 2025-01 to 2026-11

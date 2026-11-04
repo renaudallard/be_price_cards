@@ -1,14 +1,8 @@
 {
-  "energiebe/energiebe_dynamic/flanders/2026-11": [
+  "energyvision/energyvision_fixed_3y/flanders/2026-11": [
     {
-      "url": "https://energie-production-api.azurewebsites.net/api/v1/data/document?key=DynamicTariffs",
-      "pdf": "016ce2b14b6c3f85b22da32b596dd9d2a0a48e45224a2ab87d6f3bb14c17e7f8"
-    }
-  ],
-  "energiebe/energiebe_variable/flanders/2026-11": [
-    {
-      "url": "https://energie.blob.core.windows.net/cms/assets/Energie_be_Elek_Particulier_845a8a2ff1.pdf",
-      "pdf": "409b4949035748314ffe1671d05be01b2084089249b538f51697c7d8f865bdac"
+      "url": "https://www.energyvision.be/sites/default/files/2026-11/EV-1126-GS3JV-nl.pdf",
+      "pdf": "d188b5e421fdbfe2d50f4f5cc4935b8b2b31c8d77b7b93c41da6e7b0a77c9dc4"
     }
   ]
 }
