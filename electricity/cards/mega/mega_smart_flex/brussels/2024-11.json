@@ -1,0 +1,161 @@
+{
+ "_cached_at": "2026-11-04T14:25:39.611698+00:00",
+ "_probe_key": null,
+ "_schema_version": 88,
+ "_seen_on": "2026-11-04",
+ "_sources": [
+  {
+   "text": "texts/2026-11/df0cb9fba00700da3d1a8dff45db4fdb002ffb8836af0d759c9635b4e4765f49.txt",
+   "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
+   "variant": "text"
+  },
+  {
+   "pdf": "dc9d19bb47e8980649995a72ee069e6d3a0af2535c7ad7085fdfdc8c4c048abf",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-11/955db174f29e419aec3c7daa51a4d6cae53a8fd099881897aa6001575167e17d.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-112024-Smart0111.pdf",
+   "variant": "plain"
+  },
+  {
+   "pdf": "f38c9126f6128f54ecebcee38351ba065cb5f411c76f82a62a718ab577360c70",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-11/752248b19a6931d3996e2f2b1acc9b460ffe205abbefc2001ed2591751f3b6db.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-122024-Smart0112.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "mega_smart_flex",
+ "direct_debit_discount_eur": null,
+ "dsos": {
+  "sibelga": {
+   "brussels_osp_by_tier": {
+    "gt56": 164.09,
+    "le13": 25.19,
+    "le18": 37.91,
+    "le1_44": 0.0,
+    "le36": 50.5,
+    "le56": 101.0,
+    "le6": 12.59,
+    "le9_6": 20.22
+   },
+   "brussels_power_term_above_13kva": 68.77,
+   "capacity_eur_per_kw_year": null,
+   "data_management_per_year": 39.74,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0672,
+   "distribution_medium": null,
+   "distribution_offpeak": 0.0672,
+   "distribution_peak": 0.0898,
+   "distribution_pic": null,
+   "distribution_single": 0.0898,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": null,
+   "transport": 0.0138
+  }
+ },
+ "energy": {
+  "ceiling_exclusive_night": null,
+  "ceiling_offpeak": null,
+  "ceiling_peak": null,
+  "ceiling_single": null,
+  "current": 0.1722,
+  "exclusive_night": 0.1557,
+  "formula": null,
+  "formula_base": 0.03551,
+  "formula_base_exclusive_night": 0.03551,
+  "formula_base_offpeak": null,
+  "formula_base_peak": null,
+  "formula_factor": 1.2189999999999999,
+  "formula_factor_exclusive_night": 1.07166,
+  "formula_factor_offpeak": null,
+  "formula_factor_peak": null,
+  "impact_eco": null,
+  "impact_medium": null,
+  "impact_pic": null,
+  "index_realised": 0.11213289581624282,
+  "month_indexed": true,
+  "offpeak": 0.1557,
+  "peak": 0.19,
+  "rlp_blend": "columns",
+  "rlp_indexed": true,
+  "settled_as_stated": true,
+  "yearly_fixed_fee": 58.3,
+  "yearly_fixed_fee_exclusive_night": null
+ },
+ "energy_kind": "variable",
+ "injection": {
+  "base": -0.026000000000000002,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": 0.0472,
+  "factor": 0.7,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": false,
+  "floor_at_zero": false,
+  "formula": "Epex SPP * 0,7 – 2,6 c€/kWh",
+  "index_realised": 0.10457142857142858,
+  "minimum": null,
+  "month_indexed": false,
+  "offpeak": null,
+  "peak": null,
+  "settled_as_stated": true,
+  "slot_indexed": false,
+  "spp_indexed": true,
+  "transition": null,
+  "vat_applies": false
+ },
+ "publication_label": "novembre 2024",
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-112024-Smart0111.pdf",
+ "supplier": "mega",
+ "supplier_prosumer_eur_per_kva_year": null,
+ "taxes": {
+  "brussels_renewables": 0.02619,
+  "card_vat_rate": 0.06,
+  "energy_contribution": 0.0020417,
+  "energy_fund_eur_per_month": 0.0,
+  "federal_excise": 0.05032879999999999,
+  "federal_excise_bands": [
+   [
+    3000.0,
+    0.05032879999999999
+   ],
+   [
+    20000.0,
+    0.05032879999999999
+   ],
+   [
+    50000.0,
+    0.048187600000000004
+   ],
+   [
+    1000000.0,
+    0.047466799999999996
+   ]
+  ],
+  "flanders_renewables": 0.0,
+  "published_vat_rate": 0.0,
+  "region_connection_fee": 0.0,
+  "region_connection_fee_unavailable": false,
+  "vat_rate": 0.0,
+  "wallonia_renewables": 0.0
+ },
+ "valid_until": "2024-11-30",
+ "welcome_credit_after_months": 12,
+ "welcome_credit_cap_eur": 371.0,
+ "welcome_credit_direct_debit_eur": null,
+ "welcome_credit_eur": 117.66,
+ "welcome_credit_eur_per_kwh": 0.04769999999999999,
+ "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": 0.0106,
+ "welcome_credit_kind": "anniversary",
+ "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
+ "welcome_credit_lump_capped": false,
+ "welcome_credit_pct_of_energy": null,
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
+}

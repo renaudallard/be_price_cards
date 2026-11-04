@@ -1,0 +1,131 @@
+{
+ "_cached_at": "2026-11-04T14:25:39.611698+00:00",
+ "_probe_key": null,
+ "_schema_version": 88,
+ "_seen_on": "2026-11-04",
+ "_sources": [
+  {
+   "text": "texts/2026-11/df0cb9fba00700da3d1a8dff45db4fdb002ffb8836af0d759c9635b4e4765f49.txt",
+   "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
+   "variant": "text"
+  },
+  {
+   "pdf": "2f461d74e44d83fb18c628fc0b1cefc9ea9bc247f36c9412dd93b645c5367878",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-11/f6c8e8aebda68fc8fb987699a7824fd6f766cb0ebbedeb3bc628a7bc9f5c7234.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-072025-Cosy0107-Fixed.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "mega_cosy_fixed",
+ "direct_debit_discount_eur": null,
+ "dsos": {
+  "sibelga": {
+   "brussels_osp_by_tier": {
+    "gt56": 170.07,
+    "le13": 26.2,
+    "le18": 39.18,
+    "le1_44": 0.0,
+    "le36": 52.28,
+    "le56": 104.69,
+    "le6": 13.1,
+    "le9_6": 20.99
+   },
+   "brussels_power_term_above_13kva": 101.35,
+   "capacity_eur_per_kw_year": null,
+   "data_management_per_year": 57.44,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0707,
+   "distribution_medium": null,
+   "distribution_offpeak": 0.0707,
+   "distribution_peak": 0.0941,
+   "distribution_pic": null,
+   "distribution_single": 0.0941,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": null,
+   "transport": 0.0225
+  }
+ },
+ "energy": {
+  "exclusive_night": 0.1487,
+  "offpeak": 0.1487,
+  "peak": 0.17989999999999998,
+  "single": 0.1632,
+  "yearly_fixed_fee": 143.1,
+  "yearly_fixed_fee_exclusive_night": null
+ },
+ "energy_kind": "fixed",
+ "injection": {
+  "base": null,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": 0.014199999999999999,
+  "factor": null,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": true,
+  "floor_at_zero": false,
+  "formula": null,
+  "minimum": null,
+  "month_indexed": false,
+  "offpeak": null,
+  "peak": null,
+  "slot_indexed": false,
+  "spp_indexed": false,
+  "transition": null,
+  "vat_applies": false
+ },
+ "publication_label": "juillet 2025",
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-072025-Cosy0107-Fixed.pdf",
+ "supplier": "mega",
+ "supplier_prosumer_eur_per_kva_year": null,
+ "taxes": {
+  "brussels_renewables": 0.02574,
+  "card_vat_rate": 0.06,
+  "energy_contribution": 0.0020417,
+  "energy_fund_eur_per_month": 0.0,
+  "federal_excise": 0.05032879999999999,
+  "federal_excise_bands": [
+   [
+    3000.0,
+    0.05032879999999999
+   ],
+   [
+    20000.0,
+    0.05032879999999999
+   ],
+   [
+    50000.0,
+    0.048187600000000004
+   ],
+   [
+    1000000.0,
+    0.047466799999999996
+   ]
+  ],
+  "flanders_renewables": 0.0,
+  "published_vat_rate": 0.0,
+  "region_connection_fee": 0.0,
+  "region_connection_fee_unavailable": false,
+  "vat_rate": 0.0,
+  "wallonia_renewables": 0.0
+ },
+ "valid_until": "2025-07-31",
+ "welcome_credit_after_months": 12,
+ "welcome_credit_cap_eur": 530.0,
+ "welcome_credit_direct_debit_eur": 21.2,
+ "welcome_credit_eur": 53.0,
+ "welcome_credit_eur_per_kwh": 0.0212,
+ "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": 0.0106,
+ "welcome_credit_kind": "anniversary",
+ "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
+ "welcome_credit_lump_capped": false,
+ "welcome_credit_pct_of_energy": null,
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
+}

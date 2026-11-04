@@ -1,0 +1,151 @@
+{
+ "_cached_at": "2026-11-04T14:25:39.611698+00:00",
+ "_probe_key": null,
+ "_schema_version": 88,
+ "_seen_on": "2026-11-04",
+ "_sources": [
+  {
+   "pdf": "59169d4211e4411b5a28e2d094f79c2e4ec8209aa444cbf0ba580900a6953c95",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-11/6e57893348dc8cab46b085e8b0c4bb58e69545e27b99738d381c9d06b913b45e.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-082025-Smart0108.pdf",
+   "variant": "plain"
+  },
+  {
+   "pdf": "0ee3da24f3c99e0712bb05659553d19950fcff6d35f41b7a0cd9873d29db28fc",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "text": "texts/2026-11/c75686c207e0e9794199f197b2c01a257c883aa348c0adcbcc09c810b99a1136.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-092025-Smart0109.pdf",
+   "variant": "plain"
+  }
+ ],
+ "_via": "archive",
+ "contract": "mega_pro_smart_flex",
+ "direct_debit_discount_eur": null,
+ "dsos": {
+  "sibelga": {
+   "brussels_osp_by_tier": {
+    "gt56": 160.44,
+    "le13": 24.72,
+    "le18": 36.96,
+    "le1_44": 0.0,
+    "le36": 49.32,
+    "le56": 98.76,
+    "le6": 12.36,
+    "le9_6": 19.8
+   },
+   "brussels_power_term_above_13kva": 95.61,
+   "capacity_eur_per_kw_year": null,
+   "data_management_per_year": 54.19,
+   "distribution_eco": null,
+   "distribution_exclusive_night": 0.0667,
+   "distribution_medium": null,
+   "distribution_offpeak": 0.0667,
+   "distribution_peak": 0.0888,
+   "distribution_pic": null,
+   "distribution_single": 0.0888,
+   "network_ceiling_eur_per_kwh": null,
+   "prosumer_eur_per_kva_year": null,
+   "transport": 0.0212
+  }
+ },
+ "energy": {
+  "ceiling_exclusive_night": null,
+  "ceiling_offpeak": null,
+  "ceiling_peak": null,
+  "ceiling_single": null,
+  "current": 0.10779999999999999,
+  "exclusive_night": 0.09949999999999999,
+  "formula": null,
+  "formula_base": 0.031,
+  "formula_base_exclusive_night": 0.031,
+  "formula_base_offpeak": null,
+  "formula_base_peak": null,
+  "formula_factor": 1.105,
+  "formula_factor_exclusive_night": 0.96,
+  "formula_factor_offpeak": null,
+  "formula_factor_peak": null,
+  "impact_eco": null,
+  "impact_medium": null,
+  "impact_pic": null,
+  "index_realised": 0.07078341013824885,
+  "month_indexed": true,
+  "offpeak": 0.09949999999999999,
+  "peak": 0.1157,
+  "rlp_blend": "columns",
+  "rlp_indexed": true,
+  "settled_as_stated": true,
+  "yearly_fixed_fee": 55.0,
+  "yearly_fixed_fee_exclusive_night": null
+ },
+ "energy_kind": "variable",
+ "injection": {
+  "base": -0.0335,
+  "base_offpeak": null,
+  "base_peak": null,
+  "base_transition": null,
+  "current": -0.0034999999999999996,
+  "factor": 0.85,
+  "factor_offpeak": null,
+  "factor_peak": null,
+  "factor_transition": null,
+  "fixed_for_term": false,
+  "floor_at_zero": false,
+  "formula": "Epex SPP * 0,85 – 3,35 c€/kWh",
+  "index_realised": 0.03529411764705883,
+  "minimum": null,
+  "month_indexed": false,
+  "offpeak": null,
+  "peak": null,
+  "settled_as_stated": true,
+  "slot_indexed": false,
+  "spp_indexed": true,
+  "transition": null,
+  "vat_applies": true
+ },
+ "publication_label": "août 2025",
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-082025-Smart0108.pdf",
+ "supplier": "mega",
+ "supplier_prosumer_eur_per_kva_year": null,
+ "taxes": {
+  "brussels_renewables": 0.02429,
+  "energy_contribution": 0.0019261,
+  "energy_fund_eur_per_month": 0.0,
+  "federal_excise": 0.01421,
+  "federal_excise_bands": [
+   [
+    20000.0,
+    0.01421
+   ],
+   [
+    50000.0,
+    0.01209
+   ],
+   [
+    1000000.0,
+    0.01139
+   ]
+  ],
+  "flanders_renewables": 0.0,
+  "published_vat_rate": 0.0,
+  "region_connection_fee": 0.0,
+  "region_connection_fee_unavailable": false,
+  "vat_rate": 0.21,
+  "wallonia_renewables": 0.0
+ },
+ "valid_until": "2025-08-31",
+ "welcome_credit_after_months": 14,
+ "welcome_credit_cap_eur": 500.0,
+ "welcome_credit_direct_debit_eur": 20.0,
+ "welcome_credit_eur": 65.0,
+ "welcome_credit_eur_per_kwh": 0.040999999999999995,
+ "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": 0.01,
+ "welcome_credit_kind": "anniversary",
+ "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
+ "welcome_credit_lump_capped": false,
+ "welcome_credit_pct_of_energy": null,
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
+}

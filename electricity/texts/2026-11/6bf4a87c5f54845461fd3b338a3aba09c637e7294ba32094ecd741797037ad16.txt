@@ -1,0 +1,384 @@
+ 
+Electricité
+ 
+Energie (c€/kWh)
+Electricité
+Smart
+Green
+Flex
+(Variable)
+Injection
+(Variable)
+1 an
+1 an
+Compteur mono-horaire
+12.73
+3.78
+Compteur
+bi-horaire
+Tarif jour
+14.02
+3.78
+Tarif nuit
+11.54
+3.78
+Exclusif nuit
+11.54
+0
+Redevance fixe (€/an)
+55
+0
+Forfait panneaux solaires
+(€/kVA par mois)
+4.2
+0
+Forfait partage d'énergie
+(€/an)
+75
+0
+- 
+En souscrivant à un nouveau contrat Smart, vous bénéficiez
+d'une ristourne (*) composée d'une réduction de 3,7 c€/kWh
+(HTVA) pour votre première année de consommation nette
+d'électricité et d'une réduction de 65 € (HTVA) sur la redevance
+fixe pour votre première année de souscription à ce produit. Le
+montant total de la ristourne est plafonné à 500 € (HTVA).
+- 
+Le produit Smart comprend un service dédié en ligne ou par
+téléphone. Vous recevez vos factures par e-mail uniquement.
+Client professionnel - Flandre
+Votre contrat de fourniture d’électricité 100% verte comprend les présentes conditions tarifaires ainsi que le formulaire
+d'inscription complété par vos soins et les conditions générales de Mega accessibles sur le site www.mega.be. Nous sommes à
+votre disposition pour tout renseignement complémentaire sur nos tarifs.
+Les prix qui vous sont facturés en vertu de votre contrat sont constitués de 4 parties :
+1
+. 
+Le coût de l'énergie (MEGA)
+2
+. 
+Les coûts énergie verte (certificats verts, etc.)
+3
+. 
+Les tarifs des réseaux
+4
+. 
+Les impôts, taxes, surcharges, contributions (fixés par les pouvoirs publics)
+Répartition des coûts *
+Energie MEGA
+Réseaux
+Taxes et Surcharges
+Coûts énergie verte
+TVA
+Coût de l'énergie, redevance annuelle (1)
+- Les prix d’injection sont à majorer de la TVA, sauf si vous êtes soumis au régime d’exonération des petites entreprises sur la base de l’article 56bis du
+Code de la TVA.
+- La redevance fixe est payée par année de contrat entamée, peu importe la durée de la livraison en énergie par Mega.
+- Le forfait panneaux solaires est facturé pour un point de raccordement avec une installation photovoltaïque et un compteur qui tourne à l'envers. Le
+nombre de KVA correspond à la puissance de votre onduleur, communiquée par votre gestionnaire de réseau.
+- Le forfait partage d’énergie est un coût annuel par point d’accès faisant l’objet d'un partage d’énergie. Celui-ci est facturé au pro rata du nombre de
+jours pendant lesquels le partage de l’énergie est actif sur ce point d’accès. Il est soumis à 21% de TVA. Pour plus d’informations sur les différents types
+de partage d’énergie, rendez-vous sur https://www.mega.be/fr/energie/aide-et-contact#13
+- Vous bénéficiez des tarifs Smart à condition que vous respectiez les conditions de service de ce produit telles que mentionnées sur cette carte
+tarifaire. Si une ou plusieurs de ces conditions ne sont pas respectées, Mega se réserve le droit de facturer les tarifs ci-dessous à partir du premier jour
+du mois suivant le non-respect des conditions du produit : Les tarifs Cosy dans le cas où vous choisissez de recevoir vos factures par courrier. Les tarifs
+Cosy sont consultables sur le site via le lien suivant : https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-072024-Cosy.pdf. Si Mega décide de
+vous facturer les tarifs Cosy, vous en serez averti(e) préalablement.
+- Tarif d’injection : Pour un contrat variable, le prix de rachat de votre énergie injectée sera variable (indexé mensuellement), basé sur la moyenne
+pondérée par le SPP (publié par synergrid) des cotations journalières Day Ahead EPEX SPOT Belgium durant le mois de fourniture, telles que
+disponibles sur le site Internet de Nord Pool et déterminé selon la formule suivante (HTVA) : Epex SPP * 0.75 – 1 c€/kWh. Si au moment de la réception
+de vos index, la valeur de l'Epex SPP pour le mois en cours n'est pas encore connue, la moyenne pondérée par le SPP des cotations journalières Day
+Ahead EPEX SPOT Belgium disponibles jusqu'au jour du calcul de votre facture de régularisation sera utilisée comme prix de référence pour l'Epex
+SPP.
+- Le prix de l'électricité variable est indexé mensuellement pour la période initiale du contrat. Il est basé sur la moyenne pondérée par le RLP (publié
+par synergrid) des cotations journalières Day Ahead EPEX SPOT Belgium durant le mois de fourniture, telles que disponibles sur le site Internet de
+Nord Pool. Si au moment de la réception de vos index, la valeur pour le mois en cours n'est pas encore connue, la moyenne pondérée par le RLP des
+cotations journalières Day Ahead EPEX SPOT Belgium disponibles jusqu'au jour du calcul de votre facture de régularisation sera utilisée comme prix de
+référence pour le dernier mois de consommation.
+- Les prix affichés dans le tableau ci-dessus et utilisés pour réaliser une simulation tarifaire sont calculés sur base d’une prévision des prix de l’énergie
+pour une livraison les 12 prochains mois. Les derniers prix constatés et utilisés pour le calcul de votre facture de régularisation pour le mois de juin 2024
+(basés sur les dernières valeurs connues des paramètres de la formule tarifaire de ce produit) sont les suivants (c€/kWh) : Compteur mono-horaire :
+9,77 ; Jour : 10,67; Nuit : 8,93; Exclusif nuit : 8,93; Injection : 1,43.
+- Selon le type de compteur, la formule tarifaire est la suivante (HTVA); Compteur mono-horaire : Epex * 1,150 + 2,85 c€/kWh; Compteur bi-horaire -
+Jour : Epex * 1,300 + 2,85 c€/kWh; Compteur bi-horaire - Nuit : Epex * 1,011 + 2,85 c€/kWh; Compteur exclusif nuit : Epex * 1,011 + 2,85 c€/kWh.
+(*) La ristourne vous est uniquement accordée après une année ininterrompue de consommation au tarif Smart de Mega et octroyée sur votre facture
+de régularisation, pour autant que, tout au long du contrat, vous ayez payé vos factures sans le moindre retard. Si vos paiements sont effectués par
+domiciliation bancaire, la ristourne sur la redevance fixe sera majorée de 10 euros (HTVA ) par contrat. Cette ristourne est unique et ne peut être
+cumulée avec d’autres promotions ou réductions. Elle s’applique sur votre consommation lors des 12 premiers mois de contrat, telle que déterminée
+par votre gestionnaire de réseau. Si nous disposons de plus de 12 mois d’historique de consommation, nous déterminons la consommation pour les 12
+premiers mois à l’aide des courbes de consommation standard (RLP).
+Sources d'énergie pour :
+votre produit : 
+ 100% verte
+la région flamande (telles qu’approuvées par la VREG) : 89,79% verte,
+6,32% nucléaire, 3,89% fossile
+Prix du 
+mois 07/2024
+ - 
+Hors TVA - Publié le 01-07-2024
+1
+/
+3
+Power Online SA
+ 
+| 
+Rue Natalis, 2 - 4020 Liège 
+| 
+TVA BE0535.615.192 
+| 
+IBAN BE96 3631 2058 6905 
+| 
+info@mega.be
+www.mega.be
+ 
+Coût énergie verte (2)
+Cotisation Verte (c€/kWh)
+Certificat vert et Cogénération
+Flandre
+1.466
+(1) Ces prix sont d’application pour les contrats de fourniture d’électricité de clients professionnels dont la consommation annuelle est inférieure à < 100
+MWh. Les prix affichés sont d’application pour les compteurs avec relevé annuel et avec un raccordement basse tension en dessous de 56 kVA . Ils
+sont valables pour tout contrat signé en 07/2024.
+(2) Le coût énergie verte et le coût cogénération (pour la Flandre) sont calculés de la manière suivante: Q x Pc. Q correspond au pourcentage
+(déterminé par les Régions) de vos consommations pour lequel Mega doit acheter des certificats d’énergie verte et, le cas échéant, des certificats de
+cogénération. L'achat de ces certificats fait office de taxe au consommateur et sert à soutenir la production d'énergie verte en Belgique. Pc
+correspond au prix par certificat et s’élève (hors TVA) pour l’énergie verte à 69,8 € en Wallonie, à 92,55 € à Bruxelles et à 101,63 € en Flandre. Le prix
+par certificat de cogénération en Flandre s’élève à 24,85€. Ces coûts sont adaptés en fonction des modifications légales et des conditions de marché,
+et sont repris séparément sur la facture.
+* Le graphique basé sur une consommation moyenne de 10500 kWh/an, d'une famille ayant un compteur mono-horaire et résidant à Liège
+(gestionnaire de réseau RESA).
+2
+/
+3
+Power Online SA
+ 
+| 
+Rue Natalis, 2 - 4020 Liège 
+| 
+TVA BE0535.615.192 
+| 
+IBAN BE96 3631 2058 6905 
+| 
+info@mega.be
+www.mega.be
+ 
+ 
+Electricité
+Carte tarifaire
+Prix de la distribution et du transport (3)
+Votre intercommunale
+Tous les
+compteurs
+Compteurs digitaux
+Compteurs classiques
+Transport
+(c€/kWh)
+Tarif capacitaire
+(€/KW/an)
+*
+Tarif de prélèvement
+(c€/kWh)
+Tarif capacitaire
+(€/an)
+*
+Tarif de prélèvement
+(c€/kWh)
+Normal
+Exclusif nuit
+Terme fixe
+Normal
+Exclusif nuit
+Fluvius Antwerpen
+0.42256
+37.964
+3.90993
+2.79053
+94.91
+5.9798
+4.8604
+Fluvius Limburg
+0.42139
+38.9704
+4.65986
+3.37621
+97.43
+7.10373
+5.82008
+Fluvius West
+0.43031
+41.7973
+4.11758
+3.00765
+104.49
+6.60429
+5.49436
+Gaselwest
+0.45083
+43.4002
+4.93443
+3.47397
+108.5
+7.54137
+6.08091
+Imewo
+0.47262
+39.4069
+3.97791
+2.86165
+98.52
+6.28801
+5.17175
+Intergem
+0.43571
+35.1243
+3.38537
+2.46932
+87.81
+5.62122
+4.70517
+Iveka
+0.34327
+41.2218
+4.03337
+2.8986
+103.05
+6.37123
+5.23646
+Iverlek
+0.46952
+39.5529
+3.85867
+2.79326
+98.88
+6.26178
+5.19637
+PBE VL
+0.45149
+53.3896
+3.9934
+3.13196
+133.47
+7.2169
+6.35546
+Sibelgas
+0.57101
+43.879
+4.40223
+3.16621
+109.7
+6.85804
+5.62202
+*
+Ce montant est à multiplier par votre pic mensuel moyen. Le coût net global, hors tarif de gestion des données, ne peut cependant pas dépasser le tarif maximum multiplié par
+les kWh prélevés. Ce tarif maximum est de 0.1920264€/kWh. Si votre pic mensuel est inférieur à 2.5kW, alors vous payez la cotribution minimale de 2.5 kW multiplée par le tarif
+du pic mensuel.
+En plus des tarifs de réseaux ci-dessus, le 
+Tarif de gestion des données
+ est
+également applicables
+Tous les consommateurs, quel que soit le type de compteur, paient le tarif de gestion
+de données. Ce coût remplace, entre autres, l’ancienne redevance de location de
+compteur et est liée au traitement des données enregistrées par tous les types de
+compteurs.
+Tarif de gestion des données
+(€/an HTVA)
+Compteur au relevé annuel et mensuel
+13.16 €
+Compteur relevé au quart d'heure
+14.28 €
+Plus d'informations sur les nouveaux tarifs de réseaux sur le site web de la VREG.
+Taxes, redevances, cotisations et surcharges (4)
+Accise spéciale
+Cotisation sur
+l'énergie
+(c€/kWh)
+(c€/kWh)
+Consommation entre 0 et 20.000
+kWh
+1.42100
+0.19261
+Consommation entre 20.000 et
+50.000 kWh
+1.20900
+0.19261
+Consommation entre 50.000 et
+1.000.000 kWh
+1.13900
+0.19261
+*
+ Le droit d'accise spécial est d'application à partir du 01/01/2022. Ce droit
+remplace les contributions pour les obligations de service public fédéral
+et la cotisation fédérale. Il est calculé suivant un tarif dégressif par tranche
+de consommation, calculé sur une base annuelle.
+Votre intercommunale
+Tarif Prosumer
+(€/kW/an)
+*
+Fluvius Antwerpen
+43.25
+Fluvius Limburg
+50.84
+Fluvius West
+47.52
+Gaselwest
+53.99
+Imewo
+45.67
+Intergem
+40.92
+Iveka
+45.36
+Iverlek
+45.47
+PBE VL
+51.8
+Sibelgas
+50.19
+*
+Le tarif prosumer s’applique aux prosumers disposant d’une 
+installation de
+production d’une puissance maximale de 10 kVA 
+et d’un compteur électricité
+tournant à l’envers. Ce tarif est facturé sur base d’une courbe de répartition qui
+prend en compte le nombre standardisé d'heures d'ensoleillement par mois tel
+que reçu du gestionnaire de réseau de distribution. Vous trouverez d’avantage
+d’informations à ce sujet sur le site web du VREG (www.vreg.be).
+Cotisation Fonds Energie 
+(€/mois)
+Montant de base
+9.57
+(3) Versés à votre Gestionnaire du Réseau de Distribution (GRD). Tous les frais liés à l’utilisation des réseaux, tout comme les
+taxes, redevances et surcharges, sont variables, modifiables et sont intégralement répercutés au client, même
+rétroactivement. Ces éléments du prix sont ceux approuvés par les Régulateurs au moment de l’élaboration de la carte
+tarifaire pour un compteur à relevé annuel. En cas de contradiction entre les tarifs de Mega d'une part et ceux des
+Régulateurs d'autre part, ce sont ces derniers qui prévalent.
+(4) Les contributions, taxes et surcharges telles qu'en vigueur à la date de l'établissement de cette carte tarifaire. Toute
+modification des taxes, cotisations ou contributions sera répercutée au client sans majoration. NB: - Le tarif Prosumer
+s'applique à tous les utilisateurs du réseau qui ont une installation de production d'une puissance maximale de 10 kVA. Ils
+doivent en outre être raccordés au réseau basse tension et disposer d’un compteur d’électricité réversible. - La Cotisation
+au Fonds Energie n'est pas soumise à la TVA. Elle s'applique par point de prélèvement sur le réseau de distribution de
+l'électricité, sur le réseau de transport local de l'électricité et sur un réseau fermé de distribution d'électricité.
+Mega a signé le Code de conduite pour la protection des indépendants et des PME sur le marché de l'électricité et du gaz.
+Un contrat conclu sur base de cette carte tarifaire tombera par conséquent dans le champ d'application du Code de
+conduite pour la protection des Indépendants et PME dans le marché du gaz et de l'électricité.
+En cas de non-paiement :
+7 jours après l’échéance de paiement, vous recevrez un 1er rappel de paiement par courrier, facturé 7,5€
+22 jours après l’échéance de paiement, vous recevrez une mise en demeure, facturée 15€.
+Prix du 
+mois 07/2024
+ - 
+Hors TVA - Publié le 01-07-2024
+3
+/
+3
+Power Online SA
+ 
+| 
+Rue Natalis, 2 - 4020 Liège 
+| 
+TVA BE0535.615.192 
+| 
+IBAN BE96 3631 2058 6905 
+| 
+info@mega.be
+www.mega.be
+ 

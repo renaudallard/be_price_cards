@@ -23,6 +23,8 @@
    "suppliers": [
     "eneco",
     "engie",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -32,6 +34,8 @@
    "suppliers": [
     "eneco",
     "engie",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -41,6 +45,8 @@
    "suppliers": [
     "eneco",
     "engie",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -51,6 +57,8 @@
     "aspiravi",
     "eneco",
     "engie",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -61,6 +69,8 @@
     "aspiravi",
     "eneco",
     "engie",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -71,6 +81,8 @@
     "aspiravi",
     "eneco",
     "engie",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -81,6 +93,8 @@
     "aspiravi",
     "eneco",
     "engie",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -91,6 +105,8 @@
     "aspiravi",
     "eneco",
     "engie",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -99,8 +115,11 @@
    "rate": 0.06,
    "suppliers": [
     "aspiravi",
+    "cociter",
     "eneco",
     "engie",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -108,8 +127,11 @@
   "2024-10": {
    "rate": 0.06,
    "suppliers": [
+    "cociter",
     "eneco",
     "engie",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -117,8 +139,11 @@
   "2024-11": {
    "rate": 0.06,
    "suppliers": [
+    "cociter",
     "eneco",
     "engie",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -127,8 +152,11 @@
    "rate": 0.06,
    "suppliers": [
     "aspiravi",
+    "cociter",
     "eneco",
     "engie",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -137,12 +165,15 @@
    "rate": 0.06,
    "suppliers": [
     "aspiravi",
+    "cociter",
     "ebem",
     "ecopower",
     "eneco",
     "energyknights",
     "engie",
     "frank",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -151,12 +182,15 @@
    "rate": 0.06,
    "suppliers": [
     "aspiravi",
+    "cociter",
     "ebem",
     "ecopower",
     "eneco",
     "energyknights",
     "engie",
     "frank",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -165,12 +199,15 @@
    "rate": 0.06,
    "suppliers": [
     "aspiravi",
+    "cociter",
     "ebem",
     "ecopower",
     "eneco",
     "energyknights",
     "engie",
     "frank",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -179,12 +216,15 @@
    "rate": 0.06,
    "suppliers": [
     "aspiravi",
+    "cociter",
     "ebem",
     "ecopower",
     "eneco",
     "energyknights",
     "engie",
     "frank",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -193,12 +233,15 @@
    "rate": 0.06,
    "suppliers": [
     "aspiravi",
+    "cociter",
     "ebem",
     "ecopower",
     "eneco",
     "energyknights",
     "engie",
     "frank",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -207,12 +250,15 @@
    "rate": 0.06,
    "suppliers": [
     "aspiravi",
+    "cociter",
     "ebem",
     "ecopower",
     "eneco",
     "energyknights",
     "engie",
     "frank",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -221,12 +267,15 @@
    "rate": 0.06,
    "suppliers": [
     "aspiravi",
+    "cociter",
     "ebem",
     "ecopower",
     "eneco",
     "energyknights",
     "engie",
     "frank",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -235,12 +284,15 @@
    "rate": 0.06,
    "suppliers": [
     "aspiravi",
+    "cociter",
     "ebem",
     "ecopower",
     "eneco",
     "energyknights",
     "engie",
     "frank",
+    "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
@@ -249,6 +301,7 @@
    "rate": 0.06,
    "suppliers": [
     "aspiravi",
+    "cociter",
     "ebem",
     "ecopower",
     "eneco",
@@ -256,6 +309,7 @@
     "engie",
     "frank",
     "luminus",
+    "mega",
     "octaplus",
     "social"
    ]
