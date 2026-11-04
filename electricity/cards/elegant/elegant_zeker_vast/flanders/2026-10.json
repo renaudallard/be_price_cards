@@ -1,14 +1,14 @@
 {
- "_cached_at": "2026-11-03T13:01:10.389764+00:00",
+ "_cached_at": "2026-11-02T13:51:44.284501+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-11-01",
  "_sources": [
   {
-   "pdf": "efafcb1eaea19b097475b968c767e676eff853bb7ed2fbf27ca29262afd00e0c",
+   "pdf": "68377c91739db0cdb7d9f2b37baa9cbccc7aa24effe082e607ceb2d374cd6ab9",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
-   "text": "texts/2026-11/cb23b0b04cb5f8b8315ee3676cabb6cbe8e6966bdafb2e57d525859e5b9cd617.txt",
-   "url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/Zeker%20%26%20Vast%20Electricity_Residential.pdf",
+   "text": "texts/2026-11/1d9d179f9262828dc9101600560339fa5952e1d030c30032f1810277529b6b44.txt",
+   "url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/ZekerVastElectricity_Residential.pdf",
    "variant": "layout"
   }
  ],
@@ -146,10 +146,10 @@
   }
  },
  "energy": {
-  "exclusive_night": 0.213,
-  "offpeak": 0.213,
-  "peak": 0.2216,
-  "single": 0.2173,
+  "exclusive_night": 0.18230000000000002,
+  "offpeak": 0.18230000000000002,
+  "peak": 0.1898,
+  "single": 0.18600000000000003,
   "yearly_fixed_fee": 120.0,
   "yearly_fixed_fee_exclusive_night": null
  },
@@ -159,7 +159,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.10529999999999999,
+  "current": 0.0704,
   "factor": 0.85,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -176,8 +176,8 @@
   "transition": null,
   "vat_applies": false
  },
- "publication_label": "november 2026",
- "source_url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/Zeker%20%26%20Vast%20Electricity_Residential.pdf",
+ "publication_label": "oktober 2026",
+ "source_url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/ZekerVastElectricity_Residential.pdf",
  "supplier": "elegant",
  "supplier_prosumer_eur_per_kva_year": 48.0,
  "taxes": {
@@ -185,7 +185,7 @@
   "card_vat_rate": 0.06,
   "energy_contribution": 0.0,
   "energy_fund_eur_per_month": 0.0,
-  "federal_excise": 0.04473,
+  "federal_excise": 0.048760000000000005,
   "federal_excise_bands": null,
   "flanders_renewables": 0.015899999999999997,
   "published_vat_rate": 0.0,
@@ -194,7 +194,7 @@
   "vat_rate": 0.0,
   "wallonia_renewables": 0.0
  },
- "valid_until": "2026-11-30",
+ "valid_until": "2026-10-31",
  "welcome_credit_after_months": 12,
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
