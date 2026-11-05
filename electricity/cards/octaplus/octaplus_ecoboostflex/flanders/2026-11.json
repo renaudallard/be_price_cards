@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-11-05T13:30:57.940003+00:00",
+ "_cached_at": "2026-11-05T17:06:15.748698+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-11-05",
  "_sources": [
   {
-   "pdf": "75ba1b2a9dbacd158ad95dd29a56077c4513854fe9023a8a61ea2cab2c3643e3",
+   "pdf": "2a5b8f63532034a10e9023115e9989e70a717c65ea5a0aa9248e73aab21d161a",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
-   "text": "texts/2026-11/ab0a8743455363221ba1678c60f30fd850f7b3f98581406a514d4c13ea038e18.txt",
+   "text": "texts/2026-11/261cc94ed13e976940fdd740f63d1c70ab33f496d894904865106b3415e8d1cc.txt",
    "url": "https://files.octaplus.be/tariffs/E_OCTA_ECOBOOSTFLEX_RE_VL_FR.pdf",
    "variant": "aligned:1.0"
   }
@@ -179,13 +179,13 @@
   "base_peak": null,
   "base_transition": null,
   "current": 0.0663,
-  "factor": 0.879,
+  "factor": 8.79,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
   "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": "Epex SPP M * 0,0879 – 1,61",
+  "formula": "Epex SPP M * 0,8790 – 1,61",
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,

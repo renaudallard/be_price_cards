@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-11-05T13:30:57.940003+00:00",
+ "_cached_at": "2026-11-05T17:06:15.748698+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-11-05",
  "_sources": [
   {
-   "pdf": "e0777900b8de4a5e94e2c5265c058c9eeeae784fb00bfba43aa7f043cfcc1e11",
+   "pdf": "4eb8f1dd2b6dcfca6ce54ff572e075fb4c0833b201d3dc3ba2feb3bf61131987",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
-   "text": "texts/2026-11/6d9b5e70359b5757ff388db1ffb1f8965980dbc766b2983b5d299baed58a4e88.txt",
+   "text": "texts/2026-11/2b6b419ead6741ffa7b1092b487d74ee16037fe8955edf7a47f16e2800640966.txt",
    "url": "https://files.octaplus.be/tariffs/E_OCTA_ECODYNAMIC_RE_VL_FR.pdf",
    "variant": "aligned:1.0"
   }
@@ -158,13 +158,13 @@
   "base_peak": null,
   "base_transition": null,
   "current": null,
-  "factor": 0.922,
+  "factor": 9.22,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
   "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": "prix de l’électricité injectée sont indexés sur une base quart-horaire, et ce sur base des cotations Day Ahead d'Epex 15 dont les\ndernières valeurs sont chaque jour publiées sur octaplus.be/prixepex. La formule de prix est la suivante, en €/kWh HTVA : Epex 15' * 0,0922 –\n1,31",
+  "formula": "prix de l’électricité injectée sont indexés sur une base quart-horaire, et ce sur base des cotations Day Ahead d'Epex 15 dont les\ndernières valeurs sont chaque jour publiées sur octaplus.be/prixepex. La formule de prix est la suivante, en €/kWh HTVA : Epex 15' * 0,9220 –\n1,31",
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,

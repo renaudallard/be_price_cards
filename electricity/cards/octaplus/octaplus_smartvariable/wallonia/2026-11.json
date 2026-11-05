@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-11-05T13:30:57.940003+00:00",
+ "_cached_at": "2026-11-05T17:06:15.748698+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-11-05",
  "_sources": [
   {
-   "pdf": "0bda856d770fb239e17ec288b618109aedf291322aa466dcce4c298f9468db66",
+   "pdf": "ba4e5b97aefd7eb29f6dc59f70d657fbcbd38d555cd740833db4c80ad14023d4",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
-   "text": "texts/2026-11/481f68705243b7b4ebec584d9109704fe5c4c5f68d20dcdc294808b9dad23b15.txt",
+   "text": "texts/2026-11/21b8f82770d5782833f2cf9eeb30fb195fc448c198d4dacb9fd3a1f043301b0d.txt",
    "url": "https://files.octaplus.be/tariffs/E_OCTA_SMARTVARIABLE_RE_WL_FR.pdf",
    "variant": "aligned:1.0"
   }
@@ -131,13 +131,13 @@
   "base_peak": null,
   "base_transition": null,
   "current": 0.0665,
-  "factor": 0.852,
+  "factor": 8.52,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
   "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": "Epex SPP M * 0,0852 – 1,34",
+  "formula": "Epex SPP M * 0,8520 – 1,34",
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,

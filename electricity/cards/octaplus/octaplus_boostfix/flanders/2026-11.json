@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-11-05T13:30:57.940003+00:00",
+ "_cached_at": "2026-11-05T17:06:15.748698+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-11-05",
  "_sources": [
   {
-   "pdf": "21f10588ff22f554198c78bf76f01c39a156be141d7d34eae2c93eea06546090",
+   "pdf": "50cda0179735dabb3160aed2ee552e7b32eb20f83ecd62c1b217ede48aa3f249",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
-   "text": "texts/2026-11/58d69d620999bcb310d3f00280dbdf7afde1e0d9edf72b79aa8578e02dc6a50e.txt",
+   "text": "texts/2026-11/ea7159e58afa63b4438984d90f46607c84764a5a3526f88d72e7fcaed8aa4a88.txt",
    "url": "https://files.octaplus.be/tariffs/E_OCTA_BOOSTFIX_RE_VL_FR.pdf",
    "variant": "aligned:1.0"
   }
@@ -160,13 +160,13 @@
   "base_peak": null,
   "base_transition": null,
   "current": 0.0663,
-  "factor": 0.879,
+  "factor": 8.79,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,
   "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": "Epex SPP M * 0,0879 – 1,61",
+  "formula": "Epex SPP M * 0,8790 – 1,61",
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,
