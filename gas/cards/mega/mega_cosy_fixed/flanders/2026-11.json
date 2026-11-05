@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
-   "text": "texts/2026-11/4522b2311a69b21851fd8151f977bc56151e2d612e88cb0a0857e68e2a4994e9.txt",
+   "text": "texts/2026-11/b7340b803ac02832a0fef21840c2a77a2c4b40ed4c0935e31603b644585b70ac.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
    "pdf": "057b5202a8d14472273b82ce060aa3f2b4bbda624f1118c6520bff4b5acc77e3",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/e292d4ec225fc8c65a7a969e9c4cc55231009c55bac16bf84cfd9e709ebaa82c.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-112026-Cosy0111-Fixed.pdf",
    "variant": "plain"
@@ -168,7 +168,7 @@
   "price": 0.10550000000000001
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-112026-Cosy0111-Fixed.pdf",
  "supplier": "mega",
  "taxes": {

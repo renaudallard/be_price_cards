@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
    "pdf": "76da5471d318a59910beedd0abde735390e40ae5885af67a5d85a5ff24202e9f",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/049b929233812912b9755cb08219de7746135e2c5a07e14d104d0589fdfccf53.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/GAZ-VARIABLE_GAS_WAL_FR.pdf",
    "variant": "layout"
@@ -62,7 +62,7 @@
   "vat_grossed": []
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/GAZ-VARIABLE_GAS_WAL_FR.pdf",
  "supplier": "totalenergies",
  "taxes": {

@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "b2c1cc8d2ab97abaadf0c44e41b97c66e4438077354ab82d9a74db4c359183f7",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/5aedd091acda1c57fd92caf2e33c2fe01491238ad68410926462f7d1bde89c13.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2025_12_MYCOMFORT-FIXED_GAS_BXL_FR.pdf",
    "variant": "layout"
@@ -37,7 +37,7 @@
   "price": 0.053399999999999996
  },
  "publication_label": "2025-12",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2025_12_MYCOMFORT-FIXED_GAS_BXL_FR.pdf",
  "supplier": "totalenergies",
  "taxes": {

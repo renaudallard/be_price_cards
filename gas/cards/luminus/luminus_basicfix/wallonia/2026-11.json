@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-04",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
    "pdf": "d69f788a3b5293e991f356f64cd9d7c2dd9f0d26f5f323d541e7db90e7de9597",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/929172acc8a1789a90668bfec1145be666a75318185d85d2ae39c4041fdafa80.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicfix&energyType=gas&language=fr&tabValue=Wallonia",
    "variant": "plain"
@@ -55,7 +55,7 @@
   "price": 0.1082
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicfix&energyType=gas&language=fr&tabValue=Wallonia",
  "supplier": "luminus",
  "taxes": {

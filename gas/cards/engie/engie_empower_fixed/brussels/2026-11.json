@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
    "pdf": "f19dc64a6428517067cbf9d2cc850f72e070f2af99a669829a17e654d3e58181",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/e134e9846bc4944a13f0f7ec8f0da24458e92b8efecf8a40d42c6ce0296291cc.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EMPOWER_R_GREY_C_F_00_B_F&monthOffset=0&segment=R&language=F",
    "variant": "plain"
@@ -37,7 +37,7 @@
   "price": 0.10310000000000001
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EMPOWER_R_GREY_C_F_00_B_F&monthOffset=0&segment=R&language=F",
  "supplier": "engie",
  "taxes": {

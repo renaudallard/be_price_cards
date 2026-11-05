@@ -8,7 +8,7 @@
   },
   {
    "pdf": "f434c3529d8de06e3054ccb3173201a40a396f59b6efbaa2e1fc183a333339ce",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/0af7a63c31d7a387782843148c07f889ccc24fa0ec467034b2302bb9e34885fd.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-082026-Cosy0108.pdf",
    "variant": "plain"
@@ -175,7 +175,7 @@
   "vat_grossed": []
  },
  "publication_label": "2026-08",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-082026-Cosy0108.pdf",
  "supplier": "mega",
  "taxes": {

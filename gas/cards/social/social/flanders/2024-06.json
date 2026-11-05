@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "a9a360dd2cbe7fe900209e166eb2a872f5de11c8cdb55f3a2b4fabb53aef9470",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/06ee335efd238305b878500a0e9bccb08c1435cab4a295859fb0f2c9a72d243b.txt",
    "url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/G-TSS-FR-2024-Q2.pdf",
    "variant": "plain"
@@ -164,7 +164,7 @@
   "price": 0.03424000000000001
  },
  "publication_label": "2024-06",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/G-TSS-FR-2024-Q2.pdf",
  "supplier": "social",
  "taxes": {

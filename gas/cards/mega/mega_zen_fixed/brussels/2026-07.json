@@ -8,7 +8,7 @@
   },
   {
    "pdf": "a53eea6fbb45706eb66ec64d780009f474048f7484b4e90c7abb460de302751b",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/21ef81f5cd903643008ed869d38c99a3d9d7f2126f6c091d6441202a6720754e.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-072026-Zen0107-Fix.pdf",
    "variant": "plain"
@@ -42,7 +42,7 @@
   "price": 0.057699999999999994
  },
  "publication_label": "2026-07",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-072026-Zen0107-Fix.pdf",
  "supplier": "mega",
  "taxes": {

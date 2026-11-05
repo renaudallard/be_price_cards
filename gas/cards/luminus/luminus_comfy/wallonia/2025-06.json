@@ -8,7 +8,7 @@
   },
   {
    "pdf": "bbadd971147fb983e095d6a630bf7a76189e1cb4ddf6a5d20685774492dc6aa0",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/7553a780986e88dfed4e3b9a40d3e5de344c35a81b79d5f7c1d7f40947db3a8b.txt",
    "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p1p000008hwysAAA&date=2025-06&region=Wallonia&inline=true",
    "variant": "plain"
@@ -60,7 +60,7 @@
   "price": 0.0682
  },
  "publication_label": "2025-06",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p1p000008hwysAAA&date=2025-06&region=Wallonia&inline=true",
  "supplier": "luminus",
  "taxes": {

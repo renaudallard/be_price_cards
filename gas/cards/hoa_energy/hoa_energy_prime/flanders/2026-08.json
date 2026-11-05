@@ -8,7 +8,7 @@
   },
   {
    "pdf": "e6fd919f9c6378dfd12bb9f7880dc77e770c7ef9f2da7941e4960900ef58396d",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/aec463c2be42f883060775ca3c5e390d9caf604eafbdaaf54cbfd81272ae5be6.txt",
    "url": "https://www.hoa.energy/web/content/xx.product.group.tariff.card/1673/file",
    "variant": "plain"
@@ -147,7 +147,7 @@
   ]
  },
  "publication_label": "2026-08",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://www.hoa.energy/web/content/xx.product.group.tariff.card/1673/file",
  "supplier": "hoa_energy",
  "taxes": {

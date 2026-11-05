@@ -8,7 +8,7 @@
   },
   {
    "pdf": "b01e6a79d4cbf1e115a6dbbbb116e9716796a323ff85c7e3cca8c2bfe4fbfa67",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/a69a2d51accc04a04cc03eb3ee8716ee44999619f58604290e7f5f11f9b8103e.txt",
    "url": "https://trevion.be/tariefkaarten/Tariefkaart-Gas-Flex-Particulier-202610.pdf",
    "variant": "plain"
@@ -143,7 +143,7 @@
   "vat_grossed": []
  },
  "publication_label": "2026-10",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://trevion.be/tariefkaarten/Tariefkaart-Gas-Flex-Particulier-202610.pdf",
  "supplier": "trevion",
  "taxes": {

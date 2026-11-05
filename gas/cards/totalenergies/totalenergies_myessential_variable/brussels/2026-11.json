@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
    "pdf": "011ae3229d4f5bb4293432e63f517a4222ff0bf9d3de1154f5b83843fc606fc9",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/47df120f53001953f099945ef53cf3643b61cdbdb337d10c278912c755c06734.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL_GAS_BXL_FR.pdf",
    "variant": "layout"
@@ -44,7 +44,7 @@
   "vat_grossed": []
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL_GAS_BXL_FR.pdf",
  "supplier": "totalenergies",
  "taxes": {

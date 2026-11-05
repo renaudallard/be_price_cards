@@ -8,7 +8,7 @@
   },
   {
    "pdf": "7ba3589ec309693361fdacaef221b75bc8cf69d96237e60ee1a7d039c7da1d28",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/0d7ba160c014c2d5e89eb051b66dd753636cfc59fdb9d7d5ce2d258b5f227740.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-112025-Online0111.pdf",
    "variant": "plain"
@@ -49,7 +49,7 @@
   "vat_grossed": []
  },
  "publication_label": "2025-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-112025-Online0111.pdf",
  "supplier": "mega",
  "taxes": {

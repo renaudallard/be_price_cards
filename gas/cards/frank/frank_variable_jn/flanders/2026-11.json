@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
-   "text": "texts/2026-11/255ab2e511fbf56add481224f67a8429f0cb1bf89be680a82550ac9d86d8bc87.txt",
+   "text": "texts/2026-11/0255ec6b88e6b0bddf78db6ffc533196dc574473137a9808adc13fc5726486e3.txt",
    "url": "https://8navd656.api.sanity.io/v2023-01-01/data/query/production-be?[('query', '*[_type==\"sanity.fileAsset\" && originalFilename match \"*Gas*\"]{originalFilename,url,_createdAt} | order(_createdAt desc)[0..39]')]",
    "variant": "text"
   },
   {
    "pdf": "d34bd1015d29e5b3494c9363ad1add0b1aba2db91a2cd9073a90392001d806de",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/d7e87ef75279e39390e98d52b1c14aa3fbb22f977de8037a9e3f1bfc120d7042.txt",
    "url": "https://cdn.sanity.io/files/8navd656/production-be/3c6ee02fddfc2954dc68aca1e5ca82d80217014c.pdf",
    "variant": "layout"
@@ -133,7 +133,7 @@
  "energy": {
   "base": 0.004664000000000001,
   "factor": 0.0010706000000000001,
-  "fee": 0.0,
+  "fee": 26.04,
   "formula": "Formule Gasprijs: (0,1010 x M ZTP RLP0N EOD EEX + 0,44) x 1,06 in EURct/kWh",
   "index": "M ZTP RLP0N EOD EEX",
   "kind": "indexed",
@@ -142,8 +142,9 @@
   "settled": false,
   "vat_grossed": []
  },
+ "fee_waived_months": 12,
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://cdn.sanity.io/files/8navd656/production-be/3c6ee02fddfc2954dc68aca1e5ca82d80217014c.pdf",
  "supplier": "frank",
  "taxes": {

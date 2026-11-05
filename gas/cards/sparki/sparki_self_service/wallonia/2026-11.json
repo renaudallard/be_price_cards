@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
-   "text": "texts/2026-11/9e6e22b2deb61d2aae9dbbc34ad570dbcdb160877f79c83b90083118c751f241.txt",
+   "text": "texts/2026-11/913a2d18dc9f3f773ce947a9ec6038e4f3bea53a689981fa533ea5df3aa1476f.txt",
    "url": "https://sparki.be/elektriciteit-gas/tariefkaarten/",
    "variant": "text"
   },
   {
    "pdf": "d9530f1edf5efa43f0e8c7c47d2baca16c92a4d7d474f292847feb65d43858c3",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/371ab72e48447d028b8acb00e72020319f0badb996621728a1131700f0e85da9.txt",
    "url": "https://sparki.be/wp-content/uploads/2026/11/Sparki_Tariefkaart_november_Particulier_SelfService_Gas_FR.pdf",
    "variant": "layout"
@@ -61,7 +61,7 @@
   "price": 0.10779999999999999
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://sparki.be/wp-content/uploads/2026/11/Sparki_Tariefkaart_november_Particulier_SelfService_Gas_FR.pdf",
  "supplier": "sparki",
  "taxes": {

@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
    "pdf": "a8c187e500cac3470ffb5b693a6ab6a3229e1a89225b6f6f51afe4bdb6e30464",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/5861b22ca827ee2a2c92b42d2a48fcaebc79143ad3a120af1e6af6169907f931.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT_GAS_BXL_FR.pdf",
    "variant": "layout"
@@ -44,7 +44,7 @@
   "vat_grossed": []
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT_GAS_BXL_FR.pdf",
  "supplier": "totalenergies",
  "taxes": {

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "86658072c744d914f6b0c223a70a4afc7b5ebe16c5d87736ac76db1d73043dc3",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/083db92af6a8803a5c66d1234828b54844f01224fdd86cf81a78f95defe52033.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-122025-Online0112-Fixed.pdf",
    "variant": "plain"
@@ -60,7 +60,7 @@
   "price": 0.0461
  },
  "publication_label": "2025-12",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-122025-Online0112-Fixed.pdf",
  "supplier": "mega",
  "taxes": {

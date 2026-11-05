@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
    "ocr": "0.4.2+a5c8a17ccad7 pypdfium2==5.14.0 numpy==2.5.4 pdfplumber==0.11.9",
@@ -62,7 +62,7 @@
   "vat_grossed": []
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://portal.ecofixgp.be/docs/prices/current/GAS_Ecofix_Flexy_NL.pdf",
  "supplier": "ecofix",
  "taxes": {

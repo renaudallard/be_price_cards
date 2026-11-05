@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "75fb7bd7a6502f339e30b5b80ee4d28fe301a4504f65628b57970547b3b5d5b2",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/ac9998191c514afa3715a888f86c54be9fff89d2ad8f1df786d40d58e03b3137.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1026-GSG-WAL-fr.pdf",
    "variant": "layout"
@@ -62,7 +62,7 @@
   "vat_grossed": []
  },
  "publication_label": "2026-10",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1026-GSG-WAL-fr.pdf",
  "supplier": "energyvision",
  "taxes": {

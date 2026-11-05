@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
-   "text": "texts/2026-11/42f952181c48b8da240c9f3ad4ab2d67a8cad05c86d0acf4d30ace9446d9bee3.txt",
+   "text": "texts/2026-11/d20f324f3b74bbb154b35b877c1b33618a1bdaf6a093bf4a73c990052ec0e0ef.txt",
    "url": "https://www.prijspuntenenergie.be/products",
    "variant": "text"
   },
   {
    "pdf": "d0f994043858417a46a7f77a79b32f2726ea2468ad488a30b7df07a294ab25b0",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/bff5d7b6c43df132f52f942157294f788fbbc79ef84d48a5a39e4c9d32554e60.txt",
    "url": "https://www.prijspuntenenergie.be/web/content/xx.product.group.tariff.card/1957/file",
    "variant": "plain"
@@ -147,7 +147,7 @@
   ]
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://www.prijspuntenenergie.be/web/content/xx.product.group.tariff.card/1957/file",
  "supplier": "prijspunten",
  "taxes": {

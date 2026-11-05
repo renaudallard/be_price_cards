@@ -62,7 +62,7 @@
   "vat_grossed": []
  },
  "publication_label": "2026-10",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://portal.ecofixgp.be/docs/prices/current/GAS_Ecofix_Flexy_Online_NL.pdf",
  "supplier": "ecofix",
  "taxes": {

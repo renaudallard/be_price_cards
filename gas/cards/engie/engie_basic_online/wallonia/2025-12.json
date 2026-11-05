@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "ca2ad6bf447ee157fc896b2f4a353a99accfef00162c7d704ab3fdf25c75df8c",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/4da49eef541c2cb235d59b910b8266c03b2f2a5ea56d9b756fa7830749b2b277.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_BASIC_ONLINE_R_GREY_C_I_24_W_F&monthOffset=10&segment=R&language=F",
    "variant": "plain"
@@ -62,7 +62,7 @@
   "vat_grossed": []
  },
  "publication_label": "2025-12",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_BASIC_ONLINE_R_GREY_C_I_24_W_F&monthOffset=10&segment=R&language=F",
  "supplier": "engie",
  "taxes": {

@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
-   "text": "texts/2026-11/255ab2e511fbf56add481224f67a8429f0cb1bf89be680a82550ac9d86d8bc87.txt",
+   "text": "texts/2026-11/0255ec6b88e6b0bddf78db6ffc533196dc574473137a9808adc13fc5726486e3.txt",
    "url": "https://8navd656.api.sanity.io/v2023-01-01/data/query/production-be?[('query', '*[_type==\"sanity.fileAsset\" && originalFilename match \"*Gas*\"]{originalFilename,url,_createdAt} | order(_createdAt desc)[0..39]')]",
    "variant": "text"
   },
   {
    "pdf": "769cff5244025cd6ab8f7bc20f3e3081fa49e9d0ad764de3e06ef190449bdc68",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/a64db5e488de0381f6c36278be81e539f5a28511e96cd6eef119d92b2ceadafe.txt",
    "url": "https://cdn.sanity.io/files/8navd656/production-be/925655a6da5e9df5c9ce9697a5fdf29cb99dc15d.pdf",
    "variant": "layout"
@@ -143,7 +143,7 @@
   "vat_grossed": []
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://cdn.sanity.io/files/8navd656/production-be/925655a6da5e9df5c9ce9697a5fdf29cb99dc15d.pdf",
  "supplier": "frank",
  "taxes": {

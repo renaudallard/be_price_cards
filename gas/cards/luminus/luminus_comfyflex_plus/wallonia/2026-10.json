@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "970c8d3a0b01702c9610748e61ff50c604492360b48bd0bb1df469a0b7379be4",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/27ae6b1989b79f9ffbb3d13bcdf4c92f62d00090ecfdc785b5c5bd60e09d36e6.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex-plus&energyType=gas&language=fr&tabValue=Wallonia",
    "variant": "plain"
@@ -62,7 +62,7 @@
   "vat_grossed": []
  },
  "publication_label": "2026-10",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex-plus&energyType=gas&language=fr&tabValue=Wallonia",
  "supplier": "luminus",
  "taxes": {

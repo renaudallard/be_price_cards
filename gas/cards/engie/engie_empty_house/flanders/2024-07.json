@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "9a9874651290d52bbe452716a6825553dd317677ddfb2e4f0e82b1939d52417c",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/b47d93cdb1793abedfeeb8e565d9f345a669c414e4d375a33bd161f503c23ac4.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EMPTYHOUSE_R_GREY_C_I_00_V_F&monthOffset=27&segment=R&language=F",
    "variant": "plain"
@@ -25,7 +25,7 @@
   "vat_grossed": []
  },
  "publication_label": "2024-07",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EMPTYHOUSE_R_GREY_C_I_00_V_F&monthOffset=27&segment=R&language=F",
  "supplier": "engie",
  "taxes": {

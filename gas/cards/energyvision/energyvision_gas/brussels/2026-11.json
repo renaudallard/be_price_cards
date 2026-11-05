@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-03",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
-   "text": "texts/2026-11/c8515578fbdfff00cb92a71ba35fafc774020d33476ed80e225c57f79790d977.txt",
+   "text": "texts/2026-11/ae776b1f8a76b14853f547edbc330e94f0e92a8e5fc0d2976e17f672368d0c3e.txt",
    "url": "https://www.brusol.be/nl/elektriciteit-en-gas/schrijf-je-in-voor-goedkope-stroom-van-brusol",
    "variant": "text"
   },
   {
    "pdf": "ae07e7a64c687689b462c2d166c4b1049670bdbd29b05a841873edd6a86c4e6f",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/de07d37c1e4369a0cfbd7c42111e33e95094ced92464d3ab8c2fa7b0b21b09da.txt",
    "url": "https://www.brusol.be/sites/default/files/2026-10/EV-1126-GSG-BXL-nl.pdf",
    "variant": "layout"
@@ -49,7 +49,7 @@
   "vat_grossed": []
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://www.brusol.be/sites/default/files/2026-10/EV-1126-GSG-BXL-nl.pdf",
  "supplier": "energyvision",
  "taxes": {

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "cf4ead16211cf139f03d17a41774f280bbe6586a1796050c8300b9e1a334f1cc",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/44ec73921aad716bcb5d5841d7512dfba62fe3b49ca5b0ea6cf78479e6eb252b.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-112024-Smart0111-Fixed.pdf",
    "variant": "plain"
@@ -23,7 +23,7 @@
   "price": 0.0663
  },
  "publication_label": "2024-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-112024-Smart0111-Fixed.pdf",
  "supplier": "mega",
  "taxes": {

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "fb866aaf96141a9d760264b7413182f7cc142672264cec38fb2e0d3d890a560a",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/9507b45c820ba4a2c8bbaf43a9f9f6a43e2c52e1c923bab1b54acb45bbdf6f9e.txt",
    "url": "https://cdn.sanity.io/files/8navd656/production-be/3076f7b2e8e2c03ab8b7e4cd6bb77362bcfc0d95.pdf",
    "variant": "layout"
@@ -143,7 +143,7 @@
   "vat_grossed": []
  },
  "publication_label": "2025-12",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://cdn.sanity.io/files/8navd656/production-be/3076f7b2e8e2c03ab8b7e4cd6bb77362bcfc0d95.pdf",
  "supplier": "frank",
  "taxes": {

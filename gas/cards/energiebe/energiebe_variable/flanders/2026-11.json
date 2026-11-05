@@ -1,21 +1,21 @@
 {
- "_seen_on": "2026-11-04",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
-   "text": "texts/2026-11/8eb3804be9e0a757c3ae2b5f51b2b942e795105e598adabe2e434e858eed16bf.txt",
+   "text": "texts/2026-11/21dde76c4bc6bcbaf6a368ec6fb7e81c74fc04d82060c3539bbfca7f8f5eb103.txt",
    "url": "https://www.energie.be/api/v1/data/contracts",
    "variant": "text"
   },
   {
    "pdf": "1b8683a8bde21aeb2f0d2dddaa95dc19d30508da904bcf8e83f8b063d9bd9d67",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/feb14db035fc9b6be87d00b046fa171cdd62249b13dd81e86d151171ba4ccd8b.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Energie_be_Gas_Particulier_18ddc53692.pdf",
    "variant": "layout"
   },
   {
    "pdf": "1b8683a8bde21aeb2f0d2dddaa95dc19d30508da904bcf8e83f8b063d9bd9d67",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/19b6e96cd4552b9627789b4d91c245b20e4ba39841540eca97ea61d731969291.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Energie_be_Gas_Particulier_18ddc53692.pdf",
    "variant": "plain"
@@ -153,7 +153,7 @@
   ]
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://energie.blob.core.windows.net/cms/assets/Energie_be_Gas_Particulier_18ddc53692.pdf",
  "supplier": "energiebe",
  "taxes": {

@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
-   "text": "texts/2026-11/89d5118a115d7323050af211096b872a754dc4c110ddc3e22a87027325f4239d.txt",
+   "text": "texts/2026-11/8957cbe57b850e1ad04afe14aeb2088233bcb5f027a2d2f54f9d0ff5dd7c19ed.txt",
    "url": "https://eneco.be/nl/elektriciteit-gas/tariefkaarten/",
    "variant": "text"
   },
   {
    "pdf": "1fa3eea29724d82c0d47d497e6a4c22ba9d1ef1a9eec75a6f6a7cb773e27fdbd",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/9eb920a9611223950b33e3b2bbfa442f76382036f17e701cadb2a59065b26258.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012611_NL_ENECO_GAS_FIX_ONE.pdf",
    "variant": "plain"
@@ -136,7 +136,7 @@
   "price": 0.1045
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012611_NL_ENECO_GAS_FIX_ONE.pdf",
  "supplier": "eneco",
  "taxes": {

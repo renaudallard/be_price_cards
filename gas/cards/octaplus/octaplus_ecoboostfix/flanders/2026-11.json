@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
    "pdf": "d602d81c72ff6349c0c9dff1fea6ab764b3cd6ec1ceb925c709664a1ac0032c5",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/8ab1f42e95be5ff189809b5a55350db0a5fbbca21b91642da3a1269a1eee70a7.txt",
    "url": "https://files.octaplus.be/tariffs/G_OCTA_ECOBOOSTFIX_RE_VL_FR.pdf",
    "variant": "layout"
@@ -131,7 +131,7 @@
   "price": 0.1305
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://files.octaplus.be/tariffs/G_OCTA_ECOBOOSTFIX_RE_VL_FR.pdf",
  "supplier": "octaplus",
  "taxes": {

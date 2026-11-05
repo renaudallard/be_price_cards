@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "7c159ba76d1aa84795e434d266a2bb0b454e4965ed0c412665e1fdcbe6cf8663",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/6f7e9df61b6193babcb932146049addada73a7e0b18e22953c29b7e37684b430.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0526-GS1JVG-WAL-fr.pdf",
    "variant": "layout"
@@ -55,7 +55,7 @@
   "price": 0.054000000000000006
  },
  "publication_label": "2026-05",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0526-GS1JVG-WAL-fr.pdf",
  "supplier": "energyvision",
  "taxes": {

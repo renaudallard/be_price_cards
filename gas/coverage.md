@@ -19,7 +19,7 @@ blank cell is a month the archive does not hold.
 - [energyvision](coverage/energyvision.md): 5 rows, 2025-11 to 2026-11
 - [engie](coverage/engie.md): 23 rows, 2024-04 to 2026-11
 - [evident](coverage/evident.md): 1 row, 2026-01 to 2026-11
-- [frank](coverage/frank.md): 5 rows, 2025-01 to 2026-11
+- [frank](coverage/frank.md): 6 rows, 2025-01 to 2026-11
 - [hoa_energy](coverage/hoa_energy.md): 3 rows, 2026-02 to 2026-11
 - [luminus](coverage/luminus.md): 16 rows, 2023-11 to 2026-11
 - [mega](coverage/mega.md): 34 rows, 2024-02 to 2026-11

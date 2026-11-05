@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
-   "text": "texts/2026-11/0e7bf0d9e3f613279241d556733e3a7110cd266b7174392c9e1f996476384cd2.txt",
+   "text": "texts/2026-11/471801fc3223bb18fc495b9a7994402b12bb454c98aaedbe95c8b6d8fc23f2fc.txt",
    "url": "https://www.smappeesmiles.be/products",
    "variant": "text"
   },
   {
    "pdf": "6cdaefb10401efe3bb7d7fd8661d5fb5081c90d8a3cee664412387c747e63852",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/42821e4ab485c0d1dfa0510d72ba8d356ffa6fe5b79aa1dfc49236aee34ee187.txt",
    "url": "https://www.smappeesmiles.be/web/content/xx.product.group.tariff.card/1991/file",
    "variant": "plain"
@@ -147,7 +147,7 @@
   ]
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://www.smappeesmiles.be/web/content/xx.product.group.tariff.card/1991/file",
  "supplier": "smappee_smiles",
  "taxes": {

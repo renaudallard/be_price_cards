@@ -26,7 +26,7 @@
         <link type="text/css" rel="stylesheet" href="/web/assets/69/fef668c/web.assets_frontend.min.css"/>
         <script id="web.layout.odooscript" type="text/javascript">
             var odoo = {
-                csrf_token: "131da750e4c374bcdfc5c3707bb6fb30ebf6cb9co1825188943",
+                csrf_token: "63830bba160a88eef9cdf449f27c080b400dad2do1825426690",
                 debug: "",
             };
         </script>
@@ -276,13 +276,13 @@
                                 </div>
                                 <div class="xx_ratecard_footer 
             ">
-                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1918/file" class="xx-tariff-card-link">
-                                            <span class="fa fa-chevron-right"></span>
-                                            <span>Tariefkaart_VOLT_EL</span>
-                                        </a>
                                         <a target="new" href="/web/content/xx.product.group.tariff.card/1919/file" class="xx-tariff-card-link">
                                             <span class="fa fa-chevron-right"></span>
                                             <span>Tariefkaart_NOVA_NG</span>
+                                        </a>
+                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1918/file" class="xx-tariff-card-link">
+                                            <span class="fa fa-chevron-right"></span>
+                                            <span>Tariefkaart_VOLT_EL</span>
                                         </a>
             
                                 </div>
@@ -318,13 +318,13 @@ ondersteuning </p><p><br></p><p><i><strong>=&gt; Laat je energie voor jou verdi
                                 </div>
                                 <div class="xx_ratecard_footer 
             ">
-                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1921/file" class="xx-tariff-card-link">
-                                            <span class="fa fa-chevron-right"></span>
-                                            <span>Tariefkaart_PRIME_NG</span>
-                                        </a>
                                         <a target="new" href="/web/content/xx.product.group.tariff.card/1920/file" class="xx-tariff-card-link">
                                             <span class="fa fa-chevron-right"></span>
                                             <span>Tariefkaart_PRIME Plus_EL</span>
+                                        </a>
+                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1921/file" class="xx-tariff-card-link">
+                                            <span class="fa fa-chevron-right"></span>
+                                            <span>Tariefkaart_PRIME_NG</span>
                                         </a>
             
                                 </div>
@@ -432,13 +432,13 @@ ondersteuning </p><p><br></p><p><i><strong>=&gt; Laat je energie voor jou verdi
                                 </div>
                                 <div class="xx_ratecard_footer 
             ">
-                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1927/file" class="xx-tariff-card-link">
-                                            <span class="fa fa-chevron-right"></span>
-                                            <span>Tariefkaart_PRIME_NG</span>
-                                        </a>
                                         <a target="new" href="/web/content/xx.product.group.tariff.card/1926/file" class="xx-tariff-card-link">
                                             <span class="fa fa-chevron-right"></span>
                                             <span>Tariefkaart_PRIME_EL</span>
+                                        </a>
+                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1927/file" class="xx-tariff-card-link">
+                                            <span class="fa fa-chevron-right"></span>
+                                            <span>Tariefkaart_PRIME_NG</span>
                                         </a>
             
                                 </div>
@@ -477,13 +477,13 @@ ondersteuning </p><p><br></p><p><i><strong>=&gt; Laat je energie voor jou verdi
                                 </div>
                                 <div class="xx_ratecard_footer 
             ">
-                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1929/file" class="xx-tariff-card-link">
-                                            <span class="fa fa-chevron-right"></span>
-                                            <span>Tariefkaart_APEX Online_NG</span>
-                                        </a>
                                         <a target="new" href="/web/content/xx.product.group.tariff.card/1928/file" class="xx-tariff-card-link">
                                             <span class="fa fa-chevron-right"></span>
                                             <span>Tariefkaart_APEX Online_EL</span>
+                                        </a>
+                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1929/file" class="xx-tariff-card-link">
+                                            <span class="fa fa-chevron-right"></span>
+                                            <span>Tariefkaart_APEX Online_NG</span>
                                         </a>
             
                                 </div>
@@ -492,7 +492,7 @@ ondersteuning </p><p><br></p><p><i><strong>=&gt; Laat je energie voor jou verdi
                 </div>
             
             <form class="d-none" method="post" id="customer_form">
-                <input type="hidden" name="csrf_token" value="66d0bad90562dda3f8e685d78fb19e082257ac1bo1825188942"/>
+                <input type="hidden" name="csrf_token" value="63830bba160a88eef9cdf449f27c080b400dad2do1825426690"/>
                 <input type="hidden" name="ratecard_ids"/>
                 <input type="hidden" name="product_group_id"/>
                 <input type="hidden" name="fix_variable"/>
@@ -514,7 +514,7 @@ ondersteuning </p><p><br></p><p><i><strong>=&gt; Laat je energie voor jou verdi
             <form class="d-none" method="post" id="detail_form">
                 <input type="hidden" name="zip"/>
                 <input type="hidden" name="city"/>
-                <input type="hidden" name="csrf_token" value="66d0bad90562dda3f8e685d78fb19e082257ac1bo1825188942"/>
+                <input type="hidden" name="csrf_token" value="63830bba160a88eef9cdf449f27c080b400dad2do1825426690"/>
                 <input type="hidden" name="connection_type"/>
                 <input type="hidden" name="meter_type"/>
                 <input type="hidden" name="excl_night"/>

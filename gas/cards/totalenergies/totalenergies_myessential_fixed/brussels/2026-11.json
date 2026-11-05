@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-02",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
    "pdf": "efd75db1db6d9f16b4c60658756d3b857f42783ead7c64d0e59da3ea0ca06a44",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/94b738fd3de1ea12658d2807a479a393163c8c43cc6bc453e026a2eef84bb60a.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL-FIXED_GAS_BXL_FR.pdf",
    "variant": "layout"
@@ -37,7 +37,7 @@
   "price": 0.1225
  },
  "publication_label": "2026-11",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL-FIXED_GAS_BXL_FR.pdf",
  "supplier": "totalenergies",
  "taxes": {

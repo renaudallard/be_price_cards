@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "fddcec98bbc0dd1da31695fc8c335a1f15ca6e4ee4790020df5b1ff142a09ff5",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/98f6f7d7490df1f119f8404b9bbe64e26d1b77fdb8e358044f191d32a56516ee.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_8_MYESSENTIAL_GAS_VL_FR.pdf",
    "variant": "layout"
@@ -170,7 +170,7 @@
   "vat_grossed": []
  },
  "publication_label": "2026-08",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/2026_8_MYESSENTIAL_GAS_VL_FR.pdf",
  "supplier": "totalenergies",
  "taxes": {

@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "ff8a501693e4ef2c67ae3052d00a9dc01d1e5a7055ae2b46f44e1f544d22392f",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/4b2c2123b45acb127ce89e68fed9a512a63833dd80f71e64a526b2104459ece9.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex&energyType=gas&language=fr&tabValue=Flanders",
    "variant": "plain"
@@ -170,7 +170,7 @@
   "vat_grossed": []
  },
  "publication_label": "2026-10",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex&energyType=gas&language=fr&tabValue=Flanders",
  "supplier": "luminus",
  "taxes": {

@@ -8,7 +8,7 @@
   },
   {
    "pdf": "93aa85bd500440216d29d5660c33a7ed3ae1351248b6525e1d07afc4c271a771",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=81be98d948e2c7bd",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-10/5eedaf90b65440f544a3ee77e6d8e0d013fff3a8c0ef97a5809d6f9cac8f0186.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-072024-Smart0107.pdf",
    "variant": "plain"
@@ -30,7 +30,7 @@
   "vat_grossed": []
  },
  "publication_label": "2024-07",
- "schema": 2,
+ "schema": 3,
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-072024-Smart0107.pdf",
  "supplier": "mega",
  "taxes": {

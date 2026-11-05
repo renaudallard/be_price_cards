@@ -26,7 +26,7 @@
         <link type="text/css" rel="stylesheet" href="/web/assets/4/7a5db14/web.assets_frontend.min.css"/>
         <script id="web.layout.odooscript" type="text/javascript">
             var odoo = {
-                csrf_token: "8c99f2ddadfefd4e62c72538dd95d3c8820b997do1825188949",
+                csrf_token: "50c8ffdda20d0b32bf8e8129f291dd1b1fecb634o1825426695",
                 debug: "",
             };
         </script>
@@ -384,7 +384,7 @@ Geniet meteen van prijsdalingen
                 </div>
             
             <form class="d-none" method="post" id="customer_form">
-                <input type="hidden" name="csrf_token" value="8c99f2ddadfefd4e62c72538dd95d3c8820b997do1825188949"/>
+                <input type="hidden" name="csrf_token" value="50c8ffdda20d0b32bf8e8129f291dd1b1fecb634o1825426695"/>
                 <input type="hidden" name="ratecard_ids"/>
                 <input type="hidden" name="product_group_id"/>
                 <input type="hidden" name="fix_variable"/>
@@ -406,7 +406,7 @@ Geniet meteen van prijsdalingen
             <form class="d-none" method="post" id="detail_form">
                 <input type="hidden" name="zip"/>
                 <input type="hidden" name="city"/>
-                <input type="hidden" name="csrf_token" value="8c99f2ddadfefd4e62c72538dd95d3c8820b997do1825188949"/>
+                <input type="hidden" name="csrf_token" value="50c8ffdda20d0b32bf8e8129f291dd1b1fecb634o1825426695"/>
                 <input type="hidden" name="connection_type"/>
                 <input type="hidden" name="meter_type"/>
                 <input type="hidden" name="excl_night"/>
