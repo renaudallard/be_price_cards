@@ -33,7 +33,7 @@
 						<title>Cartes tarifaires pour le gaz et l’électricité | Mega</title>
 			
 	<!-- Styles -->
-	<link rel="preload" as="style" href="../../css/dist/input.css?v=150113">
+	<link rel="preload" as="style" href="../../css/dist/input.css?v=150740">
 
 	<!-- Splide -->
 	<link href="../../css/src/splide.min.css" rel="stylesheet">
@@ -46,7 +46,7 @@
 
 	<!-- preload css / css -->
 	<link rel="preload" href="../../css/dist/input.css" as="style">
-	<link rel="stylesheet" href="../../css/dist/input.css?v=150113">
+	<link rel="stylesheet" href="../../css/dist/input.css?v=150740">
 
 	<!-- Favicon -->
 	<link rel="icon" href="/favicon.ico?v=4" sizes="16x16 32x32 48x48">
@@ -100,6 +100,7 @@
 {
   "@context": "http://schema.org",
   "@type": "Organization",
+  "@id": "https://www.mega.be/#organization",
   "address": [{
     "@type": "PostalAddress",
     "addressLocality": "Liège",
@@ -113,11 +114,6 @@
 	"addressCountry": "BE",
     "streetAddress": "167 Vaartstraat"
   }],
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "3.4",
-    "reviewCount": "2064"
-  },
   "name": "Mega",
   "url": "https://www.mega.be",
   "logo": "https://www.mega.be/images/logoMegaHeader.png",
@@ -163,7 +159,7 @@
 	"+3216795702",
 	"+3216676060"
   ],
-  "legalName": "Power Online SA/NV - Mega Telco SA/NV",
+  "legalName": "Power Online SA/NV",
   "sameAs": [
     "https://www.facebook.com/mega1",
     "https://www.instagram.com/mega_belgium/",
@@ -177,111 +173,17 @@
 	}
 }
 </script>
- 
 <script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "item": {
-        "@id": "https://www.mega.be/fr",
-        "name": "Accueil"
-      }
-    },
-
-	{
-      "@type": "ListItem",
-      "position": 2,
-      "item": {
-        "@id": "https://www.mega.be/fr/energie",
-        "name": "Energie"
-      }
-    },
-	{
-      "@type": "ListItem",
-      "position": 3,
-      "item": {
-        "@id": "https://www.mega.be/fr/energie/cartes-tarifaires",
-        "name": "Cartes tarifaires"
-      }
-    }  ]
-}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://www.mega.be/fr"},{"@type":"ListItem","position":2,"name":"Électricité & Gaz","item":"https://www.mega.be/fr/energie"},{"@type":"ListItem","position":3,"name":"energie/Cartes tarifaires","item":"https://www.mega.be/fr/energie/cartes-tarifaires"}]}
 </script>
 <script type="application/ld+json">
-    {
-      "@context" : "https://schema.org",
-      "@type" : "WebSite",
-      "name" : "Mega",
-      "url" : "https://www.mega.be/",
-	  "sourceOrganization":{
-			"@context": "http://schema.org",
-			  "@type": "Organization",
-			  "address": [{
-				"@type": "PostalAddress",
-				"addressLocality": "Liège",
-				"addressCountry": "BE",
-				"postalCode": "B-4020",
-				"streetAddress": "2 rue Natalis"
-			  },{
-				"@type": "PostalAddress",
-				"addressLocality": "Leuven",
-				"postalCode": "B-3000",
-				"addressCountry": "BE",
-				"streetAddress": "167 Vaartstraat"
-			  }],
-			  "aggregateRating": {
-				"@type": "AggregateRating",
-				"ratingValue": "3.4",
-				"reviewCount": "2064"
-			  },
-			  "name": "Mega",
-			  "url": "https://www.mega.be",
-			  "logo": "https://www.mega.be/images/logoMegaHeader.png",
-			  "image": "https://www.mega.be/images/favicon/genfavicon-512.png",
-			  "contactPoint": [{
-					"@type": "ContactPoint",
-					"telephone": "+3242682000",
-					"email": "info@mega.be",
-					"availableLanguage": "FR",
-					"contactType": "customer service"
-				  },{
-					"@type": "ContactPoint",
-					"telephone": "+3216676060",
-					"email": "info@mega.be",
-					"availableLanguage": "NL",
-					"contactType": "customer service"  
-				  }],
-			  "description":[
-				"Mega, le fournisseur d'énergie verte et d'abonnement GSM moins chers en Belgique. Faites des économies sur votre facture d'électricité, de gaz et de mobile",
-				"Mega, de goedkoopste energieleverancier in België en bespaar geld met onze abonnementen voor particulieren en professionals!"
-			  ],
-			  "slogan": [
-				"Mega. Juste moins cher.",
-				"Mega. Gewoon goedkoper."
-			  ],
-			  "award": "Fournisseurs d’Énergie le plus convivial de Belgique - 2020",
-			  "email": "info@mega.be",
-			  "telephone":[
-				"+3242682000",
-				"+3216676060"
-			  ],
-			  "legalName": "Power Online SA/NV",
-			  "sameAs": [
-				"https://www.facebook.com/mega1",
-				"https://www.instagram.com/mega_belgium/",
-				"https://megagroupinternational.recruitee.com/",
-				"https://www.linkedin.com/company/mega-sa/",
-				"https://www.twitter.com/we_are_mega"
-			  ],
-				"areaServed": {
-					"@type": "Country",
-					"name": "BE"
-				}
-		}
-	}
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Mega",
+  "url": "https://www.mega.be/",
+  "publisher": {"@id": "https://www.mega.be/#organization"}
+}
 </script>
 <!-- End META -->
 </head>
@@ -591,18 +493,27 @@
 							</li>
 						<li class="relative md:px-5">
 				<a class="block py-3 text-left overflow-hidden "
-				   href="https://www.mega.be/fr/blog/"
-				   title="Blog"
-				   >
-					<span class="relative dropdown-link whitespace-normal md:whitespace-nowrap">Blog</span>
-				</a>
-							</li>
-						<li class="relative md:px-5">
-				<a class="block py-3 text-left overflow-hidden "
 				   href="https://www.mega.be/fr/energie/tous-les-services-mega-jaimy"
 				   title="Avantages  exclusifs"
 				   >
 					<span class="relative dropdown-link whitespace-normal md:whitespace-nowrap">Avantages  exclusifs</span>
+				</a>
+							</li>
+						<li class="relative md:px-5">
+				<a class="block py-3 text-left overflow-hidden "
+				   href="https://www.mega.be/fr/energie/solutions-energetiques"
+				   title="Solutions énergétiques"
+				   >
+					<span class="relative dropdown-link whitespace-normal md:whitespace-nowrap">Solutions énergétiques</span>
+				</a>
+									<span class="bg-yellow rounded-full py-[2px] px-[4px] text-[8px] font-bold absolute top-[2px] right-0" aria-hidden="true">NEW</span>
+							</li>
+						<li class="relative md:px-5">
+				<a class="block py-3 text-left overflow-hidden "
+				   href="https://www.mega.be/fr/blog/"
+				   title="Blog"
+				   >
+					<span class="relative dropdown-link whitespace-normal md:whitespace-nowrap">Blog</span>
 				</a>
 							</li>
 							</ul>
@@ -647,18 +558,27 @@
 							</li>
 						<li class="relative md:px-5">
 				<a class="block py-3 text-left overflow-hidden "
-				   href="https://www.mega.be/fr/blog/"
-				   title="Blog"
-				   >
-					<span class="relative dropdown-link whitespace-normal md:whitespace-nowrap">Blog</span>
-				</a>
-							</li>
-						<li class="relative md:px-5">
-				<a class="block py-3 text-left overflow-hidden "
 				   href="https://www.mega.be/fr/energie/tous-les-services-mega-jaimy"
 				   title="Avantages  exclusifs"
 				   >
 					<span class="relative dropdown-link whitespace-normal md:whitespace-nowrap">Avantages  exclusifs</span>
+				</a>
+							</li>
+						<li class="relative md:px-5">
+				<a class="block py-3 text-left overflow-hidden "
+				   href="https://www.mega.be/fr/energie/solutions-energetiques"
+				   title="Solutions énergétiques"
+				   >
+					<span class="relative dropdown-link whitespace-normal md:whitespace-nowrap">Solutions énergétiques</span>
+				</a>
+									<span class="bg-yellow rounded-full py-[2px] px-[4px] text-[8px] font-bold absolute top-[2px] right-0" aria-hidden="true">NEW</span>
+							</li>
+						<li class="relative md:px-5">
+				<a class="block py-3 text-left overflow-hidden "
+				   href="https://www.mega.be/fr/blog/"
+				   title="Blog"
+				   >
+					<span class="relative dropdown-link whitespace-normal md:whitespace-nowrap">Blog</span>
 				</a>
 							</li>
 																											<li>
@@ -738,11 +658,12 @@
 <span id="mainContent" tabindex="-1" class="sr-only" aria-hidden="true"></span>
 
 <!-- chat zendesk -->
-			<div id="beginButtonChat" data-openchat="true" data-lang="fr" class="relative z-[9999]">
-			<button class="hidden sm:flex bg-yellow rounded-full py-2 px-4 font-bold flex-row gap-2 fixed bottom-5 left-5 z-50"><img src="images/svg/chatIcon.svg" alt="Chat icon">Chat</button>
-			<button class="flex sm:hidden bg-yellow rounded-full py-2 px-4 font-bold flex-row gap-2 fixed bottom-5 left-5 z-50 "><img src="images/svg/chatIcon.svg" alt="Chat icon"></button>
-		</div>
-	
+<button id="beginButtonChat" type="button" data-openchat="true" data-chat-toggle data-lang="fr" aria-expanded="false" class="btn btn-small btn-yellow flex flex-row gap-2 fixed bottom-5 right-5 z-[9999]">
+	<img src="images/svg/icon_chat_2.svg" alt="Chat icon" class="max-w-[29px]"><span class="hidden">Chat</span>
+</button>
+<div id="chatBubble" aria-hidden="true" class="fixed bottom-[88px] right-5 z-[9999] bg-white text-black text-base font-bold rounded px-4 py-2 shadow-lg opacity-0 pointer-events-none transition-opacity duration-300 after:content-[''] after:absolute after:-bottom-1.5 after:right-6 after:w-3 after:h-3 after:bg-white after:rotate-45">
+	Parlez avec Lya</div>
+
 <!-- helpmechoose -->
 <div class="modal z-[9996]" data-modal="helpmechoose">
 	<article class="modal-content-wrapper block w-full max-w-[650px]"><button class="close z-50" aria-label="Fermer"></button>
@@ -1548,8 +1469,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Type d’énergie		</label>
 		<div class="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-4">
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="a200b22a" type="checkbox" name="elec" />
-				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="a200b22a">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="eaa35d0e" type="checkbox" name="elec" />
+				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="eaa35d0e">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1562,8 +1483,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</label>
 			</div>
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="a200b22a1" type="checkbox" name="gas" />
-				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="a200b22a1">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="eaa35d0e1" type="checkbox" name="gas" />
+				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="eaa35d0e1">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1580,12 +1501,12 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Code postal		</label>
 		<div class="flex md:flex-row flex-col items-start md:items-center gap-4 sm:gap-6">
 			<div class="flex flex-col [&_div]:flex-1 w-full md:basis-6/12">
-				<input data-zipCode="a200b22a" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
-				<div data-zipcodelist="a200b22a" class="input rounded-xs px-0 hidden">
+				<input data-zipCode="eaa35d0e" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
+				<div data-zipcodelist="eaa35d0e" class="input rounded-xs px-0 hidden">
 					<ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
 					</ul>
 				</div>
-				<p data-zipcode-badnumber='a200b22a' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+				<p data-zipcode-badnumber='eaa35d0e' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
 				<div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
 					<img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
 					<div>
@@ -1593,8 +1514,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</div>
 			</div>
 			<div class="flex flex-row items-end relative md:basis-6/12">
-									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="a200b22a2" type="checkbox" />
-								<label class="cbx rounded-xs flex gap-1" for="a200b22a2">
+									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="eaa35d0e2" type="checkbox" />
+								<label class="cbx rounded-xs flex gap-1" for="eaa35d0e2">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1756,8 +1677,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Type d’énergie		</label>
 		<div class="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-4">
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="4e6669bf" type="checkbox" name="elec" />
-				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="4e6669bf">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="f4fc2536" type="checkbox" name="elec" />
+				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="f4fc2536">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1770,8 +1691,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</label>
 			</div>
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="4e6669bf1" type="checkbox" name="gas" />
-				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="4e6669bf1">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="f4fc25361" type="checkbox" name="gas" />
+				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="f4fc25361">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1788,12 +1709,12 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Code postal		</label>
 		<div class="flex md:flex-row flex-col items-start md:items-center gap-4 sm:gap-6">
 			<div class="flex flex-col [&_div]:flex-1 w-full md:basis-6/12">
-				<input data-zipCode="4e6669bf" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
-				<div data-zipcodelist="4e6669bf" class="input rounded-xs px-0 hidden">
+				<input data-zipCode="f4fc2536" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
+				<div data-zipcodelist="f4fc2536" class="input rounded-xs px-0 hidden">
 					<ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
 					</ul>
 				</div>
-				<p data-zipcode-badnumber='4e6669bf' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+				<p data-zipcode-badnumber='f4fc2536' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
 				<div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
 					<img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
 					<div>
@@ -1801,8 +1722,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</div>
 			</div>
 			<div class="flex flex-row items-end relative md:basis-6/12">
-									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="4e6669bf2" type="checkbox" checked />
-								<label class="cbx rounded-xs flex gap-1" for="4e6669bf2">
+									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="f4fc25362" type="checkbox" checked />
+								<label class="cbx rounded-xs flex gap-1" for="f4fc25362">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1961,8 +1882,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 	<label class="block italic" for="">Type d’énergie</label>
 	<div class="flex flex-col sm:flex-row gap-2 sm:gap-5 mb-2">
 		<div class="flex-1 relative">
-			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="f1e33fdf" type="checkbox" checked />
-			<label class="cbx border-2 border-grey bg-greyLight  p-4 pr-0 rounded-xs flex" for="f1e33fdf">
+			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="41486ba8" type="checkbox" checked />
+			<label class="cbx border-2 border-grey bg-greyLight  p-4 pr-0 rounded-xs flex" for="41486ba8">
 				<span class="min-w-[22px] ml-[-27px] bg-white outline outline-2 outline-white outline-offset-0">
 					<svg width="18px" height="15px" viewbox="0 0 12 10">
 						<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -1973,8 +1894,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			</label>
 		</div>
 		<div class="flex-1 relative">
-			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="f1e33fdf1" type="checkbox" />
-			<label class="cbx border-2 border-grey bg-greyLight p-4 pr-0 rounded-xs flex" for="f1e33fdf1">
+			<input data-check='checks' class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="41486ba81" type="checkbox" />
+			<label class="cbx border-2 border-grey bg-greyLight p-4 pr-0 rounded-xs flex" for="41486ba81">
 				<span class="min-w-[22px] ml-[-27px] bg-white outline outline-2 outline-white outline-offset-0">
 					<svg width="18px" height="15px" viewbox="0 0 12 10">
 						<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2010,8 +1931,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Type d’énergie		</label>
 		<div class="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-4">
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="3cb38700" type="checkbox" name="elec" />
-				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="3cb38700">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="51bd60cf" type="checkbox" name="elec" />
+				<label class="cbx relative border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="51bd60cf">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2024,8 +1945,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</label>
 			</div>
 			<div class="relative md:basis-6/12">
-				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="3cb387001" type="checkbox" name="gas" />
-				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="3cb387001">
+				<input data-check='checks' class="inp-cbx inp-cbx-bg opacity-0 absolute top-[50%] translate-y-[-50%]" id="51bd60cf1" type="checkbox" name="gas" />
+				<label class="cbx border-2 border-yellow py-2 pl-2 pr-6 h-10 rounded-xs flex" for="51bd60cf1">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2042,12 +1963,12 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 			Code postal		</label>
 		<div class="flex md:flex-row flex-col items-start md:items-center gap-4 sm:gap-6">
 			<div class="flex flex-col [&_div]:flex-1 w-full md:basis-6/12">
-				<input data-zipCode="3cb38700" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
-				<div data-zipcodelist="3cb38700" class="input rounded-xs px-0 hidden">
+				<input data-zipCode="51bd60cf" data-check='zipCode' class="h-10 input rounded-xs" type="tel" name="contact-zipCode"  />
+				<div data-zipcodelist="51bd60cf" class="input rounded-xs px-0 hidden">
 					<ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
 					</ul>
 				</div>
-				<p data-zipcode-badnumber='3cb38700' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+				<p data-zipcode-badnumber='51bd60cf' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
 				<div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
 					<img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
 					<div>
@@ -2055,8 +1976,8 @@ Il sera donc impossible d'effectuer une tentative de connexion multiple du ou de
 				</div>
 			</div>
 			<div class="flex flex-row items-end relative md:basis-6/12">
-									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="3cb387002" type="checkbox" />
-								<label class="cbx rounded-xs flex gap-1" for="3cb387002">
+									<input data-check="checkPro" data-checkPro="true" class="inp-cbx opacity-0 absolute top-[50%] translate-y-[-50%]" id="51bd60cf2" type="checkbox" />
+								<label class="cbx rounded-xs flex gap-1" for="51bd60cf2">
 					<span class="min-w-[22px] bg-white outline outline-2 outline-white outline-offset-0">
 						<svg width="18px" height="15px" viewbox="0 0 12 10">
 							<polyline points="1.5 6 4.5 9 10.5 1"></polyline>
@@ -2332,12 +2253,12 @@ Nous pouvons vous aider à choisir un contrat d'énergie qui convient à vos hab
                                 <form data-check='form' action="" method="post">
                     <label class="block h4 mb-4" for="contact-zipCode">
                         Code postal                    </label>
-                    <input data-zipCode="1858b5ea" data-check='zipCode' data-input-card="tarifCard" class="h-11 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
-                    <div data-zipcodelist="1858b5ea" class="input rounded-xs px-0 hidden max-w-[400px]">
+                    <input data-zipCode="f342621d" data-check='zipCode' data-input-card="tarifCard" class="h-11 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
+                    <div data-zipcodelist="f342621d" class="input rounded-xs px-0 hidden max-w-[400px]">
                         <ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
                         </ul>
                     </div>
-                    <p data-zipcode-badnumber='1858b5ea' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+                    <p data-zipcode-badnumber='f342621d' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
                     <div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
                         <img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
                         <div>
@@ -3737,12 +3658,12 @@ Offre valable du 01/11/2026 au 30/11/2026. La réduction moyenne de 315€ corre
 		<span class="h-[1px] w-full bg-grey block mb-4"></span>
 		<div>
                         <form data-check='form' action="" method="post">
-                <input data-zipCode="b546cf62" data-check='zipCode' data-input-card="tarifCard" data-modal-close="postcode_modal" class="h-8 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
-                <div data-zipcodelist="b546cf62" class="input rounded-xs px-0 hidden max-w-[400px]">
+                <input data-zipCode="d6bec297" data-check='zipCode' data-input-card="tarifCard" data-modal-close="postcode_modal" class="h-8 input rounded-xs max-w-[400px]" type="text" name="contact-zipCode" value=""/>
+                <div data-zipcodelist="d6bec297" class="input rounded-xs px-0 hidden max-w-[400px]">
                     <ul class="[&_li]:py-1 [&_li]:text-sm [&_li]:cursor-pointer hover:[&_li]:bg-grey [&_li]:px-3">
                     </ul>
                 </div>
-                <p data-zipcode-badnumber='b546cf62' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
+                <p data-zipcode-badnumber='d6bec297' class="hidden mt-1 rounded-xs text-sm text-red bg-red bg-opacity-10 border-red py-2 px-4">Code postal incorrect</p>
                 <div data-check='zipCode-bruxelles' class="hidden flex flex-col sm:flex-row p-4 text-sm text-black rounded-xs bg-yellow bg-opacity-20" role="alert">
                     <img class="h-5 flex-shrink-0 inline w-5 mx-auto sm:mr-3 " src="../../images/icon_info.png" alt="">
                     <div>
@@ -4158,7 +4079,7 @@ Lorsque vous naviguez sur notre site web, vous pouvez toujours ajuster vos param
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.0/gsap.min.js"></script>
 -->
-<script defer src="./js/script.js?v=32166"></script>
+<script defer src="./js/script.js?v=33011"></script>
  
 <!-- <script>
     $('#playContent').click(function () {

@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-04T13:17:03.157062+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
- "_seen_on": "2026-11-04",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
    "pdf": "c4a921f5b3e62de851e80eaf14fdef475bc66418f3d54cb97d61c8f90107db01",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-11/bf0f8274559318b3f4c3fecd769022baa4c323c2d948197894f5d6ec2217fa2d.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex&energyType=electricity&language=fr&tabValue=Flanders",
    "variant": "plain"

@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-10-05",
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "1bc3439e0422dc949d7e9577c3835c1d8f09357e85a690c4c8b1260d85f56e21",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-10/e79c2bfa7acf543ad2b682cd3da07e58006ae76c8e7c65a321183803fa6a6f50.txt",
    "url": "https://cdn.nimbu.io/s/4tn7vz5/channelentries/vhsz0cb/files/1790764158369/202609_gbs_tariefkaart.pdf?12th9o4=&dl=1",
    "variant": "layout"

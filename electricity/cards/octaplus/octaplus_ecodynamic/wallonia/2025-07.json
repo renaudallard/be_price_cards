@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-10-20",
@@ -16,14 +16,14 @@
   },
   {
    "pdf": "fe41f40dcc357c223ed5692286e81e37999c9a4d92f605ac7b49001e51f68532",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-10/e6da13f411ebe633d34b26d023e46a33db3bdf522b3a6451e976ba85286eaf26.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-07 E OCTA+ECODYNAMIC RE WL FR.pdf",
    "variant": "aligned"
   },
   {
    "pdf": "fe41f40dcc357c223ed5692286e81e37999c9a4d92f605ac7b49001e51f68532",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-10/5bb735702bf89af77e96e63162bce75db48e815073318ec989f76616b1d7b3c8.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-07 E OCTA+ECODYNAMIC RE WL FR.pdf",
    "variant": "plain"

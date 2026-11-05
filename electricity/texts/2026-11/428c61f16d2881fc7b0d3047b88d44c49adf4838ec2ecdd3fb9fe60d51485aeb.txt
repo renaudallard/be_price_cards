@@ -638,7 +638,7 @@
         </div>
 <div class="js-form-item form-item js-form-type-date form-item-birth-date js-form-item-birth-date">
       <label for="edit-birth-date">Je geboortedatum</label>
-        <input max="2008-11-02" data-max-year="2008" type="date" data-drupal-selector="edit-birth-date" data-msg-max="The value in Je geboortedatum has to be less than 2008-11-02." data-msg-required="Je geboortedatum is een verplicht veld." id="edit-birth-date" name="birth_date" value="" class="form-date" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-nrj-paragraph-7017-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+        <input max="2008-11-05" data-max-year="2008" type="date" data-drupal-selector="edit-birth-date" data-msg-max="The value in Je geboortedatum has to be less than 2008-11-05." data-msg-required="Je geboortedatum is een verplicht veld." id="edit-birth-date" name="birth_date" value="" class="form-date" data-drupal-states="{&quot;required&quot;:{&quot;.webform-submission-subscribe-nrj-paragraph-7017-add-form :input[name=\u0022solar_panels\u0022]&quot;:{&quot;checked&quot;:true}}}" />
 
         </div>
 <div class="js-form-item form-item js-form-type-email form-item-email js-form-item-email">
@@ -764,7 +764,7 @@
         </div>
 <div data-drupal-states="{&quot;visible&quot;:{&quot;:input[name=\u0022contract_reason\u0022]&quot;:{&quot;checked&quot;:true}}}" class="js-webform-states-hidden js-form-item form-item js-form-type-date form-item-contract-supplier-change-start-date js-form-item-contract-supplier-change-start-date">
       <label for="edit-contract-supplier-change-start-date">Startdatum</label>
-        <input min="2026-11-23" data-min-year="2026" type="date" data-drupal-selector="edit-contract-supplier-change-start-date" data-msg-min="The value in Startdatum has to be greater than 2026-11-23." data-msg-required="Startdatum is een verplicht veld." id="edit-contract-supplier-change-start-date" name="contract_supplier_change_start_date" value="" class="form-date" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-subscribe-nrj-paragraph-7017-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;checked&quot;:true}},&quot;required&quot;:{&quot;.webform-submission-subscribe-nrj-paragraph-7017-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;checked&quot;:true}}}" />
+        <input min="2026-11-26" data-min-year="2026" type="date" data-drupal-selector="edit-contract-supplier-change-start-date" data-msg-min="The value in Startdatum has to be greater than 2026-11-26." data-msg-required="Startdatum is een verplicht veld." id="edit-contract-supplier-change-start-date" name="contract_supplier_change_start_date" value="" class="form-date" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-subscribe-nrj-paragraph-7017-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;checked&quot;:true}},&quot;required&quot;:{&quot;.webform-submission-subscribe-nrj-paragraph-7017-add-form :input[name=\u0022contract_reason\u0022]&quot;:{&quot;checked&quot;:true}}}" />
 
         </div>
 
@@ -786,15 +786,15 @@
 
 </div>
 <div class="recaptcha-v3-policy">This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy" target="_blank">Privacy Policy</a> and <a href="https://policies.google.com/terms" target="_blank">Terms of Service</a> apply.</div><input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="" />
-<input data-drupal-selector="edit-honeypot-time" type="hidden" name="honeypot_time" value="sLS1gvkQh1QeJOaYmXvlYcklT0IFb7o3sKsDu4aINuk" />
-<input autocomplete="off" data-drupal-selector="form-futinzcw39xmqcmpvaqupc5c0gekfolzz17jmb4ecto" type="hidden" name="form_build_id" value="form-FUtINzCW39XmQCMPvaQUpC5c0gEkFOLzz17JMb4ecto" />
+<input data-drupal-selector="edit-honeypot-time" type="hidden" name="honeypot_time" value="oKSAHrP74H5C5VePi-fux1_lsgzHk5o0-9hokZJ1tUk" />
+<input autocomplete="off" data-drupal-selector="form-myz89qtu3t-6xqe0dpbpwokuycqu249pe9md9w-x1ua" type="hidden" name="form_build_id" value="form-MYZ89qtU3T_6Xqe0dpBpWOKuycQu249Pe9MD9w_X1UA" />
 <input data-drupal-selector="edit-webform-submission-subscribe-nrj-paragraph-7017-add-form" type="hidden" name="form_id" value="webform_submission_subscribe_nrj_paragraph_7017_add_form" />
 
 
                       <div  data-drupal-selector="edit-captcha" class="captcha captcha-type-challenge--recaptcha-v3">
                   <div class="captcha__element">
-            <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="915351" />
-<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="w2j3JH3u319nbyIYAp8d30J_fW4vjEuh3ypiAk06EuU" />
+            <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="917071" />
+<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="Fjul0QMhwc3db7TylL6sdWrwCywab7Vk2VdrQxS5Eps" />
 <input id="recaptcha-v3-token" class="recaptcha-v3-token" data-recaptcha-v3-action="recaptcha_v3" data-recaptcha-v3-site-key="6LfiUmIeAAAAAAe8Nisj2ME17FvtB_rBJ91n1DyL" data-drupal-selector="edit-captcha-response" type="hidden" name="captcha_response" value="" />
 <input data-drupal-selector="edit-is-recaptcha-v3" type="hidden" name="is_recaptcha_v3" value="1" />
 
@@ -822,7 +822,7 @@
                   <h3>Overzicht formule</h3>
 <h2><span class="orange">Goedkope Stroom van Brusol</span></h2>
 <ul><li><strong>Type tarief:</strong> vast-variabel
-<ul><li><strong>Deel vast:</strong> Je krijgt elk jaar 1.800 kWh aan een <strong>laag, vast tarief </strong>(10,60c€/kWh). Dat tarief is 10 jaar gegarandeerd!</li>
+<ul><li><strong>Deel vast:</strong> Je krijgt elk jaar 1.800 kWh aan een <strong>laag, vast tarief </strong>(12,72c€/kWh). Dat tarief is 10 jaar gegarandeerd!</li>
 <li><strong>Deel variabel: </strong>Heb je nog bijkomende energie nodig, bovenop de 1.800 kWh <span>afkomstig van het net</span>? Jouw overige verbruik is aan een <strong>laag</strong> <strong>variabel tarief </strong>dat elke maand wijzigt. Zo voel je slechts beperkt prijsschommelingen van de markt en geniet je ook mee wanneer de prijzen laag zijn.</li>
 </ul></li>
 <li><strong>Duurtijd energiecontract: Onbepaald. </strong><br /><em>(Opzeggen wanneer je wilt.)</em></li>
@@ -831,9 +831,9 @@
 </ul><p> </p>
 <p>Met onze tariefkaart kan je snel en eenvoudig de actuele elektriciteitstarieven bekijken. Onze tariefkaart biedt een gedetailleerd overzicht van de kosten op basis van energieverbruik.</p>
 <p>Huidige tariefkaart voor Elektriciteit:</p>
-<p><a class="btn btn--bg-aware" href="https://www.brusol.be/sites/default/files/2026-09/EV-1026-GS1800V-BXL-nl.pdf" target="_blank">Tariefkaart GS 10/2026</a></p>
+<p><a class="btn btn--bg-aware" href="https://www.brusol.be/sites/default/files/2026-10/EV-1126-GS1800V-BXL-nl.pdf" target="_blank">Tariefkaart GS 11/2026</a></p>
 <p class="normal">Huidige tariefkaart voor Fossiel gas: </p>
-<p><a class="btn btn--bg-aware" href="https://www.brusol.be/sites/default/files/2026-09/EV-1026-GSG-BXL-nl.pdf " target="_blank">Tariefkaart GSG 10/2026</a></p>
+<p><a class="btn btn--bg-aware" href="https://www.brusol.be/sites/default/files/2026-10/EV-1126-GSG-BXL-nl.pdf" target="_blank">Tariefkaart GSG 11/2026</a></p>
 
             </div>
 
@@ -1049,7 +1049,7 @@
         
 
 
-<div class="views-view views-view--general-settings-views views-view--general-settings-views--block-1 view view-general-settings-views view-id-general_settings_views view-display-id-block_1 js-view-dom-id-bbd48a8a4887a577f5ced0be50d00c5fc0ade2b23776d104df2bcbc64ff8a62a">
+<div class="views-view views-view--general-settings-views views-view--general-settings-views--block-1 view view-general-settings-views view-id-general_settings_views view-display-id-block_1 js-view-dom-id-b72ff4b05e3758fa5ee5e2150c89f4803581a8dc7c049b3e757676d9e2dc6e49">
   
   
   

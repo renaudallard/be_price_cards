@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-09-29",
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "a34e581fb15f25f42de9082286ea06a2bb5ed45bf6a1de926594d91a02bf91af",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-09/e70d60fb61d57520d20c08f21c7de7127bf288f88865e4e43b6fc339a0c8d423.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/December_Tariefkaart_Energie_be_Vast_EL_Res_788bc992a3.pdf",
    "variant": "layout"

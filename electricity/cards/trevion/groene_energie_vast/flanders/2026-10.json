@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-11-01",
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "ddb90a5ba99059c66cd316e46f59fe0b44ea83748b7a27431f75d81da99490a0",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-11/012899b6fad591f80b8e7a6b02c40bc16ea535dff9c248fc9266750ac4328415.txt",
    "url": "https://trevion.be/tariefkaarten/Trevion-tariefkaart-Groene-energie-VAST-particulier-202610.pdf",
    "variant": "layout"

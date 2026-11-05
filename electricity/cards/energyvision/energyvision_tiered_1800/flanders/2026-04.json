@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "c55e6ff5adecf9b5ea15eb071a7278375ace97d3bc400d74464fc4a24ca9df91",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-09/56b68c08a42c1cf27736a1bf75bcc8ec2d7441f176d793fa5b1b1fae2f323fae.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0426-GS1800V-nl.pdf",
    "variant": "layout"

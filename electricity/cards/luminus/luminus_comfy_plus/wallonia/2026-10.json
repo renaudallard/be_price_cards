@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-03T13:01:10.389764+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-10-30",
@@ -11,14 +11,14 @@
   },
   {
    "pdf": "f8743fd05aba8c48f2c475e2bf01f96891ec10018dfa099d6a679a2c7afbb059",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-10/f4ec63be93dc5ba970006cf30c4e7ca6f313affd628ca094b5cb358b52e25a66.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy-plus&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"
   },
   {
    "pdf": "462db7ae6d7e3aad3c1a4fd65b2faf22db93ee4b9a5ca36a327586c1c31738e6",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-10/6bfafd71bdc66a455fd08197dcea38c1aeba931e279ad978add4ea8192dabfec.txt",
    "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1paa0000021qxvAAA&date=2026-10&region=Wallonia&inline=true",
    "variant": "plain"

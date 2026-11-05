@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "b3a2dd00fa03b900539f104ea539eb8da7a18ff79f42c54fc9422cda2a332f12",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-09/633830a4c017218d3f5bc24e48544429cbaf20bbe5756e4f7166aa8b5e4435f2.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/ELECTRICITE-FIXE_ELECTRICITY_VL_FR.pdf",
    "variant": "layout"

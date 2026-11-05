@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-09-12",
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "e4d14374d9dd6e71ed616ef16e246310c4e9f386b0c92132e0e8dd0f8ad31e75",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-09/f2db957e7eefbb7639c690322187afd67fc515c594890f19bfbad55dcbb675e6.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Augustus_Tariefkaart_Energie_be_Variabel_EL_RES_fd1734aee5.pdf",
    "variant": "layout"

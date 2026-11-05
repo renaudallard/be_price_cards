@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "33021370cf1409e5fe04c02de2b51dccc1cffb78954b5fdb1603f8d58721d306",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-09/c286a3f00d546d1f6d52ba49a9936022751e4e7caa9d8c764234ab492731b6d7.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/IMPACT_ELECTRICITY_WAL_FR.pdf",
    "variant": "layout"

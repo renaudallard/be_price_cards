@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-09-12",
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "87394e68712dd54bcec9de5d64e195e5e41748128f7dad4c1d5cf93e9aa50d5a",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-09/afbe5e20f501d38dd1b1d4e7c9d87f6a4c71253756b2677498161065a08ce0fd.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Maart_Tariefkaart_Energie_be_Dynamisch_Res_14cab1c35a.pdf",
    "variant": "layout"

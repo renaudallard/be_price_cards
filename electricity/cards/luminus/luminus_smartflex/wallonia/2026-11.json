@@ -1,19 +1,19 @@
 {
- "_cached_at": "2026-11-04T13:17:03.157062+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
- "_seen_on": "2026-11-04",
+ "_seen_on": "2026-11-05",
  "_sources": [
   {
    "pdf": "30121351f00ebde18348f42bbe859759634872789040e813c15d6c15b9ab8834",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-11/15bebcf3dbc92bafb00c028211c205c202663a743a1c0eb59e17c14cd403626d.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"
   },
   {
    "pdf": "07aaeae5d06b9be6fc429009ccdc4dc90948003e47e75e49f189ec1997bbf13d",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-11/57bcf74caa29a608cee984a9dff498d98a40899e958bfe5e6baa481c021cc065.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=smartflex&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"

@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-09-29",
  "_sources": [
   {
    "pdf": "45910e214646837d1711430a1796f51ce058b55f525773874271df315c3a93d7",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-09/bcf569388bd6ef3b76e25a5d6bf0ca63bcb324e75ebf1983b5ab4187c0442e84.txt",
    "url": "https://www.energyknights.be/website/getHistoricalTariffchart/par/2025-10/dynamicgreen/nl",
    "variant": "layout"

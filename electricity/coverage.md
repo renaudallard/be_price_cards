@@ -20,7 +20,7 @@ month the archive does not hold.
 - [eneco](coverage/eneco.md): 10 rows, 2023-11 to 2026-11
 - [energiebe](coverage/energiebe.md): 3 rows, 2025-12 to 2026-11
 - [energyknights](coverage/energyknights.md): 8 rows, 2025-01 to 2026-11
-- [energyvision](coverage/energyvision.md): 9 rows, 2025-11 to 2026-11
+- [energyvision](coverage/energyvision.md): 12 rows, 2025-11 to 2026-11
 - [engie](coverage/engie.md): 53 rows, 2023-11 to 2026-11
 - [frank](coverage/frank.md): 6 rows, 2025-01 to 2026-11
 - [luminus](coverage/luminus.md): 20 rows, 2024-01 to 2026-11

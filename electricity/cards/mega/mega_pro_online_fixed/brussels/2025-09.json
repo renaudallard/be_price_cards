@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-04T14:25:39.611698+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-11-04",
  "_sources": [
   {
    "pdf": "7b9c92592714b89ff79f934141d7c75d7e8312cde6c7ba505b87ed5fb2a92c80",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-11/8cdc47a07711e19a4d0f98d247aa5f8a83b38bce42c8a7f5e01ff8e58eb94043.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-092025-Online0109-Fixed.pdf",
    "variant": "plain"

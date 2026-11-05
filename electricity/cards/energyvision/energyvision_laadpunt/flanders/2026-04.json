@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "1aa8cf8bec39851672ea5e3c10e7f2424b8497e6a226cb7c7a222221392b2aa2",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-09/0bf3e70d2851cb7f6c5380d77685b3f1916858f79a9465eaebe553ec9ee9fcf3.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0426-GSLP-nl.pdf",
    "variant": "layout"

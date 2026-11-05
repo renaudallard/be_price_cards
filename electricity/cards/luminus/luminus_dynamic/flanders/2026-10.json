@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-10-30",
@@ -11,14 +11,14 @@
   },
   {
    "pdf": "c2449528378db842b4de8a22037e1b2fce1e47716fb8c80207da5e1109754f00",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-10/a7035759ea56056118146c4ca4d40f528758ed291c6f7ba1ca3b42339ec1158a.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=dynamic&energyType=electricity&language=fr&tabValue=Flanders",
    "variant": "plain"
   },
   {
    "pdf": "cfe0643b978e9de0f96ce642cf4661476b87548e703d236ac49db862eecd894c",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-10/f63efaaee78502955136a089fc7b28c237b5cf11dd27e2db57043a03d109377f.txt",
    "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000CVjzAAAT&date=2026-10&region=Flanders&inline=true",
    "variant": "plain"

@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-10-20",
@@ -11,14 +11,14 @@
   },
   {
    "pdf": "489bbd13bc8476f2913f908d6e00e3f7d22a13ed4d89e4f6aa6a3ffe9824c867",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-10/20625e36b99ed4096a640d68ae4adbc21502b52993de8d035b9253adfcd53883.txt",
    "url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/E-TSS-FR-2024-Q1.pdf",
    "variant": "plain"
   },
   {
    "pdf": "77bc6c8016f5edf74306df93ab0e3a6e2a47b1ec70c71a4af073291af6e6eab1",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-10/3df0d9b2d6af673a330a80725efead28d9dcf8d2aad71ca513e2b42be9e4a790.txt",
    "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p24000000MuG4AAK&date=2024-01&region=Brussels&inline=true",
    "variant": "plain"

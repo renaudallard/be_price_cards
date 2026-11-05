@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-02T13:51:44.284501+00:00",
+ "_cached_at": "2026-11-05T13:30:57.940003+00:00",
  "_probe_key": null,
  "_schema_version": 88,
  "_seen_on": "2026-09-23",
  "_sources": [
   {
    "pdf": "6a8743af7336602fe2c59f32097361aa8e79f88044b047d818403f00575130ab",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88873a89c1868f3a",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
    "text": "texts/2026-09/19cedd2b84f80f25af24834b05b9dc331b9ead694184d5f7cba22a0c0331d586.txt",
    "url": "https://www.brusol.be/sites/default/files/2026-04/EV-0426-GRS-BXL-nl.pdf",
    "variant": "layout"
