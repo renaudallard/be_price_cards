@@ -1,8 +1,8 @@
 {
- "_seen_on": "2026-11-05",
+ "_seen_on": "2026-11-06",
  "_sources": [
   {
-   "pdf": "e6870cb8050adc559c124af7f8474c7af5d8c14981244aeea66e4b8fdb5fd592",
+   "pdf": "08b57ce3bc6331f0c9b0e5cec46fa1dca8cff6554ec2fa868079205ca4885164",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
    "text": "texts/2026-11/7a60b71403cc223cc8195c981530052fb5e617156e87ddd2a8e6bd389d2bfe8c.txt",
    "url": "https://files.octaplus.be/tariffs/G_OCTA_BOOSTFLEX_RE_WL_FR.pdf",

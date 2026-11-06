@@ -1,8 +1,8 @@
 {
- "_seen_on": "2026-11-05",
+ "_seen_on": "2026-11-06",
  "_sources": [
   {
-   "text": "texts/2026-11/0255ec6b88e6b0bddf78db6ffc533196dc574473137a9808adc13fc5726486e3.txt",
+   "text": "texts/2026-11/8d73d7e99e1648e175f031ca5dcb6efab61877a3379b3bb71f3401516e79d34f.txt",
    "url": "https://8navd656.api.sanity.io/v2023-01-01/data/query/production-be?[('query', '*[_type==\"sanity.fileAsset\" && originalFilename match \"*Gas*\"]{originalFilename,url,_createdAt} | order(_createdAt desc)[0..39]')]",
    "variant": "text"
   },
