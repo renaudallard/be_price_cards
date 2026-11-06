@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-05T17:06:15.748698+00:00",
+ "_cached_at": "2026-11-06T13:15:20.472091+00:00",
  "_probe_key": null,
- "_schema_version": 88,
- "_seen_on": "2026-11-05",
+ "_schema_version": 89,
+ "_seen_on": "2026-11-06",
  "_sources": [
   {
    "pdf": "c35baa71acef7ca151f941f66b6a7f14074286a2736d1ad6c5fa6f2ff3f9a6bb",
@@ -160,7 +160,7 @@
   "base_peak": null,
   "base_transition": null,
   "current": 0.0663,
-  "factor": 8.79,
+  "factor": 0.879,
   "factor_offpeak": null,
   "factor_peak": null,
   "factor_transition": null,

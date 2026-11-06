@@ -1,19 +1,18 @@
-Carte tarifaire
-Coûts de l’énergie
 15:3
 6202
 erbmetpes
 22
 | LXBR_RF_CELE_evirDym_C2B
 | TSAF
-TotalEnergies myDrive
+Carte tarifaire
+TotalEnergies myDynamic
 novembre 2026
 Conditions particulières relatives à la formule variable myDrive
 • Électricité en Région de Bruxelles-Capitale
 • TVA 6 % incluse
 Avantages de la formule * Coût de l’énergie
 fournie par TotalEnergies
-"myDrive"
+"myDynamic"
 Coût de transport et distribution
 de l’énergie
 • Tarif variable avantageux pour recharger
@@ -34,17 +33,18 @@ en n o v e m b r e 2 0 2 6 et aux contrats renouvelés en février 2027
 Contribution instaurée par l’Etat pour soutenir le développement
 mois avant application).
 des énergies renouvelables
-L'offre "TotalEnergies myDrive" est une formule tarifaire
+L'offre "TotalEnergies myDynamic" est une formule tarifaire
 2. Tarifs régulés [Coûts de réseaux et prélèvements] :
-accessible aux consommateurs résidentiels avec des
+accessible aux consommateurs résidentiels disposant d'un
 2.1 [ Coût de transport et distribution de l’énergie] (intégralement
-compteurs à relevé annuel et disposant d'un véhicule
+compteur digital et avec activation de la fonction SMR3
 restitués aux GRD/GRT)
-électrique ou plug-in hybride rechargeable. Les prix qui vous
+(non applicable au tarif exclusif nuit).
 2.2 [ Taxes et surcharges]
-sont facturés en vertu de votre contrat sont constitués de 2
+Les prix qui vous sont facturés en vertu de votre contrat
 (intégralement restituées aux entités concernées)
-parties :
+sont constitués de 2 parties :
+Coûts de l’énergie
 Prix de l’énergie 0
 Redevance
 fixe 1 (c€/kWh)
@@ -53,7 +53,7 @@ simple Heures pleines Heures creuses excl. nuit
 Consommation
 25,87 25,87 25,87 25,80 Tarif mensuel
 90,00
-0.1023 * BELPEXH + 6.68 0.1023 * BELPEXH + 6.68 0.1023 * BELPEXH + 6.68 0.1023 * BELPEXH + 6.62 Formule tarifaire
+0.1023 * BELPEXH + 6.68 0.1023 * BELPEXH + 6.68 0.1023 * BELPEXH + 6.68 0.1023 * BELPEXH + 6.68 Formule tarifaire
 La formule (HTVA) présentée dans le tableau ci-dessus va permettre à TotalEnergies de calculer le prix de l'énergie à deux moments de l'année. 1/Au moment de
 déterminer le montant de la facture d'acompte, le prix de l'électricité sera déterminé sur base de la valeur de l’indice repris dans cette formule. 2/Au moment de la
 régularisation annuelle, la formule de prix est utilisée pour calculer le prix final.
@@ -79,7 +79,7 @@ erbmetpes
 | LXBR_RF_CELE_evirDym_C2B
 | TSAF
 Carte tarifaire
-TotalEnergies myDrive
+TotalEnergies myDynamic
 novembre 2026
 Coûts de réseaux et prélèvements
 Coûts de transport et de distribution Taxes et surcharges 4
@@ -111,9 +111,9 @@ Consommation entre 0 et 3.000 kWh 4,47
 Consommation entre 3.000 et 20.000 kWh 4,47
 Consommation entre 20.000 et 50.000 kWh 4,47
 Consommation entre 50.000 et 1.000.000 kWh 4,4732
-TotalEnergies garantit aux clients résidentiels signant un contrat 100% vert que cet engagement sera respecté pendant la durée de leur contrat.
-L'offre TotalEnergies myDrive est soumise aux conditions spécifiques TotalEnergies myDrive
-(https://totalenergies.be/fr/files/CGV-myDrive.pdf) ainsi qu'aux conditions générales de TotalEnergies
+TotalEnergies garantit aux clients résidentiels signant un contrat 100% vert que cet engagement sera respecté pendant la durée de leur
+contrat. L'offre TotalEnergies myDynamic est soumise aux conditions spécifiques TotalEnergies myDrive
+(https://totalenergies.be/fr/files/CGV-myDynamic.pdf) ainsi qu'aux conditions générales de TotalEnergies
 (https://totalenergies.be/fr/particuliers/conditions-generales-totalenergies-groupe). En cas de contradiction entre les présentes conditions
 contractuelles et les conditions générales de TotalEnergies, les présentes conditions prévalent.
 •Rendez-vous sur votre espace client

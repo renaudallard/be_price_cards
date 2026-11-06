@@ -1,0 +1,2465 @@
+{
+ "months": {
+  "2025-01": {
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 50.2420153,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0469616,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0565101,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.1845121,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0493191,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0585279,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 53.2422383,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0491561,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0589031,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 49.0426291,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0445814,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.052898,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 53.1119584,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0503452,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0607412,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 48.8733232,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0531471,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0641263,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 56.9323959,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0579231,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0704386,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 55.7995141,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0510123,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.06061,
+    "transport": 0.0
+   }
+  },
+  "2025-02": {
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 50.2420153,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0469616,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0565101,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.1845121,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0493191,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0585279,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 53.2422383,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0491561,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0589031,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 49.0426291,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0445814,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.052898,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 53.1119584,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0503452,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0607412,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 48.8733232,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0531471,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0641263,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 56.9323959,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0579231,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0704386,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 55.7995141,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0510123,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.06061,
+    "transport": 0.0
+   }
+  },
+  "2025-03": {
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 50.2420153,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0469616,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0565101,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.1845121,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0493191,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0585279,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 53.2422383,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0491561,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0589031,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 49.0426291,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0445814,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.052898,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 53.1119584,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0503452,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0607412,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 48.8733232,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0531471,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0641263,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 56.9323959,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0579231,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0704386,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 55.7995141,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0510123,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.06061,
+    "transport": 0.0
+   }
+  },
+  "2025-04": {
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 50.2420153,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0469616,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0565101,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.1845121,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0493191,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0585279,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 53.2422383,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0491561,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0589031,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 49.0426291,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0445814,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.052898,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 53.1119584,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0503452,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0607412,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 48.8733232,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0531471,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0641263,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 56.9323959,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0579231,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0704386,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 55.7995141,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0510123,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.06061,
+    "transport": 0.0
+   }
+  },
+  "2025-05": {
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 50.2420153,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0469616,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0565101,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.1845121,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0493191,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0585279,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 53.2422383,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0491561,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0589031,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 49.0426291,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0445814,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.052898,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 53.1119584,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0503452,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0607412,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 48.8733232,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0531471,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0641263,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 56.9323959,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0579231,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0704386,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 55.7995141,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0510123,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.06061,
+    "transport": 0.0
+   }
+  },
+  "2025-06": {
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 50.2420153,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0469616,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0565101,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.1845121,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0493191,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0585279,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 53.2422383,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0491561,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0589031,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 49.0426291,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0445814,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.052898,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 53.1119584,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0503452,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0607412,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 48.8733232,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0531471,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0641263,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 56.9323959,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0579231,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0704386,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 55.7995141,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0510123,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.06061,
+    "transport": 0.0
+   }
+  },
+  "2025-07": {
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 50.2420153,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0469616,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0565101,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.1845121,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0493191,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0585279,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 53.2422383,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0491561,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0589031,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 49.0426291,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0445814,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.052898,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 53.1119584,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0503452,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0607412,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 48.8733232,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0531471,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0641263,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 56.9323959,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0579231,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0704386,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 55.7995141,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0510123,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.06061,
+    "transport": 0.0
+   }
+  },
+  "2025-08": {
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 50.2420153,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0469616,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0565101,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.1845121,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0493191,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0585279,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 53.2422383,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0491561,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0589031,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 49.0426291,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0445814,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.052898,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 53.1119584,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0503452,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0607412,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 48.8733232,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0531471,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0641263,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 56.9323959,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0579231,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0704386,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 55.7995141,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0510123,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.06061,
+    "transport": 0.0
+   }
+  },
+  "2025-09": {
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 50.2420153,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0469616,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0565101,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.1845121,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0493191,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0585279,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 53.2422383,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0491561,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0589031,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 49.0426291,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0445814,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.052898,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 53.1119584,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0503452,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0607412,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 48.8733232,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0531471,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0641263,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 56.9323959,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0579231,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0704386,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 55.7995141,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0510123,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.06061,
+    "transport": 0.0
+   }
+  },
+  "2025-10": {
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 50.2420153,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0469616,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0565101,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.1845121,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0493191,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0585279,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 53.2422383,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0491561,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0589031,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 49.0426291,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0445814,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.052898,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 53.1119584,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0503452,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0607412,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 48.8733232,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0531471,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0641263,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 56.9323959,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0579231,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0704386,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 55.7995141,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0510123,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.06061,
+    "transport": 0.0
+   }
+  },
+  "2025-11": {
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 50.2420153,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0469616,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0565101,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.1845121,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0493191,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0585279,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 53.2422383,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0491561,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0589031,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 49.0426291,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0445814,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.052898,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 53.1119584,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0503452,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0607412,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 48.8733232,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0531471,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0641263,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 56.9323959,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0579231,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0704386,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 55.7995141,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0510123,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.06061,
+    "transport": 0.0
+   }
+  },
+  "2025-12": {
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 50.2420153,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0469616,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0565101,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.1845121,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0493191,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0585279,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 53.2422383,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0491561,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0589031,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 49.0426291,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0445814,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.052898,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 53.1119584,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0503452,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0607412,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 48.8733232,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0531471,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0641263,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 56.9323959,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0579231,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0704386,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 55.7995141,
+    "data_management_per_year": 17.51,
+    "distribution_exclusive_night": 0.0510123,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.06061,
+    "transport": 0.0
+   }
+  },
+  "2026-01": {
+   "aieg": {
+    "data_management_per_year": 18.39,
+    "distribution_eco": 0.0430144,
+    "distribution_exclusive_night": 0.0628576,
+    "distribution_medium": 0.0926223,
+    "distribution_offpeak": 0.0628576,
+    "distribution_peak": 0.1137056,
+    "distribution_pic": 0.1422302,
+    "distribution_single": 0.1025439,
+    "prosumer_eur_per_kva_year": 76.4453194,
+    "transport": 0.0258728
+   },
+   "aiesh": {
+    "data_management_per_year": 16.91,
+    "distribution_eco": 0.0518854,
+    "distribution_exclusive_night": 0.0774823,
+    "distribution_medium": 0.1158775,
+    "distribution_offpeak": 0.0774823,
+    "distribution_peak": 0.1430741,
+    "distribution_pic": 0.1798696,
+    "distribution_single": 0.1286759,
+    "prosumer_eur_per_kva_year": 93.6721568,
+    "transport": 0.0258728
+   },
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 49.4036563,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0454058,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0505027,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.0428955,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0482899,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.053177,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 54.2009816,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0473024,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0522864,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 50.1239818,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0450784,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0498061,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 56.2069857,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0534019,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0597838,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 49.0469384,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0489353,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0542695,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 57.0995726,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.056536,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0631937,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 56.1228635,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0501456,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0553921,
+    "transport": 0.0
+   },
+   "ores": {
+    "data_management_per_year": 13.3,
+    "distribution_eco": 0.0480156,
+    "distribution_exclusive_night": 0.0696855,
+    "distribution_medium": 0.1021905,
+    "distribution_offpeak": 0.0696855,
+    "distribution_peak": 0.1252149,
+    "distribution_pic": 0.1563655,
+    "distribution_single": 0.1130255,
+    "prosumer_eur_per_kva_year": 80.9813336,
+    "transport": 0.0258728
+   },
+   "resa": {
+    "data_management_per_year": 25.0,
+    "distribution_eco": 0.0470521,
+    "distribution_exclusive_night": 0.0661578,
+    "distribution_medium": 0.0948164,
+    "distribution_offpeak": 0.0661578,
+    "distribution_peak": 0.1151162,
+    "distribution_pic": 0.1425807,
+    "distribution_single": 0.1043692,
+    "prosumer_eur_per_kva_year": 79.45,
+    "transport": 0.0258728
+   },
+   "rew": {
+    "data_management_per_year": 24.94,
+    "distribution_eco": 0.0520399,
+    "distribution_exclusive_night": 0.0739233,
+    "distribution_medium": 0.1067484,
+    "distribution_offpeak": 0.0739233,
+    "distribution_peak": 0.1299995,
+    "distribution_pic": 0.1614569,
+    "distribution_single": 0.11769,
+    "prosumer_eur_per_kva_year": 87.74,
+    "transport": 0.0258728
+   },
+   "sibelga": {
+    "brussels_power_term_above_13kva": 108.38,
+    "data_management_per_year": 61.14,
+    "distribution_exclusive_night": 0.0710293,
+    "distribution_offpeak": 0.0710293,
+    "distribution_peak": 0.0939223,
+    "distribution_single": 0.0939223,
+    "transport": 0.0214403
+   }
+  },
+  "2026-02": {
+   "aieg": {
+    "data_management_per_year": 18.39,
+    "distribution_eco": 0.0430144,
+    "distribution_exclusive_night": 0.0628576,
+    "distribution_medium": 0.0926223,
+    "distribution_offpeak": 0.0628576,
+    "distribution_peak": 0.1137056,
+    "distribution_pic": 0.1422302,
+    "distribution_single": 0.1025439,
+    "prosumer_eur_per_kva_year": 76.4453194,
+    "transport": 0.0258728
+   },
+   "aiesh": {
+    "data_management_per_year": 16.91,
+    "distribution_eco": 0.0518854,
+    "distribution_exclusive_night": 0.0774823,
+    "distribution_medium": 0.1158775,
+    "distribution_offpeak": 0.0774823,
+    "distribution_peak": 0.1430741,
+    "distribution_pic": 0.1798696,
+    "distribution_single": 0.1286759,
+    "prosumer_eur_per_kva_year": 93.6721568,
+    "transport": 0.0258728
+   },
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 49.4036563,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0454058,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0505027,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.0428955,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0482899,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.053177,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 54.2009816,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0473024,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0522864,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 50.1239818,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0450784,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0498061,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 56.2069857,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0534019,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0597838,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 49.0469384,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0489353,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0542695,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 57.0995726,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.056536,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0631937,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 56.1228635,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0501456,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0553921,
+    "transport": 0.0
+   },
+   "ores": {
+    "data_management_per_year": 13.3,
+    "distribution_eco": 0.0480156,
+    "distribution_exclusive_night": 0.0696855,
+    "distribution_medium": 0.1021905,
+    "distribution_offpeak": 0.0696855,
+    "distribution_peak": 0.1252149,
+    "distribution_pic": 0.1563655,
+    "distribution_single": 0.1130255,
+    "prosumer_eur_per_kva_year": 80.9813336,
+    "transport": 0.0258728
+   },
+   "resa": {
+    "data_management_per_year": 25.0,
+    "distribution_eco": 0.0470521,
+    "distribution_exclusive_night": 0.0661578,
+    "distribution_medium": 0.0948164,
+    "distribution_offpeak": 0.0661578,
+    "distribution_peak": 0.1151162,
+    "distribution_pic": 0.1425807,
+    "distribution_single": 0.1043692,
+    "prosumer_eur_per_kva_year": 79.45,
+    "transport": 0.0258728
+   },
+   "rew": {
+    "data_management_per_year": 24.94,
+    "distribution_eco": 0.0520399,
+    "distribution_exclusive_night": 0.0739233,
+    "distribution_medium": 0.1067484,
+    "distribution_offpeak": 0.0739233,
+    "distribution_peak": 0.1299995,
+    "distribution_pic": 0.1614569,
+    "distribution_single": 0.11769,
+    "prosumer_eur_per_kva_year": 87.74,
+    "transport": 0.0258728
+   },
+   "sibelga": {
+    "brussels_power_term_above_13kva": 108.38,
+    "data_management_per_year": 61.14,
+    "distribution_exclusive_night": 0.0710293,
+    "distribution_offpeak": 0.0710293,
+    "distribution_peak": 0.0939223,
+    "distribution_single": 0.0939223,
+    "transport": 0.0214403
+   }
+  },
+  "2026-03": {
+   "aieg": {
+    "data_management_per_year": 18.39,
+    "distribution_eco": 0.0430144,
+    "distribution_exclusive_night": 0.0628576,
+    "distribution_medium": 0.0926223,
+    "distribution_offpeak": 0.0628576,
+    "distribution_peak": 0.1137056,
+    "distribution_pic": 0.1422302,
+    "distribution_single": 0.1025439,
+    "prosumer_eur_per_kva_year": 76.4453194,
+    "transport": 0.0258728
+   },
+   "aiesh": {
+    "data_management_per_year": 16.91,
+    "distribution_eco": 0.0518854,
+    "distribution_exclusive_night": 0.0774823,
+    "distribution_medium": 0.1158775,
+    "distribution_offpeak": 0.0774823,
+    "distribution_peak": 0.1430741,
+    "distribution_pic": 0.1798696,
+    "distribution_single": 0.1286759,
+    "prosumer_eur_per_kva_year": 93.6721568,
+    "transport": 0.0258728
+   },
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 49.4036563,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0454058,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0505027,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.0428955,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0482899,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.053177,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 54.2009816,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0473024,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0522864,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 50.1239818,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0450784,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0498061,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 56.2069857,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0534019,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0597838,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 49.0469384,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0489353,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0542695,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 57.0995726,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.056536,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0631937,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 56.1228635,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0501456,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0553921,
+    "transport": 0.0
+   },
+   "ores": {
+    "data_management_per_year": 13.3,
+    "distribution_eco": 0.0480156,
+    "distribution_exclusive_night": 0.0696855,
+    "distribution_medium": 0.1021905,
+    "distribution_offpeak": 0.0696855,
+    "distribution_peak": 0.1252149,
+    "distribution_pic": 0.1563655,
+    "distribution_single": 0.1130255,
+    "prosumer_eur_per_kva_year": 80.9813336,
+    "transport": 0.0258728
+   },
+   "resa": {
+    "data_management_per_year": 25.0,
+    "distribution_eco": 0.0470521,
+    "distribution_exclusive_night": 0.0661578,
+    "distribution_medium": 0.0948164,
+    "distribution_offpeak": 0.0661578,
+    "distribution_peak": 0.1151162,
+    "distribution_pic": 0.1425807,
+    "distribution_single": 0.1043692,
+    "prosumer_eur_per_kva_year": 79.45,
+    "transport": 0.0258728
+   },
+   "rew": {
+    "data_management_per_year": 24.94,
+    "distribution_eco": 0.0520399,
+    "distribution_exclusive_night": 0.0739233,
+    "distribution_medium": 0.1067484,
+    "distribution_offpeak": 0.0739233,
+    "distribution_peak": 0.1299995,
+    "distribution_pic": 0.1614569,
+    "distribution_single": 0.11769,
+    "prosumer_eur_per_kva_year": 87.74,
+    "transport": 0.0258728
+   },
+   "sibelga": {
+    "brussels_power_term_above_13kva": 108.38,
+    "data_management_per_year": 61.14,
+    "distribution_exclusive_night": 0.0710293,
+    "distribution_offpeak": 0.0710293,
+    "distribution_peak": 0.0939223,
+    "distribution_single": 0.0939223,
+    "transport": 0.0214403
+   }
+  },
+  "2026-04": {
+   "aieg": {
+    "data_management_per_year": 18.39,
+    "distribution_eco": 0.0430144,
+    "distribution_exclusive_night": 0.0628576,
+    "distribution_medium": 0.0926223,
+    "distribution_offpeak": 0.0628576,
+    "distribution_peak": 0.1137056,
+    "distribution_pic": 0.1422302,
+    "distribution_single": 0.1025439,
+    "prosumer_eur_per_kva_year": 76.4453194,
+    "transport": 0.0258728
+   },
+   "aiesh": {
+    "data_management_per_year": 16.91,
+    "distribution_eco": 0.0518854,
+    "distribution_exclusive_night": 0.0774823,
+    "distribution_medium": 0.1158775,
+    "distribution_offpeak": 0.0774823,
+    "distribution_peak": 0.1430741,
+    "distribution_pic": 0.1798696,
+    "distribution_single": 0.1286759,
+    "prosumer_eur_per_kva_year": 93.6721568,
+    "transport": 0.0258728
+   },
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 49.4036563,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0454058,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0505027,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.0428955,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0482899,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.053177,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 54.2009816,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0473024,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0522864,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 50.1239818,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0450784,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0498061,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 56.2069857,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0534019,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0597838,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 49.0469384,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0489353,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0542695,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 57.0995726,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.056536,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0631937,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 56.1228635,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0501456,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0553921,
+    "transport": 0.0
+   },
+   "ores": {
+    "data_management_per_year": 13.3,
+    "distribution_eco": 0.0480156,
+    "distribution_exclusive_night": 0.0696855,
+    "distribution_medium": 0.1021905,
+    "distribution_offpeak": 0.0696855,
+    "distribution_peak": 0.1252149,
+    "distribution_pic": 0.1563655,
+    "distribution_single": 0.1130255,
+    "prosumer_eur_per_kva_year": 80.9813336,
+    "transport": 0.0258728
+   },
+   "resa": {
+    "data_management_per_year": 25.0,
+    "distribution_eco": 0.0470521,
+    "distribution_exclusive_night": 0.0661578,
+    "distribution_medium": 0.0948164,
+    "distribution_offpeak": 0.0661578,
+    "distribution_peak": 0.1151162,
+    "distribution_pic": 0.1425807,
+    "distribution_single": 0.1043692,
+    "prosumer_eur_per_kva_year": 79.45,
+    "transport": 0.0258728
+   },
+   "rew": {
+    "data_management_per_year": 24.94,
+    "distribution_eco": 0.0520399,
+    "distribution_exclusive_night": 0.0739233,
+    "distribution_medium": 0.1067484,
+    "distribution_offpeak": 0.0739233,
+    "distribution_peak": 0.1299995,
+    "distribution_pic": 0.1614569,
+    "distribution_single": 0.11769,
+    "prosumer_eur_per_kva_year": 87.74,
+    "transport": 0.0258728
+   },
+   "sibelga": {
+    "brussels_power_term_above_13kva": 108.38,
+    "data_management_per_year": 61.14,
+    "distribution_exclusive_night": 0.0710293,
+    "distribution_offpeak": 0.0710293,
+    "distribution_peak": 0.0939223,
+    "distribution_single": 0.0939223,
+    "transport": 0.0214403
+   }
+  },
+  "2026-05": {
+   "aieg": {
+    "data_management_per_year": 18.39,
+    "distribution_eco": 0.0430144,
+    "distribution_exclusive_night": 0.0628576,
+    "distribution_medium": 0.0926223,
+    "distribution_offpeak": 0.0628576,
+    "distribution_peak": 0.1137056,
+    "distribution_pic": 0.1422302,
+    "distribution_single": 0.1025439,
+    "prosumer_eur_per_kva_year": 76.4453194,
+    "transport": 0.0258728
+   },
+   "aiesh": {
+    "data_management_per_year": 16.91,
+    "distribution_eco": 0.0518854,
+    "distribution_exclusive_night": 0.0774823,
+    "distribution_medium": 0.1158775,
+    "distribution_offpeak": 0.0774823,
+    "distribution_peak": 0.1430741,
+    "distribution_pic": 0.1798696,
+    "distribution_single": 0.1286759,
+    "prosumer_eur_per_kva_year": 93.6721568,
+    "transport": 0.0258728
+   },
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 49.4036563,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0454058,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0505027,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.0428955,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0482899,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.053177,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 54.2009816,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0473024,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0522864,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 50.1239818,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0450784,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0498061,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 56.2069857,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0534019,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0597838,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 49.0469384,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0489353,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0542695,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 57.0995726,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.056536,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0631937,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 56.1228635,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0501456,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0553921,
+    "transport": 0.0
+   },
+   "ores": {
+    "data_management_per_year": 13.3,
+    "distribution_eco": 0.0480156,
+    "distribution_exclusive_night": 0.0696855,
+    "distribution_medium": 0.1021905,
+    "distribution_offpeak": 0.0696855,
+    "distribution_peak": 0.1252149,
+    "distribution_pic": 0.1563655,
+    "distribution_single": 0.1130255,
+    "prosumer_eur_per_kva_year": 80.9813336,
+    "transport": 0.0258728
+   },
+   "resa": {
+    "data_management_per_year": 25.0,
+    "distribution_eco": 0.0470521,
+    "distribution_exclusive_night": 0.0661578,
+    "distribution_medium": 0.0948164,
+    "distribution_offpeak": 0.0661578,
+    "distribution_peak": 0.1151162,
+    "distribution_pic": 0.1425807,
+    "distribution_single": 0.1043692,
+    "prosumer_eur_per_kva_year": 79.45,
+    "transport": 0.0258728
+   },
+   "rew": {
+    "data_management_per_year": 24.94,
+    "distribution_eco": 0.0520399,
+    "distribution_exclusive_night": 0.0739233,
+    "distribution_medium": 0.1067484,
+    "distribution_offpeak": 0.0739233,
+    "distribution_peak": 0.1299995,
+    "distribution_pic": 0.1614569,
+    "distribution_single": 0.11769,
+    "prosumer_eur_per_kva_year": 87.74,
+    "transport": 0.0258728
+   },
+   "sibelga": {
+    "brussels_power_term_above_13kva": 108.38,
+    "data_management_per_year": 61.14,
+    "distribution_exclusive_night": 0.0710293,
+    "distribution_offpeak": 0.0710293,
+    "distribution_peak": 0.0939223,
+    "distribution_single": 0.0939223,
+    "transport": 0.0214403
+   }
+  },
+  "2026-06": {
+   "aieg": {
+    "data_management_per_year": 18.39,
+    "distribution_eco": 0.0430144,
+    "distribution_exclusive_night": 0.0628576,
+    "distribution_medium": 0.0926223,
+    "distribution_offpeak": 0.0628576,
+    "distribution_peak": 0.1137056,
+    "distribution_pic": 0.1422302,
+    "distribution_single": 0.1025439,
+    "prosumer_eur_per_kva_year": 76.4453194,
+    "transport": 0.0258728
+   },
+   "aiesh": {
+    "data_management_per_year": 16.91,
+    "distribution_eco": 0.0518854,
+    "distribution_exclusive_night": 0.0774823,
+    "distribution_medium": 0.1158775,
+    "distribution_offpeak": 0.0774823,
+    "distribution_peak": 0.1430741,
+    "distribution_pic": 0.1798696,
+    "distribution_single": 0.1286759,
+    "prosumer_eur_per_kva_year": 93.6721568,
+    "transport": 0.0258728
+   },
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 49.4036563,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0454058,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0505027,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.0428955,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0482899,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.053177,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 54.2009816,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0473024,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0522864,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 50.1239818,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0450784,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0498061,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 56.2069857,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0534019,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0597838,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 49.0469384,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0489353,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0542695,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 57.0995726,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.056536,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0631937,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 56.1228635,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0501456,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0553921,
+    "transport": 0.0
+   },
+   "ores": {
+    "data_management_per_year": 13.3,
+    "distribution_eco": 0.0480156,
+    "distribution_exclusive_night": 0.0696855,
+    "distribution_medium": 0.1021905,
+    "distribution_offpeak": 0.0696855,
+    "distribution_peak": 0.1252149,
+    "distribution_pic": 0.1563655,
+    "distribution_single": 0.1130255,
+    "prosumer_eur_per_kva_year": 80.9813336,
+    "transport": 0.0258728
+   },
+   "resa": {
+    "data_management_per_year": 25.0,
+    "distribution_eco": 0.0470521,
+    "distribution_exclusive_night": 0.0661578,
+    "distribution_medium": 0.0948164,
+    "distribution_offpeak": 0.0661578,
+    "distribution_peak": 0.1151162,
+    "distribution_pic": 0.1425807,
+    "distribution_single": 0.1043692,
+    "prosumer_eur_per_kva_year": 79.45,
+    "transport": 0.0258728
+   },
+   "rew": {
+    "data_management_per_year": 24.94,
+    "distribution_eco": 0.0520399,
+    "distribution_exclusive_night": 0.0739233,
+    "distribution_medium": 0.1067484,
+    "distribution_offpeak": 0.0739233,
+    "distribution_peak": 0.1299995,
+    "distribution_pic": 0.1614569,
+    "distribution_single": 0.11769,
+    "prosumer_eur_per_kva_year": 87.74,
+    "transport": 0.0258728
+   },
+   "sibelga": {
+    "brussels_power_term_above_13kva": 108.38,
+    "data_management_per_year": 61.14,
+    "distribution_exclusive_night": 0.0710293,
+    "distribution_offpeak": 0.0710293,
+    "distribution_peak": 0.0939223,
+    "distribution_single": 0.0939223,
+    "transport": 0.0214403
+   }
+  },
+  "2026-07": {
+   "aieg": {
+    "data_management_per_year": 18.39,
+    "distribution_eco": 0.0430144,
+    "distribution_exclusive_night": 0.0628576,
+    "distribution_medium": 0.0926223,
+    "distribution_offpeak": 0.0628576,
+    "distribution_peak": 0.1137056,
+    "distribution_pic": 0.1422302,
+    "distribution_single": 0.1025439,
+    "prosumer_eur_per_kva_year": 76.4453194,
+    "transport": 0.0258728
+   },
+   "aiesh": {
+    "data_management_per_year": 16.91,
+    "distribution_eco": 0.0518854,
+    "distribution_exclusive_night": 0.0774823,
+    "distribution_medium": 0.1158775,
+    "distribution_offpeak": 0.0774823,
+    "distribution_peak": 0.1430741,
+    "distribution_pic": 0.1798696,
+    "distribution_single": 0.1286759,
+    "prosumer_eur_per_kva_year": 93.6721568,
+    "transport": 0.0258728
+   },
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 49.4036563,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0454058,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0505027,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.0428955,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0482899,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.053177,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 54.2009816,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0473024,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0522864,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 50.1239818,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0450784,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0498061,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 56.2069857,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0534019,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0597838,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 49.0469384,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0489353,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0542695,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 57.0995726,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.056536,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0631937,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 56.1228635,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0501456,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0553921,
+    "transport": 0.0
+   },
+   "ores": {
+    "data_management_per_year": 13.3,
+    "distribution_eco": 0.0480156,
+    "distribution_exclusive_night": 0.0696855,
+    "distribution_medium": 0.1021905,
+    "distribution_offpeak": 0.0696855,
+    "distribution_peak": 0.1252149,
+    "distribution_pic": 0.1563655,
+    "distribution_single": 0.1130255,
+    "prosumer_eur_per_kva_year": 80.9813336,
+    "transport": 0.0258728
+   },
+   "resa": {
+    "data_management_per_year": 25.0,
+    "distribution_eco": 0.0470521,
+    "distribution_exclusive_night": 0.0661578,
+    "distribution_medium": 0.0948164,
+    "distribution_offpeak": 0.0661578,
+    "distribution_peak": 0.1151162,
+    "distribution_pic": 0.1425807,
+    "distribution_single": 0.1043692,
+    "prosumer_eur_per_kva_year": 79.45,
+    "transport": 0.0258728
+   },
+   "rew": {
+    "data_management_per_year": 24.94,
+    "distribution_eco": 0.0520399,
+    "distribution_exclusive_night": 0.0739233,
+    "distribution_medium": 0.1067484,
+    "distribution_offpeak": 0.0739233,
+    "distribution_peak": 0.1299995,
+    "distribution_pic": 0.1614569,
+    "distribution_single": 0.11769,
+    "prosumer_eur_per_kva_year": 87.74,
+    "transport": 0.0258728
+   },
+   "sibelga": {
+    "brussels_power_term_above_13kva": 108.38,
+    "data_management_per_year": 61.14,
+    "distribution_exclusive_night": 0.0710293,
+    "distribution_offpeak": 0.0710293,
+    "distribution_peak": 0.0939223,
+    "distribution_single": 0.0939223,
+    "transport": 0.0214403
+   }
+  },
+  "2026-08": {
+   "aieg": {
+    "data_management_per_year": 18.39,
+    "distribution_eco": 0.0430144,
+    "distribution_exclusive_night": 0.0628576,
+    "distribution_medium": 0.0926223,
+    "distribution_offpeak": 0.0628576,
+    "distribution_peak": 0.1137056,
+    "distribution_pic": 0.1422302,
+    "distribution_single": 0.1025439,
+    "prosumer_eur_per_kva_year": 76.4453194,
+    "transport": 0.0258728
+   },
+   "aiesh": {
+    "data_management_per_year": 16.91,
+    "distribution_eco": 0.0518854,
+    "distribution_exclusive_night": 0.0774823,
+    "distribution_medium": 0.1158775,
+    "distribution_offpeak": 0.0774823,
+    "distribution_peak": 0.1430741,
+    "distribution_pic": 0.1798696,
+    "distribution_single": 0.1286759,
+    "prosumer_eur_per_kva_year": 93.6721568,
+    "transport": 0.0258728
+   },
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 49.4036563,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0454058,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0505027,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.0428955,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0482899,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.053177,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 54.2009816,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0473024,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0522864,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 50.1239818,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0450784,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0498061,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 56.2069857,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0534019,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0597838,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 49.0469384,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0489353,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0542695,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 57.0995726,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.056536,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0631937,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 56.1228635,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0501456,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0553921,
+    "transport": 0.0
+   },
+   "ores": {
+    "data_management_per_year": 13.3,
+    "distribution_eco": 0.0480156,
+    "distribution_exclusive_night": 0.0696855,
+    "distribution_medium": 0.1021905,
+    "distribution_offpeak": 0.0696855,
+    "distribution_peak": 0.1252149,
+    "distribution_pic": 0.1563655,
+    "distribution_single": 0.1130255,
+    "prosumer_eur_per_kva_year": 80.9813336,
+    "transport": 0.0258728
+   },
+   "resa": {
+    "data_management_per_year": 25.0,
+    "distribution_eco": 0.0470521,
+    "distribution_exclusive_night": 0.0661578,
+    "distribution_medium": 0.0948164,
+    "distribution_offpeak": 0.0661578,
+    "distribution_peak": 0.1151162,
+    "distribution_pic": 0.1425807,
+    "distribution_single": 0.1043692,
+    "prosumer_eur_per_kva_year": 79.45,
+    "transport": 0.0258728
+   },
+   "rew": {
+    "data_management_per_year": 24.94,
+    "distribution_eco": 0.0520399,
+    "distribution_exclusive_night": 0.0739233,
+    "distribution_medium": 0.1067484,
+    "distribution_offpeak": 0.0739233,
+    "distribution_peak": 0.1299995,
+    "distribution_pic": 0.1614569,
+    "distribution_single": 0.11769,
+    "prosumer_eur_per_kva_year": 87.74,
+    "transport": 0.0258728
+   },
+   "sibelga": {
+    "brussels_power_term_above_13kva": 108.38,
+    "data_management_per_year": 61.14,
+    "distribution_exclusive_night": 0.0710293,
+    "distribution_offpeak": 0.0710293,
+    "distribution_peak": 0.0939223,
+    "distribution_single": 0.0939223,
+    "transport": 0.0214403
+   }
+  },
+  "2026-09": {
+   "aieg": {
+    "data_management_per_year": 18.39,
+    "distribution_eco": 0.0430144,
+    "distribution_exclusive_night": 0.0628576,
+    "distribution_medium": 0.0926223,
+    "distribution_offpeak": 0.0628576,
+    "distribution_peak": 0.1137056,
+    "distribution_pic": 0.1422302,
+    "distribution_single": 0.1025439,
+    "prosumer_eur_per_kva_year": 76.4453194,
+    "transport": 0.0258728
+   },
+   "aiesh": {
+    "data_management_per_year": 16.91,
+    "distribution_eco": 0.0518854,
+    "distribution_exclusive_night": 0.0774823,
+    "distribution_medium": 0.1158775,
+    "distribution_offpeak": 0.0774823,
+    "distribution_peak": 0.1430741,
+    "distribution_pic": 0.1798696,
+    "distribution_single": 0.1286759,
+    "prosumer_eur_per_kva_year": 93.6721568,
+    "transport": 0.0258728
+   },
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 49.4036563,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0454058,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0505027,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.0428955,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0482899,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.053177,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 54.2009816,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0473024,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0522864,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 50.1239818,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0450784,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0498061,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 56.2069857,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0534019,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0597838,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 49.0469384,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0489353,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0542695,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 57.0995726,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.056536,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0631937,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 56.1228635,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0501456,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0553921,
+    "transport": 0.0
+   },
+   "ores": {
+    "data_management_per_year": 13.3,
+    "distribution_eco": 0.0480156,
+    "distribution_exclusive_night": 0.0696855,
+    "distribution_medium": 0.1021905,
+    "distribution_offpeak": 0.0696855,
+    "distribution_peak": 0.1252149,
+    "distribution_pic": 0.1563655,
+    "distribution_single": 0.1130255,
+    "prosumer_eur_per_kva_year": 80.9813336,
+    "transport": 0.0258728
+   },
+   "resa": {
+    "data_management_per_year": 25.0,
+    "distribution_eco": 0.0470521,
+    "distribution_exclusive_night": 0.0661578,
+    "distribution_medium": 0.0948164,
+    "distribution_offpeak": 0.0661578,
+    "distribution_peak": 0.1151162,
+    "distribution_pic": 0.1425807,
+    "distribution_single": 0.1043692,
+    "prosumer_eur_per_kva_year": 79.45,
+    "transport": 0.0258728
+   },
+   "rew": {
+    "data_management_per_year": 24.94,
+    "distribution_eco": 0.0520399,
+    "distribution_exclusive_night": 0.0739233,
+    "distribution_medium": 0.1067484,
+    "distribution_offpeak": 0.0739233,
+    "distribution_peak": 0.1299995,
+    "distribution_pic": 0.1614569,
+    "distribution_single": 0.11769,
+    "prosumer_eur_per_kva_year": 87.74,
+    "transport": 0.0258728
+   },
+   "sibelga": {
+    "brussels_power_term_above_13kva": 108.38,
+    "data_management_per_year": 61.14,
+    "distribution_exclusive_night": 0.0710293,
+    "distribution_offpeak": 0.0710293,
+    "distribution_peak": 0.0939223,
+    "distribution_single": 0.0939223,
+    "transport": 0.0214403
+   }
+  },
+  "2026-10": {
+   "aieg": {
+    "data_management_per_year": 18.39,
+    "distribution_eco": 0.0430144,
+    "distribution_exclusive_night": 0.0628576,
+    "distribution_medium": 0.0926223,
+    "distribution_offpeak": 0.0628576,
+    "distribution_peak": 0.1137056,
+    "distribution_pic": 0.1422302,
+    "distribution_single": 0.1025439,
+    "prosumer_eur_per_kva_year": 76.4453194,
+    "transport": 0.0258728
+   },
+   "aiesh": {
+    "data_management_per_year": 16.91,
+    "distribution_eco": 0.0518854,
+    "distribution_exclusive_night": 0.0774823,
+    "distribution_medium": 0.1158775,
+    "distribution_offpeak": 0.0774823,
+    "distribution_peak": 0.1430741,
+    "distribution_pic": 0.1798696,
+    "distribution_single": 0.1286759,
+    "prosumer_eur_per_kva_year": 93.6721568,
+    "transport": 0.0258728
+   },
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 49.4036563,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0454058,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0505027,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.0428955,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0482899,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.053177,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 54.2009816,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0473024,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0522864,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 50.1239818,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0450784,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0498061,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 56.2069857,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0534019,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0597838,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 49.0469384,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0489353,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0542695,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 57.0995726,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.056536,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0631937,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 56.1228635,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0501456,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0553921,
+    "transport": 0.0
+   },
+   "ores": {
+    "data_management_per_year": 13.3,
+    "distribution_eco": 0.0480156,
+    "distribution_exclusive_night": 0.0696855,
+    "distribution_medium": 0.1021905,
+    "distribution_offpeak": 0.0696855,
+    "distribution_peak": 0.1252149,
+    "distribution_pic": 0.1563655,
+    "distribution_single": 0.1130255,
+    "prosumer_eur_per_kva_year": 80.9813336,
+    "transport": 0.0258728
+   },
+   "resa": {
+    "data_management_per_year": 25.0,
+    "distribution_eco": 0.0470521,
+    "distribution_exclusive_night": 0.0661578,
+    "distribution_medium": 0.0948164,
+    "distribution_offpeak": 0.0661578,
+    "distribution_peak": 0.1151162,
+    "distribution_pic": 0.1425807,
+    "distribution_single": 0.1043692,
+    "prosumer_eur_per_kva_year": 79.45,
+    "transport": 0.0258728
+   },
+   "rew": {
+    "data_management_per_year": 24.94,
+    "distribution_eco": 0.0520399,
+    "distribution_exclusive_night": 0.0739233,
+    "distribution_medium": 0.1067484,
+    "distribution_offpeak": 0.0739233,
+    "distribution_peak": 0.1299995,
+    "distribution_pic": 0.1614569,
+    "distribution_single": 0.11769,
+    "prosumer_eur_per_kva_year": 87.74,
+    "transport": 0.0258728
+   },
+   "sibelga": {
+    "brussels_power_term_above_13kva": 108.38,
+    "data_management_per_year": 61.14,
+    "distribution_exclusive_night": 0.0710293,
+    "distribution_offpeak": 0.0710293,
+    "distribution_peak": 0.0939223,
+    "distribution_single": 0.0939223,
+    "transport": 0.0214403
+   }
+  },
+  "2026-11": {
+   "aieg": {
+    "data_management_per_year": 18.39,
+    "distribution_eco": 0.0430144,
+    "distribution_exclusive_night": 0.0628576,
+    "distribution_medium": 0.0926223,
+    "distribution_offpeak": 0.0628576,
+    "distribution_peak": 0.1137056,
+    "distribution_pic": 0.1422302,
+    "distribution_single": 0.1025439,
+    "prosumer_eur_per_kva_year": 76.4453194,
+    "transport": 0.0258728
+   },
+   "aiesh": {
+    "data_management_per_year": 16.91,
+    "distribution_eco": 0.0518854,
+    "distribution_exclusive_night": 0.0774823,
+    "distribution_medium": 0.1158775,
+    "distribution_offpeak": 0.0774823,
+    "distribution_peak": 0.1430741,
+    "distribution_pic": 0.1798696,
+    "distribution_single": 0.1286759,
+    "prosumer_eur_per_kva_year": 93.6721568,
+    "transport": 0.0258728
+   },
+   "fluvius_antwerpen": {
+    "capacity_eur_per_kw_year": 49.4036563,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0454058,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0505027,
+    "transport": 0.0
+   },
+   "fluvius_halle_vilvoorde": {
+    "capacity_eur_per_kw_year": 56.0428955,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0482899,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.053177,
+    "transport": 0.0
+   },
+   "fluvius_imewo": {
+    "capacity_eur_per_kw_year": 54.2009816,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0473024,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0522864,
+    "transport": 0.0
+   },
+   "fluvius_intergem": {
+    "capacity_eur_per_kw_year": 50.1239818,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0450784,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0498061,
+    "transport": 0.0
+   },
+   "fluvius_iveka": {
+    "capacity_eur_per_kw_year": 56.2069857,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0534019,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0597838,
+    "transport": 0.0
+   },
+   "fluvius_limburg": {
+    "capacity_eur_per_kw_year": 49.0469384,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0489353,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0542695,
+    "transport": 0.0
+   },
+   "fluvius_west": {
+    "capacity_eur_per_kw_year": 57.0995726,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.056536,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0631937,
+    "transport": 0.0
+   },
+   "fluvius_zenne_dijle": {
+    "capacity_eur_per_kw_year": 56.1228635,
+    "data_management_per_year": 17.85,
+    "distribution_exclusive_night": 0.0501456,
+    "distribution_offpeak": null,
+    "distribution_peak": null,
+    "distribution_single": 0.0553921,
+    "transport": 0.0
+   },
+   "ores": {
+    "data_management_per_year": 13.3,
+    "distribution_eco": 0.0480156,
+    "distribution_exclusive_night": 0.0696855,
+    "distribution_medium": 0.1021905,
+    "distribution_offpeak": 0.0696855,
+    "distribution_peak": 0.1252149,
+    "distribution_pic": 0.1563655,
+    "distribution_single": 0.1130255,
+    "prosumer_eur_per_kva_year": 80.9813336,
+    "transport": 0.0258728
+   },
+   "resa": {
+    "data_management_per_year": 25.0,
+    "distribution_eco": 0.0470521,
+    "distribution_exclusive_night": 0.0661578,
+    "distribution_medium": 0.0948164,
+    "distribution_offpeak": 0.0661578,
+    "distribution_peak": 0.1151162,
+    "distribution_pic": 0.1425807,
+    "distribution_single": 0.1043692,
+    "prosumer_eur_per_kva_year": 79.45,
+    "transport": 0.0258728
+   },
+   "rew": {
+    "data_management_per_year": 24.94,
+    "distribution_eco": 0.0520399,
+    "distribution_exclusive_night": 0.0739233,
+    "distribution_medium": 0.1067484,
+    "distribution_offpeak": 0.0739233,
+    "distribution_peak": 0.1299995,
+    "distribution_pic": 0.1614569,
+    "distribution_single": 0.11769,
+    "prosumer_eur_per_kva_year": 87.74,
+    "transport": 0.0258728
+   },
+   "sibelga": {
+    "brussels_power_term_above_13kva": 108.38,
+    "data_management_per_year": 61.14,
+    "distribution_exclusive_night": 0.0710293,
+    "distribution_offpeak": 0.0710293,
+    "distribution_peak": 0.0939223,
+    "distribution_single": 0.0939223,
+    "transport": 0.0214403
+   }
+  }
+ }
+}

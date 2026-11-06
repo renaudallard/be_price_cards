@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-05T13:30:57.940003+00:00",
+ "_cached_at": "2026-11-06T13:15:20.472091+00:00",
  "_probe_key": null,
- "_schema_version": 88,
- "_seen_on": "2026-11-05",
+ "_schema_version": 89,
+ "_seen_on": "2026-11-06",
  "_sources": [
   {
    "pdf": "778fbaf81f3b9c24fe3bf80bc3c94e8463f0a034b8371ccfaddfa80f00b89620",
@@ -12,17 +12,10 @@
    "variant": "layout"
   },
   {
-   "pdf": "74b31687386b004864f8ce524e42535516ab5198d32f15d639c4c4b1846f51e5",
+   "pdf": "bbaccd20da4a6c650276cfff28e7690418aae21dd65177ffff0e1d55b31a0ed9",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
-   "text": "texts/2026-11/bd619d094b67bc47d9dfed2f09ea417543b3f55fc46100e9de59239004c32620.txt",
+   "text": "texts/2026-11/97959382e51cc320a2900316993789692f0caff98e30f69050357c7f465435db.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYDYNAMIC_ELECTRICITY_BXL_FR.pdf",
-   "variant": "layout"
-  },
-  {
-   "pdf": "4af218e068f2bb3a910aee06e94524564d5d2d97c1fa9ff931b9eaeb61207093",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
-   "text": "texts/2026-11/647f582221b57fadb02185d27fa4c0a4b718142ab079895328e3c5ba0a885bde.txt",
-   "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYDYNAMIC_ELECTRICITY_BXL_NL.pdf",
    "variant": "layout"
   }
  ],
@@ -86,12 +79,12 @@
   "vat_applies": false
  },
  "publication_label": "novembre 2026",
- "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYDYNAMIC_ELECTRICITY_BXL_NL.pdf",
+ "source_url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYDYNAMIC_ELECTRICITY_BXL_FR.pdf",
  "supplier": "totalenergies",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
-  "assumed_vat_rate": 0.06,
   "brussels_renewables": 0.0262,
+  "card_vat_rate": 0.06,
   "energy_contribution": 0.0,
   "energy_fund_eur_per_month": 0.0,
   "federal_excise": 0.0447,
