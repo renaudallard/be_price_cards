@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-05",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "8fad3a38efebcd5fbef7947cd8fb34c11787425d07c9aa5f125f406492f95c8e",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/b27c849241a0eda6fc4415c9e45ec846ea23e7bc13f580de91f8ab658eb3b844.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/GAZ-VARIABLE_GAS_VL_FR.pdf",
    "variant": "layout"

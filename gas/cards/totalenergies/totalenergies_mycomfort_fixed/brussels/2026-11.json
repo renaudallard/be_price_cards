@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-05",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "acd3129c31e84605b8d5be9a0fb79c8d6cffc3ca3331f213b78d85934932301a",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/b769e08b768025743f8422a23ba736d3ecb03fdde8d2a549f33eecee20d0a76a.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYCOMFORT-FIXED_GAS_BXL_FR.pdf",
    "variant": "layout"

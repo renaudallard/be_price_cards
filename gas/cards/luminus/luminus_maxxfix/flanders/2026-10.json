@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "da5db6d61972ad6d27d140aca43b5c9793c0910bdcb0879896b8beb2df0ce80c",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/3452f6ec467f78e7dbfc18df9694b794b3f678b4330bbbcc6f7f05cfb473094a.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxfix&energyType=gas&language=fr&tabValue=Flanders",
    "variant": "plain"

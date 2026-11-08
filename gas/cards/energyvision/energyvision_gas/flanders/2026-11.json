@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-05",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "382b3194e0b555d5ed78b7a6f9ffaae2d838761f80235deb2f146178ab62bae7",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/c5df6d4109630539bb4eb786f9994c2879d8fa8d87bd2705a00a055bfc677e87.txt",
    "url": "https://www.energyvision.be/sites/default/files/2026-10/EV-1126-GSG-nl.pdf",
    "variant": "layout"

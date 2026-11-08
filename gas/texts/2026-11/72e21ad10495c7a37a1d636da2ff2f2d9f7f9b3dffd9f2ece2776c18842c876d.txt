@@ -26,7 +26,7 @@
         <link type="text/css" rel="stylesheet" href="/web/assets/76/aa77d4c/web.assets_frontend.min.css"/>
         <script id="web.layout.odooscript" type="text/javascript">
             var odoo = {
-                csrf_token: "ee6975bda8f376fd92648b9b1b3ea0be8659d063o1825426696",
+                csrf_token: "e1c641c11ffd3bcbf75bc2de74cb987f8c0468f1o1825676243",
                 debug: "",
             };
         </script>
@@ -248,13 +248,13 @@ Geniet meteen van prijsdalingen
                                 </div>
                                 <div class="xx_ratecard_footer 
             ">
-                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1957/file" class="xx-tariff-card-link">
-                                            <span class="fa fa-chevron-right"></span>
-                                            <span>Marktflex_NG</span>
-                                        </a>
                                         <a target="new" href="/web/content/xx.product.group.tariff.card/1956/file" class="xx-tariff-card-link">
                                             <span class="fa fa-chevron-right"></span>
                                             <span>Marktflex_EL</span>
+                                        </a>
+                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1957/file" class="xx-tariff-card-link">
+                                            <span class="fa fa-chevron-right"></span>
+                                            <span>Marktflex_NG</span>
                                         </a>
             
                                 </div>
@@ -283,13 +283,13 @@ Geniet meteen van prijsdalingen
                                 </div>
                                 <div class="xx_ratecard_footer 
             ">
-                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1959/file" class="xx-tariff-card-link">
-                                            <span class="fa fa-chevron-right"></span>
-                                            <span>Marktflex_NG</span>
-                                        </a>
                                         <a target="new" href="/web/content/xx.product.group.tariff.card/1958/file" class="xx-tariff-card-link">
                                             <span class="fa fa-chevron-right"></span>
                                             <span>ComfortFlex_EL</span>
+                                        </a>
+                                        <a target="new" href="/web/content/xx.product.group.tariff.card/1959/file" class="xx-tariff-card-link">
+                                            <span class="fa fa-chevron-right"></span>
+                                            <span>Marktflex_NG</span>
                                         </a>
             
                                 </div>
@@ -298,7 +298,7 @@ Geniet meteen van prijsdalingen
                 </div>
             
             <form class="d-none" method="post" id="customer_form">
-                <input type="hidden" name="csrf_token" value="ee6975bda8f376fd92648b9b1b3ea0be8659d063o1825426696"/>
+                <input type="hidden" name="csrf_token" value="697c33f4f90ea4696d50eb71146a00d39f84d159o1825676242"/>
                 <input type="hidden" name="ratecard_ids"/>
                 <input type="hidden" name="product_group_id"/>
                 <input type="hidden" name="fix_variable"/>
@@ -320,7 +320,7 @@ Geniet meteen van prijsdalingen
             <form class="d-none" method="post" id="detail_form">
                 <input type="hidden" name="zip"/>
                 <input type="hidden" name="city"/>
-                <input type="hidden" name="csrf_token" value="ee6975bda8f376fd92648b9b1b3ea0be8659d063o1825426696"/>
+                <input type="hidden" name="csrf_token" value="697c33f4f90ea4696d50eb71146a00d39f84d159o1825676242"/>
                 <input type="hidden" name="connection_type"/>
                 <input type="hidden" name="meter_type"/>
                 <input type="hidden" name="excl_night"/>

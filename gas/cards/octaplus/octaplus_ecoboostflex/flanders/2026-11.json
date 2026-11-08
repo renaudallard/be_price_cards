@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-06",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "36b1d4851c676f91a2583f6332908c426cb46595414be0507528697eca7c8f77",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/b889650c08cad7c65d15766f019584fa8789093b5ee1ec55ebcf605e2f1921f0.txt",
    "url": "https://files.octaplus.be/tariffs/G_OCTA_ECOBOOSTFLEX_RE_VL_FR.pdf",
    "variant": "layout"

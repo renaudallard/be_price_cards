@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-05",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "efb3d7746118c98a63143f538ba033ffa546f0dba6a53c43af1b3dc3e8968eb7",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/690b5b75f8e59ffda2bf94fefc8b9313dbcb1952eaaa7a8669b1ee41f121016e.txt",
    "url": "https://www.energyvision.be/sites/default/files/2026-10/EV-1126-GSG-WAL-fr.pdf",
    "variant": "layout"

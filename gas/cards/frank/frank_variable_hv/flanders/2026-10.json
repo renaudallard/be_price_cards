@@ -8,7 +8,7 @@
   },
   {
    "pdf": "09051e0b3e7ac786667c61c385f0fc7f716d43b827406dafb6c0cdd169fbc572",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/1f336ac5c3572aa2420d8bcad47f409db340665bd2786189d4f23d84a86c42de.txt",
    "url": "https://cdn.sanity.io/files/8navd656/production-be/76edfde0df9272aaa353bcc83e63f6de6b649882.pdf",
    "variant": "layout"

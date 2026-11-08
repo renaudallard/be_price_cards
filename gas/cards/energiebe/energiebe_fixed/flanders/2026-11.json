@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-11-05",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "text": "texts/2026-11/21dde76c4bc6bcbaf6a368ec6fb7e81c74fc04d82060c3539bbfca7f8f5eb103.txt",
@@ -8,14 +8,14 @@
   },
   {
    "pdf": "f2256290d3964899f454e36b184bf210766a56e532395a16389fd5db46f441bf",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/d567f1c953d2a34495cbdffa9cb1c5dbe730635066488934d882bca8898d1e2e.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/VAST_Energie_be_RES_GAS_pdf_276e3f8ac3.pdf",
    "variant": "layout"
   },
   {
    "pdf": "f2256290d3964899f454e36b184bf210766a56e532395a16389fd5db46f441bf",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/a04b9a99556fbc9abc33d63c57a66d738b98dafcdc5bd17b39e72482ae622cd7.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/VAST_Energie_be_RES_GAS_pdf_276e3f8ac3.pdf",
    "variant": "plain"

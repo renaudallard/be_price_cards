@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-05",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "428902d9b6ea728038f2970e2cd66a63de76bd6ff3d8b2a34d27d41ed4e52f57",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/01c244c058e86317db33a18da63b8cf88bcccc4710a41d6ab5a98861205019b3.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/IMPACT_GAS_WAL_FR.pdf",
    "variant": "layout"

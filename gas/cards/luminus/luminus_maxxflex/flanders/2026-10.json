@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "fcf9f57be263c541d61ffa78460e6208a78710a772662ca3e1daaf9f7327c5a1",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/9b2c732acd282ac7ce725c664fa3e0b83b1196ae5f9fab857df20e7b0935eef6.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxflex&energyType=gas&language=fr&tabValue=Flanders",
    "variant": "plain"

@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-05",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "28e51028c4eb95642934b2668f3a6d3f8597e238ea756c903f63296101deec78",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/db9da6fcbb004022d7df95bae09f93e3c917b1fbac4aa3a5fbce8010dde9d590.txt",
    "url": "https://www.dotsenergy.be/api/tariefkaarten/dots-connect-gas-digital",
    "variant": "plain"

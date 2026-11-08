@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-05",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
-   "text": "texts/2026-11/b7340b803ac02832a0fef21840c2a77a2c4b40ed4c0935e31603b644585b70ac.txt",
+   "text": "texts/2026-11/f83d045ea367bc36b9e63e7161aad2bcdf91ed781fc2e1df00c19947e8930927.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
    "pdf": "ef63be5caee76bf17874d6aa316d8bc95d14aa7d53291c118b94cd2e0fa3e5f6",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/83b90b69fa33dece5dc3dad386bc204765cdd3a36b976c845dc04304ee421447.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-112026-Offpeak-Impact-Var.pdf",
    "variant": "plain"

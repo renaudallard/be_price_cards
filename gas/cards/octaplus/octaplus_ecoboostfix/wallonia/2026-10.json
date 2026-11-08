@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "cd2028802e696321f07881d341a969e10b1f6549ce12930c4fd21e98e609774e",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/f9c61999b5cf0ec6fd32f3c8e3858d1415922f02c5d4d9d5b350d01cd31df7ad.txt",
    "url": "https://files.octaplus.be/tariffs/G_OCTA_ECOBOOSTFIX_RE_WL_FR.pdf",
    "variant": "layout"

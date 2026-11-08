@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-05",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "fb1cfc7550f174bfa8f6d6ea91ee4c967876acfe7f8baa326756ebd66e4067ca",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/8c4ee87be841684ac1fc42ada6c3557cedc10c40c9bca8db53cdd72bc223b484.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYESSENTIAL_GAS_WAL_FR.pdf",
    "variant": "layout"

@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-05",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "e199c474f8ca0e85ac4e9b4e5d16dce6ba58a670ad842644b5bfc195ac24b22f",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/6a0c2dc7330b1052fa8caaac2aa254572ca964d303b0ad5faf9dcb87504ab1a0.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/GAZ-FIXE_GAS_VL_FR.pdf",
    "variant": "layout"

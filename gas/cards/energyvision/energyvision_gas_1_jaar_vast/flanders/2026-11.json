@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-05",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "f2bcbe688e768fd4c8d68c646cc25529a8e443efcc58c0e61141ff88facb7e40",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/e25a162d916531dbe40e19e266c41a25f0cc5c80c862d96816d29f46c9ddf44a.txt",
    "url": "https://www.energyvision.be/sites/default/files/2026-11/EV-1126-GS1JVG-nl_0.pdf",
    "variant": "layout"

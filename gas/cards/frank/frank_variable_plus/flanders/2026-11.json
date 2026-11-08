@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-05",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
-   "text": "texts/2026-11/0255ec6b88e6b0bddf78db6ffc533196dc574473137a9808adc13fc5726486e3.txt",
+   "text": "texts/2026-11/025353c6844c95824267a704feb1f9155562c34922155d953c6ea4dc10de4e4b.txt",
    "url": "https://8navd656.api.sanity.io/v2023-01-01/data/query/production-be?[('query', '*[_type==\"sanity.fileAsset\" && originalFilename match \"*Gas*\"]{originalFilename,url,_createdAt} | order(_createdAt desc)[0..39]')]",
    "variant": "text"
   },
   {
    "pdf": "34f4a6ae0d37550e85e29459f8f3b9f64a338f0e55cd1d08562459f0e150df41",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/c827ab63c3875d5f532241081959fdc99e49eb47b1494f113fe8de004747698f.txt",
    "url": "https://cdn.sanity.io/files/8navd656/production-be/ad7792e2c7fa70644b1784ae9e3f0966731e0426.pdf",
    "variant": "layout"

@@ -13,14 +13,14 @@
   },
   {
    "pdf": "dfc33312bbf3882a4d330619223f1a8b2d4f19471491627e2b7ce51d7353a6e8",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/d3a4e6a4753da25503682e2dab6acd2d3214b1008953cbafc7ba73f8f8df76f8.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-03+G+OCTA%2BSMARTVARIABLE+RE+VL+FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "dfc33312bbf3882a4d330619223f1a8b2d4f19471491627e2b7ce51d7353a6e8",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/a6d851f4013b04394b5bc5cdb5e677107f5027143786de5986f12f49fa5ea8ec.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-03+G+OCTA%2BSMARTVARIABLE+RE+VL+FR.pdf",
    "variant": "rows"

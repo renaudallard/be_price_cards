@@ -8,7 +8,7 @@
   },
   {
    "pdf": "103e28084c789fcf8fe76bcd0a0d8604e22b026dfcd969effeff9949bd883b3b",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=e2f41d493c52f382",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-11/9140145f80ba92da65255c702123656dacb9e8bee73db45c3631a51b3da907e8.txt",
    "url": "https://files.boltenergie.be/pricelists/var/plenty_online_res_ng_fr_14.pdf",
    "variant": "layout"
