@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-06",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "2a5b8f63532034a10e9023115e9989e70a717c65ea5a0aa9248e73aab21d161a",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-11/261cc94ed13e976940fdd740f63d1c70ab33f496d894904865106b3415e8d1cc.txt",
    "url": "https://files.octaplus.be/tariffs/E_OCTA_ECOBOOSTFLEX_RE_VL_FR.pdf",
    "variant": "aligned:1.0"

@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-11-04",
@@ -11,14 +11,14 @@
   },
   {
    "pdf": "21a6ab84067826a48fe64c723d6c2400b20f5dbd554757eb750ecabf8bff104f",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-11/813e8866bd881a1d16e7475dd133d712222d76ade75cba888acb88c23b0aaf28.txt",
    "url": "https://www.cociter.be/wp-content/uploads/RCVar_YMR_Coop-2410-fr.pdf",
    "variant": "plain"
   },
   {
    "pdf": "fcbaec7f4baf6ce14297397cec431a55ec6668ad4b0d97cc1b2f2726e6f3c1f7",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-11/6650375b3fb9631dc41381915dd7636590076aa4f93f18b04f464705eda5d98e.txt",
    "url": "https://www.cociter.be/wp-content/uploads/RCVar_YMR_Coop-2411-fr.pdf",
    "variant": "plain"

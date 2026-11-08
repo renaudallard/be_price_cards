@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-10-20",
@@ -16,7 +16,7 @@
   },
   {
    "pdf": "455167fdfe14d3a60f347ba3e2f1095252e0f6ffae0b3f2f6f08eb30c333b338",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-10/d16ab75ee0b9371d41419396af4c54af6d23ea8c912b14845a1c563e1b004dac.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2024-12 E OCTA+ECODYNAMIC RE VL FR.pdf",
    "variant": "aligned"

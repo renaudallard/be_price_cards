@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-10-20",
@@ -16,7 +16,7 @@
   },
   {
    "pdf": "ff6bca6cc57664733eacd8bebd2fb267bfeed52999934b98624d042841fc5da2",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-10/0d1591cc3bc8497f7fe0e12c3582df031d1f19290fcb5aa270add873e51227a5.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-03 E OCTA+ECOFIXED RE WL FR.pdf",
    "variant": "aligned"

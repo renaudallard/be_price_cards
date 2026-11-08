@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-11-01",
@@ -11,14 +11,14 @@
   },
   {
    "pdf": "e7c454f6cadde948b71d556b7badf202d2e7ecb209c917d45c7c9edee38d2edf",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-11/86e5cfda7dc1a5d4e262bf336a794069e1bd8bba5dcb963f1543c5e1bdb8889c.txt",
    "url": "https://files.boltenergie.be/pricelists/var/plenty_online_pro_el_fr_14.pdf",
    "variant": "layout"
   },
   {
    "pdf": "49096b0b469a969841fcc3e073e1bea4717d0752043cff1d24a2f0f71f7f4aec",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-11/ff23d5b90c503ca72a2d402e959aeaade5b8562d3dc3111323502bd29b9d6fcf.txt",
    "url": "https://files.boltenergie.be/pricelists/var/plenty_online_pro_el_nl_14.pdf",
    "variant": "layout"

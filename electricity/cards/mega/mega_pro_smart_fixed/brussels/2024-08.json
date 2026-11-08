@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-11-04",
  "_sources": [
   {
    "pdf": "573e48acf5fbc38f4a8913db59e609791ee2e6ecf867cdb6d675b60ce2e83288",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-11/628de78c196058d4fbc99f964e12a40b0b8f6dec3a27a357f081a82ff4c2bc65.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-082024-Smart0108-Fixed.pdf",
    "variant": "plain"

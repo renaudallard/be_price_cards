@@ -1,0 +1,117 @@
+Dots Dynamic
+Tariefkaart november 2026
+Dynamische prijzen elektriciteit voor residentiële klanten in het Vlaamse Gewest met een digitale meter
+3.(1)
+uitgelezen volgens meetregime Alle prijzen zijn inclusief 6% BTW, tenzij anders vermeld en indien van toepassing.
+Je energiefactuur bestaat uit volgende componenten:
+Energiekost
+Distributie- en transmissiekosten
+Heffingen en toeslagen
+BTW
+Kosten groene stroom en WKK
+Energiekost
+(in c€/kWh)
+Duurtijd contract = onbepaald
+(2)
+Formule energieprijs
+Y-1 * Y-1 **
+Dynamic - afname Dynamic - injectie
+Elektriciteit 1 * BELPEX + 1,25 19,253 Elektriciteit 1 * BELPEX - 1,25 8,127
+* Tariefformule afname: in c€/kWh excl. BTW. Prijs berekend met de gewogen gemiddelde VNR jaarprijs voor afname (11/2026: c€18,003/kWh).
+** Tariefformule injectie: in c€/kWh (BTW n.v.t.). Prijs berekend met de gewogen gemiddelde VNR jaarprijs voor teruglevering (11/2026: c€9,377/kWh).
+(3) €5,3/maand/EAN
+Vaste vergoeding
+(4) c€0,419/kWh
+Optie Dynamic Green
+(1)
+De tariefformule is uitsluitend van toepassing voor klanten met een permanente beschikbaarheid van een SMR-3. Indien, om welke reden dan ook, de
+verbruiksdata van de klant niet (of niet tijdig) door de meetinstallatie kan worden verstuurd aan de netbeheerder (of Dots Energy BV om een andere reden
+niet over de data kan beschikken), zal Dots Energy BV gerechtigd zijn om op basis van het Real Load Profile (RLP) van de klant voorschotten aan te rekenen
+(berekend op basis van de geldende tariefformule). Dit verbruik wordt op je volgende afrekening verrekend op basis van jouw werkelijk verbruik voor die
+periode.
+(2)De
+energieprijzen gelden enkel voor meters waar meetregime 3 geactiveerd is. Zij worden berekend volgens bovenstaande formule op basis van
+kwartierprijzen op de EPEX SPOT BE groothandel.
+(3)De
+vaste vergoeding wordt maandelijks aangerekend op de energiefactuur in functie van het aantal dagen. Bij beëindiging van de
+energieleveringsovereenkomst door de klant gedurende de eerste 6 maanden van de energieleveringsovereenkomst, is de klant gehouden het saldo te
+betalen van de vaste vergoeding voor de resterende periode tot 6 maanden.
+(4)
+Indien de klant kiest voor Dynamic Green is er een meerkost van c€0,419/kWh voor de aankoop van de GVO's en de transfer naar de certificatenrekening van
+de betrokken regulator bovenop de energieprijs.
+Dots energy BV - Senator A. Jeurissenlaan 1020, 3520 Zonhoven
+BE0799.161.323 - info@dotsenergy.be - 011/36.96.97Distributie- en transmissiekosten
+Deze kosten voor het gebruik van de distributie- en transportnetten worden integraal doorgestort aan je netbeheerder.
+piekmeting*
+Digitale meter met
+Tarief Capaciteits Afnametarief Afnametarief
+Netbeheerder
+tarief normaal excl. Nacht
+databeheer
+(€/kW/jaar) (c€/kWh) (c€/kWh)
+(€/jaar)
+Fluvius Antwerpen 18,92 52,37 5,35 4,81
+Fluvius Halle-Vilvoorde 18,92 59,41 5,64 5,12
+nerednaalV Fluvius Imewo 18,92 57,45 5,54 5,01
+Fluvius Kempen 18,92 59,58 6,34 5,66
+Fluvius Limburg 18,92 51,99 5,75 5,19
+Fluvius Midden-Vlaanderen 18,92 53,13 5,28 4,78
+Fluvius West 18,92 60,53 6,70 5,99
+Fluvius Zenne-Dijle 18,92 59,49 5,87 5,32
+* Voor meetregimes per kwartier bedraagt het tarief voor databeheer €18,92 per jaar. Voor digitale meters geldt een
+maximumtarief van €0,3472738/kWh (exclusief databeheer). Als de digitale meter niet communiceert met Fluvius
+gelden de tarieven voor de klassieke meter (Vlaanderen: https://www.vlaamsenutsregulator.be/elektriciteit-en-
+aardgas/nettarieven).
+Heffingen en toeslagen
+Deze bijdragen worden integraal doorgestort naar de respectievelijke overheden.
+Bijzondere accijns op Energie
+Standaard tarief 4,8760 c€/kWh
+Bijdrage Energiefonds Residentieel
+nerednaalV
+Standaard tarief 0,00 €/maand
+Niet-gedomiciliëerd 9,88 €/maand
+Beschermd tarief 0,00 €/maand
+Bijdrage op Energie
+Standaard tarief 0,2042 c€/kWh
+Beschermd tarief 0,0000 c€/kWh
+Energiedelen (administratieve kost) 12,1 €/maand
+*
+Kosten groene stroom en WKK
+Kosten groene stroom c€1,166/kWh (11% x C x €106/st.)
+LV
+Kosten WKK c€0,4304/kWh (14% x C x €30,74/st.)
+*
+Deze certificaatprijzen zijn geldig voor de periode van 01/2026 tot 12/2026. Wettelijke wijzigingen worden
+overgenomen.
+Dots energy BV - Senator A. Jeurissenlaan 1020, 3520 Zonhoven
+BE0799.161.323 - info@dotsenergy.be - 011/36.96.97Algemene informatie over onze tarieven
+Voorwaarden
+De algemene en bijzondere voorwaarden van Dots energy BV zijn van toepassing op deze tariefformule. Je kan deze beide
+raadplegen op onze website via deze link:
+https://www.dotsenergy.be/algemene-voorwaarden
+Indien je in aanmerking komt voor het sociaal tarief, kan hieromtrent je meer info verkrijgen via onze klantendienst.
+Verzend- en betalingswijze facturen
+Je ontvangt onze facturen per e-mail. Je kiest je betalingswijze: per domiciliëring of overschrijving. Indien gekozen voor
+overschrijving zal er een betaallink en QR-code meegestuurd worden om de betaling te faciliteren. Historische facturen
+alsook de Fluvius data zullen raadpleegbaar zijn via je persoonlijk klantenportaal.
+Maandelijks afrekeningen
+Dots energy BV werkt met maandelijkse afrekeningen. We berekenen je maandelijkse kosten op basis van je werkelijk
+verbruik en injectie en niet op basis van schattingen. De datum van de afrekening is steeds afhankelijk van ontvangst van de
+nettarieven vanwege de netbeheerder.
+Zo betaal je alleen voor wat je echt verbruikt, dit creëert een winter-zomer effect in je rekeningen.
+Connecting the Dots
+Onze community is het kloppend hart van Dots energy BV. Samen vormen we een slim collectief dat het elektriciteitsnet
+helpt in balans te houden én iedereen laat besparen. Breng anderen mee aan boord en verlaag zo je eigen energiefactuur!
+Elke klant van Dots energy BV komt op dezelfde wijze in aanmerking voor de Connecting the Dots vergoedingen.
+https://www.dotsenergy.be/connecting-the-dots
+De Connecting the Dots vergoedingen worden rechtstreeks in mindering gebracht op de factuur van de klant. Per
+leveringsovereenkomst die Dots energy BV sluit met een nieuwe klant, ontvangt de doorverwijzende klant een maandelijkse
+vergoeding van €1,50 per leveringsovereenkomst. Meer info omtrent Connecting the Dots vind je in onze bijzondere
+voorwaarden (in bijlage bij je leveringsovereenkomst of via onze website):
+https://www.dotsenergy.be/algemene-voorwaarden
+Slimme
+inzichten,
+duurzame
+besparingen.
+Dots energy BV - Senator A. Jeurissenlaan 1020, 3520 Zonhoven
+BE0799.161.323 - info@dotsenergy.be - 011/36.96.97

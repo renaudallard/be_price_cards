@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-09-29",
@@ -16,14 +16,14 @@
   },
   {
    "pdf": "ea05ee1388ff2b1156e751bd68816585148df7ffa78f388b8f242862f58c379d",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-09/6544718085fd78909eaee37b04587b98b26ad16fff15cadf65e491091794f49d.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-11 E OCTA+FIXED RE WL FR.pdf",
    "variant": "aligned"
   },
   {
    "pdf": "ea05ee1388ff2b1156e751bd68816585148df7ffa78f388b8f242862f58c379d",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-09/0d37f1671675f745fa9895f002cd32d3eb838b670b783e12fdd65d6552c456e0.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-11 E OCTA+FIXED RE WL FR.pdf",
    "variant": "plain"

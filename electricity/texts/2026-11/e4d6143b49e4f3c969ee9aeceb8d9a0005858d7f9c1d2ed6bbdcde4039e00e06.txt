@@ -1,0 +1,150 @@
+Elektriciteit Groen Variabel
+TARIEFKAART OKTOBER 2024
+(GELDIG VAN 1 OKTOBER 2024 T.E.M 31 OKTOBER 2024)
+voor de levering van groene stroom uit wind en biogas aan gezinnen in Vlaanderen en Wallonië
+Samenstelling elektriciteitsprijs
+Je elektriciteitsfactuur bestaat uit 3 delen:
+1. de energieprijs: vaste jaarlijkse vergoeding, energiekost en bijdrage voor hernieuwbare energie
+2. de nettarieven: transport- en distributiekosten
+3. toeslagen en heffingen
+De energieprijs verschilt per leverancier. De nettarieven, toeslagen en heffingen worden opgelegd door de distributienetbeheerder en
+overheden. Deze kosten zijn dezelfde bij elke leverancier en worden 1-op-1 doorgestort.
+1. ENERGIEPRIJS
+ENKELVOUDIGE TWEEVOUDIGE UITSLUITEND
+TARIEF
+METER METER NACHTMETER
+Dag Nacht
+VASTE VERGOEDING (€/jaar) 38,50 38,50 38,50
+ENERGIEPRIJS
+Afname1 (c€/kWh) 9,19 10,18 8,49 8,49
+Teruglevering2 (c€/kWh) 2,82 2,82 2,82
+Jaarschatting afname3 (c€/kWh) 10,35 11,48 9,55 9,55
+Jaarschatting teruglevering3 (c€/kWh) 3,63 3,63 3,63
+BIJDRAGE HERNIEUWBARE ENERGIE4
+Vlaams Gewest: GSC (c€/kWh) 1,154 1,154 1,154
+WKC (c€/kWh) 0,445 0,445 0,445
+Waals Gewest: CV (c€/kWh) 3,031 3,031 3,031
+OPTIES
+Energiedelen5 (€/jaar) 85,00 85,00 85,00
+1Dit is een indicatieve prijs gebaseerd op de meest recent gekende waarden van de Belgische spotprijzen, nl. de spotprijzen van de vorige kalendermaand. Deze prijsinschatting is
+geldig voor een standaard huishoudelijk verbruiksprofiel. Bekijk “Tariefformule” voor meer details.
+2Het terugleveringstarief is een vergoeding voor de teruggeleverde energie (indien op jou van toepassing) in combinatie met een DATS 24 contract voor de afname van
+elektriciteit en is vrijgesteld van btw.
+3De “jaarschatting afname” en “jaarschatting teruglevering” is gebaseerd op de verwachte prijsevolutie van de komende 12 maanden, toegepast op de tariefformules. Bekijk
+“Tariefformule” voor meer details.
+4Deze bijdrage is bedoeld als ondersteuning van de investeringen in groene stroom en warmtekrachtkoppeling. Elke leverancier is verplicht groenestroom- en
+warmtekrachtcertificaten (GSC en WKC in Vlaanderen; CV in Wallonië) in te dienen volgens quota die worden opgelegd door de gewestelijke overheden. Deze kosten worden
+doorgerekend aan de klant.
+5Voor energiedelen rekent DATS 24 jaarlijkse een administratieve kost aan, inclusief 21% btw
+Indien u recht hebt op het sociale tarief kan u de informatie hierover terugvinden op http://www.creg.be.
+Tariefkaart Elektriciteit Groen Variabel - versie oktober 2024 voor Vlaanderen en Wallonië
+DATS 24 NV/SA, Edingensesteenweg 196, 1500 Halle, tel. 02/363 51 52, info@dats24.be, RPR Brussel 893.096.618, dats24.be
+Tariefformule
+De energieprijs is variabel, d.w.z. dat je tarief de groothandelsprijzen van de spotmarkt volgt. De prijs die je betaalt of ontvangt voor je groene stroom
+(bij afname of teruglevering) volgt deze formule (in c€/kWh):
+TARRIEFFORMULE AFNAME TERUGLEVERING
+Enkelvoudige meter (BE_spotRLP x 0,1137 + 0,876) + 6% btw
+Tweevoudige meter Dag (BE_spotRLP x 0,1273 + 0,876) + 6% btw
+(BE_spotSPP x 0,073 - 0,38)
+Nacht (BE_spotRLP x 0,1040 + 0,876) + 6% btw
+Uitsluitend nachtmeter (BE_spotRLP x 0,1040 + 0,876) + 6% btw
+BE_spot is de Belgische elektriciteitsbeurs waar dagelijks de uurlijkse spotprijzen worden vastgelegd voor de volgende dag. De spotprijzen van de lopende maand zijn dus pas volledig
+bekend aan het einde van de maand. Je elektriciteitsafname en/of -teruglevering worden afgerekend volgens de Belgische uurprijzen.
+Je verbruik wordt verdeeld naar een verbruik per uur volgens het verbruiksprofiel RLP (Real Load Profile), dat het rekenkundig gemiddelde is van de profielen van de verschillende
+distributienetbeheerders (zoals gepubliceerd door Synergrid) Het RLP-gewogen gemiddelde van de Belgische uurprijzen levert de parameter BE_spotRLP op. De energiekost wordt
+verkregen door de meest recente waarde van BE_spotRLP (september 2024: 68,55 €/MWh) in te vullen in de tariefformule.
+De geschatte jaarlijkse parameter BE_spotRLP voor de maand oktober 2024 bedraagt 78,18 €/MWh volgens de VREG methodologie (meer info over deze methodologie kan je vinden
+op http://www.vreg.be/nl/faq/berekening-variabele-energieprijzen-de-v-testr). De jaarschatting energiekost wordt verkregen door deze parameter in te vullen in de tariefformule.
+Je teruglevering wordt verdeeld naar een injectie per uur volgens het productieprofiel SPP (Synthetic Production Profile), dat het rekenkundig gemiddelde is van de genormaliseerde
+profielen van de verschillende distributienetbeheerders (zoals gepubliceerd door Synergrid). Het SPP-gewogen gemiddelde van de Belgische uurprijzen levert de parameter
+BE_spotSPP op. De terugleveringsvergoeding wordt verkregen door de meest recente waarde van BE_spotSPP (september 2024: 43,77 €/MWh) in te vullen in de tariefformule.
+De geschatte jaarlijkse parameter BE_spotSPP voor de maand oktober 2024 bedraagt 54,90 €/MWh volgens de VREG methodologie (meer info over deze methodologie kan je vinden
+op http://www.vreg.be/nl/faq/berekening-variabele-energieprijzen-de-v-testr). De jaarschatting terugleveringsvergoeding wordt verkregen door deze parameter in te vullen in de
+tariefformule.
+2. NETTARIEVEN
+Deze kosten voor het gebruik van het distributie- en transmissienet worden 1-op-1 doorgestort aan je netbeheerder.
+NETBEHEERDER DIGITALE METER KLASSIEKE METER METEROPNAME
+VLAANDEREN CAPACITEITSTARIEF AFNAME AFNAME MAXIMUM- CAPACITEITSTARIEF AFNAME AFNAME PROSUMENTEN- KWAR- JAAR-
+gemiddelde excl. Nacht TARIEF vaste term excl. Nacht TARIEF6 TIER LIJKS
+maandpiek
+€/kW/jaar c€/kWh c€/kWh c€/kWh €/jaar c€/kWh c€/kWh €/jaar €/jaar €/jaar
+FLUVIUS ANTWERPEN 40,24 4,592 3,406 20,355 100,60 6,787 5,600 45,85 13,95 15,14
+FLUVIUS LIMBURG 41,31 5,386 4,025 20,355 103,28 7,977 6,616 53,89 13,95 15,14
+FLUVIUS WEST 44,31 4,821 3,644 20,355 110,76 7,457 6,280 50,37 13,95 15,14
+GASELWEST 46,00 5,708 4,160 20,355 115,01 8,472 6,924 57,23 13,95 15,14
+IMEWO 41,77 4,718 3,534 20,355 104,43 7,166 5,983 48,41 13,95 15,14
+INTERGEM 37,23 4,050 3,079 20,355 93,08 6,420 5,449 43,38 13,95 15,14
+IVEKA 43,70 4,639 3,436 20,355 109,23 7,117 5,915 48,08 13,95 15,14
+IVERLEK 41,93 4,588 3,459 20,355 104,81 7,135 6,006 48,20 13,95 15,14
+PBE 56,59 4,712 3,798 20,355 141,48 8,128 7,215 54,91 13,95 15,14
+SIBELGAS 46,51 5,272 3,961 20,355 116,28 7,875 6,565 53,20 13,95 15,14
+6Aanvullend capaciteitstarief voor alle netgebruikers met een productie-installatie met een vermogen van max. 10 kVA en een terugdraaiende teller.
+In Vlaanderen wordt dit tarief per maand verdeeld volgens de gemiddelde zonneschijnduur.
+Tariefkaart Elektriciteit Groen Variabel - versie oktober 2024 voor Vlaanderen en Wallonië
+DATS 24 NV/SA, Edingensesteenweg 196, 1500 Halle, tel. 02/363 51 52, info@dats24.be, RPR Brussel 893.096.618, dats24.be
+NETBEHEERDER DISTRIBUTIEKOSTEN TRANSMISSIE DATA- PROSUMENTEN-
+WALLONIË per metertype BEHEER TARIEF7
+(c€/kWh) (c€/kWh) (€/jaar) (€/kVA/jaar)
+enkelvoudige tweevoudige meter uitsluitend
+meter Dag Nacht nachtmeter
+AIEG 7,828 8,204 6,314 5,526 2,612 25,49 59,02
+AIESH 11,373 11,895 7,071 6,554 2,612 17,14 79,21
+ORES (Brabant Wallon) 9,075 9,626 5,659 4,649 2,612 13,60 66,19
+ORES (Est) 9,075 9,626 5,659 4,649 2,612 13,60 66,19
+ORES (Hainaut Elec) 9,075 9,626 5,659 4,649 2,612 13,60 66,19
+ORES (Luxembourg) 9,075 9,626 5,659 4,649 2,612 13,60 66,19
+ORES (Mouscron) 9,075 9,626 5,659 4,649 2,612 13,60 66,19
+ORES (Namur) 9,075 9,626 5,659 4,649 2,612 13,60 66,19
+ORES (Verviers) 9,075 9,626 5,659 4,649 2,612 13,60 66,19
+RÉGIE DE WAVRE 10,851 11,018 8,721 8,721 2,612 17,34 76,26
+RESA 9,866 11,002 6,030 5,249 2,612 25,79 70,67
+7Aanvullend capaciteitstarief voor alle netgebruikers met een productie-installatie met een vermogen van max. 10 kVA en een terugdraaiende teller.
+3. TOESLAGEN & HEFFINGEN
+Deze tarieven worden 1-op-1 doorgestort aan de bevoegde overheden:
+TYPE BIJDRAGE BEDRAG
+Energiebijdrage 0,20417 c€/kWh
+Federale Accijns
+Verbruik tussen 0 kWh en 3.000 kWh 5,03288 c€/kWh
+Verbruik tussen 3.000 kWh en 20.000 kWh 5,03288 c€/kWh
+Verbruik tussen 20.000 kWh en 50.000 kWh 4,81876 c€/kWh
+Verbruik tussen 50.000 kWh en 1.000.000 kWh 4,74668 c€/kWh
+Bijdrage Energiefonds Vlaams Gewest8
+Hoofdverblijf (domicilie) 0,00 €/maand
+Tweede verblijf 9,54 €/maand
+Aansluitingsvergoeding Wallonië8 0,07500 c€/kWh
+8Niet aan btw onderworpen
+Tariefkaart Elektriciteit Groen Variabel - versie oktober 2024 voor Vlaanderen en Wallonië
+DATS 24 NV/SA, Edingensesteenweg 196, 1500 Halle, tel. 02/363 51 52, info@dats24.be, RPR Brussel 893.096.618, dats24.be
+4. KORTING
+Je krijgt éénmalig € 50 korting als je als een nieuw contract elektriciteit afneemt. Om van deze korting te genieten, moet je één jaar
+onafgebroken klant blijven en alle facturen tijdig betalen. De korting wordt verrekend op de eerste afrekeningsfactuur na dat jaar.
+Kortingen zijn niet combineerbaar met andere (volume)kortingen, promoties of acties en worden automatisch toegepast. Deze korting is
+niet in geld inwisselbaar. DATS 24 behoudt zich voorts het recht voor om de actie op elk moment en zonder opgave van reden vervroegd
+stop te zetten of te wijzigen. Deze korting geldt niet op aankopen gedaan vóór het begin van deze actie en geldt niet met terugwerkende
+kracht. Deze korting is niet van toepassing als je recht hebt op sociaal tarief. De Algemene Voorwaarden van DATS 24 voor de levering van
+aardgas en elektriciteit aan particulieren blijven onverminderd van kracht. Bij geschillen omtrent deze actie zijn enkel de rechtbanken
+bevoegd van het rechtsgebied waar de vennootschapszetel van DATS 24 is gevestigd. Het Belgische recht is exclusief van toepassing.
+De geleverde elektriciteit bestaat voor 100% uit groene stroom afkomstig van windturbines en biogasinstallaties in België. DATS 24 Elektriciteit Groen Variabel is een contract van
+onbepaalde duur waarbij de energieprijs variabel is en maandelijks wordt geïndexeerd op basis van de indexatieparameter BE_spotRLP. Bij gebrek aan publicatie van de BE_spotRLP
+prijzen zal DATS 24 de waarde van de dag voordien nemen.
+DATS 24 kan het indexatiemechanisme en de bijhorende coëfficiënten wijzigen op voorwaarde dat de reglementering ter zake wordt gewijzigd of afgeschaft, of op voorwaarde dat
+de betrokken indexen inhoudelijk wijzigen of niet langer representatief zijn voor de economische waarde van de geleverde elektriciteit of niet langer of op onregelmatige wijze
+worden gepubliceerd.
+De vermelde bedragen zijn de laatst gekende bedragen. Het verbruik zal altijd aan de op dat ogenblik geldende bedragen worden afgerekend, desnoods met terugwerkende kracht.
+DATS 24 behoudt zich het recht voor deze kosten aan te passen conform de wijzigingen aan het regelgevend kader. De aanpassingen aan deze elementen, waarvoor DATS 24 niet
+verantwoordelijk is, worden volledig op de klant verhaald. Dat kan retroactief gebeuren.
+De prijzen op deze tariefkaart zijn enkel geldig voor laagspanningsaansluitingen met een huishoudelijk verbruik waarbij het aansluitingsvermogen maximaal 56 kVA is en het jaarlijks
+gemeten elektriciteitsverbruik maximaal 50 MWh bedraagt. In alle andere gevallen behoudt DATS 24 zich het recht voor de prijs aan te passen.
+Het terugleveringstarief is voorbehouden aan klanten in Vlaanderen die een lokale productie-installatie hebben met een maximaal vermogen van 10 kVA, die beschikken over een
+digitale meter en die met DATS 24 een geldig afnamecontract afgesloten hebben.
+Bij deze tariefkaart gelden de algemene voorwaarden voor de levering van aardgas en elektriciteit aan particulieren.
+Je kan ze raadplegen via deze link: https://gdpr.colruytgroup.com/gdpr/tc/X_TC_DATSENERGYGAS_V0202302010_NL.pdf.
+Hieronder vind je een overzicht van de kosten die we je kunnen aanrekenen in geval van niet tijdige betaling:
+- herinnering9: 7,5 € (inclusief 21 % btw)
+- ingebrekestelling: 15 € (inclusief 21 % btw)
+- als je niet binnen de termijn van de ingebrekestelling hebt betaald, kunnen eventuele invorderingskosten worden opgelegd
+- interesten vanaf de vervaldatum van de factuur aan de wettelijke rentevoet
+9Per kalenderjaar krijg je maximaal 3 kosteloze herinneringsmails.
+Alle prijzen, tarieven en kortingen zijn inclusief 6% btw, tenzij anders vermeld.
+Tariefkaart Elektriciteit Groen Variabel - versie oktober 2024 voor Vlaanderen en Wallonië
+DATS 24 NV/SA, Edingensesteenweg 196, 1500 Halle, tel. 02/363 51 52, info@dats24.be, RPR Brussel 893.096.618, dats24.be

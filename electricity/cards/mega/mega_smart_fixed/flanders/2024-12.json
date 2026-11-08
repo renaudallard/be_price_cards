@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-11-04",
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "80348a8ea9a742f9a95bff3a84e834d9c003f8bcbf1e7287a471ab7bce086e4b",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-11/e60becec5f4babae50856f9201d0cf9beb661b731ff6e1e3946c07f5d02a7ba4.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-122024-Smart0112-Fixed.pdf",
    "variant": "plain"

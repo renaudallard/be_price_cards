@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-11-07T11:56:13.331683+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
-   "ocr": "0.4.2+a5c8a17ccad7 pypdfium2==5.15.0 numpy==2.5.4 pdfplumber==0.11.9",
+   "ocr": "0.4.2+a5c8a17ccad7 pypdfium2==5.14.0 numpy==2.5.4 pdfplumber==0.11.9",
    "pdf": "3a52e1bb9a0ce26da7f3fe9855725059aa7f93172f041d5d354ea8e62b3d9b4c",
    "text": "texts/2026-09/f21039b0ccdca6408648c7536cc06a6861fbcd9e95ba877b3c52db2f1b1865e0.txt",
    "url": "https://portal.ecofixgp.be/docs/prices/current/EL_Ecofix_Flexy_Online_NL.pdf",

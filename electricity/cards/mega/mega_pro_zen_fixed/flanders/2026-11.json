@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-06",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "83f824fffa41c5a35514e33e5e3a3d4badd14d6ebc112b8ac2bf9bd6bb16a841",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-11/f4c6194419f6db3988504a94955d65dd92826f82576619fca1ab7a4b4e207e8a.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-112026-Zen0111-Fix.pdf",
    "variant": "plain"

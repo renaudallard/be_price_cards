@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-11-07T11:56:13.331683+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-11-01",
  "_sources": [
   {
-   "ocr": "0.4.2+a5c8a17ccad7 pypdfium2==5.15.0 numpy==2.5.4 pdfplumber==0.11.9",
+   "ocr": "0.4.2+a5c8a17ccad7 pypdfium2==5.14.0 numpy==2.5.4 pdfplumber==0.11.9",
    "pdf": "0862e02c2ff14d60dfcd52dca08133501999ab9b731399bbc59899367dea7931",
    "text": "texts/2026-11/b187f8140d607e2529bbbc3266e4ae0b7e6e3673b3bf15b2545b37a2d31ea705.txt",
    "url": "https://portal.ecofixgp.be/docs/prices/current/EL_Ecofix_Motion_Online_NL.pdf",

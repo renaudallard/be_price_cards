@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-06",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "33b71837a4cac2cc11954244df6006c3a1d3f4b6354f8433f2eecb010679cab8",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-11/56cc9b70cc4f407e53a5e8c3da49b91306c954aefde2d964b18f034d8c326dc9.txt",
    "url": "https://www.energyknights.be/website/getHistoricalTariffchart/par/2026-09/optimaonline/nl",
    "variant": "layout"

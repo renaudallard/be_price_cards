@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-06",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "text": "texts/2026-11/21dde76c4bc6bcbaf6a368ec6fb7e81c74fc04d82060c3539bbfca7f8f5eb103.txt",
@@ -11,14 +11,14 @@
   },
   {
    "pdf": "409b4949035748314ffe1671d05be01b2084089249b538f51697c7d8f865bdac",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-11/ebb1c7179ef3ee12bef7ed5cc39338d9e1118ac49a47778070006c89ab0d39a7.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Energie_be_Elek_Particulier_845a8a2ff1.pdf",
    "variant": "layout"
   },
   {
    "pdf": "409b4949035748314ffe1671d05be01b2084089249b538f51697c7d8f865bdac",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-11/7c3a30dda9726b7c79b4fbb1e413a5047ac1fd7d062608db30ddee7c7ae9f3c9.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Energie_be_Elek_Particulier_845a8a2ff1.pdf",
    "variant": "plain"

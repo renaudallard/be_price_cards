@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-10-20",
@@ -11,14 +11,14 @@
   },
   {
    "pdf": "f52b0d1a489f236f0be96f33393af55c2119fa484d0a8662626723fbfbcad14a",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-10/93ba23455df7e065b29198c445783d0758a54ad4f2a98ed8818976a6fcec7ec2.txt",
    "url": "https://www.ebem.be/media/0wwdhldx/ebem_tariefkaart-elek-04-2025.pdf",
    "variant": "layout"
   },
   {
    "pdf": "be5e84ef28445590aa0c610b52cee3d68f249a1a6eccf993ac0cd52e18ba7d7b",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-10/50d44e20420053b6ab7f6867bc48519c7034b214d055f1e6fb4f137244e85ef2.txt",
    "url": "https://www.ebem.be/media/2zmdvyfz/ebem_tariefkaart-elek-03-2025.pdf",
    "variant": "layout"

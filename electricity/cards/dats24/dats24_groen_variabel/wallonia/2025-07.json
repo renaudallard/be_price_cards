@@ -1,0 +1,97 @@
+{
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_probe_key": null,
+ "_schema_version": 89,
+ "_seen_on": "2026-11-08",
+ "_sources": [
+  {
+   "pdf": "c8eaafe37d63edda82971f7db0b412bcaec85e586d9591fceefad35c9a08ea45",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "text": "texts/2026-11/e895cf014b4b5a1edfde622e0a486016b147a2ac8ae5559dd01c5b7d623245f4.txt",
+   "url": "https://api.colruytgroup.com/api/static/dats24/parameters/site/2025/ELEK/NL/Elektriciteit%20Groen%20Variabel%20-%20Versie%2007%202025.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "archive",
+ "contract": "dats24_groen_variabel",
+ "direct_debit_discount_eur": null,
+ "dsos": {},
+ "energy": {
+  "ceiling_exclusive_night": null,
+  "ceiling_offpeak": null,
+  "ceiling_peak": null,
+  "ceiling_single": null,
+  "current": 0.0897,
+  "exclusive_night": 0.0828,
+  "formula": "mono (0.12052 BE_spotRLP +0.8332) c€/kWh · peak (0.13504 BE_spotRLP +0.8332) c€/kWh · offpeak (0.11024 BE_spotRLP +0.8332) c€/kWh · excl_night (0.11024 BE_spotRLP +0.8332) c€/kWh",
+  "formula_base": 0.008331600000000002,
+  "formula_base_exclusive_night": 0.008331600000000002,
+  "formula_base_offpeak": 0.008331600000000002,
+  "formula_base_peak": 0.008331600000000002,
+  "formula_factor": 1.2052200000000002,
+  "formula_factor_exclusive_night": 1.1024,
+  "formula_factor_offpeak": 1.1024,
+  "formula_factor_peak": 1.35044,
+  "impact_eco": null,
+  "impact_medium": null,
+  "impact_pic": null,
+  "month_indexed": true,
+  "offpeak": 0.0828,
+  "peak": 0.09949999999999999,
+  "rlp_blend": "columns",
+  "rlp_indexed": true,
+  "yearly_fixed_fee": 38.5,
+  "yearly_fixed_fee_exclusive_night": null
+ },
+ "energy_kind": "variable",
+ "injection": null,
+ "publication_label": "juli 2025",
+ "source_url": "https://api.colruytgroup.com/api/static/dats24/parameters/site/2025/ELEK/NL/Elektriciteit%20Groen%20Variabel%20-%20Versie%2007%202025.pdf",
+ "supplier": "dats24",
+ "supplier_prosumer_eur_per_kva_year": null,
+ "taxes": {
+  "brussels_renewables": 0.0,
+  "energy_contribution": 0.0020417,
+  "energy_fund_eur_per_month": 0.0,
+  "federal_excise": 0.05032879999999999,
+  "federal_excise_bands": [
+   [
+    3000.0,
+    0.05032879999999999
+   ],
+   [
+    20000.0,
+    0.05032879999999999
+   ],
+   [
+    50000.0,
+    0.048187600000000004
+   ],
+   [
+    1000000.0,
+    0.047466799999999996
+   ]
+  ],
+  "flanders_renewables": 0.0,
+  "published_vat_rate": 0.0,
+  "region_connection_fee": 0.00075,
+  "region_connection_fee_unavailable": false,
+  "vat_rate": 0.0,
+  "wallonia_renewables": 0.03308
+ },
+ "valid_until": "2025-07-31",
+ "welcome_credit_after_months": 12,
+ "welcome_credit_cap_eur": null,
+ "welcome_credit_direct_debit_eur": null,
+ "welcome_credit_eur": null,
+ "welcome_credit_eur_per_kwh": null,
+ "welcome_credit_excludes_night_meter": false,
+ "welcome_credit_injection_eur_per_kwh": null,
+ "welcome_credit_kind": "pro_rata",
+ "welcome_credit_kwh": null,
+ "welcome_credit_kwh_rate": null,
+ "welcome_credit_lump_capped": false,
+ "welcome_credit_pct_of_energy": null,
+ "welcome_credit_requires_direct_debit": false,
+ "welcome_credit_signing_month": null
+}

@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-06",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "b1f363c5369176709789d87c2f3f7f135c29b5820908d630beec18e32c8edc3e",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-11/8a21246c368e11bbd502bac10ea0c46aea0cce6d042e9c673ded925d646a2d2a.txt",
    "url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/Flex%20Electricity_Residential.pdf",
    "variant": "layout"

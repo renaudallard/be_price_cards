@@ -1,17 +1,17 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-06",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
-   "text": "texts/2026-11/d7764ac2a442fa86b96e715505d42fbae49102b3e25ef1903ff6299f891b89f1.txt",
+   "text": "texts/2026-11/1f80a5094958b02050eeed4e8d9165fac45ee4662213a83dedc7ec75a2ada26c.txt",
    "url": "https://www.cociter.be/electricite/cartes-tarifaires/",
    "variant": "text"
   },
   {
    "pdf": "f9610721cde22f11f19d7841a251b83e2b1cfaaa77d3ca54d56236d7a7aca194",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-11/ff992322f7c0680975ab29609633a629ed55cd571ab367240bbbb5badf66bd69.txt",
    "url": "https://www.cociter.be/wp-content/uploads/RCDyn_SM3_Coop-2611-fr.pdf",
    "variant": "plain"

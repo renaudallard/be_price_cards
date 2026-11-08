@@ -1,19 +1,19 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-10-20",
  "_sources": [
   {
    "pdf": "4b2b3eff532862ca8ee9588a536c46b4587ec74dffc0a995b749c2f3ce64d5e6",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-10/30d5714f41c2b94487b2bb07c947e22fc66a0d783d8e1023aab2ef197248b1c4.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012412_NL_ENECO_POWER_FIX.pdf",
    "variant": "plain"
   },
   {
    "pdf": "8e3972d5f39fa61ac34ea2b7bdd6d4e585d3985f900e7e4d5b9d242a7b2265cc",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-10/d5c6390f581c0f1380c5607fe6cac400dba645f49177fcc6540bbd8febfa69c8.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012501_NL_ENECO_POWER_FIX.pdf",
    "variant": "plain"

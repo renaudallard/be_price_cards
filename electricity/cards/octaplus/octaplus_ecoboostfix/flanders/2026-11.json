@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-06T13:15:20.472091+00:00",
+ "_cached_at": "2026-11-08T12:13:03.784086+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-06",
+ "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "c35baa71acef7ca151f941f66b6a7f14074286a2736d1ad6c5fa6f2ff3f9a6bb",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=6c44bfa3a688864d",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
    "text": "texts/2026-11/89a25ab5995f3019cabdf80322afc73d19b359011ed1348d687444ab11c82048.txt",
    "url": "https://files.octaplus.be/tariffs/E_OCTA_ECOBOOSTFIX_RE_VL_FR.pdf",
    "variant": "aligned:1.0"
