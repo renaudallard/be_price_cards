@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-10T13:47:41.162716+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-10",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
    "pdf": "c04c64b7495299c30e98083b88236bcbd2821d164dd7aeaf5ab2996b4646cf87",
@@ -176,6 +176,7 @@
   "transition": null,
   "vat_applies": false
  },
+ "network_year": null,
  "publication_label": "novembre 2026",
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy&energyType=electricity&language=fr&tabValue=Flanders",
  "supplier": "luminus",

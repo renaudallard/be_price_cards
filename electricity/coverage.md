@@ -11,6 +11,7 @@ holds but no reader could read, so there is no JSON to link; a blank cell is a
 month the archive does not hold.
 
 - [aspiravi](coverage/aspiravi.md): 1 rows, 2024-04 to 2026-11
+- [belvus](coverage/belvus.md): 3 rows, 2026-01 to 2026-11
 - [bolt](coverage/bolt.md): 36 rows, 2025-01 to 2026-11
 - [cociter](coverage/cociter.md): 3 rows, 2024-09 to 2026-11
 - [dats24](coverage/dats24.md): 2 rows, 2023-11 to 2026-07
@@ -20,7 +21,7 @@ month the archive does not hold.
 - [ecopower](coverage/ecopower.md): 2 rows, 2025-01 to 2026-11
 - [elegant](coverage/elegant.md): 3 rows, 2025-11 to 2026-11
 - [eneco](coverage/eneco.md): 10 rows, 2023-11 to 2026-11
-- [energiebe](coverage/energiebe.md): 3 rows, 2025-12 to 2026-11
+- [energiebe](coverage/energiebe.md): 3 rows, 2025-11 to 2026-11
 - [energyknights](coverage/energyknights.md): 8 rows, 2025-01 to 2026-11
 - [energyvision](coverage/energyvision.md): 13 rows, 2025-09 to 2026-11
 - [engie](coverage/engie.md): 53 rows, 2023-11 to 2026-11

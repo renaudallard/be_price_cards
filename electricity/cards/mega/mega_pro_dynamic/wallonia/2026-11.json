@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
    "pdf": "8b7012b000eb991b19653d99abc96a28be5d619b3649f5cfb6bdeac1451546b8",
@@ -126,6 +126,7 @@
   "transition": null,
   "vat_applies": false
  },
+ "network_year": null,
  "publication_label": "novembre 2026",
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-112026-Dynamic0111.pdf",
  "supplier": "mega",

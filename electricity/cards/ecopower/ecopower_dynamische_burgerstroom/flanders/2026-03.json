@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-09-12",
@@ -179,6 +179,7 @@
   "transition": null,
   "vat_applies": false
  },
+ "network_year": null,
  "publication_label": "2026-01",
  "source_url": "https://cdn.nimbu.io/s/4tn7vz5/channelentries/kj1so6k/files/176734829989/202601_dbs_tariefkaart.pdf?74tduqb=&dl=1",
  "supplier": "ecopower",

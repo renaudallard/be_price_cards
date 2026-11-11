@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
    "pdf": "a35f9e014d67782d025d6904966a17efd31650b442366ca9c677792b37927cf6",
@@ -176,6 +176,7 @@
   "transition": null,
   "vat_applies": true
  },
+ "network_year": null,
  "publication_label": "novembre 2026",
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-112026-Smart0111-Fixed.pdf",
  "supplier": "mega",

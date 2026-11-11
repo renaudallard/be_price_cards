@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
    "pdf": "60de9beece95f1337c5498c3e798d6abe4a14d2430febf6b893f76a8f3934dfe",
@@ -129,6 +129,7 @@
   "transition": null,
   "vat_applies": true
  },
+ "network_year": null,
  "publication_label": "Novembre 2026",
  "source_url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EASY_P_GREEN_C_F_12_W_F&monthOffset=0&segment=P&language=F",
  "supplier": "engie",

@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
    "pdf": "ebe97945ced62dc310f33a35059a876d52ae5188ea6d887532c2e70cc379922a",
@@ -92,6 +92,7 @@
   "transition": null,
   "vat_applies": true
  },
+ "network_year": null,
  "publication_label": "novembre 2026",
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-112026-Cosy0111.pdf",
  "supplier": "mega",

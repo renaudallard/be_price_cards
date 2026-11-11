@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
    "pdf": "c2810f41204e3cd3693a6389ab55be3afc3b4306e8dd0beaaa385f38251591bd",
@@ -176,6 +176,7 @@
   "transition": null,
   "vat_applies": false
  },
+ "network_year": null,
  "publication_label": "november 2026",
  "source_url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/Zeker%20%26%20Vast%20Electricity_Residential.pdf",
  "supplier": "elegant",

@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
    "pdf": "b6247ea440bee4fcdc533604ee01e68082dae5ad78e1feb7c8cd110d6684faf9",
@@ -152,6 +152,7 @@
   "transition": null,
   "vat_applies": false
  },
+ "network_year": null,
  "publication_label": "novembre 2026",
  "source_url": "https://www.energyvision.be/sites/default/files/2026-10/EV-1126-GS1800V-WAL-fr.pdf",
  "supplier": "energyvision",

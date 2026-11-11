@@ -1,0 +1,191 @@
+{
+  "energiebe/energiebe_dynamic/flanders/2025-11": [
+    {
+      "url": "https://energie.blob.core.windows.net/cms/assets/November_Tariefkaart_Energie_be_Dynamisch_aangepast_wkk_Res_43803a2f3c.pdf",
+      "pdf": "40220e230f7ed1c697bb25ae48c35404a64ac594214cf7b8e5bfcc7147428e06",
+      "via": "archive"
+    }
+  ],
+  "energiebe/energiebe_fixed/flanders/2025-11": [
+    {
+      "url": "https://energie.blob.core.windows.net/cms/assets/November_Tariefkaart_Energie_be_Vast_aangepaste_gwkk_res_e60075f312.pdf",
+      "pdf": "815c5209440b205b40b3db4938d6ef13390ab61d654e3d1f0d6fd65923648c2c",
+      "via": "archive"
+    }
+  ],
+  "energiebe/energiebe_variable/flanders/2025-11": [
+    {
+      "url": "https://energie.blob.core.windows.net/cms/assets/November_Tariefkaart_Energie_be_Variabel_aangepast_wkk_res_d27627ab7e.pdf",
+      "pdf": "a25be2c7e574a8e20e383146c04b926e644daffb5fed901e5511e2845441b2c0",
+      "via": "archive"
+    }
+  ],
+  "energyvision/energyvision_fixed_1y/wallonia/2025-11": [
+    {
+      "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1125-GS1JV-WAL-fr.pdf",
+      "pdf": "8c5b6d0affccc4545d39eb14ecf84e54f4e4e705a02c0b959a1833f9f12430d0",
+      "via": "archive"
+    }
+  ],
+  "energyvision/energyvision_fixed_1y/wallonia/2025-12": [
+    {
+      "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1225-GS1JV-WAL-fr.pdf",
+      "pdf": "a5bbd872bd41b68e1333ef59b57e413737851025958e1b4811c467e38090d9d2",
+      "via": "archive"
+    },
+    {
+      "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1225-GS1JV-WAL-fr_0.pdf",
+      "pdf": "a5bbd872bd41b68e1333ef59b57e413737851025958e1b4811c467e38090d9d2",
+      "via": "archive"
+    },
+    {
+      "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1225-GS1JV-WAL-fr_1.pdf",
+      "pdf": "a5bbd872bd41b68e1333ef59b57e413737851025958e1b4811c467e38090d9d2",
+      "via": "archive"
+    }
+  ],
+  "energyvision/energyvision_fixed_1y/wallonia/2026-04": [
+    {
+      "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0426-GS1JV-WAL-fr.pdf",
+      "pdf": "ccd26acf79f428dc78fac7a933e1c4764a4fcc77a144fab09a140f52703d1850",
+      "via": "archive"
+    },
+    {
+      "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0426-GS1JV-WAL-fr_0.pdf",
+      "pdf": "ccd26acf79f428dc78fac7a933e1c4764a4fcc77a144fab09a140f52703d1850",
+      "via": "archive"
+    },
+    {
+      "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0426-GS1JV-WAL-fr_1.pdf",
+      "pdf": "ccd26acf79f428dc78fac7a933e1c4764a4fcc77a144fab09a140f52703d1850",
+      "via": "archive"
+    }
+  ],
+  "energyvision/energyvision_fixed_1y/wallonia/2026-05": [
+    {
+      "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0526-GS1JV-WAL-fr.pdf",
+      "pdf": "594596761eecf8b8eac9ac0afa44979e76090ee905999d009f20beaf06d85348",
+      "via": "archive"
+    },
+    {
+      "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0526-GS1JV-WAL-fr_0.pdf",
+      "pdf": "594596761eecf8b8eac9ac0afa44979e76090ee905999d009f20beaf06d85348",
+      "via": "archive"
+    }
+  ],
+  "energyvision/energyvision_fixed_1y/wallonia/2026-06": [
+    {
+      "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0626-GS1JV-WAL-fr.pdf",
+      "pdf": "af1ee5d39084c4a4f5a9be752f80db7a15ad1fe90acc59e6bb447779131ecf25",
+      "via": "archive"
+    },
+    {
+      "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0626-GS1JV-WAL-fr_0.pdf",
+      "pdf": "af1ee5d39084c4a4f5a9be752f80db7a15ad1fe90acc59e6bb447779131ecf25",
+      "via": "archive"
+    },
+    {
+      "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-0626-GS1JV-WAL-fr_1.pdf",
+      "pdf": "af1ee5d39084c4a4f5a9be752f80db7a15ad1fe90acc59e6bb447779131ecf25",
+      "via": "archive"
+    }
+  ],
+  "frank/frank_dynamic/flanders/2026-03": [
+    {
+      "url": "https://cdn.sanity.io/files/8navd656/production-be/e21df1d1b938c5b1dee07cd2c24548605669d53e.pdf",
+      "pdf": "ac805f022ac975b918bd5545e60ec6be3747bf02ada64595d7d0e78a81cfb991",
+      "via": "archive"
+    }
+  ],
+  "frank/frank_dynamic_hv/flanders/2026-03": [
+    {
+      "url": "https://cdn.sanity.io/files/8navd656/production-be/8763b48fd922c6eaecff5eabb0a01cbdaaa6663a.pdf",
+      "pdf": "9cee9ecf8a8aa0684885e324f6313e6f1b551951bc9769491765fa6be95a3316",
+      "via": "archive"
+    }
+  ],
+  "frank/frank_dynamic_jn/flanders/2026-03": [
+    {
+      "url": "https://cdn.sanity.io/files/8navd656/production-be/18b3b0b3054a92f5f620b2f94d1a77ec6aa3d1d0.pdf",
+      "pdf": "0a837b8ff97fe6186846089b64060737fc115c022f940486c6b2f9e422bbbb7e",
+      "via": "archive"
+    }
+  ],
+  "frank/frank_dynamic_korting/flanders/2026-03": [
+    {
+      "url": "https://cdn.sanity.io/files/8navd656/production-be/c664bfbdf2de44603a35f93d7cd1124565f327d3.pdf",
+      "pdf": "3acddf1d5a97123966789958557dd5dfb56d2000cce38c524ff0b49cba9f54ab",
+      "via": "archive"
+    }
+  ],
+  "frank/frank_dynamic_slim/flanders/2026-03": [
+    {
+      "url": "https://cdn.sanity.io/files/8navd656/production-be/1e77cc41b9682e6d7c625e7b2bf5de1f20dbed03.pdf",
+      "pdf": "0bb8eff5e876f94b59730ebc13cc098d725e10341cade641e02ee40c8bc451f4",
+      "via": "archive"
+    }
+  ],
+  "frank/frank_variable/flanders/2026-03": [
+    {
+      "url": "https://cdn.sanity.io/files/8navd656/production-be/3269a7fcbe87ebfdaa3fb4a76c07bb2422263227.pdf",
+      "pdf": "53c04ca5eb9dab90a8495c0a7e8e598c37c1c4d1e75e5fec82fad77850ba3fb9",
+      "via": "archive"
+    }
+  ],
+  "frank/frank_variable_hv/flanders/2026-03": [
+    {
+      "url": "https://cdn.sanity.io/files/8navd656/production-be/1720c2dae748e1adfb59808eeb93e818b5602a25.pdf",
+      "pdf": "671792153c6b6721071b190276ccb822c0f511bc2d428f52ad1c9685f64d2f83",
+      "via": "archive"
+    }
+  ],
+  "frank/frank_variable_jn/flanders/2026-03": [
+    {
+      "url": "https://cdn.sanity.io/files/8navd656/production-be/c359221b730d0a2619f681ad2a6c26d0794dad1a.pdf",
+      "pdf": "edb9997391d6cacb82f0c554c4ed0f719753555c1a30327667740e888a9cf8c0",
+      "via": "archive"
+    }
+  ],
+  "frank/frank_variable_slim/flanders/2026-03": [
+    {
+      "url": "https://cdn.sanity.io/files/8navd656/production-be/afcb4f5f27eb8949f22cc626accd871478f19710.pdf",
+      "pdf": "ee1b1590412586af50890cc9a1f1340b7d65e049ddbdb2df623319ca10b41178",
+      "via": "archive"
+    }
+  ],
+  "frank/frank_variable_vt/flanders/2026-03": [
+    {
+      "url": "https://cdn.sanity.io/files/8navd656/production-be/b5fd336d9697342d36df66bc40de5925f45cafc7.pdf",
+      "pdf": "7c2d84d5186c83dee4b312bd6fa8cd2966932bac7136db6882d2c4f3adfcf6d8",
+      "via": "archive"
+    }
+  ],
+  "mega/mega_dynamic/wallonia/2026-05": [
+    {
+      "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-052026-Dynamic0105.pdf",
+      "pdf": "55f9d6345926a78e4eedc7d4672bf6009fef0dabb16eb7eda71dd96ba554f11e",
+      "via": "archive"
+    }
+  ],
+  "mega/mega_dynamic/wallonia/2026-06": [
+    {
+      "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-062026-Dynamic0106.pdf",
+      "pdf": "84f728b3042e375416c849b12705f46c66a72029f7a3fbe906368eaebdecfbff",
+      "via": "archive"
+    }
+  ],
+  "mega/mega_pro_dynamic/wallonia/2026-05": [
+    {
+      "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-052026-Dynamic0105.pdf",
+      "pdf": "d5486cccda1328cb07ed33861eb0c21f45e61fa98d252e5207c01afce8c9958f",
+      "via": "archive"
+    }
+  ],
+  "mega/mega_pro_dynamic/wallonia/2026-06": [
+    {
+      "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-062026-Dynamic0106.pdf",
+      "pdf": "8e97d54b6116580a837405c4191efe0d138a6865c4d9e758a08edd0076aee7ee",
+      "via": "archive"
+    }
+  ]
+}

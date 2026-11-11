@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-09-12",
@@ -76,6 +76,7 @@
   "transition": null,
   "vat_applies": false
  },
+ "network_year": null,
  "publication_label": "Juin 2026",
  "source_url": "https://files.boltenergie.be/pricelists/fix/plenty_fix_res_el_fr_202606.pdf",
  "supplier": "bolt",

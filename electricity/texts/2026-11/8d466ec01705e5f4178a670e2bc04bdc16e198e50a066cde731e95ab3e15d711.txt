@@ -1,0 +1,180 @@
+Belvus Dynamisch Oktober 2026
+T A R I E F K A A R T  ·  P A R T I C U L I E R  ·  V L A A N D E R E N
+ELEKTRICITEIT
+Tariefkaart geldig voor de levering van 100% groene elektriciteit aan residentiële klanten met een
+communicerende digitale meter en geactiveerd SMR3-meetregime in Vlaanderen. Alle prijzen zijn
+inclusief btw tenzij anders vermeld.
+100% groene elektriciteit. Belvus verbindt zich ertoe voor Belvus Dynamisch 100% groene elektriciteit te
+leveren. Dit wordt gestaafd met garanties van oorsprong.
+Volgt de markt
+Een dynamische prijs die de
+groothandelsprijzen op de Belpex-beurs
+volgt.
+Één jaar looptijd
+De overeenkomst heeft een looptijd van
+één jaar. De prijsformule blijft gedurende
+deze termijn ongewijzigd.
+Heel Vlaanderen
+Geldig voor alle Fluvius-netbeheerders in
+Vlaanderen.
+S A M E N S T E L L I N G  V A N  J E  S T R O O M P R I J S
++ +
+Tarieven excl. btw
+E N E R G I E P R I J S  E L E K T R I C I T E I T  ·  € c / k W h
+15,40
+*
+Ingeschat tarief volgende 12
+maanden (VNR)
+17,38
+**
+Op basis van historische
+maandprijs
+F O R M U L E
+(Belpex_15M × 1,01) + € 7,50/MWh
+Belpex_15M is de Belgische Day-Ahead-
+elektriciteitsprijs per kwartier van 15 minuten
+(EPEX SPOT Belgium).
+Jaarlijkse abonnementskost *** (incl. btw) € 8/jaar
+* Ingeschat tarief voor de komende 12 maanden volgens de methodologie van de Vlaamse Nutsregulator (excl. btw), berekend met het proﬁelgewogen
+gemiddelde voor elektriciteitsafname van 145,01543 EUR/MWh · ** Ingeschat tarief op basis van de historische maandwaarde Belpex RLP-M september
+2026 van 164,691 EUR/MWh · De weergegeven prijs is geen vaste prijs. De werkelijke prijs wordt voor ieder kwartier afzonderlijk bepaald op basis van de
+Belpex 15M-prijs en het werkelijk afgenomen elektriciteitsvolume tijdens datzelfde kwartier.
+*** Bij beëindiging van het contract binnen de eerste zes maanden wordt maximaal de abonnementskost voor zes maanden aangerekend, zijnde 6/12 van
+de jaarlijkse abonnementskost. Bij beëindiging na de eerste zes maanden wordt de abonnementskost pro rata per leveringsdag aangerekend volgens de
+werkelijke duur van de contractuele relatie.
+Teruglevering (injectie per kwartier) voor zonnepanelen met digitale meter
+T E R U G L E V E R I N G S V E R G O E D I N G  ·  € c / k W h
+6,65
+*
+Ingeschat tarief volgende 12
+maanden (VNR)
+8,75
+**
+Op basis van historische
+maandprijs
+F O R M U L E
+(Belpex_15M × 1) + € -13/MWh
+Belpex_15M is de Belgische Day-Ahead-
+elektriciteitsprijs per kwartier van 15 minuten
+(EPEX SPOT Belgium).
+* Ingeschat tarief voor de komende 12 maanden volgens de methodologie van de Vlaamse Nutsregulator (excl. btw), berekend met het proﬁelgewogen
+gemiddelde voor teruglevering van 79,45783 EUR/MWh · ** Ingeschat tarief op basis van de historische maandwaarde Belpex SPP-M september 2026
+van 100,526 EUR/MWh · De weergegeven prijs is geen vaste prijs. De werkelijke prijs wordt voor ieder kwartier afzonderlijk bepaald op basis van de
+Belpex 15M-prijs en het werkelijk geïnjecteerde elektriciteitsvolume tijdens datzelfde kwartier.
+Belvus BV · Frankrijklei 5, 2000 Antwerpen · BE 1020 490 973 · klantendienst@belvus.be · belvus.be 1
+Energieprijs Nettarieven & transport Taksen & hefﬁngen
+Tariefkaart · Particulier Elektriciteit Belvus Dynamisch — Oktober 2026
+Kosten groene stroom en WKK incl. btw
+GSC — groenestroomcertiﬁcaten €c 1,18/kWh
+WKK — warmte-krachtkoppeling €c 0,42/kWh
+De kosten voor het vervullen van onze verplichtingen m.b.t. groene stroom en WKK worden aangepast in functie van de wettelijke wijzigingen (bv.
+wijzigingen van het aantal certiﬁcaten die wij als leverancier per geleverde kWh moeten indienen). De bedragen vermeld op deze tariefkaart zijn geldig
+voor het huidige kwartaal.
+Taksen en hefﬁngen incl. btw
+Bijzondere Energiefonds * (€/maand) — laagspanning niet-residentieel € 10,0700
+Bijzondere Energiefonds * (€/maand) — laagspanning residentieel € 0
+Bijzondere accijns ** €c 5,0329/kWh
+Bijdrage op de energie €c 0,2042/kWh
+* BTW niet van toepassing.
+** Verschillend tarief afhankelijk van verbruik op jaarbasis: 0–3.000 kWh: 5,0329 c€/kWh · 3.001–20.000 kWh: 5,0329 c€/kWh · 20.001–50.000 kWh:
+4,8188 c€/kWh.
+Nettarieven · Digitale meter met piekmeting ¹ incl. btw
+D ATA B E H E E R TA R I E F  ²
+€  18,92/jaar
+G E L D I G  V O O R
+Alle Fluvius-netbeheerders in Vlaanderen. Het databeheertarief geldt
+voor alle types meters.
+NETBEHEERDER
+VLAANDEREN FLUVIUS
+Capaciteitstarief ³
+€/kW jaar
+Afnametarief normaal
+€c/kWh
+Afnametarief excl. nacht
+€c/kWh
+Fluvius Antwerpen 52,37 5,35 4,81
+Fluvius Limburg 51,99 5,75 5,19
+Fluvius West 60,52 6,7 5,6
+Fluvius Imewo 57,45 5,42 5,01
+Fluvius Midden-Vlaanderen 53,13 5,28 4,79
+Fluvius Kempen 59,58 6,34 5,66
+Fluvius Zenne-Dijle 59,49 5,87 5,32
+Fluvius Halle-Vilvoorde 59,41 5,64 5,12
+¹ Digitale meter met piekmeting: Voor Belvus Dynamisch is een digitale meter met een geactiveerd SMR3 meetregime vereist. Als de digitale meter niet
+communiceert met Fluvius gelden de tarieven voor de klassieke meter.
+² Databeheertarief: de kosten van alle activiteiten die de databeheerder moet uitvoeren op data geregistreerd door alle types meters.
+³ Capaciteitstarief: sinds 2023 hangen de nettarieven op uw elektriciteitsfactuur niet alleen af van de hoeveelheid elektriciteit die je verbruikt, ook van
+hoeveel elektriciteit je tegelijk verbruikt. Hoe zwaarder je het elektriciteitsnet belast, hoe meer je bijdraagt in de kosten voor de aanleg en het onderhoud
+van dat net.
+Belvus BV · Frankrijklei 5, 2000 Antwerpen · BE 1020 490 973 · klantendienst@belvus.be · belvus.be 2
+Tariefkaart · Particulier Elektriciteit Belvus Dynamisch — Oktober 2026
+Nettarieven · Klassieke meter incl. btw · databeheertarief ¹: € 18,92/jaar
+NETBEHEERDER
+VLAANDEREN FLUVIUS
+Prosumententarief
+²
+€/kVA/jaar
+Capaciteitstarief ³
+€/kVA/jaar
+Afnametarief
+€c/kWh
+Afnametarief excl.
+nacht
+€c/kWh
+Fluvius Antwerpen 54,63 130,92 8,09 7,55
+Fluvius Limburg 62,38 129,998 9,23 8,67
+Fluvius West 69,59 151,32 10,3 9,60
+Fluvius Imewo 60,12 143,63 8,90 8,37
+Fluvius Midden-
+Vlaanderen 59,23 132,83 8,77 8,27
+Fluvius Kempen 67,79 148,95 10,03 9,36
+Fluvius Zenne-Dijle 65,51 148,73 9,7 9,4
+Fluvius Halle-Vilvoorde 62,66 148,52 9,28 8,76
+¹ Databeheertarief: de kosten van alle activiteiten die de databeheerder moet uitvoeren op data geregistreerd door alle types meters.
+² Prosumenten zijn gezinnen en kleine bedrijven die energie consumeren maar ook injecteren op het net met een productie-installatie (meestal
+zonnepanelen) met een maximaal vermogen van 10 kVA en een terugdraaiende teller. Het tarief wordt per maand verdeeld volgens de gemiddelde
+productie zoals vastgelegd door de Vlaamse Nutsregulator.
+³ Capaciteitstarief: sinds 2023 hangen de nettarieven op uw elektriciteitsfactuur niet alleen af van de hoeveelheid elektriciteit die je verbruikt, ook van
+hoeveel elektriciteit je tegelijk verbruikt.
+Energiedelen — jaarlijkse administratieve kost per aansluitingspunt, incl. BTW € 100/jaar
+Deze kost wordt pro rata per dag aangerekend volgens de effectieve duur van deelname aan energiedelen.
+Hoe wordt de kost van mijn stroom bepaald?
+De stroomprijs is een dynamische prijs die de
+groothandelsprijzen volgt volgens de formule, waarbij de
+indexatieparameter Belpex_15M gedeﬁnieerd is als de
+Belgische Day-Ahead-elektriciteitsprijs per kwartier van 15
+minuten (publicatie door EPEX SPOT Belgium).
+F O R M U L E (Belpex_15M × 1,01) + € 7,50/MWh
+Duur van de
+(Terug)Leveringsovereenkomst
+De (Terug)Leveringsovereenkomst heeft een duurtijd
+van één jaar.
+Algemene Voorwaarden
+Klik hier om deze te lezen op onze website.
+Belvus BV · Frankrijklei 5, 2000 Antwerpen · BE 1020 490 973 · klantendienst@belvus.be · belvus.be 3
+Tariefkaart · Particulier Elektriciteit Belvus Dynamisch — Oktober 2026
+Informatie over je tariefformule
+De weergegeven energieprijs en terugleveringsvergoeding zijn indicatieve gemiddelde prijzen, deze indicatieve prijzen worden niet
+gebruikt voor de werkelijke kwartierafrekening. De werkelijke energieprijs en terugleveringsvergoeding worden voor ieder kwartier van
+15 minuten afzonderlijk bepaald op basis van de toepasselijke Belpex 15M-prijs en het werkelijke afname- of injectievolume tijdens
+datzelfde kwartier.
+Voor Belvus Dynamisch moet de klant beschikken over een communicerende digitale meter met geactiveerd Smart Meter Regime 3
+(SMR3), zodat de distributienetbeheerder de afname- en injectievolumes per kwartier aan Belvus kan doorgeven.
+Wanneer gevalideerde kwartierwaarden tijdelijk niet beschikbaar zijn, kan het door de distributienetbeheerder aangeleverde
+afnamevolume over de kwartieren worden verdeeld volgens het toepasselijke RLP-proﬁel. Het injectievolume kan worden verdeeld
+volgens het toepasselijke SPP-proﬁel. Deze proﬁelen worden gepubliceerd door Synergrid. Wanneer de deﬁnitieve meetgegevens
+beschikbaar zijn, kan de facturatie worden rechtgezet.
+De klant kan kiezen tussen maandelijkse afrekening op basis van het werkelijke verbruik of termijnfacturen met een periodieke
+afrekening. In beide gevallen wordt de uiteindelijke energiekost bepaald op basis van de toepasselijke Belpex 15M-prijzen en de
+afname- en injectievolumes per kwartier.
+De Belpex 15M-prijs kan positief of negatief zijn. Daardoor kan ook de energieprijs of terugleveringsvergoeding tijdens bepaalde
+kwartieren positief of negatief zijn. De vaste vergoeding, nettarieven, belastingen, hefﬁngen en andere toepasselijke kosten blijven
+afzonderlijk verschuldigd.
+Wanneer de gebruikte indexatieparameter wordt afgeschaft, niet langer beschikbaar is, niet of onregelmatig wordt gepubliceerd
+of door gewijzigde marktomstandigheden niet langer economisch representatief is, kan Belvus een vervangende parameter of
+component toepassen.
+Wanneer SMR3 structureel niet beschikbaar is, kan Belvus de klant na voorafgaande kennisgeving overzetten naar een passend
+variabel elektriciteitsproduct.
+Belvus BV · Frankrijklei 5, 2000 Antwerpen · BE 1020 490 973 · klantendienst@belvus.be · belvus.be 4
+VRAGEN? WIJ HELPEN JE GRAAG.
+klantendienst@belvus.be 03 393 06 83 www.belvus.be

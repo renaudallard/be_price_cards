@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
    "pdf": "ad47a97111f039a59124bafd55ea0641419ba18f0502b0c114320b3162cd7a98",
@@ -195,6 +195,7 @@
   "transition": null,
   "vat_applies": false
  },
+ "network_year": null,
  "publication_label": "11/2026",
  "source_url": "https://files.octaplus.be/tariffs/E_OCTA_BOOSTFLEX_RE_VL_FR.pdf",
  "supplier": "octaplus",

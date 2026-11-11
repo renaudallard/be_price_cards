@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-10T13:47:41.162716+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-10",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
    "pdf": "916b9dfeaec4b84a9c722fab429a92b7354a6e0636e472916a6f633c81b791b6",
@@ -176,6 +176,7 @@
   "transition": null,
   "vat_applies": false
  },
+ "network_year": null,
  "publication_label": "novembre 2026",
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=basicfix&energyType=electricity&language=fr&tabValue=Flanders",
  "supplier": "luminus",

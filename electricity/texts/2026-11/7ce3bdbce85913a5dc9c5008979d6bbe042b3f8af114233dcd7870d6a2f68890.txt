@@ -1,0 +1,212 @@
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Tariefkaart 
+  
+Particulier Elektriciteit 
+  
+SMART PLUS EL 
+ 
+   
+Augustus 2026 
+  
+   
+Tariefkaart geldig voor de levering van  
+Belgische  
+stroom  
+aan  
+residentiële  
+klanten met analoge of digitale meter  
+SRM1) in Vlaanderen.  
+( 
+ Alle prijzen zijn  
+inclusief BTW tenzij anders vermeld. 
+  
+ 
+Tariefkaart Particulier Elektriciteit  1  
+  
+1.  Abonnementsvergoeding/jaar  
+Jaarlijkse abonnementskost      €130  
+ *Tijdens de eerste zes maanden dat men klant is, is de abonnementskost integraal verschuldigd voor een 
+periode van zes maanden, ook als je tijdens deze eerste zes maanden overstapt naar een andere leverancier. 
+Vanaf de zevende maand wordt de abonnementskost enkel aangerekend in verhouding tot de werkelijke 
+verdere duur van onafgebroken contractuele relatie.  
+2. Energieprijsberekening  
+De stroomprijs is een variabele prijs die de groothandelsprijzen volgt volgens 
+onderstaande formule, waarbij de indexatieparameter Belpex_RLP gedeﬁnieerd is 
+als RLP gewogen gemiddelde uurprijs van Day Ahead Baseload Belpex (publicatie 
+door EPEX Spot). De RLP-weging gebeurt met het verbruiksproﬁel RLP_BE (Real 
+Load Proﬁle) dat het rekenkundige gemiddelde is van de proﬁelen van de 
+verschillende distributienetbeheerders in Vlaanderen (publicatie door Synergrid).  
+Formule (Belpex_RLP x 1,1) + €19/MWh   *€c15,93/kWh  **€c14,49/kWh  
+*Ingeschat tarief volgende 12 maanden volgens methodologie VREG(excl. BTW) 
+**Ingeschat tarief op basis van historische maandprijs (laatst gekende waarde van Belpex RLP-M 7/2026:  
+€114,446/MWh)  
+3. Terugleveringsvergoeding (injectie 24u)  
+Eigenaars van zonnepanelen met een digitale meter ontvangen een variabele 
+terugleveringsvergoeding volgens bovenstaande formule, waarbij de 
+indexatieparameter Belpex gedeﬁnieerd is als de SPP gewogen gemiddelde 
+uurprijs van Day Ahead Baseload Belpex.  
+Formule (Belpex_SPP x 1) + €-20/MWh  *€c5,05/kWh   **€c4,26/kWh  
+* Ingeschat tarief volgende 12 maanden volgens methodologie VREG  
+** Ingeschat tarief op basis van historische maandprijs (laatst gekende waarde van Belpex SPP-M 7/2026:  
+€62,646/MWh)  
+4. Kosten groene stroom en WKK  
+De kosten voor het vervullen van onze verplichtingen m.b.t. groene stroom en WKK, 
+worden aangepast in functie van de wettelijke wijzigingen (bv. wijzigingen van het 
+aantal certiﬁcaten die wij als leverancier per geleverde kWh moeten indienen). De 
+bedragen vermeld op deze tariefkaart zijn geldig voor het huidige kwartaal.  
+GSC  €c 1,18 WKK  €c 0,42 
+ 
+Tariefkaart Particulier Elektriciteit  2  
+  
+ 
+5. Taksen en hefﬁngen  
+Bijzondere Energiefonds (*) (€/maand)  
+Laagspanning niet-residentieel  €10,0700  
+Laagspanning residentieel     € 0 
+Bijzondere accijns (**)  €c5,0329  
+Bijdrage op de energie       €c0,2042 
+ (*) BTW niet van toepassing. 
+(**) Verschillend tarief afhankelijk van verbruik op jaarbasis: 0-3.000 kWh: 5,0329 c€/kWh, 3.001-
+20.000 kWh: 5,0329 c€/kWh, 20.001-50.000 kWh: 4,8188 c€/kWh 
+6. Netwerkkosten en afnames  
+Alle prijzen zijn incl. BTW.  
+ Digitale meter met piekmeting1  
+Netbeheerder  
+Vlaanderen  Fluvius  Databeheer  tarief (€/jaar)2  Capaciteits tarief  (€/kW jaar)3  Afname tarief normaal  (€c/kWh)  Afname tarief excl. nacht  (€c/kWh)  
+FLUVIUS ANTWERPEN  
+18,92 
+52,37 5,35 4,81 
+FLUVIUS LIMBURG  51,99 5,75 5,19 
+FLUVIUS WEST  60,52 6,7  5,6  
+FLUVIUS IMEWO  57,45 5,42  5,01  
+FLUVIUS 
+MIDDENVLAANDEREN  53,13 5,28  4,79  
+FLUVIUS KEMPEN  59,58 6,34  5,66  
+FLUVIUS ZENNE-DIJLE  59,49  5,87  5,32 
+FLUVIUS 
+HALLEVILVOORDE  59,41  5,64  5,12  
+  
+1 Digitale meter met piekmeting: als de digitale meter niet communiceert met 
+Fluvius gelden de tarieven voor de klassieke meter.  
+² Databeheertarief: de kosten van alle activiteiten die de databeheerder moet 
+uitvoeren op data geregistreerd door alle types meters.  
+³ Capaciteitstarief: sinds 2023 hangen de nettarieven op uw elektriciteitsfactuur 
+niet alleen af van de hoeveelheid elektriciteit die je verbruikt, ook van hoeveel 
+elektriciteit je tegelijk verbruikt. Hoe zwaarder je het elektriciteitsnet belast, hoe 
+meer je bijdraagt in de kosten voor de aanleg en het onderhoud van dat net.  
+ 
+ 
+ 
+Tariefkaart Particulier Elektriciteit  3  
+  
+  
+  
+1 Databeheertarief: de kosten van alle activiteiten die de databeheerder moet 
+uitvoeren op data geregistreerd door alle types meters.  
+² Prosumenten zijn gezinnen en kleine bedrijven die energie consumeren maar 
+ook injecteren op het net met een productie-installatie (meestal zonnepanelen) 
+met een maximaal vermogen van 10 kVA energie en een terugdraaiende teller. Het 
+tarief wordt per maand verdeeld volg ens de gemiddelde productie zoals 
+vastgelegd door de VREG.  
+³ Capaciteitstarief: sinds 2023 hangen de nettarieven op uw elektriciteitsfactuur 
+niet alleen af van de hoeveelheid elektriciteit die je verbruikt, ook van hoeveel 
+elektriciteit je tegelijk verbruikt. Hoe zwaarder je het elektriciteitsnet belast, hoe 
+meer je bijdraagt in de kosten voor de aanleg en het onderhoud van dat net.  
+7. Duur van de (Terug)Leveringsovereenkomst  
+De (Terug)Leveringsovereenkomst heeft een duurtijd van één jaar.  
+8. Energiedelen  
+Er wordt een jaarlijkse administratieve kost aangerekend van €100, incl. BTW, per 
+aansluitingspunt voor het delen van energie.  
+9. Algemene Voorwaarden  
+Klik hier om deze lezen op onze website.  
+ Klassieke meter   
+Netbeheerder   
+Fluvius   
+Vlaanderen  
+Databeheer 
+tarief1  
+(€/jaar)  
+Prosumenten  
+tarief2  
+(€/kVA/jaar)  
+Capaciteits 
+tarief3  
+(€/kVA/ 
+jaar)  
+Afname 
+tarief  
+(€c/  
+kWh)  
+Afname 
+tarief  
+excl. nacht  
+(€c/kWh)  
+FLUVIUS  
+ANTWERPEN  
+18,92 
+54,63 130,92  8,09 7,55  
+FLUVIUS LIMBURG  62,38 129,998  9,23  8,67  
+FLUVIUS WEST  69,59 151,32 10,3  9,60  
+FLUVIUS IMEWO  60,12 143,63 8,90 8,37 
+FLUVIUS 
+MIDDENVLAANDEREN  59,23 132,83 8,77  8,27  
+FLUVIUS KEMPEN  67,79  148,95  10,03 9,36  
+FLUVIUS ZENNE- 
+DIJLE  65,51 148,73 9,7  9,4 
+FLUVIUS 
+HALLEVILVOORDE  62,66  148,52 9,28  8,76 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Belvus 
+  
+www.belvus.b 
+e 
+  
+  
+Belvus BV | Frankrijklei 5 | 2000 Antwerpen 
+  
+BE: 1020 490 973 |  
+Klantendienst@belvus.be 
+  
+  

@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-09T14:21:58.777161+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-09",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
    "pdf": "4b4e772c70a4901bd00b45f271c3e1baaeab844521867f2015fea62f74a29414",
@@ -196,6 +196,7 @@
   "transition": null,
   "vat_applies": false
  },
+ "network_year": null,
  "publication_label": "novembre 2026",
  "source_url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfyflex-plus&energyType=electricity&language=fr&tabValue=Flanders",
  "supplier": "luminus",

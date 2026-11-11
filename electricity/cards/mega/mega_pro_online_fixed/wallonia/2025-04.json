@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-11-04",
@@ -112,6 +112,7 @@
   "transition": null,
   "vat_applies": true
  },
+ "network_year": null,
  "publication_label": "avril 2025",
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-WL-042025-Online0104-Fixed.pdf",
  "supplier": "mega",

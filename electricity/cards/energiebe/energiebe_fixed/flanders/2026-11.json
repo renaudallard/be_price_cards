@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
    "text": "texts/2026-11/21dde76c4bc6bcbaf6a368ec6fb7e81c74fc04d82060c3539bbfca7f8f5eb103.txt",
@@ -188,6 +188,7 @@
   "transition": null,
   "vat_applies": false
  },
+ "network_year": null,
  "publication_label": "november 2026",
  "source_url": "https://energie.blob.core.windows.net/cms/assets/VAST_Energie_be_RES_ELEK_pdf_f716a0f366.pdf",
  "supplier": "energiebe",

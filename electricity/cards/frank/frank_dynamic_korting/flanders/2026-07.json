@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-09-12",
@@ -179,6 +179,7 @@
   "transition": null,
   "vat_applies": false
  },
+ "network_year": null,
  "publication_label": "juli 2026",
  "source_url": "https://cdn.sanity.io/files/8navd656/production-be/975ce508cdfef1c7ffd3cc5bf68fe96cb1b49306.pdf",
  "supplier": "frank",

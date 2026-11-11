@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-10-20",
@@ -174,6 +174,7 @@
  },
  "energy_kind": "variable",
  "injection": null,
+ "network_year": null,
  "publication_label": "Q3 2025",
  "source_url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/E-TSS-FR-2025-Q3.pdf",
  "supplier": "social",

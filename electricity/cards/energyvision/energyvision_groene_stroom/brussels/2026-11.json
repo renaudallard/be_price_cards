@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
-   "text": "texts/2026-11/5b6a6f3bdb24f8cdfb82dff07f8c799945dd5716a48834ba6596a68c0c3629f8.txt",
+   "text": "texts/2026-11/7a84ed089358b9f3ce2472a9eaee6069d6a0dafdc6a7920e777337697714c39e.txt",
    "url": "https://www.brusol.be/nl/schrijf-je-in-voor-groene-stroom-van-brusol",
    "variant": "text"
   },
@@ -102,6 +102,7 @@
   "transition": null,
   "vat_applies": false
  },
+ "network_year": null,
  "publication_label": "november 2026",
  "source_url": "https://www.brusol.be/sites/default/files/2026-10/EV-1126-GRS-BXL-nl.pdf",
  "supplier": "energyvision",

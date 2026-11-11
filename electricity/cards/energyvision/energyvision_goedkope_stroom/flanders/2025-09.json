@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
    "pdf": "3595baa182c02bf618528c3f82fbd90969fb98c3240f296183b112b6b3830b32",
@@ -200,6 +200,7 @@
   "transition": null,
   "vat_applies": false
  },
+ "network_year": null,
  "publication_label": "september 2025",
  "source_url": "https://www.energyvision.be/sites/default/files/inline-files/EV-GS-0925-01_1.pdf",
  "supplier": "energyvision",

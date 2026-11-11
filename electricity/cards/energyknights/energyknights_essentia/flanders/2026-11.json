@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-08T12:13:03.784086+00:00",
+ "_cached_at": "2026-11-11T12:58:34.495345+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
    "pdf": "3cfcaacfa5b66541c66f2948bb5c1d6176be46125d475c3acf6360e2128c4862",
@@ -200,6 +200,7 @@
   "transition": null,
   "vat_applies": false
  },
+ "network_year": null,
  "publication_label": "2026-11",
  "source_url": "https://www.energyknights.be/website/getCurrentTariffchart/par/essentiaonline/nl",
  "supplier": "energyknights",
