@@ -1,11 +1,11 @@
 {
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-11",
  "_sources": [
   {
-   "pdf": "d100b619430796141104c9434cf8b0170369ff4ef36cb06e2cbb4bfe89ab8743",
+   "pdf": "acbd4825cca5f1ee559349268904f59e550112a572ec26261085f2d5702e76dc",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
-   "text": "texts/2026-11/fa4048160fbc6a1056a7318230b1832ca9fea92cfe7333b011697a75964a8977.txt",
-   "url": "https://www.energyvision.be/sites/default/files/2026-11/EV-1126-GS1JVG-WAL-fr_0.pdf",
+   "text": "texts/2026-11/5dd926e0e92042c6bd9608399330a147ccbdfe001d0079ca357c9257a7484c4d.txt",
+   "url": "https://www.energyvision.be/sites/default/files/2026-11/EV-1126-GS1JVG-WAL-fr_1.pdf",
    "variant": "layout"
   }
  ],
@@ -52,11 +52,11 @@
  "energy": {
   "fee": 95.0,
   "kind": "fixed",
-  "price": 0.09949999999999999
+  "price": 0.092
  },
  "publication_label": "2026-11",
  "schema": 3,
- "source_url": "https://www.energyvision.be/sites/default/files/2026-11/EV-1126-GS1JVG-WAL-fr_0.pdf",
+ "source_url": "https://www.energyvision.be/sites/default/files/2026-11/EV-1126-GS1JVG-WAL-fr_1.pdf",
  "supplier": "energyvision",
  "taxes": {
   "card_vat_rate": 0.06,
