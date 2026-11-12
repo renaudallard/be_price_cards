@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-12T14:00:17.479702+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-11",
+ "_seen_on": "2026-11-12",
  "_sources": [
   {
-   "text": "texts/2026-11/93078e99e9bf5ba0c387df4b786c573c438ad618f0127f956cb43197ecd4dbcf.txt",
+   "text": "texts/2026-11/c94c4970dd617cb1eb41c8491e5d529a85a21e0ea53c91c3b10bb1d4d9216571.txt",
    "url": "https://8navd656.api.sanity.io/v2023-01-01/data/query/production-be?[('query', '*[_type==\"sanity.fileAsset\" && originalFilename match \"*Variabel*\" && !(originalFilename match \"*Gas*\")]{originalFilename,url,_createdAt} | order(_createdAt desc)[0..29]')]",
    "variant": "text"
   },

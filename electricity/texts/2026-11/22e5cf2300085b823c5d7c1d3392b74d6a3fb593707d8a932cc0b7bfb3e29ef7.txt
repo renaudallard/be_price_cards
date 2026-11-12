@@ -1,0 +1,54 @@
+Carte tarifaire
+• Injection pour l’électricité
+en Région wallonne - exonérée de TVA.
+Conditions particulières applicables aux consommateurs professionnels en Région wallonne.
+Ces conditions sont applicables aux nouveaux contrats établis en et aux contrats renouvelés en
+(pour les renouvellements, la carte tarifaire est ainsi connue deux mois avant application).
+Prix de l’énergie injectée
+00:21
+6202
+erbmetpes
+41
+| RF
+einolaW
+orP
+elbairaV
+noitcejnI
+| TSAF
+TotalEnergies Injection Variable Pro
+novembre 2026
+Conditions particulières au tarif Injection Variable Pro
+novembre 2026 février 2027
+L’offre TotalEnergies Injection Variable Pro est une formule tarifaire uniquement accessible aux clients professionnels dont la consommation
+annuelle est inférieure à 100 MWh et disposant d’un contrat de fourniture d’électricité. L’offre est réservée aux Clients disposant d’un compteur
+numérique ou bidirectionnel et avec un raccordement basse tension en dessous de 56 kVA. Dans tous les autres cas, le tarif n’est pas
+d’application et le Client veillera à signer un contrat adapté.
+L’offre TotalEnergies Injection Variable Pro est soumise aux conditions générales de TotalEnergies. En cas de contradiction entre les
+présentes conditions contractuelles et les conditions générales de TotalEnergies
+(https://totalenergies.be/fr/professionnels/conditions-de-fourniture-pme), les présentes conditions prévalent.
+Prix de l’énergie injection
+(c€/kWh)
+Compteur Compteur double
+simple
+Heures pleines Heures creuses
+Injection* (Compensation pour la rétrocession)
+5,74 5,74 5,74 Tarif mensuel
+0.04288 * BELPEXM -0.502 0.04288 * BELPEXM -0.502 0.04288 * BELPEXM -0.502 Formule tarifaire
+* Le prix de l'injection est un prix variable et est indexé mensuellement selon la formule reprise dans le tableau.
+Le prix de l'injection dans le tableau ci-dessus est le prix annuel estimé selon la méthodologie du Vlaamse Nutsregulator :
+https://www.vlaamsenutsregulator.be/nl/faq/hoe-berekent-de-v-testr-de-geschatte-jaarkost-voor-variabele-contracten
+L’énergie produite et injectée devra faire l’objet d’une facturation. Dans ce cadre, le Fournisseur établit une proposition de facture au nom et pour le compte du Client à l’aide de l’outil
+d’autofacturation disponible via l’espace client My TotalEnergies. La proposition de facture est établie par le Fournisseur sur la base des données d’injection mesurées ou estimées mises à
+disposition du Fournisseur par le(s) GRD concerné(s). La proposition de facture doit faire l’objet d’une acceptation du Client. A défaut de contestation par le Client dans un délai de 30
+jours, le Fournisseur se réserve le droit de tenir la proposition de facture comme acceptée. La facture est payée par le Fournisseur dans un délai de 30 jours suivant son acceptation par le
+Client. Le Fournisseur se réserve le droit de déduire des factures ouvertes dues au Client pour l’injection toutes sommes dues par le Client au Fournisseur pour la fourniture de gaz et/ou
+d’électricité ou pour la fourniture de services déterminés.
+Les tarifs prévus dans cette Carte tarifaire s’appliquent aussi en cas de mise en service d’une installation de production d’électricité pour le Point de Fourniture en cours de Contrat.
+Le Client peut décider de mettre un terme à la partie Injection de son contrat avec le Fournisseur, moyennant le respect d’un préavis d’un (1) mois notifié par écrit, sans frais de résiliation. Un
+changement de fournisseur d’énergie communiqué par le GRD au Fournisseur vaut dans ce cas notification suffisante de résiliation, pour autant que le délai de préavis ait été respecté.
+Les prix mensuels de l'injection calculés sur base de la dernière valeur connue du Belpex_M sont les suivants :
+Injection
+Compteur Simple : 6,97 € cent/kWh
+Compteur Double
+Heures Pleines : 6,97 € cent/kWh
+Heures Creuses : 6,97 € cent/kWh
