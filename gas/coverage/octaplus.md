@@ -5,7 +5,8 @@ Each month links to what it was parsed from and to what came out of it: `pdf` is
 card itself, in the releases of this repository, `page` the text of a page as it was
 read, and `json` the card as the integration parsed it. A month marked `(mirror)` was
 copied from the supplier's own archive rather than captured while it was current; a
-blank cell is a month the archive does not hold.
+month marked `(not parsed)` is a card the archive holds but no reader could read, so
+there is no JSON to link; a blank cell is a month the archive does not hold.
 
 | contract | region | 2023-11 | 2023-12 | 2024-01 | 2024-02 | 2024-03 | 2024-04 | 2024-05 | 2024-06 | 2024-07 | 2024-08 | 2024-09 | 2024-10 | 2024-11 | 2024-12 | 2025-01 | 2025-02 | 2025-03 | 2025-04 | 2025-05 | 2025-06 | 2025-07 | 2025-08 | 2025-09 | 2025-10 | 2025-11 | 2025-12 | 2026-01 | 2026-02 | 2026-03 | 2026-04 | 2026-05 | 2026-06 | 2026-07 | 2026-08 | 2026-09 | 2026-10 | 2026-11 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

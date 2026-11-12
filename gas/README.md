@@ -14,6 +14,8 @@ written daily by its `archive_cards.yml` workflow.
 - `indices/<supplier>.json`: the index values the supplier publishes, by index
   and month, in EUR/MWh.
 - `pdfs.json`: which release holds each card, by SHA-256.
+- `unparsed.json`: the cards kept that no reader could read, by the row they
+  would have become.
 - `parser.txt`: the digest of the parser the rows were last replayed with.
 - `vat.json`: per month, the residential VAT rate the cards agree on (three
   suppliers or more stating one rate and none another); a month they disagree
