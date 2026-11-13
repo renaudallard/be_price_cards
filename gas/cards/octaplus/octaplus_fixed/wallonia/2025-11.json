@@ -13,14 +13,14 @@
   },
   {
    "pdf": "5403133defdfe1a565d78b1c445e4b59401243e30621c6642c1d9c386d93fda2",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/c90e730b5ff5a13234afe07a9fc2c00ae5c4726883a0ba5a8feda382792cc4f7.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-11+G+OCTA%2BFIXED+RE+WL+FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "5403133defdfe1a565d78b1c445e4b59401243e30621c6642c1d9c386d93fda2",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/857bfe9b7bf6913240a6d687c3a7955d31f76eff3314ab2de55837e1f6c86014.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-11+G+OCTA%2BFIXED+RE+WL+FR.pdf",
    "variant": "rows"
@@ -35,7 +35,7 @@
   "price": 0.0433
  },
  "publication_label": "2025-11",
- "schema": 1,
+ "schema": 3,
  "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2025-11+G+OCTA%2BFIXED+RE+WL+FR.pdf",
  "supplier": "octaplus",
  "taxes": {

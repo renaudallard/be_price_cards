@@ -13,14 +13,14 @@
   },
   {
    "pdf": "dea007574ea3ec70c49061a82c5c3cc8e7ce113f3e6aab873bb2a91d08218b26",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/15f50570b054a3ce6ca0ebf315a18881fff59ca14dbddb79f8da14551d738def.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-01+G+OCTA%2BFLUX+RE+VL+FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "dea007574ea3ec70c49061a82c5c3cc8e7ce113f3e6aab873bb2a91d08218b26",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/d625f31448db15c36101a6a6b093c9577fe3f40baf55f87e559a4f373b91d1dc.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-01+G+OCTA%2BFLUX+RE+VL+FR.pdf",
    "variant": "rows"
@@ -38,10 +38,14 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0313,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base"
+  ]
  },
  "publication_label": "2026-01",
- "schema": 1,
+ "schema": 3,
  "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-01+G+OCTA%2BFLUX+RE+VL+FR.pdf",
  "supplier": "octaplus",
  "taxes": {

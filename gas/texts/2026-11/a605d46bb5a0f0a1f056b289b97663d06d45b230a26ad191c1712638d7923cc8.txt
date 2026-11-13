@@ -1,0 +1,46 @@
+Tariefkaart Aardgas
+Flex
+Variabel Onbepaalde duur Versie oktober 2026 Particulier Prijzen inclusief 6% btw
+Energiekost
+Prijzen
+Vaste vergoeding (€/jaar)(1) 75,00
+Energiekost
+(c€/kWh) 8,68 Maandelijkse prijzen
+(c€/kWh) 8,00 Geschatte jaarprijs
+Formule(2) (c€/kWh)
+(1,0250 x TTFDAM + 0,470) x 1,06
+(1) De vaste vergoeding is een administratieve vergoeding die jaarlijks verschuldigd is aan Elegant, pro rata van de looptijd van de Overeenkomst, behalve indien de Klant de Overeenkomst stopzet binnen de zes maanden na de aanvang van de
+levering onder de Overeenkomst, in welk geval de Klant een vaste vergoeding gelijk aan zes maanden verschuldigd is.
+(2) De aardgasprijs wordt maandelijks geïndexeerd op basis van de RLP gewogen quoteringen voor TTF Day Ahead (End Of Day), hierna TTFDAMRLP. De waarde van TTFDAMRLP van de lopende maand zal pas gekend zijn aan het einde van
+de maand. De aangegeven prijzen zijn gebaseerd op de laatst gekende waarde voor TTFDAMRLP, namelijk de waarde van september 2026. Deze bedroeg 7,531 c€/kWh. De geschatte jaarprijs voor TTFDAMRLP bedraagt 6,909 c€/kWh volgens
+de VREG methodologie. Deze vermelde prijzen zijn exclusief btw. Meer informatie en de waarden van deze parameters kan je terugvinden op elegant.be/indexatie.
+Nettarieven
+Transport- en distributiekosten
+Distributiekosten
+T1 (< 5.000kWh) T2 (5.001 - 150.000kWh)
+vast (€/jaar) var (c€/kWh) vast (€/jaar) var (c€/kWh)
+Fluvius Antwerpen 15,68 2,26 83,22 0,91
+Fluvius Halle-Vilvoorde 17,59 2,50 93,38 0,98
+Fluvius Imewo 18,61 2,63 98,81 1,02
+Fluvius Kempen 16,17 2,27 85,83 0,88
+Fluvius Limburg 14,59 2,24 77,46 0,98
+Fluvius Midden-Vl. 16,33 2,32 86,71 0,91
+Fluvius West 19,03 2,69 101,02 1,05
+Fluvius Zenne-Dijle 18,40 2,60 97,72 1,02
+Tarief databeheer 18,92 €/jaar
+Transportkosten 0,17 c€/kWh
+Elegant BV | Kleine Nieuwedijkstraat 53/2 – 2800 Mechelen | RPR Antwerpen afdeling Mechelen | BTW BE 0899.305.113 | www.elegant.be | tel 015 48 11 30
+KBC Bank – BE93 7340 3335 4467 – BIC KRED BE BB | De algemene voorwaarden vindt u op elegant.be/av
+Taksen en heffingen
+Energiebijdrage 0,00000 c€/kWh
+Federale Accijns Verbruik 0 - 12000 kWh 1,093 c€/kWh
+Verbruik > 12000 kWh 1,183 c€/kWh
+(1) Het Contract, de Tariefkaart, de Algemene Voorwaarden voor levering van Energie door Elegant (zie elegant.be/av) en deze Bijzondere Voorwaarden vormen de voledige Overeenkomst waaronder Elegant je energie levert.
+(2) De prijzen zijn van toepassing op een jaargelezen meter tot een verbruik van maximaal 250 MWh/jaar.
+(3) De levering start bij voorkeur op de datum die de Klant aangegeven heeft bij inschrijving, maar gaat definitief van start op de datum die door de netbeheerder wordt aanvaard en ingeschreven in het toegangsregister. Elegant is niet
+verantwoordelijk voor eventueel opbrengstverlies door een ongunstige overstapdatum bij eigenaars van zonnepanelen.
+(4) Elegant kan met inachtneming van een aankondigingstermijn van 2 maanden de indexatiemethode en de bijbehorende componenten veranderen als er inhoudelijke veranderingen van de betrokken indexen en componenten zijn, deze niet
+langer beschikbaar zijn, deze niet langer representatief zijn voor de economische waarde van de geleverde elektriciteit of er veranderingen zijn van reglementering ter zake of afschaffing hiervan.
+(5) Als je recht hebt op het sociale tarief, vind je meer informatie over het bedrag en het sociaal tarief zelf op de website van de CREG (creg.be).
+Elegant BV | Kleine Nieuwedijkstraat 53/2 – 2800 Mechelen | RPR Antwerpen afdeling Mechelen | BTW BE 0899.305.113 | www.elegant.be | tel 015 48 11 30
+KBC Bank – BE93 7340 3335 4467 – BIC KRED BE BB | De algemene voorwaarden vindt u op elegant.be/av

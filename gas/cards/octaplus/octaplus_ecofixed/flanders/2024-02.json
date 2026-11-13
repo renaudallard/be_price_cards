@@ -13,14 +13,14 @@
   },
   {
    "pdf": "72897b3a6c6b044c4aae2626223129b26638cf4f688c110c25c0c358c88e840f",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/b79fb6b4879c55bf5fb3bee4dbfe883b2230d739cd9243dcc4abc6745d55c3a5.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2024-02+G+OCTA%2BECOFIXED+RE+VL+FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "72897b3a6c6b044c4aae2626223129b26638cf4f688c110c25c0c358c88e840f",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/639b8924a2639513d4ad69cade75c9648f517cd283145a2a687566c825e5f2e2.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2024-02+G+OCTA%2BECOFIXED+RE+VL+FR.pdf",
    "variant": "rows"
@@ -35,7 +35,7 @@
   "price": 0.0649
  },
  "publication_label": "2024-02",
- "schema": 1,
+ "schema": 3,
  "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2024-02+G+OCTA%2BECOFIXED+RE+VL+FR.pdf",
  "supplier": "octaplus",
  "taxes": {

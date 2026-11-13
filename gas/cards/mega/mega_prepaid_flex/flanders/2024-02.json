@@ -2,13 +2,8 @@
  "_seen_on": "2026-10-27",
  "_sources": [
   {
-   "text": "texts/2026-10/f6ed380de098d65f34eacd49d96f819ac2f22d626adfe4c0fe06b0b6d4cb03b2.txt",
-   "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
-   "variant": "text"
-  },
-  {
    "pdf": "17fc6c374a40f7832101199fb3789bafa4952adf5bc4f279ea5316e9e24a78ab",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/ab6721dc8ded0e4936d2fe70b12d6e055054f1c04e1abe84b4d9d57f0edaec28.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-022024-Prepaid.pdf",
    "variant": "plain"
@@ -26,10 +21,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0361,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2024-02",
- "schema": 1,
+ "schema": 3,
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-022024-Prepaid.pdf",
  "supplier": "mega",
  "taxes": {

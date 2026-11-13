@@ -1,0 +1,91 @@
+{
+ "_seen_on": "2026-11-13",
+ "_sources": [
+  {
+   "text": "texts/2026-11/f903bd455dec2dd2bb1cd3ff0c05f37f21bd14be920b951730d02b01a9637cb6.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTarifArchive?Lang=FR&Region=WL&AnneeMois=202609&Nrj=G&Canal=website&TypeContrat=RE",
+   "variant": "text"
+  },
+  {
+   "text": "texts/2026-11/6f393a1e3ab4a65aa31219a565fdfdfc1e30165dcf174e8b461663d03bd68cc8.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-09+G+OCTA%2BECOFLUX+RE+WL+FR.pdf",
+   "variant": "text"
+  },
+  {
+   "pdf": "030d0a46c0db58c15cb68f37a78e04f9c8fcbe7c7ab560c3820981cc5314edaf",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
+   "text": "texts/2026-11/aaf98329af7ffe6583d3916199882723086dd6da98fdbcf41973fb833f044d7e.txt",
+   "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-09+G+OCTA%2BECOFLUX+RE+WL+FR.pdf",
+   "variant": "layout"
+  }
+ ],
+ "_via": "archive",
+ "contract": "octaplus_ecoflux",
+ "dsos": {
+  "ores": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     31.91,
+     0.0429
+    ],
+    "t2": [
+     140.93,
+     0.022099999999999998
+    ]
+   },
+   "transport": 0.00165
+  },
+  "resa": {
+   "metering": 0.0,
+   "tiers": {
+    "t1": [
+     34.59,
+     0.0464
+    ],
+    "t2": [
+     122.05,
+     0.0253
+    ]
+   },
+   "transport": 0.00165
+  }
+ },
+ "energy": {
+  "base": 0.0211046,
+  "factor": 0.0010706000000000001,
+  "fee": 130.0,
+  "formula": "ZTP RLP M * 1,010 + 19,910",
+  "index": "ZTP RLP M",
+  "kind": "indexed",
+  "period": "month",
+  "price": 0.0877,
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base"
+  ]
+ },
+ "publication_label": "2026-09",
+ "schema": 3,
+ "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-09+G+OCTA%2BECOFLUX+RE+WL+FR.pdf",
+ "supplier": "octaplus",
+ "taxes": {
+  "card_vat_rate": null,
+  "connection_fee": 7.5e-05,
+  "contribution": 0.0010580000000000001,
+  "excise": [
+   [
+    12000.0,
+    0.010929
+   ],
+   [
+    null,
+    0.01183
+   ]
+  ],
+  "osp": null,
+  "vat_rate": 0.0
+ },
+ "valid_until": "2026-09-30"
+}

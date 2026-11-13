@@ -2,13 +2,8 @@
  "_seen_on": "2026-10-20",
  "_sources": [
   {
-   "text": "texts/2026-10/69b50fc6c85c857f4d727877a145b4ddea511aa458817889a5ccc9abfead9b27.txt",
-   "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
-   "variant": "text"
-  },
-  {
    "pdf": "923384dae86d6a72398655d51b84ac30143ca0bd4bb2658cbf5bb9dc2f006abb",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/9432c386b91dbe45ec35f0f32fabc14d79050272d2457b41277ca825193c4a56.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-082026-Prepaid0108-Fix.pdf",
    "variant": "plain"
@@ -60,7 +55,7 @@
   "price": 0.0741
  },
  "publication_label": "2026-08",
- "schema": 1,
+ "schema": 3,
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-082026-Prepaid0108-Fix.pdf",
  "supplier": "mega",
  "taxes": {

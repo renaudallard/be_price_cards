@@ -13,7 +13,7 @@
   },
   {
    "pdf": "4d33814f96cb7ca5604e4d3b7af7ccdc31d894e081ca0cb136be050ae99db32c",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/f202c24edb96be15247d211f4dfada643085dc9422dce3015c4bf261b5557a7d.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-06+G+OCTA%2BECOFLUX+RE+VL+FR.pdf",
    "variant": "layout"
@@ -144,10 +144,14 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.06849999999999999,
-  "settled": false
+  "settled": false,
+  "vat_grossed": [
+   "factor",
+   "base"
+  ]
  },
  "publication_label": "2026-06",
- "schema": 1,
+ "schema": 3,
  "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-06+G+OCTA%2BECOFLUX+RE+VL+FR.pdf",
  "supplier": "octaplus",
  "taxes": {

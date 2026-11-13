@@ -13,7 +13,7 @@
   },
   {
    "pdf": "bb2705a06842ca3e56b0e2d22d65b99232b25685d021b5b5fbaed7a696e28ed2",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=ec5d4902a2ec75ea",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/e1663dd3114f8fe766fb538ad8d43b71806e4e81db69301aa6c8b78bd976514e.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-08+G+OCTA%2BFIXED+RE+WL+FR.pdf",
    "variant": "layout"
@@ -57,7 +57,7 @@
   "price": 0.0703
  },
  "publication_label": "2026-08",
- "schema": 1,
+ "schema": 3,
  "source_url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-08+G+OCTA%2BFIXED+RE+WL+FR.pdf",
  "supplier": "octaplus",
  "taxes": {

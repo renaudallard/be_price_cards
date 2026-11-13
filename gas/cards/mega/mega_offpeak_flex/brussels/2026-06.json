@@ -2,13 +2,8 @@
  "_seen_on": "2026-10-20",
  "_sources": [
   {
-   "text": "texts/2026-10/69b50fc6c85c857f4d727877a145b4ddea511aa458817889a5ccc9abfead9b27.txt",
-   "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
-   "variant": "text"
-  },
-  {
    "pdf": "77012e2daf316d5a1d8e74ab24e187876b65888a167e12b79d32c33147c2f883",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/67bab3940e737f1aefd3da5391766214b88c9d83b6e8827fdceb9e76610c469a.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-062026-Offpeak-Bi-Var.pdf",
    "variant": "plain"
@@ -45,10 +40,11 @@
   "kind": "indexed",
   "period": "month",
   "price": 0.0593,
-  "settled": false
+  "settled": false,
+  "vat_grossed": []
  },
  "publication_label": "2026-06",
- "schema": 1,
+ "schema": 3,
  "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-062026-Offpeak-Bi-Var.pdf",
  "supplier": "mega",
  "taxes": {

@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "d66d06c9dbc2386d15b50b22b4800da01fd00a3bb475ce131b600556df6c7871",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=4ac071d1253fc83e",
+   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
    "text": "texts/2026-10/f9b72783011f20410d806b5d95f23f2b2a12a4c7ba786b9ae025a89ab0b3dfc0.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012311_NL_ENECO_GAS_FIX.pdf",
    "variant": "plain"
@@ -18,7 +18,7 @@
   "price": 0.08839999999999999
  },
  "publication_label": "2023-11",
- "schema": 1,
+ "schema": 3,
  "source_url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012311_NL_ENECO_GAS_FIX.pdf",
  "supplier": "eneco",
  "taxes": {
