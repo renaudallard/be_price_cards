@@ -1,11 +1,11 @@
 # Coverage
 
 One sheet per utility, each a table with a row per commune (`default` is the
-no-commune fetch) and a column per month the branch holds.
+no-commune fetch) and a column per month the archive holds.
 Each month links to what its tariff was parsed from and to what came out of it:
 `pdf` or `picture` is the card itself, in the cards repository's releases, `page`
 the text of the page as it was read, and `json` the tariff as the integration
-parsed it, both on this branch. A blank cell is a month the branch does not hold.
+parsed it, both in this archive. A blank cell is a month it does not hold.
 
 - [agso_knokke](coverage/agso_knokke.md): 1 rows, 2026-09 to 2026-11
 - [aiec](coverage/aiec.md): 1 rows, 2026-09 to 2026-11

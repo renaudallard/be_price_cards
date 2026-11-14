@@ -1,12 +1,12 @@
 # agso_knokke
 
 One row per commune (`default` is the no-commune fetch), one column per month
-the branch holds.
+the archive holds.
 Each month links to what its tariff was parsed from and to what came out of it:
 `pdf` or `picture` is the card itself, in the cards repository's releases, `page`
 the text of the page as it was read, and `json` the tariff as the integration
-parsed it, both on this branch. A blank cell is a month the branch does not hold.
+parsed it, both in this archive. A blank cell is a month it does not hold.
 
 | commune | label | 2026-09 | 2026-10 | 2026-11 |
 | --- | --- | --- | --- | --- |
-| default |  | [page](https://github.com/renaudallard/homeassistant_be_water_prices/blob/archive/texts/fa994112058e07e064d76201ff1d78206758a10b3e138ed892a6d0d5dc381fdd.txt) [json](https://github.com/renaudallard/homeassistant_be_water_prices/blob/archive/agso_knokke/default/2026-09.json) | [page](https://github.com/renaudallard/homeassistant_be_water_prices/blob/archive/texts/5f07d4369ebf527dcb5da82ed72ba55e445339e0b8e5c3ce7301c3e9e0882104.txt) [json](https://github.com/renaudallard/homeassistant_be_water_prices/blob/archive/agso_knokke/default/2026-10.json) | [page](https://github.com/renaudallard/homeassistant_be_water_prices/blob/archive/texts/5f07d4369ebf527dcb5da82ed72ba55e445339e0b8e5c3ce7301c3e9e0882104.txt) [json](https://github.com/renaudallard/homeassistant_be_water_prices/blob/archive/agso_knokke/default/2026-11.json) |
+| default |  | [page](https://github.com/renaudallard/be_price_cards/blob/main/water/texts/fa994112058e07e064d76201ff1d78206758a10b3e138ed892a6d0d5dc381fdd.txt) [json](https://github.com/renaudallard/be_price_cards/blob/main/water/cards/agso_knokke/default/2026-09.json) | [page](https://github.com/renaudallard/be_price_cards/blob/main/water/texts/5f07d4369ebf527dcb5da82ed72ba55e445339e0b8e5c3ce7301c3e9e0882104.txt) [json](https://github.com/renaudallard/be_price_cards/blob/main/water/cards/agso_knokke/default/2026-10.json) | [page](https://github.com/renaudallard/be_price_cards/blob/main/water/texts/5f07d4369ebf527dcb5da82ed72ba55e445339e0b8e5c3ce7301c3e9e0882104.txt) [json](https://github.com/renaudallard/be_price_cards/blob/main/water/cards/agso_knokke/default/2026-11.json) |
