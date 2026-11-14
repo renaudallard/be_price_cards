@@ -1,19 +1,19 @@
 {
- "_cached_at": "2026-11-12T14:00:17.479702+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-12",
+ "_seen_on": "2026-11-14",
  "_sources": [
   {
    "pdf": "7866c5aa4622aca59087382d3ba73eddc4f38dc681c683aef75815dc132e341e",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/c9ecc4e4476dec0c767d2388c5a1fcae9967b876725c47fb0e405ea3d72c5a2e.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2b/tariff-card/latest/INJECTION_PROESSENTIAL_ELECTRICITY_VL_FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "925f4d8807ceed7fe27d0096b824a06789743f4af20afb583d381b1009a27492",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/5eff0d1bbf46e66a17abf72f79f17e6a9f2d17d192f4909783712c8dd92e065b.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2b/tariff-card/latest/PROESSENTIAL_ELECTRICITY_VL_FR.pdf",
    "variant": "layout"

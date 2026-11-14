@@ -1,19 +1,19 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-11",
+ "_seen_on": "2026-11-14",
  "_sources": [
   {
    "pdf": "778fbaf81f3b9c24fe3bf80bc3c94e8463f0a034b8371ccfaddfa80f00b89620",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/581aae9b4833a9ce39156a6d98616001bba87244fb1b0af88fded6b98c2b08d5.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/INJECTION_MYDYNAMIC_ELECTRICITY_BXL_FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "bbaccd20da4a6c650276cfff28e7690418aae21dd65177ffff0e1d55b31a0ed9",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/97959382e51cc320a2900316993789692f0caff98e30f69050357c7f465435db.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/MYDYNAMIC_ELECTRICITY_BXL_FR.pdf",
    "variant": "layout"

@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-11",
+ "_seen_on": "2026-11-14",
  "_sources": [
   {
    "pdf": "05c66f8c28cc0a225c4526e96a5ec45b312cd8a6cbab1042963d45977ffc25a6",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/4d328d59bba1d9f5652c7d7bc95c8be45c8cebc5f3075de5494cc783048fb587.txt",
    "url": "https://www.energyvision.be/sites/default/files/2026-11/EV-1126-GS5JV-WAL-fr.pdf",
    "variant": "layout"

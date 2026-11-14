@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-10-16",
@@ -16,14 +16,14 @@
   },
   {
    "pdf": "eda7375f148faf43bb4981a1d53e2ab909764b4d430bba6925f24f08fb6891b3",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-10/66d5e0d9364cd61a8aa5c65764c6d8cbc83edb9511626393a3353c127f071462.txt",
    "url": "https://www.elegant.be/api/tarief-archief/tariff-chart?tariffChartPath=%2Fapi%2Fv1%2Ftariff-charts%3FproductOfferKey%3DComfortFlexElectricity_20260501%26proposalDate%3D2026-05-01T00%253A00%253A00.0000000%252B02%253A00%26Partner%3DElegant%26Channel%3DOnline%26Campaign%3DNone%26Process%3DContractSignup%26CustomerType%3DResidential%26archive%3Dtrue%26Language%3DDutch",
    "variant": "layout"
   },
   {
    "pdf": "3d4a32e1b8c277bc1d53a75c0ebc587e1a7f80bb34bec6eb4697d0aae98cb471",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-10/e6caf7c6d604a1356fab4b34fa1436e226e9922faaef328110b33b3c04fcfe2a.txt",
    "url": "https://www.elegant.be/api/tarief-archief/tariff-chart?tariffChartPath=%2Fapi%2Fv1%2Ftariff-charts%3FproductOfferKey%3DComfortFlexElectricity_20260601%26proposalDate%3D2026-06-01T00%253A00%253A00.0000000%252B02%253A00%26Partner%3DElegant%26Channel%3DOnline%26Campaign%3DNone%26Process%3DContractSignup%26CustomerType%3DResidential%26archive%3Dtrue%26Language%3DDutch",
    "variant": "layout"

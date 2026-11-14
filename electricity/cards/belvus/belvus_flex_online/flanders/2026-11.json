@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-11",
+ "_seen_on": "2026-11-14",
  "_sources": [
   {
    "text": "texts/2026-11/d92801e828b9cfacdcc1111b4bd7fd9278ee3913ca2346709d7ab6d012c76bb7.txt",
@@ -16,7 +16,7 @@
   },
   {
    "pdf": "ed661fc332698723bb5995ca62b8b5a31a44f0b65f1590e272769ce97376e5b1",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/20d6d8d0c2617f944954b8e8ee169009de360f6009f73567cb51e432eba838f5.txt",
    "url": "https://www.belvus.be/public/tariefkaarten/2026-11/Tariefkaart_FlexOnline_EL.pdf?v=ed661fc33269",
    "variant": "plain"

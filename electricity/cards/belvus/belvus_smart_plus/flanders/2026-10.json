@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-11-11",
@@ -16,14 +16,14 @@
   },
   {
    "pdf": "87746d53dfc2632084334fda08c6d5cc973c71454ccc13cb79fa631455c35566",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/1037717b46f12e2e1ce49dcdc6db1edd5a9783d5fb3f121a3996616ad98c4f6a.txt",
    "url": "https://www.belvus.be/public/tariefkaarten/2026-10/Tariefkaart_SmartPlus_EL.pdf?v=87746d53dfc2",
    "variant": "plain"
   },
   {
    "pdf": "aef82a651eb1f6b0ad21c5a12c78af77d1c8e7d26ff095be99954880b7bc8803",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/dd8e08c6976d4938811ee55c85abdaed85b19635f05d8d2a7120b1ee7e56bef5.txt",
    "url": "https://www.belvus.be/public/tariefkaarten/2026-11/Tariefkaart_SmartPlus_EL.pdf?v=aef82a651eb1",
    "variant": "plain"

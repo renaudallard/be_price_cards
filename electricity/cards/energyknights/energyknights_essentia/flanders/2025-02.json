@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-10-20",
  "_sources": [
   {
    "pdf": "ea399d9d272ffd1062b427862dde9a1a52a97bad61b92c54dcf3f1d8692fc359",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-10/431890508aeea1b04f430748408ee0c1996bb0204719cb4ff9c5e1d9b98015a7.txt",
    "url": "https://www.energyknights.be/website/getHistoricalTariffchart/par/2025-02/variable/nl",
    "variant": "layout"

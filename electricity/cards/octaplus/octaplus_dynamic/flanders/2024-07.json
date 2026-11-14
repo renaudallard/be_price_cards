@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-10-20",
@@ -16,7 +16,7 @@
   },
   {
    "pdf": "96d574e5a1b96309903ecd07071eef259c8767913d8204c0550f32ca0c805d09",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-10/23dfdd1993028788b746acf9c2fb5742b89bc0db4994f74ea5a91cfb8ced7e50.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2024-07 E OCTA+DYNAMIC RE VL FR.pdf",
    "variant": "aligned"

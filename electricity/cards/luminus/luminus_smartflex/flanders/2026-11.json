@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-11",
+ "_seen_on": "2026-11-14",
  "_sources": [
   {
    "pdf": "7ab2a67253503c5056c2b067b0747aeb80dd06ac48fce83c2ec5bc4e8fd5f395",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/398df59bda875e35275fb6a618d4de9de87f19278d051ed2fc0c754369d72759.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=smartflex&energyType=electricity&language=fr&tabValue=Flanders",
    "variant": "plain"

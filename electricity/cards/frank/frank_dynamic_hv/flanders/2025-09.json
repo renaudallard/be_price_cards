@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-10-20",
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "4346125d4a6e1cf9604fbfd7403249cf6a1a78e7459d3ba5715040e88708a4f2",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-10/eda5fa7b130eeecd824316d0612274996f5c631a3e3f860c3c61cfc9cae288e4.txt",
    "url": "https://cdn.sanity.io/files/8navd656/production-be/ec79b0b8ed2786e000f278c9d72bb799be10c15f.pdf",
    "variant": "layout"

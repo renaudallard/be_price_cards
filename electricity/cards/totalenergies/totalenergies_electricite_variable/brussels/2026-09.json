@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-09-28",
  "_sources": [
   {
    "pdf": "4ea41a8ba538ea8d9d26b9563b384e4fb8f1d7afbf9160196ef8467060ffea92",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-09/9dcbfb3af6b304669468d1e2044f61ccaf5c91fb50b7f314ae15f21876287f73.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/ELECTRICITE-VARIABLE_ELECTRICITY_BXL_FR.pdf",
    "variant": "layout"

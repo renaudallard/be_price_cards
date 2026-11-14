@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "2073e1d481844e1d6d037bc49e7fce00137016885b858615fdef43946753b79c",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-09/217512f697fe7c405c98bb833fce0a12e3088eccc05517df7e796a66e2c02cd4.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPOWER_P_GREEN_C_F_00_W_F&monthOffset=5&segment=P&language=F",
    "variant": "plain"

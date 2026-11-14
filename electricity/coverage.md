@@ -32,3 +32,4 @@ month the archive does not hold.
 - [social](coverage/social.md): 9 rows, 2023-11 to 2026-11
 - [totalenergies](coverage/totalenergies.md): 40 rows, 2026-09 to 2026-11
 - [trevion](coverage/trevion.md): 7 rows, 2026-02 to 2026-11
+- [wasewind](coverage/wasewind.md): 3 rows, 2026-01 to 2026-11

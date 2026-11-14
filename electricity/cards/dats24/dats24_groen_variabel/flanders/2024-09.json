@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-11-08",
  "_sources": [
   {
    "pdf": "e656d0417ed3af64790f14fd380b3cd315ef3fed3d36fdc0b1587013cb0ceee4",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/6a93610e6779f708435b12b3479479d9f46e79cf60df546ffe8a369017f797c9.txt",
    "url": "https://api.colruytgroup.com/api/static/dats24/parameters/site/2024/ELEK/NL/Elektriciteit%20Groen%20Variabel%20-%20Versie%2009%202024.pdf",
    "variant": "layout"

@@ -1,17 +1,17 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-11",
+ "_seen_on": "2026-11-14",
  "_sources": [
   {
-   "text": "texts/2026-11/9f5510c6620be4fcde73cc10aeb6dfcf1afabff7b62ea98587dbac5f9d54b9ad.txt",
+   "text": "texts/2026-11/ee6aef7436de9e2402baf23f2af2e541c1d3bd46f00ab95b4b08ae0071b0cf36.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
    "pdf": "0e75950047e0cce771c32ac49756e42eb4b06094854c044afd898f7f66fa461a",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/afd6d266253be031ffff6edd61d16fa8a3f12736069f85f4e55975e852507ae0.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-112026-Dynamic0111.pdf",
    "variant": "plain"

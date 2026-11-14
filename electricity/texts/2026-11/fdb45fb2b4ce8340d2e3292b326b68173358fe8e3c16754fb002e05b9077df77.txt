@@ -1,0 +1,34 @@
+Tariefkaart 2026
+Vast-Variabel
+Particulier incl. 6% btw tenzij anders vermeld
+Van toepassing op afname en injectie in de periode 1/1/2026 tot 1/1/2027.
+Analoge meter of digitale meter meetregime SMR1 of SMR3
+Niet van toepassing op aansluitpunten die energiedelen, op deze aansluitpunten is steeds het vol
+dynamisch tarief van toepassing.
+AFNAME
+Tariefformules energiekost in c€/kWh
+Enkelvoudig, piek en dal 0,122 x 50% x Belpex maand + 7,72
+Uitsluitend nacht 0,106 x 50% x Belpex maand + 6,10
+Verwacht tarief volgens methodologie Vlaamse nutsregulator in september, geschatte
+Belpex: 128,55
+Enkelvoudig, piek en dal 15,5616
+Uitsluitend nacht 12,9132
+Bijdrage certificaten in c€/kWh
+Groene stroom certificaten 1,13
+Warmtekracht certificaten 0,33
+Garanties van oorsprong 0
+INJECTIE – enkel mogelijk in combinatie met een contract voor afname
+btw niet van toepassing
+Vaste injectievergoeding: 2,0 c€/kWh
+ANALOGE METER + ZONNEPANELEN + TERUGDRAAIENDE TELLER
+Tariefelement analoge meter + pv € 30 kva/jaar
+V
+Abonnement: € 65 per jaar
+Tarieven exclusief netkosten, heffingen en toeslagen:
+worden gefactureerd zoals vastgelegd door de netbeheerder en overheden
+Samelstraat 21 A, T 03 707 19 01 klanten@wasewind.be BTW: 476 210 711
+9170 Sint-Gillis-Waas MA t/m DO 13u30-17u www.wasewind.be KBC BE03 7370 1616 4384
+Belpex maand = maandgemiddelde van de uurprijzen Day Ahead Belpex Baseload
+in €/MWh (beschikbaar op www.epexspot.com)
+Samelstraat 21 A, T 03 707 19 01 klanten@wasewind.be BTW: 476 210 711
+9170 Sint-Gillis-Waas MA t/m DO 13u30-17u www.wasewind.be KBC BE03 7370 1616 4384

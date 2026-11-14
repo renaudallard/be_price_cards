@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-10-20",
  "_sources": [
   {
    "pdf": "6e3873cea102481003b11aa203c90a8257a13a3edd3750a015a9f3baeea927df",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-10/7365d62f8c88887adaed1a5d49061910f364ae56d6546f1aeb1e09562cbbaa79.txt",
    "url": "https://www.energyknights.be/website/getHistoricalTariffchart/par/2026-05/optimaonlinegreen/nl",
    "variant": "layout"

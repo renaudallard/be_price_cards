@@ -1,12 +1,12 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-11",
+ "_seen_on": "2026-11-14",
  "_sources": [
   {
    "pdf": "9a42673f9c37c93197c614f971f8f2e84080e168727a0c48a53d14958ea596f9",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/6ffa4c663985d568241c85be818635599d2d17fe9287f450d20f3db1697cd8d4.txt",
    "url": "https://www.dotsenergy.be/api/tariefkaarten/dots-dynamic",
    "variant": "aligned:1.0"

@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-11-11",
@@ -16,14 +16,14 @@
   },
   {
    "pdf": "0a22847db89d29df2b5630f3861044e01d8d324faf2be5b6dc5bbaac4751e612",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/da048535b7644a36c4646acfaa96406518582097aff41570574d5ecd573a9597.txt",
    "url": "https://www.belvus.be/public/tariefkaarten/2026-04/Tariefkaart_FlexOnline_EL.pdf",
    "variant": "plain"
   },
   {
    "pdf": "d5a9b59d3b896d2470998f180f595612e64e7368f0401f0303598ee736b701a9",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/336c03dec9ecc8a1e37b893dfd6200d394cf82526081c0b4e20a2f3da485950a.txt",
    "url": "https://www.belvus.be/public/tariefkaarten/2026-05/Tariefkaart_FlexOnline_EL.pdf",
    "variant": "plain"

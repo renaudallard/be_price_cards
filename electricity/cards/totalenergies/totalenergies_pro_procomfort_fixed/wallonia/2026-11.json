@@ -1,19 +1,19 @@
 {
- "_cached_at": "2026-11-12T14:00:17.479702+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-12",
+ "_seen_on": "2026-11-14",
  "_sources": [
   {
    "pdf": "73ae951d134289f49d0393e3b2a867bca1071fd51e072fd6c677267b0b38a7de",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/22e5cf2300085b823c5d7c1d3392b74d6a3fb593707d8a932cc0b7bfb3e29ef7.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2b/tariff-card/latest/INJECTION_PROCOMFORT-FIXED_ELECTRICITY_WAL_FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "5f2f813ad37bb5424072d5817a3f1b5a2903a4e5710677b0f6538963fc03e254",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/7b9d2c4c47624adb93ead36e3de01c4d91005c5508655e579eadd8a88537ae21.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2b/tariff-card/latest/PROCOMFORT-FIXED_ELECTRICITY_WAL_FR.pdf",
    "variant": "layout"

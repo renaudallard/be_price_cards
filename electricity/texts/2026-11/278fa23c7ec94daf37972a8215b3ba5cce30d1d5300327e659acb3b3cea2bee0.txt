@@ -1,0 +1,28 @@
+Tariefkaart 2026
+Vast-Dynamisch
+Particulier incl. 6% btw tenzij anders vermeld
+Van toepassing op afname en injectie in de periode 1/1/2026 tot 1/1/2027.
+Digitale meter meetregime SMR3
+Niet van toepassing op aansluitpunten die energiedelen, op deze aansluitpunten is steeds het vol
+dynamisch tarief van toepassing.
+AFNAME
+Tariefformule elektriciteit in c€/kWh
+Alle meetmomenten 0,106 x 50% x Belpex kwartier + 7,72
+Verwacht tarief volgens methodologie Vlaamse nutsregulator in februari 2026 geschatte
+Belpex: 91.55
+Alle meetmomenten 12,5721
+Bijdrage certificaten in c€/kWh
+Groene stroom certificaten 1,13
+Warmtekracht certificaten 0,33
+Garanties van oorsprong 0
+INJECTIE – enkel mogelijk in combinatie met een contract voor afname
+btw niet van toepassing
+Vaste injectievergoeding: 2,0 c€/kWh
+V
+Abonnement: € 65 per jaar
+Tarieven exclusief netkosten, heffingen en toeslagen:
+worden gefactureerd zoals vastgelegd door de netbeheerder en overheden
+Belpex kwartier= de kwartierprijzen van de Belpex Day Ahead noteringen in €/MWh tijdens
+de maand van afname. Deze waarden worden dagelijks gepubliceerd op de website van ELIA.
+Samelstraat 21 A, T 03 707 19 01 klanten@wasewind.be BTW: 476 210 711
+9170 Sint-Gillis-Waas MA t/m DO 13u30-17u www.wasewind.be KBC BE03 7370 1616 4384

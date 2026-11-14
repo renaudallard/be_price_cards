@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-11-04",
@@ -11,14 +11,14 @@
   },
   {
    "pdf": "40658cb08ccc42a16e8d21fd4c59a9738ea199541e542d9327c6dec9f409fee9",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/3367f9f7541ce7479eac769172c453757ee3cd01db1c9f47a9e865d87d5c0e69.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-062024-Smart0106.pdf",
    "variant": "plain"
   },
   {
    "pdf": "ba48dd81526a661531f4f48f65dbaa06499ce75216f4017657086fee2a8216b3",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/a0db2658ba0926fbaf680f76c321a506a5f9cfd50199038d4589ed993df213cc.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-072024-Smart0107.pdf",
    "variant": "plain"

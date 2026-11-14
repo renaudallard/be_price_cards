@@ -1,17 +1,17 @@
 {
- "_cached_at": "2026-11-11T12:58:34.495345+00:00",
+ "_cached_at": "2026-11-14T12:30:53.367806+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-11",
+ "_seen_on": "2026-11-14",
  "_sources": [
   {
-   "text": "texts/2026-11/d3c148a1529f5a13502539370270b4085497de181095bceb32b92238df854ea8.txt",
+   "text": "texts/2026-11/0bde508ad14c9862485765733d0da1c5c00ddde81ed7e6ae163259433f476c4a.txt",
    "url": "https://www.cociter.be/electricite/cartes-tarifaires/",
    "variant": "text"
   },
   {
    "pdf": "ebdc51391146797b3f05f26a30110ea1c7779427d42d4c84ff0a32bbb5e49511",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=88954b21f7db82f2",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
    "text": "texts/2026-11/8b69f2d2a773675802ae161976e885e23f63a3fdf3661f082e25534f58be2fc3.txt",
    "url": "https://www.cociter.be/wp-content/uploads/RCVaI_YMR_Coop-2611-fr.pdf",
    "variant": "plain"
