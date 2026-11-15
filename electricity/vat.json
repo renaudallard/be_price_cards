@@ -601,6 +601,13 @@
     "trevion",
     "wasewind"
    ]
+  },
+  "2027-01": {
+   "too_few": {
+    "0.06": [
+     "wasewind"
+    ]
+   }
   }
  },
  "standard": {}

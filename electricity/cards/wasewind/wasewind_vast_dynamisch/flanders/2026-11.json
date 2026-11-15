@@ -1,20 +1,20 @@
 {
- "_cached_at": "2026-11-14T12:30:53.367806+00:00",
+ "_cached_at": "2026-11-15T12:58:01.494880+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-14",
+ "_seen_on": "2026-11-15",
  "_sources": [
   {
-   "text": "texts/2026-11/dea962c11bb97aa4d7c56dff50ba44ff04ea15bd6a79c8da3dc0b6afb6681c8c.txt",
+   "text": "texts/2026-11/3ac52a136683bca1dbaefb47dba0e5f5a5cf446cd05dae101938c0c678a0bfe6.txt",
    "url": "https://www.wasewind.be/tariefkaarten-2026-incl.-btw-vast-dynamisch",
    "variant": "text"
   },
   {
    "pdf": "7535db749942c7814d49c543ecd0eef8d9c0a9e33525504869c2da1311d86b5f",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=39006efca863d225",
    "text": "texts/2026-11/b80dd88bdb142274297cefd905e43159e68230f62a067802527d0ce3178afcf2.txt",
    "url": "https://www.wasewind.be/frontend/files/userfiles/files/Tariefkaarten/Tariefkaart%20WW-VD-HH-2611.pdf",
-   "variant": "layout"
+   "variant": "layout:min480"
   }
  ],
  "_via": "live",

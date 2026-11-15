@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-14T12:30:53.367806+00:00",
+ "_cached_at": "2026-11-15T12:58:01.494880+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-11-14",
@@ -11,10 +11,10 @@
   },
   {
    "pdf": "667a8d8db65e87f23a404211512b65f63f44501d4c5338875cfd8cbe7b81a62a",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=7664c461710a96c3",
+   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=39006efca863d225",
    "text": "texts/2026-11/013ea109fec9d61fb5ec82daf7ead7360e72c1ac134d09f600c9930fc23af17f.txt",
    "url": "https://www.wasewind.be/frontend/files/userfiles/files/Tariefkaart%20WW-VV-HH-2604.pdf",
-   "variant": "layout"
+   "variant": "layout:min480"
   }
  ],
  "_via": "archive",
