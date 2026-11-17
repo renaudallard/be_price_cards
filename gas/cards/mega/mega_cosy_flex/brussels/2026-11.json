@@ -1,16 +1,16 @@
 {
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-17",
  "_sources": [
   {
-   "text": "texts/2026-11/f83d045ea367bc36b9e63e7161aad2bcdf91ed781fc2e1df00c19947e8930927.txt",
+   "text": "texts/2026-11/f69ffe4b118657da9ed87a57b4152db9a5a8cae6f368954c6be0d420dd32f68b.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
-   "pdf": "1e201ba6c1063595ecbad93d81011b980fa296d2c3f1625c320933542a772295",
+   "pdf": "bd7866930811fa1840867dd98fb09b7507ce198f9bc4433b842a47d5896e0c76",
    "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
-   "text": "texts/2026-11/3acadfdfcf89758a660f1395b55e1135f9ce7a33d73fc543a829b579635cc401.txt",
-   "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-112026-Cosy0111.pdf",
+   "text": "texts/2026-11/95ba79ef279a24dce7057830b640191e65ba9a5f8803b7fd1ba0b6df385f8a69.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-112026-Cosy1711.pdf",
    "variant": "plain"
   }
  ],
@@ -50,7 +50,7 @@
  },
  "publication_label": "2026-11",
  "schema": 3,
- "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-112026-Cosy0111.pdf",
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-112026-Cosy1711.pdf",
  "supplier": "mega",
  "taxes": {
   "card_vat_rate": 0.06,
