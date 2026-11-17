@@ -1,11 +1,11 @@
 {
- "_cached_at": "2026-11-16T14:00:37.411104+00:00",
+ "_cached_at": "2026-11-17T14:53:59.426954+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-16",
+ "_seen_on": "2026-11-17",
  "_sources": [
   {
-   "pdf": "4e35518e0466cc085c383fa26f5923c757217f23f60c6858c8892ee4641eab21",
+   "pdf": "28b61894cfae4dbe9c348e4781ae9932f9551215f914cde7dfa6f56f0f619a4a",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=39006efca863d225",
    "text": "texts/2026-11/87e0072aa442a07fe37bbd44b7e1003d53196552f9a8bb67c75945469db31fc9.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=comfy-plus&energyType=electricity&language=fr&tabValue=Flanders",

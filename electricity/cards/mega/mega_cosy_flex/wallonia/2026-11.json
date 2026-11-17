@@ -1,19 +1,19 @@
 {
- "_cached_at": "2026-11-15T12:58:01.494880+00:00",
+ "_cached_at": "2026-11-17T14:53:59.426954+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-15",
+ "_seen_on": "2026-11-17",
  "_sources": [
   {
-   "text": "texts/2026-11/56dde467ad9354c1f345def713dce10b8c87ee551498d2fbebbcb354051a017f.txt",
+   "text": "texts/2026-11/7d9774c471ee5a9d0945c3dc298fffdafcab548c95113e7207bc672edd1553f2.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
-   "pdf": "f927560305b2a3197ef8da6f9ce58f842e01426b9c3777a726560a55df4a7881",
+   "pdf": "eed2c082875ff3d0750fcf7aa4c653e8e41a16f423c8696c1a9b8d22abf8bf06",
    "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=39006efca863d225",
-   "text": "texts/2026-11/79a5a4ca54c7db4c9cc8525ad786cc57d91cfa541249cdd73e41a387e038afb1.txt",
-   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-112026-Cosy0111.pdf",
+   "text": "texts/2026-11/bb59a2b6c4104564d087baec4cd82ad9b7b21be559ada9aff3105b0fc44b6558.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-112026-Cosy1711.pdf",
    "variant": "plain"
   }
  ],
@@ -154,7 +154,7 @@
  },
  "network_year": null,
  "publication_label": "novembre 2026",
- "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-112026-Cosy0111.pdf",
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-112026-Cosy1711.pdf",
  "supplier": "mega",
  "supplier_prosumer_eur_per_kva_year": 106.32,
  "taxes": {
@@ -176,7 +176,7 @@
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
  "welcome_credit_eur": null,
- "welcome_credit_eur_per_kwh": 0.0265,
+ "welcome_credit_eur_per_kwh": 0.0636,
  "welcome_credit_excludes_night_meter": false,
  "welcome_credit_injection_eur_per_kwh": 0.0053,
  "welcome_credit_kind": "pro_rata",
