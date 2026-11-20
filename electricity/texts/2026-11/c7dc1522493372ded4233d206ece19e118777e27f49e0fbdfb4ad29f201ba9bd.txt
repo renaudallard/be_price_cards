@@ -53,11 +53,11 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </style>
 
 <link rel='stylesheet' id='aspiravienergy-stylesheet-css' href='https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/css/main.css?ver=1792510304' media='all' />
-<link rel='stylesheet' id='aspiravienergy-fontawesome-css' href='https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/inc/fontawesome/css/all.min.css?ver=7.1.4' media='' />
-<link rel='stylesheet' id='aspiravienergy-fontawesome-sharp-css' href='https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/inc/fontawesome/css/sharp-solid.min.css?ver=7.1.4' media='' />
-<link rel='stylesheet' id='aspiravienergy-slick-css' href='https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/inc/slick/slick.css?ver=7.1.4' media='' />
+<link rel='stylesheet' id='aspiravienergy-fontawesome-css' href='https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/inc/fontawesome/css/all.min.css?ver=7.1.5' media='' />
+<link rel='stylesheet' id='aspiravienergy-fontawesome-sharp-css' href='https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/inc/fontawesome/css/sharp-solid.min.css?ver=7.1.5' media='' />
+<link rel='stylesheet' id='aspiravienergy-slick-css' href='https://aspiravi-energy.be/wp-content/themes/aspiravienergy/dist/assets/inc/slick/slick.css?ver=7.1.5' media='' />
 <link rel="https://api.w.org/" href="https://aspiravi-energy.be/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://aspiravi-energy.be/wp-json/wp/v2/pages/15" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://aspiravi-energy.be/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 7.1.4" />
+<meta name="generator" content="WordPress 7.1.5" />
 <link rel='shortlink' href='https://aspiravi-energy.be/?p=15' />
 <link rel="icon" href="https://aspiravi-energy.be/wp-content/uploads/2026/07/cropped-Favicon-4-32x32.png" sizes="32x32" />
 <link rel="icon" href="https://aspiravi-energy.be/wp-content/uploads/2026/07/cropped-Favicon-4-192x192.png" sizes="192x192" />

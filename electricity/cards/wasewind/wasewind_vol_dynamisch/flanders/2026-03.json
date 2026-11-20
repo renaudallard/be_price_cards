@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-15T12:58:01.494880+00:00",
+ "_cached_at": "2026-11-20T14:21:59.598810+00:00",
  "_probe_key": null,
  "_schema_version": 89,
  "_seen_on": "2026-11-14",
@@ -11,7 +11,7 @@
   },
   {
    "pdf": "052e874b0d7b7cad0356c02167bf778cd19958616afce1de862012dfe9381036",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=39006efca863d225",
+   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
    "text": "texts/2026-11/045550cbbda615c7e8c3c6dcd7d75002ae7b057e8dc2d6ebf5e6fe77a99b64e3.txt",
    "url": "https://www.wasewind.be/frontend/files/userfiles/files/Tariefkaart%20WW-DY-HH-2603.pdf",
    "variant": "layout:min480"

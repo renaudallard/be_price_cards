@@ -7,18 +7,18 @@ Smart
 Fixed
 (Fixe)
 Injection
-(Fixe)
+(Variable)
 Compteur mono-horaire
 26.4
-5.43
+5.5
 Compteur
 bi-horaire
 Tarif jour
 30.48
-5.43
+5.5
 Tarif nuit
 23.67
-5.43
+5.5
 Exclusif nuit
 23.67
 0
@@ -38,7 +38,7 @@ Le produit Smart comprend un service dédié en ligne ou par
 téléphone. Vous recevez vos factures par e-mail uniquement.
 - 
 En souscrivant au produit Smart Fixed, vous bénéficiez d'une
-ristourne (*) de 6.36 c€/kWh (TVA de 6 % incluse) sur le prix
+ristourne (*) de 6.89 c€/kWh (TVA de 6 % incluse) sur le prix
 unitaire de l'énergie consommée mentionné sur cette carte
 tarifaire. Si vous injectez de l'énergie dans le cadre du régime de
 commercialisation contrainte, vous pouvez également bénéficier
@@ -116,7 +116,7 @@ et 10,5% grise
 Prix du 
 mois 11/2026
  - 
-TVA 6% incluse - Publié le 30-10-2026
+TVA 6% incluse - Publié le 19-11-2026
 1
 /
 3
@@ -363,7 +363,7 @@ https://www.creg.be/fr/cregscan
 Prix du 
 mois 11/2026
  - 
-TVA 6% incluse - Publié le 30-10-2026
+TVA 6% incluse - Publié le 19-11-2026
 3
 /
 3

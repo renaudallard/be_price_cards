@@ -1,19 +1,19 @@
 {
- "_cached_at": "2026-11-15T12:58:01.494880+00:00",
+ "_cached_at": "2026-11-20T14:21:59.598810+00:00",
  "_probe_key": null,
  "_schema_version": 89,
- "_seen_on": "2026-11-15",
+ "_seen_on": "2026-11-20",
  "_sources": [
   {
-   "text": "texts/2026-11/56dde467ad9354c1f345def713dce10b8c87ee551498d2fbebbcb354051a017f.txt",
+   "text": "texts/2026-11/794bcc25dee874d185f8382db73caaf148adca845ed4e5eb001695d4f4eab826.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
-   "pdf": "5cfb6b200bb99ba53a31cd0fcb4ee1532c1665e182fc946a2e5ae7eb256b7969",
-   "readers": "pypdf==6.20.1 pdfplumber==0.11.9 render=39006efca863d225",
-   "text": "texts/2026-11/1255340aca0e3ba378d65b8362befc86fcd89bc7f74b5faac78ffd3573a10616.txt",
-   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-112026-Smart0111-Fixed.pdf",
+   "pdf": "2660f9838ffd0999750fa6ccac0965f28d65c96e14d3b25d1e8f3218e204589a",
+   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
+   "text": "texts/2026-11/4bdc75a98b509a075d54612199aa07b38da0cfbb4328bba6ac0ed1011f608216.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-112026-Smart2011-Fixed.pdf",
    "variant": "plain"
   }
  ],
@@ -116,7 +116,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.054299999999999994,
+  "current": 0.055,
   "factor": null,
   "factor_offpeak": null,
   "factor_peak": null,
@@ -135,7 +135,7 @@
  },
  "network_year": null,
  "publication_label": "novembre 2026",
- "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-112026-Smart0111-Fixed.pdf",
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-112026-Smart2011-Fixed.pdf",
  "supplier": "mega",
  "supplier_prosumer_eur_per_kva_year": 106.32,
  "taxes": {
@@ -157,7 +157,7 @@
  "welcome_credit_cap_eur": null,
  "welcome_credit_direct_debit_eur": null,
  "welcome_credit_eur": null,
- "welcome_credit_eur_per_kwh": 0.0636,
+ "welcome_credit_eur_per_kwh": 0.0689,
  "welcome_credit_excludes_night_meter": false,
  "welcome_credit_injection_eur_per_kwh": 0.0053,
  "welcome_credit_kind": "pro_rata",
