@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "07581325fa396dabfa6ace238e3933b101be61ba6bca45837e08c58aa9822adc",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
+   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
    "text": "texts/2026-10/2c61a81e68967b24558ab0dbe54c0bb12612a3350545aef413cdb18713ef2cc9.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-082026-Offpeak-Bi0108-Fix.pdf",
    "variant": "plain"

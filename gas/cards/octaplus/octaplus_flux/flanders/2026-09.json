@@ -13,7 +13,7 @@
   },
   {
    "pdf": "c526fc52427783c80029131862da58085557451043b220a5c023d96ae5ed78ef",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
+   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
    "text": "texts/2026-11/eb495c2340a4b5743af655746a1cb358633a0612c2af29a672e5163379768119.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-09+G+OCTA%2BFLUX+RE+VL+FR.pdf",
    "variant": "layout"

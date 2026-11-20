@@ -1,16 +1,16 @@
 {
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-20",
  "_sources": [
   {
-   "text": "texts/2026-11/f83d045ea367bc36b9e63e7161aad2bcdf91ed781fc2e1df00c19947e8930927.txt",
+   "text": "texts/2026-11/3a77eb7b0cb5f44147015bc07245dbb7e5dc811ff3752bd57ad4cccb30f699a5.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
-   "pdf": "7ecd3b20980bb28aa5158309683e7c13ee38bf007bfd461badb93d8c464068cb",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
-   "text": "texts/2026-11/e1234441c347627ba48226f3eaf21c27801b11bcb30acf821358d51b0e674fff.txt",
-   "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-112026-Smart0111-Fixed.pdf",
+   "pdf": "4b9446d4b6f708acacc988f75fb1379d789274df93dcbf482324ab2669d7e348",
+   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "text": "texts/2026-11/0a7a5a0b6c793a2968bf644d7c630a6fcbdbae7abeded3e2e03bf1e0e7476ec1.txt",
+   "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-112026-Smart2011-Fixed.pdf",
    "variant": "plain"
   }
  ],
@@ -61,7 +61,7 @@
  },
  "publication_label": "2026-11",
  "schema": 3,
- "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-112026-Smart0111-Fixed.pdf",
+ "source_url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-112026-Smart2011-Fixed.pdf",
  "supplier": "mega",
  "taxes": {
   "card_vat_rate": 0.06,

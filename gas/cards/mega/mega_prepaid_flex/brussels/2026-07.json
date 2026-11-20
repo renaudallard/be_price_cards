@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "296ead2821c39c246c7d49204c5c9506cd7dbc2fc48db052aaba9496f7641adc",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
+   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
    "text": "texts/2026-10/fb2b5f95f2ee0288f387ff9fcaae0c8bcbf6e10d4427a0e5a0deef2f3d124686.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-072026-Prepaid.pdf",
    "variant": "plain"

@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "4429c6311a84fa69af8287c40b8b01f2272224c111375a018310b6e0ad64887b",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
+   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
    "text": "texts/2026-10/5a4b86aa841a7f06f52353ba573a68813c9d7d337208b1b4f24f81c9e5d54668.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-052026-Offpeak-Bi0105-Fix.pdf",
    "variant": "plain"

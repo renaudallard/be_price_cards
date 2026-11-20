@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-08",
+ "_seen_on": "2026-11-20",
  "_sources": [
   {
-   "text": "texts/2026-11/f83d045ea367bc36b9e63e7161aad2bcdf91ed781fc2e1df00c19947e8930927.txt",
+   "text": "texts/2026-11/3a77eb7b0cb5f44147015bc07245dbb7e5dc811ff3752bd57ad4cccb30f699a5.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
    "pdf": "c8432cd4158ffca7dd24d765637a3d6cab30b6bc0786e6647be8e85b12e77a4f",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
+   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
    "text": "texts/2026-11/2fb4190ce0d688f32af5f67b6b70856a4fe3d551954bd84202aa005dba5b37e5.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-112026-Zen0111-Fix.pdf",
    "variant": "plain"

@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "63308bb738d004a62c0cfcaca5054ebde0ea3d240cb666114b26f445a0a7db8d",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
+   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
    "text": "texts/2026-10/9b40c9e88a236a4d89056f9595f71e0ac549c5199cb76b8da02a5f99c4a077f1.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-042024-Prepaid.pdf",
    "variant": "plain"

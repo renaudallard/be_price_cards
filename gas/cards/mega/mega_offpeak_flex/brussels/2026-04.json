@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "1bb7fecb5b2645705b02975faf6064035276492fae2077d2d3652d6bd21cfa9f",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
+   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
    "text": "texts/2026-10/ac5639f5e7343036f8fbf98eb150c53d76e7de157fa591e30233fa36a9868411.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-042026-Offpeak-Bi-Var.pdf",
    "variant": "plain"

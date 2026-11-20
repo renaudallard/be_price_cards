@@ -3,8 +3,8 @@
  "_sources": [
   {
    "pdf": "be0d036ccb07bcaf12038f3c380ab85a31eba998dc50609af4ee0276d28de3c4",
-   "readers": "pypdf==6.18.0 pdfplumber==0.11.9 render=dd8cdfbeda9efa02",
-   "text": "texts/2026-10/4ec442929d5af168fccd3cca63e0a092247fc14d13408d40251033a7dae06dff.txt",
+   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "text": "texts/2026-10/84e30caab71efe6ae24b452992a4a03c4e75805f927bb4b01f73429f3664ec64.txt",
    "url": "https://www.belvus.be/public/tariefkaarten/2026-07/Tariefkaart_FlexOnline_GAS.pdf",
    "variant": "plain"
   }
