@@ -1,7 +1,7 @@
 {
- "_cached_at": "2026-11-20T14:21:59.598810+00:00",
+ "_cached_at": "2026-11-22T13:37:12.824727+00:00",
  "_probe_key": null,
- "_schema_version": 89,
+ "_schema_version": 92,
  "_seen_on": "2026-10-20",
  "_sources": [
   {
@@ -188,7 +188,7 @@
   "base_offpeak": null,
   "base_peak": null,
   "base_transition": null,
-  "current": 0.1263,
+  "current": 0.014199999999999999,
   "factor": 0.908,
   "factor_offpeak": null,
   "factor_peak": null,
