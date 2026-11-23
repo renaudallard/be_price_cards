@@ -1,73 +1,62 @@
- 
 Carte tarifaire (1) novembre 2026 à prix variable trihoraire 
 Fourniture de votre électricité verte, locale et citoyenne 
 Client résidentiel, coopérateur (2)– Compteur à relevé annuel 
- 
- 
 COCITER sc (Comptoir Citoyen des Energies) • Siège social : Grand‘Rue 4, 7900 Leuze-en-Hainaut • Siège d’exploitation : Unter den Linden 5/E/1, 
 4750 Elsenborn • Compte bancaire : CRELAN IBAN BE20 1030 8990 8156 – BIC NICABEBB • TVA : BE 0508 727 881 RPM Tournai 1/4 
- 
 Composition du prix de l’électricité 
 Le prix de l'électricité comporte plusieurs volets : 
 Le prix de fourniture d'énergie : c'est la part qui revient à votre fournisseur COCITER ; 
 Les coûts de transport et de distribution : c'est la part qui revient au gestionnaire de réseau de transport (ELIA) 
 et au gestionnaire de réseau de distribution (GRD) ; 
 Les taxes, accises, redevances et cotisations : c'est la part qui revient aux autorités. 
- 
-1. Prix de fourniture d'énergie (3) 
- 
+1. Prix de fourniture d'énergie (3)
 Le prix de fourniture d'énergie se compose lui-même de plusieurs parties : 
 Coût de l’énergie 
 proportionnel à la 
 consommation 
 (en c€/kWh) 
- Partie ﬁxe 
+Partie ﬁxe 
 (abonnement annuel (4)) 
- Contribution 
+Contribution 
 "énergies renouvelables" 
-(5) 
- Forfait panneaux 
+(5)
+Forfait panneaux 
 photovoltaïques (6) 
 (en régime de 
 compensation) 
-  53,00 €/an TVAC  2,968 c€/kWh TVAC  37,10 €/kVA par an TVAC 
- 
- Le coût de l'énergie proportionnel à la consommation varie chaque mois. 
+53,00 €/an 
+TVAC 
+2,968 c€/kWh 
+TVAC 
+37,10 €/kVA 
+par an TVAC 
+Le coût de l'énergie proportionnel à la consommation varie chaque mois. 
 Il est calculé en fonction de l'indice BELIX avec les formules suivantes : 
- 
 Plage horaire FORMULE DE PRIX (7) BELIX * PRIX indicatif ** 
 TVAC 
-Prix maximum (8) 
+Prix maximum (8)
 TVAC 
 Heures PIC (0,1 x BELIX + 5) + 6% TVA 174,19 23,7641 c€/kWh 26,5 c€/kWh 
 Heures MEDIUM (0,08 x BELIX + 5) + 6% TVA 174,19 20,0713 c€/kWh 26,5 c€/kWh 
 Heures ECO (0,06 x BELIX + 5) + 6% TVA 174,19 16,3785 c€/kWh 26,5 c€/kWh 
 Compteur exclusif nuit (0,06 x BELIX + 5) + 6% TVA 174,19 16,3785 c€/kWh 26,5 c€/kWh 
- 
-* L'indice BELIX indiqué est celui du mois précédent, dans ce cas-ci octobre 2026. Il est exprimé en €/MWh. 
+* L'indice BELIX indiqué est celui du mois précédent, dans ce cas-ci octobre 2026. Il est exprimé en €/MWh.
 ** Le prix indiqué est calculé avec l'indice BELIX du mois précédent (octobre 2026). Il est renseigné à titre indicatif 
 dans cette carte tarifaire de novembre 2026. 
- 
  
 1 
 2 
 3 
- 
 Carte tarifaire (1) novembre 2026 à prix variable trihoraire 
 Fourniture de votre électricité verte, locale et citoyenne 
 Client résidentiel, coopérateur (2)– Compteur à relevé annuel 
- 
- 
 COCITER sc (Comptoir Citoyen des Energies) • Siège social : Grand‘Rue 4, 7900 Leuze-en-Hainaut • Siège d’exploitation : Unter den Linden 5/E/1, 
 4750 Elsenborn • Compte bancaire : CRELAN IBAN BE20 1030 8990 8156 – BIC NICABEBB • TVA : BE 0508 727 881 RPM Tournai 2/4 
- 
-2. Coûts de transport et de distribution (9) 
- 
+2. Coûts de transport et de distribution (9)
 Ces données sont renseignées à titre indicatif. Les chiffres oﬃciels peuvent être trouvés auprès des gestionnaires de 
 réseau ou de la CWaPE. 
 Les coûts de transports sont restitués au gestionnaire de réseau de transport (ELIA). 
 Tarifs de transport TVAC (c€/kWh) 2,74252 
- 
 Les coûts de distribution sont reversés au Gestionnaire de Réseau de Distribution (GRD). 
 Tarifs de distribution 2026 TVAC 
 GRD Terme ﬁxe (€/an) 
@@ -75,14 +64,12 @@ Terme proportionnel (c€/kWh)
 Tarif Impact 
 Exclusif nuit 
 Heures PIC Heures MEDIUM Heures ECO 
-AIEG 19,49 15,08 9,82 4,56 6,66 
-AIESH 17,92 19,07 12,28 5,50 8,21 
-ORES 14,10 16,57 10,83 5,09 7,39 
-RESA 26,50 15,11 10,05 4,99 7,01 
-REW 26,44 17,11 11,32 5,52 7,84 
- 
-3. Taxes et redevances (9) 
- 
+AIEG 0,00 15,08 9,82 4,56 6,66 
+AIESH 0,00 19,07 12,28 5,50 8,21 
+ORES 0,00 16,57 10,83 5,09 7,39 
+RESA 0,00 15,11 10,05 4,99 7,01 
+REW 0,00 17,11 11,32 5,52 7,84 
+3. Taxes et redevances (9)
 Ces données sont renseignées à titre indicatif. Les chiffres oﬃciels peuvent être trouvés auprès des autorités 
 compétentes. 
 Les taxes et redevances sont reversées aux autorités compétentes (État fédéral et Région wallonne). 
@@ -93,14 +80,11 @@ Droit d'accises spécial (c€/kWh - TVAC)
 Redevance de raccordement 
 (c€/kWh - pas de TVA) 
 0,000000 4,876000 0,075000 
- 
 Injection (10) 
- 
 Le prix de l'injection varie chaque quart d'heure. Il est calculé en fonction de l'indice QUARTER HOURL Y BELPEX *** avec 
 la formule suivante : 
 Type de compteur FORMULE DE PRIX 
 Compteur pouvant effectuer des mesures par quart d'heure (0,097 x QUARTER HOURL Y BELPEX – 2,1) 
- 
 *** L'indice QUARTER HOURL Y BELPEX est l’indice de cotation quart-horaire Day-Ahead Belpex publié quotidiennement 
 sur la bourse EPEX Spot Belgium. Il varie tous les quarts d'heure. 
  

@@ -1,18 +1,18 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-23T16:29:51.372550+00:00",
  "_probe_key": null,
  "_schema_version": 93,
- "_seen_on": "2026-11-22",
+ "_seen_on": "2026-11-23",
  "_sources": [
   {
-   "text": "texts/2026-11/84930871f466892a2c2d8a2d3b759312fe33b7b0152f30738d57b0894a64a9a1.txt",
+   "text": "texts/2026-11/0bbf2d33f05692bd85736a124ec80a726317af83da240bd2418d40358c03c06e.txt",
    "url": "https://www.cociter.be/electricite/cartes-tarifaires/",
    "variant": "text"
   },
   {
-   "pdf": "a6691ce8f6234d8735cd6ef7f37384da9c030c0728e01517af2765e6824a4522",
+   "pdf": "74818d0bd63a50aa60341f02ab70a87743286ad738297bb080b8670d824947d4",
    "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-11/8d8b750db5fce0f7e1e9aa27a6162de5a73edc445fe0e4dc66418ba5f6cf589c.txt",
+   "text": "texts/2026-11/727eab40cd53fba56a83734d3b113d8caae1b2e2c8919737830ce0bac72239e2.txt",
    "url": "https://www.cociter.be/wp-content/uploads/RCVaI_YMR_Coop-2611-fr.pdf",
    "variant": "plain"
   }
@@ -25,7 +25,7 @@
    "brussels_osp_by_tier": null,
    "brussels_power_term_above_13kva": null,
    "capacity_eur_per_kw_year": null,
-   "data_management_per_year": 19.49,
+   "data_management_per_year": 0.0,
    "distribution_eco": 0.045599999999999995,
    "distribution_exclusive_night": 0.0666,
    "distribution_medium": 0.09820000000000001,
@@ -41,7 +41,7 @@
    "brussels_osp_by_tier": null,
    "brussels_power_term_above_13kva": null,
    "capacity_eur_per_kw_year": null,
-   "data_management_per_year": 17.92,
+   "data_management_per_year": 0.0,
    "distribution_eco": 0.055,
    "distribution_exclusive_night": 0.0821,
    "distribution_medium": 0.12279999999999999,
@@ -57,7 +57,7 @@
    "brussels_osp_by_tier": null,
    "brussels_power_term_above_13kva": null,
    "capacity_eur_per_kw_year": null,
-   "data_management_per_year": 14.1,
+   "data_management_per_year": 0.0,
    "distribution_eco": 0.0509,
    "distribution_exclusive_night": 0.0739,
    "distribution_medium": 0.10830000000000001,
@@ -73,7 +73,7 @@
    "brussels_osp_by_tier": null,
    "brussels_power_term_above_13kva": null,
    "capacity_eur_per_kw_year": null,
-   "data_management_per_year": 26.5,
+   "data_management_per_year": 0.0,
    "distribution_eco": 0.0499,
    "distribution_exclusive_night": 0.0701,
    "distribution_medium": 0.1005,
@@ -89,7 +89,7 @@
    "brussels_osp_by_tier": null,
    "brussels_power_term_above_13kva": null,
    "capacity_eur_per_kw_year": null,
-   "data_management_per_year": 26.44,
+   "data_management_per_year": 0.0,
    "distribution_eco": 0.0552,
    "distribution_exclusive_night": 0.0784,
    "distribution_medium": 0.11320000000000001,
