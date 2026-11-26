@@ -246,13 +246,13 @@ Sibelga 9,39 9,39 7,10 7,10 2,14 13,90 -
 Taxes et redevances HTVA
 Flandres Wallonie Bruxelles
 Droit d’accise spécial (c€/kwh) (c€/kWh) 5
- 1,4210
- 1,4210
- 1,4210
+ 1,110
+ 1,110
+ 1,110
 
-Contribution sur l'énergie (c€/kWh)  0,1926
- 0,19261
- 0,19261
+Contribution sur l'énergie (c€/kWh)  -
+ -
+ -
 
 Redevance de raccordement (c€/kWh) 6 7 - 0,075 -
 Cotisation Fond énergie, résidentiel (€/mois) 6  -
@@ -293,97 +293,88 @@ Obligations de service publique (Bruxelles) €/an
 · Boulevard Saint-Lazare 4-10, 1210 Bruxelles · BTW BE 0726.633.730 · bonjour@boltenergie.be • boltenergie.be 2
 Informations sur les éléments et la formule tarifaire
 Comment le coût de mon énergie est-il calculé ? Duree des conditions du contrat de fourniture
-Avec Bolt Fixe, vous choisissez un contrat qui vous prémunit des fluctuations des Les conditions du contrat de fourniture sont d’application pour une durée d’un an.
-prix de l’énergie. Le prix pour 1 kilowattheure (kWh), l’unité dans laquelle votre
-consommation est exprimée et relevée, est défini pour le reste de l’année en Informations concernant la formule tarifaire
-début de contrat. Vous ne devez donc pas vous soucier du prix de votre énergie
-pendant un an. Contrairement au prix fixe de consommation pour l’électricité, le Les prix fixes pour la consommation d’électricité s’appliquent uniquement aux
-prix pour l’injection est quant à lui variable selon l’indice Belpex9. contrats conclus au cours du mois indiqué sur la carte tarifaire. Le prix proposé
+Avec Bolt Fixe, vous choisissez un contrat qui vous prémunit des Les conditions du contrat de fourniture sont d’application pour une durée d’un an.
+fluctuations des prix de l’énergie. Le prix pour 1 kilowattheure (kWh),
+l’unité dans laquelle votre consommation est exprimée et relevée, est Informations concernant la formule tarifaire
+défini pour le reste de l’année en début de contrat. Vous ne devez donc
+Les prix fixes pour la consommation d’électricité s’appliquent uniquement aux
+pas vous soucier du prix de votre énergie pendant un an. Contrairement
+contrats conclus au cours du mois indiqué sur la carte tarifaire. Le prix proposé
+au prix fixe de consommation pour l’électricité, le prix pour l’injection
 peut évoluer dans le courant du mois (en raison de la disponibilité fluctuante de
+est quant à lui variable selon l’indice Belpex9.
 l’électricité sur le marché, par exemple). Le prix affiché sur le site internet et la
-Type de compteur Belpex Q3 2026 Formule tarifaire (€/MWh, HTVA) carte tarifaire à la date de souscription s’applique. Les formules tarifaires
+carte tarifaire à la date de souscription s’applique. Les formules tarifaires
+s’appliquent à tous les contrats conclus au cours du mois mentionné sur la carte
+Type de compteur Belpex Q3 2026 Formule tarifaire (€/MWh, HTVA)
+tarifaire et au plus tard le dernier jour du quatrième mois après la souscription.
 Simple
  Fixe
- s’appliquent à tous les contrats conclus au cours du mois mentionné sur la carte
+
 Jour
  Fixe
- tarifaire et au plus tard le dernier jour du quatrième mois après la souscription.
+ En ce qui concerne l’injection d’électricité sur le réseau, l’indice Belpex fait
 Nuit
  Fixe
-
-En ce qui concerne l’injection d’électricité sur le réseau, l’indice Belpex fait
+ référence au marché de l’électricité Epex Spot avec des cotations de prix belges.
 Exclusif nuit
  Fixe
-
-référence au marché de l’électricité Epex Spot avec des cotations de prix belges.
+ L’indice Belpex utilisé pour cette carte tarifaire correspond à la moyenne des prix
 Injectie simple
  78,09 €/MWh
  Belpex * 0,94 - 11,33
-
-L’indice Belpex utilisé pour cette carte tarifaire correspond à la moyenne des prix
+ belges « Day Ahead » par quart d’heure, pondérée selon le profil de consommation
 Injection jour 96,66 €/MWh Belpex * 0,94 - 11,33
-
-belges « Day Ahead » par quart d’heure, pondérée selon le profil de consommation
-Injection nuit 31,37 €/MWh Belpex * 0,94 - 11,33
-RLP (Real Load Profile). Le tableau ci-dessus indique le prix de vente basé sur la
-valeur Belpex la plus récente. Dans la facturation, l’injection par quart d’heure est
+ RLP (Real Load Profile). Le tableau ci-dessus indique le prix de vente basé sur la
+Injection nuit 31,37 €/MWh Belpex * 0,94 - 11,33 valeur Belpex la plus récente. Dans la facturation, l’injection par quart d’heure est
 multipliée par la valeur Belpex pour ce quart d’heure. Si l’injection à facturer
 obtenue auprès du gestionnaire de réseau ne contient pas de valeurs quart-
-Tarif Impact (Wallonie) horaires, nous redistribuerons l’injection selon le profil de production SPP
-Prix mensuel  Belpex Q3 Formule tarifaire (publication par Synergrid).
+horaires, nous redistribuerons l’injection selon le profil de production SPP
+(publication par Synergrid).
+Tarif Impact (Wallonie)
+Bolt peut appliquer de nouveaux paramètres ou de nouveaux composants à la
+Prix mensuel  Belpex Q3 Formule tarifaire
 (c€/kWh) 2026
- (€/MWh, HTVA)
-(€/MWh) Bolt peut appliquer de nouveaux paramètres ou de nouveaux composants à la
-formule tarifaire, à condition que les paramètres actuels ne soient plus
+ (€/MWh, HTVA) formule tarifaire, à condition que les paramètres actuels ne soient plus
+(€/MWh) représentatifs de la valeur économique, soient supprimés, ne soient plus
 Eco consommation Fixe
-
-représentatifs de la valeur économique, soient supprimés, ne soient plus
+ disponibles, ne soient pas publiés ou soient publiés de manière irrégulière. Dans
 Medium consommation Fixe
-
-disponibles, ne soient pas publiés ou soient publiés de manière irrégulière. Dans
+ ce cas, Bolt s’efforcera de maintenir un niveau de prix équivalent. Le coût de
 Pic consommation Fixe
-
-ce cas, Bolt s’efforcera de maintenir un niveau de prix équivalent. Le coût de
+ l’énergie, qui varie en fonction de l’évolution des paramètres qui composent la
 Eco injection 4,41
  58,97
  Belpex * 0,94 - 11,33
-
-l’énergie, qui varie en fonction de l’évolution des paramètres qui composent la
+ formule tarifaire, est calculé sur la base de l’indice applicable pendant la période
 Medium injection 9,17
  109,62
  Belpex * 0,94 - 11,33
-
-formule tarifaire, est calculé sur la base de l’indice applicable pendant la période
-Pic injection 10,93 128,38 Belpex * 0,94 - 11,33
-pour laquelle vous êtes facturé lors du calcul de votre injection réelle. Les
-montants mentionnés dans votre décompte peuvent donc différer des prix
+ pour laquelle vous êtes facturé lors du calcul de votre injection réelle. Les
+Pic injection 10,93 128,38 Belpex * 0,94 - 11,33 montants mentionnés dans votre décompte peuvent donc différer des prix
 indiqués ci-dessus. Des frais de plateforme mensuels calculés au prorata par
-Paiement et facturation point raccordement (gaz et/ou électricité) sont également facturés. Ceux-ci
+point raccordement (gaz et/ou électricité) sont également facturés. Ceux-ci
 couvrent les frais opérationnels fixes de Bolt. Si le contrat est résilié
-La signature de ce contrat ne peut se faire qu'en ligne. Le mode de paiement
+Paiement et facturation
 prématurément (= dans le courant de la première année de fourniture), les frais
-(prélèvement automatique ou virement bancaire) ainsi que le canal de
-de plateforme mensuels pour l’année entière doivent être payés. Les frais de
-communication (courrier ou e-mail) est choisi par le client. En cas de non-
-plateforme sont calculés sur toutes les factures d’acompte ou factures finales. Les
-paiement dans le délai indiqué par le premier rappel, une lettre de mise en
-tarifs susmentionnés pour l’utilisation du réseau sont les coûts approuvés par le
-demeure sera envoyée et facturée 15 €. Si la somme due n’a toujours pas été
-régulateur compétent. Le montant des taxes, prélèvements, contributions et
-perçue après le deuxième rappel, le client particulier est tenu de payer des intérêts
-surtaxes sont les valeurs les plus récentes, publiées par le législateur au moment
-moratoires au taux d'intérêt légal, le client professionnel, au taux d'intérêt stipulé
-de la création des présentes conditions particulières. Toute modification de ces
-dans la loi sur le retard de paiement dans les transactions commerciales d'août
-éléments sera facturée en totalité au prix coûtant tel que défini dans les
+La signature de ce contrat ne peut se faire qu'en ligne. Le mode de paiement de plateforme mensuels pour l’année entière doivent être payés. Les frais de
+(prélèvement automatique ou virement bancaire) ainsi que le canal de plateforme sont calculés sur toutes les factures d’acompte ou factures finales. Les
+communication (courrier ou e-mail) est choisi par le client. En cas de non- tarifs susmentionnés pour l’utilisation du réseau sont les coûts approuvés par le
+paiement dans le délai indiqué par le premier rappel, une lettre de mise en régulateur compétent. Le montant des taxes, prélèvements, contributions et
+demeure sera envoyée et facturée 15 €. Si la somme due n’a toujours pas été surtaxes sont les valeurs les plus récentes, publiées par le législateur au moment
+perçue après le deuxième rappel, le client particulier est tenu de payer des intérêts de la création des présentes conditions particulières. Toute modification de ces
+moratoires au taux d'intérêt légal, le client professionnel, au taux d'intérêt stipulé éléments sera facturée en totalité au prix coûtant tel que défini dans les
+dans la loi sur le retard de paiement dans les transactions commerciales d'août conditions générales de vente. Cela peut également être fait rétroactivement.
 2002. Lorsque la facture est transférée à un tiers, une indemnité forfaitaire de
-conditions générales de vente. Cela peut également être fait rétroactivement.
 10% sur chaque montant impayé sera facturée, avec un minimum de 55 EUR, à
-titre de compensation pour frais de recouvrement extrajudiciaires et ce, sans
+titre de compensation pour frais de recouvrement extrajudiciaires et ce, sans Questions ou commentaires?
 préjudice d’autres dommages et intérêts.
+Notre équipe se feront un plaisir de vous aider 
 L'injection sera payée en même temps que la facture de régularisation, en
+du lundi au vendredi, de 9 h à 17 h.
 soustraction du volume consommé. Sur demande du client professionnel, une
-facture séparée peut également être générée par autofacturation.
+facture séparée peut également être générée par autofacturation. bonjour@boltenergie.be
+02 899 33 00
 Conditions
 Pour ce produit, vous devez détenir au moins une part de la coopérative de 250
 euros auprès de Plenty Coop SC (https://plenty.be/), au plus tard dans le mois
@@ -394,29 +385,24 @@ base du tarif énergétique Bolt Fixe applicable au cours du même mois que celu
 la présente grille tarifaire, telle que transmise lors de la confirmation du Contrat
 de Fourniture.
 · Boulevard Saint-Lazare 4-10, 1210 Bruxelles · BTW BE 0726.633.730 · bonjour@boltenergie.be • boltenergie.be 3
-Questions ou commentaires?
-Notre équipe se feront un plaisir de vous aider 
-du lundi au vendredi, de 9 h à 17 h.
-bonjour@boltenergie.be
-02 899 33 00
-Ce prix annuel estimé est basé sur l’évolution actuelle et prévue des prix pour les quatre Tarif réduit en fonction de la consommation annuelle : 0 - 3 000 kWh : 5,0329 c€/kWh, 3
+Ce prix annuel estimé est basé sur l’évolution actuelle et prévue des prix pour les quatre Tarif réduit en fonction de la consommation annuelle : 0-20.000 kWh: 1.11 c€/Kwh,
 prochains trimestres.
- 001 - 20 000 kWh : 5,0329 c€/kWh, 20 001 - 50 000 kWh : 4,8188 c€/kWh.
+ 20.000-50.000 kWh: 0.9c€/Kwh, 50.000-1.000.000 kWh: 0.83 c€/Kwh,
+Pour les régimes de mesure par quart d’heure, le tarif de gestion des données s’élève à 15,14 1.000.000-25.000.000 kWh: 0.76 c€/Kwh, >25.000.000 kWh: 0.05 c€/Kwh
 
-Pour les régimes de mesure par quart d’heure, le tarif de gestion des données s’élève à 15,14 TVA non applicable.
+€ par an. Un tarif maximal de 0,2035480 €/kWh (hors gestion des données) s’applique aux TVA non applicable.
 
-€ par an. Un tarif maximal de 0,2035480 €/kWh (hors gestion des données) s’applique aux Non applicable sur les premiers 100 kWh. Cette contribution est majorée d’un montant
-compteurs digitaux. Si le compteur digital ne communique pas avec Fluvius, les tarifs du forfaitaire de 0,075 €.
-
+compteurs digitaux. Si le compteur digital ne communique pas avec Fluvius, les tarifs du Non applicable sur les premiers 100 kWh. Cette contribution est majorée d’un montant
 compteur classique s’appliquent.
- Les coûts de l’électricité verte et de la cogénération sont adaptés en fonction des
-En cas de production personnelle (panneaux solaires) avec une puissance maximale de modifications législatives. Les montants mentionnés sont valables pour le trimestre en
-l’onduleur de 10 kW et un compteur inversé. Le tarif est réparti par mois selon la production cours.
+ forfaitaire de 0,075 €.
 
+En cas de production personnelle (panneaux solaires) avec une puissance maximale de Les coûts de l’électricité verte et de la cogénération sont adaptés en fonction des
+l’onduleur de 10 kW et un compteur inversé. Le tarif est réparti par mois selon la production modifications législatives. Les montants mentionnés sont valables pour le trimestre en
 moyenne définie par la VNR.
- Les valeurs de l’indice sont publiées quotidiennement sur : 
-En cas de production personnelle (panneaux solaires) avec une puissance maximale de https://www.epexspot.com/en/market-results
-l’onduleur de 10 kW : si vous disposez d’un compteur bidirectionnel, la redevance réseau
+ cours.
+
+En cas de production personnelle (panneaux solaires) avec une puissance maximale de Les valeurs de l’indice sont publiées quotidiennement sur : 
+l’onduleur de 10 kW : si vous disposez d’un compteur bidirectionnel, la redevance réseau https://www.epexspot.com/en/market-results
 peut être calculée sur la base du prélèvement brut d’électricité si cela est plus avantageux
 que l’application du tarif prosumer.
 · Boulevard Saint-Lazare 4-10, 1210 Bruxelles · BTW BE 0726.633.730 · bonjour@boltenergie.be • boltenergie.be 4

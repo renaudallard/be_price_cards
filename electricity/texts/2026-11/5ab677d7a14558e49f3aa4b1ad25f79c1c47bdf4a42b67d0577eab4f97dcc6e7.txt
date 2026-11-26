@@ -262,13 +262,13 @@ Sibelga 9,39 9,39 7,10 7,10 2,14 13,90 -
 Taxes et redevances HTVA
 Flandres Wallonie Bruxelles
 Droit d’accise spécial (c€/kwh) (c€/kWh) 5
- 1,4210
- 1,4210
- 1,4210
+ 1,110
+ 1,110
+ 1,110
 
-Contribution sur l'énergie (c€/kWh)  0,1926
- 0,19261
- 0,19261
+Contribution sur l'énergie (c€/kWh)  -
+ -
+ -
 
 Redevance de raccordement (c€/kWh) 6 7 - 0,075 -
 Cotisation Fond énergie, résidentiel (€/mois) 6  -
@@ -393,24 +393,24 @@ Duree des conditions du contrat de fourniture
 02 899 33 00
 Les conditions du contrat de fourniture sont d’application pour une
 durée d’un an.
-Ce prix annuel estimé est basé sur l’évolution actuelle et prévue des prix pour les quatre Tarif réduit en fonction de la consommation annuelle : 0 - 3 000 kWh : 5,0329 c€/kWh, 3
+Ce prix annuel estimé est basé sur l’évolution actuelle et prévue des prix pour les quatre Tarif réduit en fonction de la consommation annuelle : 0-20.000 kWh: 1.11 c€/Kwh,
 prochains trimestres.
- 001 - 20 000 kWh : 5,0329 c€/kWh, 20 001 - 50 000 kWh : 4,8188 c€/kWh.
+ 20.000-50.000 kWh: 0.9c€/Kwh, 50.000-1.000.000 kWh: 0.83 c€/Kwh,
+Pour les régimes de mesure par quart d’heure, le tarif de gestion des données s’élève à 15,14 1.000.000-25.000.000 kWh: 0.76 c€/Kwh, >25.000.000 kWh: 0.05 c€/Kwh
 
-Pour les régimes de mesure par quart d’heure, le tarif de gestion des données s’élève à 15,14 TVA non applicable.
+€ par an. Un tarif maximal de 0,2035480 €/kWh (hors gestion des données) s’applique aux TVA non applicable.
 
-€ par an. Un tarif maximal de 0,2035480 €/kWh (hors gestion des données) s’applique aux Non applicable sur les premiers 100 kWh. Cette contribution est majorée d’un montant
-compteurs digitaux. Si le compteur digital ne communique pas avec Fluvius, les tarifs du forfaitaire de 0,075 €.
-
+compteurs digitaux. Si le compteur digital ne communique pas avec Fluvius, les tarifs du Non applicable sur les premiers 100 kWh. Cette contribution est majorée d’un montant
 compteur classique s’appliquent.
- Les coûts de l’électricité verte et de la cogénération sont adaptés en fonction des
-En cas de production personnelle (panneaux solaires) avec une puissance maximale de modifications législatives. Les montants mentionnés sont valables pour le trimestre en
-l’onduleur de 10 kW et un compteur inversé. Le tarif est réparti par mois selon la production cours.
+ forfaitaire de 0,075 €.
 
+En cas de production personnelle (panneaux solaires) avec une puissance maximale de Les coûts de l’électricité verte et de la cogénération sont adaptés en fonction des
+l’onduleur de 10 kW et un compteur inversé. Le tarif est réparti par mois selon la production modifications législatives. Les montants mentionnés sont valables pour le trimestre en
 moyenne définie par la VNR.
- Les valeurs de l’indice sont publiées quotidiennement sur : 
-En cas de production personnelle (panneaux solaires) avec une puissance maximale de https://www.epexspot.com/en/market-results
-l’onduleur de 10 kW : si vous disposez d’un compteur bidirectionnel, la redevance réseau
+ cours.
+
+En cas de production personnelle (panneaux solaires) avec une puissance maximale de Les valeurs de l’indice sont publiées quotidiennement sur : 
+l’onduleur de 10 kW : si vous disposez d’un compteur bidirectionnel, la redevance réseau https://www.epexspot.com/en/market-results
 peut être calculée sur la base du prélèvement brut d’électricité si cela est plus avantageux
 que l’application du tarif prosumer.
 · Sint-Lazaruslaan 4-10, 1210 Brussel · BTW BE 0726.633.730 · hallo@boltenergie.be • boltenergie.be 3

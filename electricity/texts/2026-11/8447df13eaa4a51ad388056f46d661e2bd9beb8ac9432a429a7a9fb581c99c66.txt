@@ -274,26 +274,26 @@ Sibelga 9,96 9,96 7,53 7,53 2,27 14,73 -
 Taxes et redevances TTC
 Flandres Wallonie Bruxelles
 Droit d’accise spécial (c€/kwh) (c€/kWh) 5
- 4,876
- 4,876
- 4,876
+ 4,473
+ 4,473
+ 4,473
 
 Contribution sur l'énergie (c€/kWh)  -
  -
  -
 
-Redevance de raccordement (c€/kWh) 6 7 - 0,075 -
-Cotisation Fond énergie, résidentiel (€/mois) 6  -
+Redevance de raccordement (c€/kWh) 5 6 - 0,075 -
+Cotisation Fond énergie, résidentiel (€/mois) 5  -
  -
  -
 
-Cotisation Fond énergie, non-résidentiel (€/mois) 6 9,8800 - -
-Certificats verts (c€/kWh) 8
+Cotisation Fond énergie, non-résidentiel (€/mois) 5 9,8800 - -
+Certificats verts (c€/kWh) 7
  1,17
  3,03
  2,69
 
-WKK (c€/kWh) 8 0,39 -
+WKK (c€/kWh) 7 0,39 -
 Partage d’énergie Fluvius (€/MWh) 45 - -
 Obligations de service publique (Bruxelles) €/an
 < 1,44 kVA
@@ -328,7 +328,7 @@ importance (durant l’hiver). Nous appliquons la formule suivante : van de Belg
 facteur de mesure * Belpex + coût d'équilibrage. de verkoopsprijs gebaseerd op de meest recente Belpex waarde.
 
 Le facteur du mesure dépend du type de compteur : simple, double Bij een keuze voor dynamisch afrekenen, wordt bij facturatie het
-(jour et nuit), et exclusif nuit. Le Belpex9 est l’index qui représente le verbruik of injectie op kwartierbasis vermenigvuldigd met de Belpex-
+(jour et nuit), et exclusif nuit. Le Belpex8 est l’index qui représente le verbruik of injectie op kwartierbasis vermenigvuldigd met de Belpex-
 prix de l’électricité sur la bourse belge de l’énergie. Le coût d'équilibrage waarde voor dat kwartier. Bij een keuze voor variabel afrekenen, zullen
 est le coût que Bolt doit payer pour équilibrer le réseau. Ce coût garantit we het verbruik RLP-gewogen (publicatie door Synergrid) herverdelen.
 que vous recevez de l'énergie verte d'un autre producteur lorsque Bij injectie zullen we de injectie SPP-gewogen (publicatie door
@@ -421,9 +421,7 @@ plein droit, et Bolt vous fournira de l'électricité sur la base du tarif
 énergétique Bolt Variable Online applicable au cours du même mois que
 celui de la présente grille tarifaire, telle que transmise lors de la
 confirmation du Contrat de Fourniture.
-Duree des conditions du contrat de fourniture
-Les conditions du contrat de fourniture sont d’application pour une
-durée indé·teBrmouinleévear. d Saint-Lazare 4-10, 1210 Bruxelles · BTW BE 0726.633.730 · bonjour@boltenergie.be • boltenergie.be 3
+· Boulevard Saint-Lazare 4-10, 1210 Bruxelles · BTW BE 0726.633.730 · bonjour@boltenergie.be • boltenergie.be 3
 Duree des conditions du contrat de fourniture
 Questions ou commentaires?
 Les conditions du contrat de fourniture sont d’application pour une
@@ -431,23 +429,22 @@ durée d’un an. Notre équipe se feront un plaisir de vous aider 
 du lundi au vendredi, de 9 h à 17 h.
 bonjour@boltenergie.be
 02 899 33 00
-Ce prix annuel estimé est basé sur l’évolution actuelle et prévue des prix pour les quatre Tarif réduit en fonction de la consommation annuelle : 0 - 3 000 kWh : 5,0329 c€/kWh, 3
+Ce prix annuel estimé est basé sur l’évolution actuelle et prévue des prix pour les quatre TVA non applicable.
+
 prochains trimestres.
- 001 - 20 000 kWh : 5,0329 c€/kWh, 20 001 - 50 000 kWh : 4,8188 c€/kWh.
+ Non applicable sur les premiers 100 kWh. Cette contribution est majorée d’un montant
+Pour les régimes de mesure par quart d’heure, le tarif de gestion des données s’élève à 15,14 forfaitaire de 0,075 €.
 
-Pour les régimes de mesure par quart d’heure, le tarif de gestion des données s’élève à 15,14 TVA non applicable.
-
-€ par an. Un tarif maximal de 0,2035480 €/kWh (hors gestion des données) s’applique aux Non applicable sur les premiers 100 kWh. Cette contribution est majorée d’un montant
-compteurs digitaux. Si le compteur digital ne communique pas avec Fluvius, les tarifs du forfaitaire de 0,075 €.
-
+€ par an. Un tarif maximal de 0,2035480 €/kWh (hors gestion des données) s’applique aux Les coûts de l’électricité verte et de la cogénération sont adaptés en fonction des
+compteurs digitaux. Si le compteur digital ne communique pas avec Fluvius, les tarifs du modifications législatives. Les montants mentionnés sont valables pour le trimestre en
 compteur classique s’appliquent.
- Les coûts de l’électricité verte et de la cogénération sont adaptés en fonction des
-En cas de production personnelle (panneaux solaires) avec une puissance maximale de modifications législatives. Les montants mentionnés sont valables pour le trimestre en
-l’onduleur de 10 kW et un compteur inversé. Le tarif est réparti par mois selon la production cours.
+ cours.
 
+En cas de production personnelle (panneaux solaires) avec une puissance maximale de Les valeurs de l’indice sont publiées quotidiennement sur : 
+l’onduleur de 10 kW et un compteur inversé. Le tarif est réparti par mois selon la production https://www.epexspot.com/en/market-results
 moyenne définie par la VNR.
- Les valeurs de l’indice sont publiées quotidiennement sur : 
-En cas de production personnelle (panneaux solaires) avec une puissance maximale de https://www.epexspot.com/en/market-results
+
+En cas de production personnelle (panneaux solaires) avec une puissance maximale de
 l’onduleur de 10 kW : si vous disposez d’un compteur bidirectionnel, la redevance réseau
 peut être calculée sur la base du prélèvement brut d’électricité si cela est plus avantageux
 que l’application du tarif prosumer.

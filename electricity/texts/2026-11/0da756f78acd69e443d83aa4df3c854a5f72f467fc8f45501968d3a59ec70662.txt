@@ -1,7 +1,7 @@
 4,0 sur Reviews 4,2 sur
 Carte Tarifaire
 Bolt Variable
-Novembre 2026 /Résidentiel /Électricité
+Novembre 2026 /Professionnel /Électricité
 Une énergie durable produite par de vraies personnes
 Une facture transparente De l’énergie renouvelable produite par un
 producteur local
@@ -17,43 +17,37 @@ votre producteur d'énergie
 Frais de réseau et contributions
 Frais de plateforme
 Prix
-TTC
+HTVA
 Frais de plateforme +
 Consommation
-€ 8,99 / mois
+€ 11,99 / mois
 Compteur double
-Compteur simple Exclusif nuit
+Compteur simple Jour Nuit Exclusif nuit
 Prix annuel estimé 1
- 24,08
- 24,08
+ 22,26
+ 22,26
+ 22,26
+ 22,26
 
-Prix mensuel 19,05 18,15
+Prix mensuel 17,60 18,57 16,77 16,77
 Injection
 (rémunération pour l’électricité que vous injectez sur le réseau)
 Compteur double
-Cette redevance fixe nous Compteur simple Exclusif nuit
+Cette redevance fixe nous Compteur simple Jour Nuit Exclusif nuit
 permet de gérer tout ce qui
 concerne l’électricité durable de Prix annuel estimé 1
  7,68
  7,68
+ 7,68
+ 7,68
 
-votre producteur local, votre Prix mensuel 6,21 1,82
+votre producteur local, votre Prix mensuel 6,21 7,95 1,82 1,82
 service client personnalisé et
 votre accès à My Bolt. Vous avez des panneaux solaires ? Bénéficiez chez Bolt du meilleur tarif d’injection du marché.
 Forte hausse
 
 et tarifs élevés xirP xirP
 Prix de l'électricité verte (c€/kWh)
-Jour Nuit
-24,08
- 24,08
-
-20,09 18,15
-Jour Nuit
-7,68
- 7,68
-
-7,95 1,82
 Un tarif honnête, sur le long
 terme
 Un prix honnête et
@@ -75,208 +69,208 @@ données
  Tarif de capacité prélèvement excl.nuit (c€/ Tarif de capacité prélèvement excl.nuit Tarif prosumer
 (€/an) (€/kW/an) normal (c€/kWh) kWh) (€/an) normal (c€/kWh) (c€/kWh) (€/kW/an) 3
 Flandres
-Fluvius Antwerpen 18,92
- 52,37
- 5,35
- 4,81
- 130,92
- 8,09
- 7,55
- 54,63
+Fluvius Antwerpen 17,85
+ 49,40
+ 5,05
+ 4,54
+ 123,51
+ 7,63
+ 7,12
+ 51,54
 
 Fluvius Halle-Vilvoorde
- 18,92
- 59,41
- 5,64
- 5,12
- 148,52
- 9,28
- 8,76
- 62,66
+ 17,85
+ 56,04
+ 5,32
+ 4,83
+ 140,11
+ 8,75
+ 8,26
+ 59,11
 
 Fluvius Imewo
- 18,92
- 57,45
- 5,54
- 5,01
- 143,63
- 8,90
- 8,37
- 60,12
+ 17,85
+ 54,20
+ 5,23
+ 4,73
+ 133,50
+ 8,40
+ 7,90
+ 56,72
 
 Fluvius Kempen
- 18,92
- 59,58
- 6,34
- 5,66
- 148,95
- 10,03
- 9,36
- 67,79
+ 17,85
+ 56,21
+ 5,98
+ 5,34
+ 140,52
+ 9,47
+ 8,83
+ 63,95
 
 Fluvius Limburg
- 18,92
- 51,99
- 5,75
- 5,19
- 129,98
- 9,23
- 8,67
- 62,38
+ 17,85
+ 49,05
+ 5,43
+ 4,89
+ 122,62
+ 8,71
+ 8,18
+ 58,85
 
 Fluvius Midden-Vl
- 18,92
- 53,13
- 5,28
- 4,78
- 132,83
- 8,77
+ 17,85
+ 50,12
+ 4,98
+ 4,50
+ 125,31
  8,27
- 59,23
+ 7,80
+ 55,88
 
 Fluvius West
- 18,92
- 60,53
- 6,70
- 5,99
- 151,32
- 10,30
- 9,60
- 69,56
+ 17,85
+ 57,10
+ 6,32
+ 5,65
+ 142,75
+ 9,72
+ 9,05
+ 65,65
 
-Fluvius Zenne-Dijle 18,92 59,49 5,87 5,32 148,73 9,70 9,14 65,51
+Fluvius Zenne-Dijle 17,85 56,12 5,54 5,01 140,31 9,15 8,62 61,80
 Coûts de distribution (c€/kWh) TTC
 Coûts de Tarif gestion des
 données/Activités de
 Wallonie Simple Jour Nuit Exclusif nuit Pic Medium Eco t ( r c a € n / s k p W o h rt ) m T e e s r u m r e e f e i t x e d e G c R o D m ( p € t / a a g n e ) / Ta ( r € if / k p W ro / s a u n m ) e 4 r
 AIEG
- 10,87
- 12,05
- 6,66
- 6,66
- 15,08
- 9,82
- 4,56
- 2,74
- 19,49
- 81,03
+ 9,98
+ 11,10
+ 6,02
+ 6,02
+ 13,95
+ 8,99
+ 4,03
+ 2,59
+ 18,39
+ 76,45
 
 AIESH
- 13,64
- 15,17
- 8,21
- 8,21
- 19,07
- 12,28
- 5,50
- 2,74
- 17,92
- 99,29
+ 12,87
+ 14,31
+ 7,75
+ 7,75
+ 17,99
+ 17,99
+ 5,19
+ 2,59
+ 16,91
+ 93,67
 
 ORES (Brabant Wallon)
- 11,98
- 13,27
- 7,39
- 7,39
- 16,57
- 10,38
- 5,09
- 2,74
- 14,10
- 85,84
+ 10,85
+ 12,07
+ 6,52
+ 6,52
+ 15,18
+ 15,18
+ 4,35
+ 2,59
+ 13,30
+ 80,98
 
 ORES (EST)
- 11,98
- 13,27
- 7,39
- 7,39
- 16,57
- 10,38
- 5,09
- 2,74
- 14,10
- 85,84
+ 10,85
+ 12,07
+ 6,52
+ 6,52
+ 15,18
+ 15,18
+ 4,35
+ 2,59
+ 13,30
+ 80,98
 
 ORES (Hainaut Electricité)
- 11,98
- 13,27
- 7,39
- 7,39
- 16,57
- 10,38
- 5,09
- 2,74
- 14,10
- 85,84
+ 10,85
+ 12,07
+ 6,52
+ 6,52
+ 15,18
+ 15,18
+ 4,35
+ 2,59
+ 13,30
+ 80,98
 
 ORES (Luxembourg)
- 11,98
- 13,27
- 7,39
- 7,39
- 16,57
- 10,38
- 5,09
- 2,74
- 14,10
- 85,84
+ 10,85
+ 12,07
+ 6,52
+ 6,52
+ 15,18
+ 15,18
+ 4,35
+ 2,59
+ 13,30
+ 80,98
 
-ORES (Mouscron) 11,98
- 13,27
- 7,39
- 7,39
- 16,57
- 10,38
- 5,09
- 2,74
- 14,10
- 85,84
+ORES (Mouscron) 10,85
+ 12,07
+ 6,52
+ 6,52
+ 15,18
+ 15,18
+ 4,35
+ 2,59
+ 13,30
+ 80,98
 
-ORES (Namur) 11,98
- 13,27
- 7,39
- 7,39
- 16,57
- 10,38
- 5,09
- 2,74
- 14,10
- 85,84
+ORES (Namur) 10,85
+ 12,07
+ 6,52
+ 6,52
+ 15,18
+ 15,18
+ 4,35
+ 2,59
+ 13,30
+ 80,98
 
 ORES (Verviers)
- 11,98
- 13,27
+ 10,85
+ 12,07
+ 6,52
+ 6,52
+ 15,18
+ 15,18
+ 4,35
+ 2,59
+ 13,30
+ 80,98
+
+TECTEO RESA 11,77
+ 13,00
  7,39
  7,39
- 16,57
- 10,38
- 5,09
- 2,74
- 14,10
- 85,84
+ 16,15
+ 16,15
+ 5,20
+ 2,59
+ 24,94
+ 87,74
 
-TECTEO RESA 12,48
- 13,78
- 7,84
- 7,84
- 17,11
- 11,32
- 5,52
- 2,74
- 26,44
- 93,00
-
-WAVRE 11,06 12,20 7,01 7,01 15,11 10,05 4,99 2,74 26,50 84,22
+WAVRE 10,44 11,51 6,62 6,62 14,26 14,26 4,71 2,59 25,00 79,45
 Tarif gestion des données/
 Coûts de transport Activités de mesure et de Tarif prosumer
 Bruxelles Simple Jour Nuit Exclusif nuit (c€/kWh) comptage/Terme fixe GRD (€/an) (€/kW/an) 4
-Sibelga 9,96 9,96 7,53 7,53 2,27 14,73 -
-Taxes et redevances TTC
+Sibelga 9,39 9,39 7,10 7,10 2,14 13,90 -
+Taxes et redevances HTVA
 Flandres Wallonie Bruxelles
 Droit d’accise spécial (c€/kwh) (c€/kWh) 5
- 4,876
- 4,876
- 4,876
+ 1,110
+ 1,110
+ 1,110
 
 Contribution sur l'énergie (c€/kWh)  -
  -
@@ -287,37 +281,37 @@ Cotisation Fond énergie, résidentiel (€/mois) 6  -
  -
  -
 
-Cotisation Fond énergie, non-résidentiel (€/mois) 6 9,8800 - -
+Cotisation Fond énergie, non-résidentiel (€/mois) 6 10,07 - -
 Certificats verts (c€/kWh) 8
- 1,17
- 3,03
- 2,69
+ 1,10
+ 2,86
+ 2,54
 
-WKK (c€/kWh) 8 0,39 -
+WKK (c€/kWh) 8 0,36 -
 Partage d’énergie Fluvius (€/MWh) 45 - -
 Obligations de service publique (Bruxelles) €/an
 < 1,44 kVA
  0
 
 1,44 kVA en 6,00 kVA
- 13,36
+ 12,60
 
 6,01 kVA en 9,60 kVA
- 21,37
+ 20,16
 
 9,61 kVA en 13,00 kVA
- 26,71
+ 25,20
 
 13,01 kVA en 18,00 kVA
- 39,94
+ 37,68
 
 18,01 kVA en 36 kVA
- 53,30
+ 50,28
 
 36,01 kVA en 56,00 kVA
- 106,59
+ 100,56
 
-> 56,00 kVA 173,25
+> 56,00 kVA 163,44
 · Boulevard Saint-Lazare 4-10, 1210 Bruxelles · BTW BE 0726.633.730 · bonjour@boltenergie.be • boltenergie.be 2
 Informations sur les éléments et la formule tarifaire
 Comment le coût de mon énergie est-il calculé ? Informations concernant la formule tarifaire
@@ -339,18 +333,18 @@ Type de compteur Belpex Q3 2026 Formule tarifaire (€/MWh, HTVA)
 actuels ne soient plus représentatifs de la valeur économique, soient
 Simple
  139,36 €/MWh
- Belpex * 1,168 + 16,90
+ Belpex * 1,145 + 16,45
 
 Jour
  147,78 €/MWh
- Belpex * 1,168 + 16,90
+ Belpex * 1,145 + 16,45
  supprimés, ne soient plus disponibles, ne soient pas publiés ou soient
 Nuit
  132,12 €/MWh
- Belpex * 1,168 + 16,90
+ Belpex * 1,145 + 16,45
  publiés de manière irrégulière. Dans ce cas, Bolt s'efforcera de maintenir
 Exclusif nuit
- 132,12 €/MWh Belpex * 1,168 + 16,90
+ 132,12 €/MWh Belpex * 1,145 + 16,45
  un niveau de prix équivalent. Le coût de l'énergie, qui varie en fonction
 Injectie simple
  78,09 €/MWh
@@ -367,19 +361,19 @@ Prix mensuel  Belpex Q3 Formule tarifaire
 (c€/kWh) 2026
  (€/MWh, HTVA) sur chaque facture d’acompte ou de régularisation. Cela couvre les frais
 (€/MWh) d'exploitation fixes de Bolt.
-Eco consommation 14,47
+Eco consommation 13,37
  102,42
- Belpex * 1,168 + 16,90
+ Belpex * 1,145 + 16,45
 
 Les tarifs susmentionnés pour l'utilisation du réseau sont les coûts
-Medium consommation 20,77
+Medium consommation 14,45
  153,31
- Belpex * 1,168 + 16,90
+ Belpex * 1,145 + 16,45
 
 approuvés par le régulateur compétent. Le montant des taxes,
-Pic consommation 24,19
+Pic consommation 17,77
  180,89
- Belpex * 1,168 + 16,90
+ Belpex * 1,145 + 16,45
 
 Eco injection 4,41
  58,97
@@ -404,31 +398,33 @@ légal, le client professionnel, au taux d'intérêt stipulé dans la loi sur le
 Notre équipe se feront un plaisir de vous aider 
 retard de paiement dans les transactions commerciales d'août 2002.
 du lundi au vendredi, de 9 h à 17 h.
-Lorsque la facture est transférée à un tiers, une indemnité forfaitaire
-de 10% sur chaque montant impayé sera facturée, avec un minimum de bonjour@boltenergie.be
-55 EUR, à titre de compensation pour frais de recouvrement
+Lorsque la facture est transférée à un tiers, une indemnité forfaitaire de
+10% sur chaque montant impayé sera facturée, avec un minimum de 55 bonjour@boltenergie.be
+EUR, à titre de compensation pour frais de recouvrement
 02 899 33 00
 extrajudiciaires et ce, sans préjudice d’autres dommages et intérêts.
 L'injection sera payée en même temps que la facture de régularisation,
-en soustraction du volume consommé.
-Ce prix annuel estimé est basé sur l’évolution actuelle et prévue des prix pour les quatre Tarif réduit en fonction de la consommation annuelle : 0 - 3 000 kWh : 5,0329 c€/kWh, 3
+en soustraction du volume consommé. Sur demande du client
+professionnel, une facture séparée peut également être générée par
+autofacturation.
+Ce prix annuel estimé est basé sur l’évolution actuelle et prévue des prix pour les quatre Tarif réduit en fonction de la consommation annuelle : 0-20.000 kWh: 1.11 c€/Kwh,
 prochains trimestres.
- 001 - 20 000 kWh : 5,0329 c€/kWh, 20 001 - 50 000 kWh : 4,8188 c€/kWh.
+ 20.000-50.000 kWh: 0.9c€/Kwh, 50.000-1.000.000 kWh: 0.83 c€/Kwh,
+Pour les régimes de mesure par quart d’heure, le tarif de gestion des données s’élève à 15,14 1.000.000-25.000.000 kWh: 0.76 c€/Kwh, >25.000.000 kWh: 0.05 c€/Kwh
 
-Pour les régimes de mesure par quart d’heure, le tarif de gestion des données s’élève à 15,14 TVA non applicable.
+€ par an. Un tarif maximal de 0,2035480 €/kWh (hors gestion des données) s’applique aux TVA non applicable.
 
-€ par an. Un tarif maximal de 0,2035480 €/kWh (hors gestion des données) s’applique aux Non applicable sur les premiers 100 kWh. Cette contribution est majorée d’un montant
-compteurs digitaux. Si le compteur digital ne communique pas avec Fluvius, les tarifs du forfaitaire de 0,075 €.
-
+compteurs digitaux. Si le compteur digital ne communique pas avec Fluvius, les tarifs du Non applicable sur les premiers 100 kWh. Cette contribution est majorée d’un montant
 compteur classique s’appliquent.
- Les coûts de l’électricité verte et de la cogénération sont adaptés en fonction des
-En cas de production personnelle (panneaux solaires) avec une puissance maximale de modifications législatives. Les montants mentionnés sont valables pour le trimestre en
-l’onduleur de 10 kW et un compteur inversé. Le tarif est réparti par mois selon la production cours.
+ forfaitaire de 0,075 €.
 
+En cas de production personnelle (panneaux solaires) avec une puissance maximale de Les coûts de l’électricité verte et de la cogénération sont adaptés en fonction des
+l’onduleur de 10 kW et un compteur inversé. Le tarif est réparti par mois selon la production modifications législatives. Les montants mentionnés sont valables pour le trimestre en
 moyenne définie par la VNR.
- Les valeurs de l’indice sont publiées quotidiennement sur : 
-En cas de production personnelle (panneaux solaires) avec une puissance maximale de https://www.epexspot.com/en/market-results
-l’onduleur de 10 kW : si vous disposez d’un compteur bidirectionnel, la redevance réseau
+ cours.
+
+En cas de production personnelle (panneaux solaires) avec une puissance maximale de Les valeurs de l’indice sont publiées quotidiennement sur : 
+l’onduleur de 10 kW : si vous disposez d’un compteur bidirectionnel, la redevance réseau https://www.epexspot.com/en/market-results
 peut être calculée sur la base du prélèvement brut d’électricité si cela est plus avantageux
 que l’application du tarif prosumer.
 · Boulevard Saint-Lazare 4-10, 1210 Bruxelles · BTW BE 0726.633.730 · bonjour@boltenergie.be • boltenergie.be 3

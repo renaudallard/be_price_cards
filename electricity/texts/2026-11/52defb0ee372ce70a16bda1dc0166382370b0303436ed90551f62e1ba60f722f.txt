@@ -29,7 +29,7 @@ Prix annuel estimé 1
 
 Prix mensuel 17,60 16,77
 Injection
-(rrémunération pour l’électricité que vous injectez sur le réseau)
+(rémunération pour l’électricité que vous injectez sur le réseau)
 Compteur double
 Cette redevance fixe nous Compteur simple Exclusif nuit
 permet de gérer tout ce qui
@@ -274,13 +274,13 @@ Sibelga 9,39 9,39 7,10 7,10 2,14 13,90 -
 Taxes et redevances HTVA
 Flandres Wallonie Bruxelles
 Droit d’accise spécial (c€/kwh) (c€/kWh) 5
- 1,4210
- 1,4210
- 1,4210
+ 1,110
+ 1,110
+ 1,110
 
-Contribution sur l'énergie (c€/kWh)  0,1926
- 0,19261
- 0,19261
+Contribution sur l'énergie (c€/kWh)  -
+ -
+ -
 
 Redevance de raccordement (c€/kWh) 6 7 - 0,075 -
 Cotisation Fond énergie, résidentiel (€/mois) 6  -
@@ -393,46 +393,44 @@ Pic injection 10,93 128,38 Belpex * 0,94 - 11,33 présentes conditions particuli
 sera facturée en totalité au prix coûtant tel que défini dans les
 conditions générales de vente du contrat de fourniture. Cela peut
 Paiement et facturation également être fait rétroactivement.
-La signature de ce contrat ne peut se faire qu'en ligne. Le mode de Conditions
-paiement (prélèvement automatique ou virement bancaire) ainsi que le
-canal de communication (courrier ou e-mail) est choisi par le client. En Pour ce produit, vous devez détenir au moins une part de la coopérative
-cas de non-paiement dans le délai indiqué par le premier rappel, une de 250 euros auprès de Plenty Coop SC (https://plenty.be/), au plus
-lettre de mise en demeure sera envoyée et facturée 15 €. Si la somme tard dans le mois suivant la souscription. Si, pendant la durée du
-due n’a toujours pas été perçue après le deuxième rappel, le client Contrat de Fourniture, une ou plusieurs des conditions mentionnées ci-
-particulier est tenu de payer des intérêts moratoires au taux d'intérêt dessus ne sont plus remplies, ce Contrat de Fourniture prendra fin de
-légal, le client professionnel, au taux d'intérêt stipulé dans la loi sur le plein droit, et Bolt vous fournira de l'électricité sur la base du tarif
-retard de paiement dans les transactions commerciales d'août 2002. énergétique Bolt Variable applicable au cours du même mois que celui
-Lorsque la facture est transférée à un tiers, une indemnité forfaitaire de de la présente grille tarifaire, telle que transmise lors de la confirmation
-10% sur chaque montant impayé sera facturée, avec un minimum de 55 du Contrat de Fourniture.
-EUR, à titre de compensation pour frais de recouvrement
+La signature de ce contrat ne peut se faire qu'en ligne. Le mode de paiement Conditions
+(prélèvement automatique ou virement bancaire) ainsi que le canal de
+communication (courrier ou e-mail) est choisi par le client. En cas de non- Pour ce produit, vous devez détenir au moins une part de la coopérative de
+paiement dans le délai indiqué par le premier rappel, une lettre de mise en 250 euros auprès de Plenty Coop SC (https://plenty.be/), au plus tard dans
+demeure sera envoyée et facturée 15 €. Si la somme due n’a toujours pas été le mois suivant la souscription. Si, pendant la durée du Contrat de Fourniture,
+perçue après le deuxième rappel, le client particulier est tenu de payer des une ou plusieurs des conditions mentionnées ci-dessus ne sont plus
+intérêts moratoires au taux d'intérêt légal, le client professionnel, au taux remplies, ce Contrat de Fourniture prendra fin de plein droit, et Bolt vous
+d'intérêt stipulé dans la loi sur le retard de paiement dans les transactions fournira de l'électricité sur la base du tarif énergétique Bolt Variable
+commerciales d'août 2002. Lorsque la facture est transférée à un tiers, une applicable au cours du même mois que celui de la présente grille tarifaire,
+indemnité forfaitaire de 10% sur chaque montant impayé sera facturée, avec telle que transmise lors de la confirmation du Contrat de Fourniture.
+un minimum de 55 EUR, à titre de compensation pour frais de recouvrement
 extrajudiciaires et ce, sans préjudice d’autres dommages et intérêts.
-Questions ou commentaires?
-L'injection sera payée en même temps que la facture de régularisation,
-en soustraction du volume consommé. Sur demande du client Notre équipe se feront un plaisir de vous aider 
-professionnel, une facture séparée peut également être générée par du lundi au vendredi, de 9 h à 17 h.
-autofacturation.
+L'injection sera payée en même temps que la facture de régularisation, en Questions ou commentaires?
+soustraction du volume consommé. Sur demande du client professionnel,
+une facture séparée peut également être générée par autofacturation. Notre équipe se feront un plaisir de vous aider 
+du lundi au vendredi, de 9 h à 17 h.
+Duree des conditions du contrat de fourniture
 bonjour@boltenergie.be
-Duree des conditions du contrat de fourniture 02 899 33 00
-Les conditions du contrat de fourniture sont d’application pour une
+Les conditions du contrat de fourniture sont d’application pour une 02 899 33 00
 durée indéterminée.
-Ce prix annuel estimé est basé sur l’évolution actuelle et prévue des prix pour les quatre Tarif réduit en fonction de la consommation annuelle : 0 - 3 000 kWh : 5,0329 c€/kWh, 3
+Ce prix annuel estimé est basé sur l’évolution actuelle et prévue des prix pour les quatre Tarif réduit en fonction de la consommation annuelle : 0-20.000 kWh: 1.11 c€/Kwh,
 prochains trimestres.
- 001 - 20 000 kWh : 5,0329 c€/kWh, 20 001 - 50 000 kWh : 4,8188 c€/kWh.
+ 20.000-50.000 kWh: 0.9c€/Kwh, 50.000-1.000.000 kWh: 0.83 c€/Kwh,
+Pour les régimes de mesure par quart d’heure, le tarif de gestion des données s’élève à 15,14 1.000.000-25.000.000 kWh: 0.76 c€/Kwh, >25.000.000 kWh: 0.05 c€/Kwh
 
-Pour les régimes de mesure par quart d’heure, le tarif de gestion des données s’élève à 15,14 TVA non applicable.
+€ par an. Un tarif maximal de 0,2035480 €/kWh (hors gestion des données) s’applique aux TVA non applicable.
 
-€ par an. Un tarif maximal de 0,2035480 €/kWh (hors gestion des données) s’applique aux Non applicable sur les premiers 100 kWh. Cette contribution est majorée d’un montant
-compteurs digitaux. Si le compteur digital ne communique pas avec Fluvius, les tarifs du forfaitaire de 0,075 €.
-
+compteurs digitaux. Si le compteur digital ne communique pas avec Fluvius, les tarifs du Non applicable sur les premiers 100 kWh. Cette contribution est majorée d’un montant
 compteur classique s’appliquent.
- Les coûts de l’électricité verte et de la cogénération sont adaptés en fonction des
-En cas de production personnelle (panneaux solaires) avec une puissance maximale de modifications législatives. Les montants mentionnés sont valables pour le trimestre en
-l’onduleur de 10 kW et un compteur inversé. Le tarif est réparti par mois selon la production cours.
+ forfaitaire de 0,075 €.
 
+En cas de production personnelle (panneaux solaires) avec une puissance maximale de Les coûts de l’électricité verte et de la cogénération sont adaptés en fonction des
+l’onduleur de 10 kW et un compteur inversé. Le tarif est réparti par mois selon la production modifications législatives. Les montants mentionnés sont valables pour le trimestre en
 moyenne définie par la VNR.
- Les valeurs de l’indice sont publiées quotidiennement sur : 
-En cas de production personnelle (panneaux solaires) avec une puissance maximale de https://www.epexspot.com/en/market-results
-l’onduleur de 10 kW : si vous disposez d’un compteur bidirectionnel, la redevance réseau
+ cours.
+
+En cas de production personnelle (panneaux solaires) avec une puissance maximale de Les valeurs de l’indice sont publiées quotidiennement sur : 
+l’onduleur de 10 kW : si vous disposez d’un compteur bidirectionnel, la redevance réseau https://www.epexspot.com/en/market-results
 peut être calculée sur la base du prélèvement brut d’électricité si cela est plus avantageux
 que l’application du tarif prosumer.
 · Boulevard Saint-Lazare 4-10, 1210 Bruxelles · BTW BE 0726.633.730 · bonjour@boltenergie.be • boltenergie.be 3

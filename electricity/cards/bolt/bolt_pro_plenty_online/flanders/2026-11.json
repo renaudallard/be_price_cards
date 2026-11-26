@@ -1,18 +1,18 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-26T15:47:24.861417+00:00",
  "_probe_key": null,
  "_schema_version": 93,
- "_seen_on": "2026-11-22",
+ "_seen_on": "2026-11-26",
  "_sources": [
   {
-   "text": "texts/2026-11/8ec7fcce577914805bb1e5ee466beee46cff3a9b52e488eef6e96d4849517aec.txt",
+   "text": "texts/2026-11/7288a2577e3a4143bf2eaab6c99245cc902157bd4d00ac34e3e2c168d705c3c2.txt",
    "url": "https://www.boltenergie.be/fr/listes-des-prix",
    "variant": "text"
   },
   {
-   "pdf": "5573ecd0ac2404f469bf57ebc2b07f3ebd7852bb7dad1e6a3cd567b1a9e891e5",
+   "pdf": "d90d50f6412b6b6b4239dafbd79ff05760f62bc79354bbec9775dea0be6c0e51",
    "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-11/897ed3abdd18519b75ba689df03461cb03530c6447d980a917a621ecd4e82d2f.txt",
+   "text": "texts/2026-11/34e50cd189433f065bd88d3a769d2a75f9b7c2a0565496306375c5af1e06d528.txt",
    "url": "https://files.boltenergie.be/pricelists/var/plenty_online_pro_el_fr_14.pdf",
    "variant": "layout"
   }
@@ -209,10 +209,27 @@
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
   "brussels_renewables": 0.0,
-  "energy_contribution": 0.001926,
+  "energy_contribution": 0.0,
   "energy_fund_eur_per_month": 10.07,
-  "federal_excise": 0.01421,
-  "federal_excise_bands": null,
+  "federal_excise": 0.0111,
+  "federal_excise_bands": [
+   [
+    20000.0,
+    0.0111
+   ],
+   [
+    50000.0,
+    0.009000000000000001
+   ],
+   [
+    1000000.0,
+    0.0083
+   ],
+   [
+    25000000.0,
+    0.0076
+   ]
+  ],
   "flanders_renewables": 0.0146,
   "published_vat_rate": 0.0,
   "region_connection_fee": 0.0,
