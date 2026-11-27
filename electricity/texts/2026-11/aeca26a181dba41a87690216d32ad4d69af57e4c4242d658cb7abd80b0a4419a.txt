@@ -18,8 +18,8 @@ INJECTIE - enkel mogelijk in combinatie met een contract afname
 btw niet van toepassing
 Tariefformule injectievergoeding (in c€/kWh)
 Alle meetmomenten 0,10 x Belpex kwartier - 1,50
-Verwacht tarief volgens methodologie Vlaamse nutsregulator in oktober 2026, geschatte
-Belpex: 93,7776
+Verwacht tarief volgens methodologie Vlaamse nutsregulator in november 2026,
+geschatte Belpex: 93,7776
 Alle meetmomenten 7,8778
 ENERGIEDELEN ADMINISTRATIEVE KOST – per deelnemend EAN
 (incl. 21% btw)

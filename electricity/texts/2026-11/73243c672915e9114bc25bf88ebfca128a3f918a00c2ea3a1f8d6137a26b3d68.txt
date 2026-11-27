@@ -172,7 +172,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <h4>Klantenportaal</h4>    <span class="icon elements"></span>
       </header>
     <form accept-charset="UTF-8" action="/login" method="post" id="log" class="forkForms submitWithLink">
-						<input type="hidden" value="log" id="formLog" name="form" /><input type="hidden" name="form_token" id="formTokenLog" value="8d9766efb8b623ca47b2e01463af14a6" />
+						<input type="hidden" value="log" id="formLog" name="form" /><input type="hidden" name="form_token" id="formTokenLog" value="1897075e081cb87491dcea8ccfcac505" />
 						  <p>
     <input value="" id="shareHolderId" name="share_holder_id" maxlength="255" type="text" class="inputText" required placeholder="Logincode (opzoekbaar op de factuur)" />   </p>
   <p>
@@ -291,9 +291,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<p>
 			Tariefformule vol dynamisch contracten afgesloten in november 2026</p>
 	</div>
-	<a class="right" href="/frontend/files/userfiles/files/Tariefkaarten/Tariefkaart%20WW-DY-HH-2611.pdf" target="_blank"><img alt="download pdf" src="/frontend/themes/wasewind/core/layout/images/download_pdf.png" /></a></div>
+	<a class="right" href="/frontend/files/userfiles/files/Tariefkaarten/Tarieven%202026/Tariefkaart%20WW-DY-HH-2611.pdf" target="_blank"><img alt="download pdf" src="/frontend/themes/wasewind/core/layout/images/download_pdf.png" /></a></div>
 <p>
 	&nbsp;</p>
+											<div class="download clearfix">
+	<div class="left">
+		<p>
+			Tariefformule vol dynamisch contracten afgesloten in december 2026</p>
+	</div>
+	<a class="right" href="/frontend/files/userfiles/files/Tariefkaarten/Tarieven%202026/Tariefkaart%20WW-DY-HH-2612.pdf" target="_blank"><img alt="download pdf" src="/frontend/themes/wasewind/core/layout/images/download_pdf.png" /></a></div>
+<p>
+	 </p>
 									</div>
 			</div>
 		</section>
@@ -392,7 +400,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div>
 </footer>
 
-<script src="/frontend/themes/wasewind/core/js/wasewind.js?m=1795622866"></script>
+<script src="/frontend/themes/wasewind/core/js/wasewind.js?m=1795793936"></script>
 <script src="/frontend/themes/wasewind/core/js/slimbox2.js"></script>
 <script src="/frontend/themes/wasewind/core/js/jquery.lavalamp-1.3.5.js"></script>
 <script src="/frontend/themes/wasewind/core/js/jquery.scrollTo-1.4.3-min.js"></script>

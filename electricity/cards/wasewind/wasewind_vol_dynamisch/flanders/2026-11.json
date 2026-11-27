@@ -1,8 +1,8 @@
 {
- "_cached_at": "2026-11-25T16:04:29.333891+00:00",
+ "_cached_at": "2026-11-27T15:36:13.798768+00:00",
  "_probe_key": null,
  "_schema_version": 93,
- "_seen_on": "2026-11-25",
+ "_seen_on": "2026-11-27",
  "_sources": [
   {
    "text": "texts/2026-11/2450b7bfdc1470482a995ba8995a0b179c0fe1690c841067633a4287fdae7124.txt",
@@ -50,15 +50,15 @@
    "variant": "text"
   },
   {
-   "text": "texts/2026-11/1ea7488bd4402d7914c82175480a3aa95647d35b698897fdc9717b12b47f66e5.txt",
+   "text": "texts/2026-11/73243c672915e9114bc25bf88ebfca128a3f918a00c2ea3a1f8d6137a26b3d68.txt",
    "url": "https://www.wasewind.be/tariefkaarten-2026-incl.-btw-vol-dynamisch",
    "variant": "text"
   },
   {
-   "pdf": "6e7f9c3aca900a78703cdaae633418ab8c44fb3e89528ad26096e851fd12e0bf",
+   "pdf": "d6ada25f494824cbb8a0cad8fb5d3118123c7578574987a70b4cb0f3d6c30ed3",
    "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-11/91914b4c5a0fb11d31e0714c990b15721cd3fddfdeee4701a25da915762e4147.txt",
-   "url": "https://www.wasewind.be/frontend/files/userfiles/files/Tariefkaarten/Tariefkaart%20WW-DY-HH-2611.pdf",
+   "text": "texts/2026-11/aeca26a181dba41a87690216d32ad4d69af57e4c4242d658cb7abd80b0a4419a.txt",
+   "url": "https://www.wasewind.be/frontend/files/userfiles/files/Tariefkaarten/Tarieven%202026/Tariefkaart%20WW-DY-HH-2611.pdf",
    "variant": "layout:min480"
   }
  ],
@@ -226,7 +226,7 @@
  },
  "network_year": null,
  "publication_label": "november 2026",
- "source_url": "https://www.wasewind.be/frontend/files/userfiles/files/Tariefkaarten/Tariefkaart%20WW-DY-HH-2611.pdf",
+ "source_url": "https://www.wasewind.be/frontend/files/userfiles/files/Tariefkaarten/Tarieven%202026/Tariefkaart%20WW-DY-HH-2611.pdf",
  "supplier": "wasewind",
  "supplier_prosumer_eur_per_kva_year": null,
  "taxes": {
