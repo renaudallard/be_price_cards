@@ -8,8 +8,8 @@
   },
   {
    "pdf": "3fa3c0bc63efb7edb232ad32133c1649344430007af61873296dcb66bb61a7fc",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-10/cffb9c4df16d800d1d2c35af1133b3b21a2c7609e0c066adfab4fe1dc2bab3b9.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-10/1c4b47d72c01c360cefd5dfb53760208cae12c13546e0dcb68945e63c7d6b467.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-032025-Online0103-Fixed.pdf",
    "variant": "plain"
   }

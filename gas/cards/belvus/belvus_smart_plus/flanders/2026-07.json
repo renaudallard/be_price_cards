@@ -3,8 +3,8 @@
  "_sources": [
   {
    "pdf": "b13607e802e1dcfe57639574b0495f8e93d9d96de2b8b11f2dcc13de73e78b15",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-10/8f4e79dc1e65ec1d8e5f9bd231a9ab6d1fcbd2a02d31f8271aa75864bf3c7e97.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-10/2f521e4fd6cf0f30ec2828cef7cc5d7c7c8fd1bcf00fb981522bd8ebea9fd3f2.txt",
    "url": "https://www.belvus.be/public/tariefkaarten/2026-07/Tariefkaart_SmartPlus_GAS.pdf",
    "variant": "plain"
   }

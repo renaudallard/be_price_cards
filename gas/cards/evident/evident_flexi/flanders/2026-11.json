@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-20",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
-   "text": "texts/2026-11/4f6fc96bc0c17ccc770bd29724e5185571eaf992a686d9037cad29c04c9b2fa5.txt",
+   "text": "texts/2026-11/191615b430016834e88e84df4c56030f0e489ea8a1b304225bbf169471c48838.txt",
    "url": "https://www.evidentenergie.be/products",
    "variant": "text"
   },
   {
    "pdf": "495629a63db0291d63181a6bfbace72efbf0f3cbaf3531747ba7027712212a0b",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-11/8a75df6a26a2bbd0dbbb9c62aa9e23a6a4e026f06d2e8930857fb8ad23d0a1a1.txt",
    "url": "https://www.evidentenergie.be/web/content/xx.product.group.tariff.card/1915/file",
    "variant": "plain"

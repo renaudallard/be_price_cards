@@ -3,8 +3,8 @@
  "_sources": [
   {
    "pdf": "27e4e74c1d9aaea9dcae4c0057dbf0ad03bc3d762fd34d4a5c00b38a65af6995",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-10/3e634eeffae4bdc4c0b1db06d566f9f52f4626b4f4d07754c60710db1e292d13.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-10/a43f62f390fb880b365a9e106de04d365c1c871a566c265f1f8d445cf353de9e.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-092026-Offpeak-Bi-Var.pdf",
    "variant": "plain"
   }

@@ -13,7 +13,7 @@
   },
   {
    "pdf": "be87a91aa6d8e4d12d4a316c0bf6a9731f46efb4670b638d16a7b2af0d53102c",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-10/eb2bb470b7c6603beeb7c9d1bfc9d5a9a1a07b4103622070f936298eee727f82.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-07+G+OCTA%2BFIXED+RE+VL+FR.pdf",
    "variant": "layout"

@@ -3,8 +3,8 @@
  "_sources": [
   {
    "pdf": "3696dfdfac978a3a49d82221c360304289ef425dfb2b875381d1d78b8948bfb7",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-10/60344c1fc10bc0cf19440c76b22bf5450c7b0565fc9e3a9147903803a5dd81d4.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-10/a3500c85d986f5bd37771fe5a59584a474a1e8b7752623807cfb19daa4da44e4.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-122025-Prepaid.pdf",
    "variant": "plain"
   }

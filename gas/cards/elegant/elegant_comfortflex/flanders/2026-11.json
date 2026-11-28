@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-20",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
-   "text": "texts/2026-11/767a3ebe50ffb7897191a1f7bdeb9b4830d7ab0fd2e4c6014ae3465ce0b107d4.txt",
+   "text": "texts/2026-11/2836ee09d39debab7e8bfc303b11c00ab9e6a911e8b71599313907534821813f.txt",
    "url": "https://www.elegant.be/tariefkaarten",
    "variant": "text"
   },
   {
    "pdf": "11990a3cb38a89377c2ae49d5694754e127e366f6875c38507907ac9b3ac4f46",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-11/138d0241254f0ba7d977c89d3ed749b8ba370c4932732a0d858a13cf3ee46d3f.txt",
    "url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/ComfortFlex%20Gas_Residential.pdf",
    "variant": "layout"

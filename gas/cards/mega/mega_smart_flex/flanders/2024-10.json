@@ -8,8 +8,8 @@
   },
   {
    "pdf": "094c6a7b8df6b5ca14a2a751ff844211e5bbf9579f6324ab4d2e028fe826bd28",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-10/cf8642cc93f549b4c92619fe62e6dc29aa70e946a4458ef880999eb5d6d29b0f.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-10/dc01439b829ff8dc64d467c0ec5753eb6dc6b79ecbd0f178b1df8ba0888482bb.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-102024-Smart0110.pdf",
    "variant": "plain"
   }

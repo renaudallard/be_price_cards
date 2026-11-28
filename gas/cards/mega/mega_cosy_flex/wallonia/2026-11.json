@@ -1,15 +1,15 @@
 {
- "_seen_on": "2026-11-20",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
-   "text": "texts/2026-11/3a77eb7b0cb5f44147015bc07245dbb7e5dc811ff3752bd57ad4cccb30f699a5.txt",
+   "text": "texts/2026-11/f67fb95a9e947b46cbce928859c189558e000a622a307fa10f3aa5283deab2f3.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
    "pdf": "ba7cb24e04625bf2d2d06a7dd7c7351e6c5e1a307b16a68856aa4747f4bc24bb",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-11/53b52ae0f765ef255b495864b5fa9a8bc41a2a0f88ecab642568d50c69929333.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-11/e2af8892964aa06a7e502e6261a10845342f342fe7d1922e611e8cc0c8d7c79f.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-112026-Cosy1711.pdf",
    "variant": "plain"
   }

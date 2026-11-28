@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-20",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
-   "text": "texts/2026-11/6b1357e4b0dec68e6e398533ea1350aba53005fc2905f6a4e9454ce38e009ec4.txt",
+   "text": "texts/2026-11/d9a2428eb3bf0720618f52a2a3a67b0e009f157af69db346b8358918afbe39f1.txt",
    "url": "https://www.hoa.energy/products",
    "variant": "text"
   },
   {
    "pdf": "065062bc21935e522faf9c0318d924b9bc255d17e56b4072019912da5974ca2e",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-11/3021df1662075080b400fb4de63a92b636808dde574b3518ffee64f516b48a30.txt",
    "url": "https://www.hoa.energy/web/content/xx.product.group.tariff.card/1925/file",
    "variant": "plain"

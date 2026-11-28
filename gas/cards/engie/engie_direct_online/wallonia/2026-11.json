@@ -1,10 +1,10 @@
 {
- "_seen_on": "2026-11-20",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
    "pdf": "d3de34504828eef1aea2a4b489b1ec16865c5d7b193be86d981ab11c7b5e3949",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-11/d5a558048d05a00ce1f4307b1528ebd4a381250b7a2d37ec67b44ca30b6056f1.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-11/6f6684d5f7e74f2aab01bf7f4f16064c65d1bdea77c5e0ca3cc8982d20a25877.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_DIRECT_ONLINE_R_GREY_C_I_12_W_F&monthOffset=0&segment=R&language=F",
    "variant": "plain"
   }

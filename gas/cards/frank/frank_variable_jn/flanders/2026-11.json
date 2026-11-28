@@ -1,26 +1,14 @@
 {
- "_seen_on": "2026-11-26",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
-   "text": "texts/2026-11/dbb1dc8d59ca01ffdd9e50c0b722338f13262e686e03ea15c71f01cbe050a4f8.txt",
-   "url": "https://8navd656.api.sanity.io/v2023-01-01/data/query/production-be?[('query', '*[_type==\"sanity.fileAsset\" && originalFilename match \"*Gas*\" && originalFilename match \"*Oktober*\" && originalFilename match \"*2026*\"]{originalFilename,url,_createdAt}')]",
-   "variant": "text"
-  },
-  {
-   "text": "texts/2026-11/c7347dc20f0313eef247198398d04a376a5c0c2a273595b9f338542bdad18195.txt",
+   "text": "texts/2026-11/025353c6844c95824267a704feb1f9155562c34922155d953c6ea4dc10de4e4b.txt",
    "url": "https://8navd656.api.sanity.io/v2023-01-01/data/query/production-be?[('query', '*[_type==\"sanity.fileAsset\" && originalFilename match \"*Gas*\"]{originalFilename,url,_createdAt} | order(_createdAt desc)[0..39]')]",
    "variant": "text"
   },
   {
-   "pdf": "4e8ea637fbe18f98abe26a73ba1a429d9381039027a8d3afa4bd484c3570f0af",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-11/029752a892706bef79c82403ed0a660e7f16146603ec3aff21e66db845f8ae0d.txt",
-   "url": "https://cdn.sanity.io/files/8navd656/production-be/0fd56362f87d6f3eeb7ffc067a45010646a36b6a.pdf",
-   "variant": "layout"
-  },
-  {
    "pdf": "d34bd1015d29e5b3494c9363ad1add0b1aba2db91a2cd9073a90392001d806de",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-11/d7e87ef75279e39390e98d52b1c14aa3fbb22f977de8037a9e3f1bfc120d7042.txt",
    "url": "https://cdn.sanity.io/files/8navd656/production-be/3c6ee02fddfc2954dc68aca1e5ca82d80217014c.pdf",
    "variant": "layout"

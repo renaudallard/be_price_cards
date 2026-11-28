@@ -8,7 +8,7 @@
   },
   {
    "pdf": "721848332314ed17e38d2d484ec7d33038fefb9526324c269ec8d122b30600a5",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-10/a735b0961acc3e1e84b361e8e3d115c814be3ace6f84d1fddc1af56444f078fd.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/Maart_Tariefkaart_Energie_be_Variabel_NG_Res_00f0949bcf.pdf",
    "variant": "layout"

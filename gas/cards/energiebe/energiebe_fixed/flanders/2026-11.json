@@ -1,22 +1,22 @@
 {
- "_seen_on": "2026-11-20",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
-   "text": "texts/2026-11/21dde76c4bc6bcbaf6a368ec6fb7e81c74fc04d82060c3539bbfca7f8f5eb103.txt",
+   "text": "texts/2026-11/38770dbb94ef1fd551a4378c678075fb427fbff7e63e1291d260ee9c743b4f83.txt",
    "url": "https://www.energie.be/api/v1/data/contracts",
    "variant": "text"
   },
   {
    "pdf": "f2256290d3964899f454e36b184bf210766a56e532395a16389fd5db46f441bf",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-11/d567f1c953d2a34495cbdffa9cb1c5dbe730635066488934d882bca8898d1e2e.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/VAST_Energie_be_RES_GAS_pdf_276e3f8ac3.pdf",
    "variant": "layout"
   },
   {
    "pdf": "f2256290d3964899f454e36b184bf210766a56e532395a16389fd5db46f441bf",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-11/a04b9a99556fbc9abc33d63c57a66d738b98dafcdc5bd17b39e72482ae622cd7.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-11/cce02a9c9587bd222202a0d8ad5ff6075ff81b938918ab1901e1df562b8aed8e.txt",
    "url": "https://energie.blob.core.windows.net/cms/assets/VAST_Energie_be_RES_GAS_pdf_276e3f8ac3.pdf",
    "variant": "plain"
   }

@@ -13,14 +13,14 @@
   },
   {
    "pdf": "622142db49f2d61ff74e36ae1935f27a82b7eebd815fb6fe35a4ff37e0327377",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-10/1b9650bd0eceb234f0c4281ba7357a2dbf8fe6d3cc3fcbaa8703eca5f728af62.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2024-10+G+OCTA%2BECOFIXED+RE+VL+FR.pdf",
    "variant": "layout"
   },
   {
    "pdf": "622142db49f2d61ff74e36ae1935f27a82b7eebd815fb6fe35a4ff37e0327377",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-10/f85b13c72710171d5994e43967ae47a3b0c25a62d0bbddf7ff5d468bbd61e31c.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2024-10+G+OCTA%2BECOFIXED+RE+VL+FR.pdf",
    "variant": "rows"

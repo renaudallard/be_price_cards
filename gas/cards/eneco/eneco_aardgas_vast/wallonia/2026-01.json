@@ -3,8 +3,8 @@
  "_sources": [
   {
    "pdf": "5a782277f8d84e90ab132e7bcc848aa05c3e8d6f734df54893bfa012b164a56d",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-10/e92d24c53506972c4785af4959a7caf440f1d7233e56ead923c80e677addd63f.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-10/a255298972b9eb843fb8785dc1b1a630c790e87b439255d629eaed5ce8e42a0d.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012601_NL_ENECO_GAS_FIX.pdf",
    "variant": "plain"
   }

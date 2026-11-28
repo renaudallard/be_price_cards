@@ -8,7 +8,7 @@
   },
   {
    "pdf": "d96a37f1dc2c16464c87a9516d23cceafd5fd698902b0c1156da5e992fb63431",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-11/7c823df6c6994ae7ec75bb365a0fa4453129be22952a966399a88c0389d0a21b.txt",
    "url": "https://files.boltenergie.be/pricelists/var/online_res_ng_fr_14.pdf",
    "variant": "layout"

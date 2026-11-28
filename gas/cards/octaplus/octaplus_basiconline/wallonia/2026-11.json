@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-20",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
    "pdf": "0cdf883a3725379d641a4174676652412c60544ab4ce03de028d1847e51670c2",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-11/9f3459fdfdbff6a48a7fb969ffdddfea5f7a28ea900c49e0526b5c95d1fd36b0.txt",
    "url": "https://files.octaplus.be/tariffs/G_OCTA_BASICONLINE_RE_WL_FR.pdf",
    "variant": "layout"

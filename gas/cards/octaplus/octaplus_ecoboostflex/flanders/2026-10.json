@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "a49eef93f30407468435e7fd398423096e327fe93f3d4eae6f1cbf9d79ffee2f",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-10/3d0ff517ac516c37e08e5e743c4d0cf6d158ab39a7cf3aad2c413dd796795f1d.txt",
    "url": "https://files.octaplus.be/tariffs/G_OCTA_ECOBOOSTFLEX_RE_VL_FR.pdf",
    "variant": "layout"

@@ -1,15 +1,15 @@
 {
- "_seen_on": "2026-11-20",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
-   "text": "texts/2026-11/3a77eb7b0cb5f44147015bc07245dbb7e5dc811ff3752bd57ad4cccb30f699a5.txt",
+   "text": "texts/2026-11/f67fb95a9e947b46cbce928859c189558e000a622a307fa10f3aa5283deab2f3.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
    "pdf": "b19dbb37fcd9f43dbfafc84e1ffecb50f0b7b0c910a23a4debe9ddf2e56e612f",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-11/97a3af2a6633b20aff293e1a8ff22d9dd905814c01f3eb4d0d0c308668723716.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-11/5042fe208c3670ffca4a340bdef1eaf0f8bbffe0a08342455127d75dc54d62ee.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-112026-Smart0111.pdf",
    "variant": "plain"
   }

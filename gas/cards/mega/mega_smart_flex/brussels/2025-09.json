@@ -8,8 +8,8 @@
   },
   {
    "pdf": "f66361e533c65a185959b5d23486520a0954cae4b4a794a16fb153f422ecb40d",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-10/24dfaee16a5afdb96222f5258ae589346c79bccc8315978a868dba8c5715a816.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-10/a442aa02c6c950c34f033ba8948669b1fa893455cef6c3882c5e8f47c92336d4.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-092025-Smart0109.pdf",
    "variant": "plain"
   }

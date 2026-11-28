@@ -13,7 +13,7 @@
   },
   {
    "pdf": "0a80d5d4a9890540e5ed43f80633f57d897f2a3ed6d28d24bc5e0ffb987c431b",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-10/ff6c895233c3f614cc80190782bc0ec0ab87f6257a9e631cd077e994ef6b89d6.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-07+G+OCTA%2BECOFLUX+RE+VL+FR.pdf",
    "variant": "layout"

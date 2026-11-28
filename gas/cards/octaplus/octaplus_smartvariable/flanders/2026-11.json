@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-20",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
    "pdf": "200c7cc6a7db83c3da96be6a9fc83bee8251479f839552525f8a19cc74663e7e",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-11/5a3c49483a3ee09d39b9f6907986c34eeb550a7a6c3b30cd36f7fb795c62c367.txt",
    "url": "https://files.octaplus.be/tariffs/G_OCTA_SMARTVARIABLE_RE_VL_FR.pdf",
    "variant": "layout"

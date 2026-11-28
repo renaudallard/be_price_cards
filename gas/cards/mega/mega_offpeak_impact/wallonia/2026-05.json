@@ -8,8 +8,8 @@
   },
   {
    "pdf": "b8788e802f7576f391728a85a8a7aea28fadfa4b721b0f5f45352863bd0ce9ee",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-10/f3f00d6ce143f8221b9dfae45f79c5f50976c18b7837ff652437fdbce7118b01.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-10/cb071a6a93a6dc6ef77327abfdb7e86cfacbeb40086da78f7d6b2ce0e7289d32.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-052026-Offpeak-Impact-Var.pdf",
    "variant": "plain"
   }

@@ -8,8 +8,8 @@
   },
   {
    "pdf": "d112a73eb710c362fd2c7145e1dd88bcceb0eaa489f9fa07736d1e2da6e9bded",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-10/8ebfb29b1b312568885efe618424c0841f9dbb70b28c8b5ae21e7acc6d504961.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-10/b9aa6ea53b43b364926f133f1c67dc5abbd3f3c53e062a648ef9d836b7f36b39.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-WL-042025-Cosy0104.pdf",
    "variant": "plain"
   }

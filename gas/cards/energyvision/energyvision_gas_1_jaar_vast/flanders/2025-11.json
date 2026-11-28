@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "e12d4b9d79b77adf79d63e08b610449c70a8870951b9c49faf0de1e69b44f640",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-10/05e15534c0159a39c7ac59f2266c68b1c759f16b1255844fa3bb79a5ca3a7093.txt",
    "url": "https://www.energyvision.be/sites/default/files/inline-files/EV-1125-GS1JVG-nl.pdf",
    "variant": "layout"

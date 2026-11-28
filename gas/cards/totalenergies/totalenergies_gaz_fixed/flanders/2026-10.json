@@ -3,7 +3,7 @@
  "_sources": [
   {
    "pdf": "bf7947d78d77b50018a81253437787d3eadf3006f128e448b3173e4c69e937ed",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-11/e3ec935fe791a3a825d607cd9ec1fe624c828b95dae9b3666a0722d32b8a4996.txt",
    "url": "https://totalenergies.be/static/marketing-documents/b2c/tariff-card/latest/GAZ-FIXE_GAS_VL_FR.pdf",
    "variant": "layout"

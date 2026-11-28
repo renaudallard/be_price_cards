@@ -8,8 +8,8 @@
   },
   {
    "pdf": "603ab525f0f31dd148b246c6228bce5cd83a9ac439afe45e5d5f9dc1f304e87e",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-10/a2e54c199f79f0b8ffb7c47e8723e09569273334ea7378aa71e1dccfb4e726ff.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-10/d8804f2ee8fd50677e5a506cb4c3e709ef8624ef4815ca22400519fff6676dab.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-VL-092026-Zen0109-Fix.pdf",
    "variant": "plain"
   }

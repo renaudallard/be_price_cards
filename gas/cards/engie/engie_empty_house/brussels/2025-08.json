@@ -3,8 +3,8 @@
  "_sources": [
   {
    "pdf": "a862e087e7b9a204f9dc2902d06fac89c6b430f65eb2247d8eba58ab4dde0f4a",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-10/c890ca9ba76f412b989c4c5ec804d2d1f5d8e5621e81e371dd5c1d7a701a6009.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-10/efed30f74d5e45aa0f5cd4b8e7e326fb4b710367c67a9aa90efdf6b09b868dfd.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EMPTYHOUSE_R_GREY_C_I_00_B_F&monthOffset=14&segment=R&language=F",
    "variant": "plain"
   }

@@ -1,9 +1,9 @@
 {
- "_seen_on": "2026-11-24",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
    "pdf": "4a8056fe60768c657e08a22b9bc8304dffd2c27b5f014a8c871aa217c3eec343",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-11/2fbf8ef1183e3fabbd0b5835c80f2b3b13ab1cfea88424f6eb29abdd6243dcde.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=maxxfix&energyType=gas&language=fr&tabValue=Wallonia",
    "variant": "plain"

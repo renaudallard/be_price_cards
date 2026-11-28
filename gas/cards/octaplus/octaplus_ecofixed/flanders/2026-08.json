@@ -13,7 +13,7 @@
   },
   {
    "pdf": "ed5e88b07f4b0e3fd306f0f20364dd3178b714a1dcb1932d10e8e9c9db0141a5",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-10/8057d19913af89e6db82328c30414e0a0453016039c34a3ac90f65e80a90bd8d.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?Canal=website&RequestedPDF=2026-08+G+OCTA%2BECOFIXED+RE+VL+FR.pdf",
    "variant": "layout"

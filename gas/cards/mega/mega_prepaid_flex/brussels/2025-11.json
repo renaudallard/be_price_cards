@@ -3,8 +3,8 @@
  "_sources": [
   {
    "pdf": "28c38c3544ef8bb9e8430a112500e15fbbc00778b9b8c28833f7d7a10fbb9f45",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-10/e48d77026e592a27dd0824473153809c9b1ca4e502eb017d48f898c698cbce82.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-10/756713bf9dbb6724164b73091f8cdeacefec7c5d4d36af241bac4f3088d87624.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-NG-B2C-BX-112025-Prepaid.pdf",
    "variant": "plain"
   }

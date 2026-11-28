@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-11-20",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
    "text": "texts/2026-11/d92801e828b9cfacdcc1111b4bd7fd9278ee3913ca2346709d7ab6d012c76bb7.txt",
@@ -13,8 +13,8 @@
   },
   {
    "pdf": "ca3f69b3d764cc7571336bef603beb10cce7fa8a0b165c0ab294a93299828f1a",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-11/3eb85396a85e037c5332314be99a069325cb237971a5a40111a9843788466324.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-11/0a45452a588109efb332ab5d56c7858e0a8d488ed03281a89bcb334653b04450.txt",
    "url": "https://www.belvus.be/public/tariefkaarten/2026-11/Tariefkaart_SmartPlus_GAS.pdf",
    "variant": "plain"
   }

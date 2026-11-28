@@ -3,8 +3,8 @@
  "_sources": [
   {
    "pdf": "f2900faffe720dd5c558d4bb9f2923d63a185974fde47ecb778417c7daccfa5c",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-10/b28db806f9817dc2e7d5d4ff1a48062a25ed749438d03a786b9b6c74124ba742.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-10/a8ccd2a41bf8b7231cdb9e94ae2ddc33b00d3d7c0ffe4a732ae005bb84d38537.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=G_EASY_R_GREY_C_I_12_W_F&monthOffset=25&segment=R&language=F",
    "variant": "plain"
   }

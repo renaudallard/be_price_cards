@@ -8,7 +8,7 @@
   },
   {
    "pdf": "d79cdd42e6e0a32724802faa73794d9954772450fc49ada8ff2e3e1ced2fa483",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-10/c7b91dea42aa4ffdb4944ae947dc97507665a4e4bfbcda7757e68c694d4bffdb.txt",
    "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000CEbfEAAT&date=2024-07&region=Flanders&inline=true",
    "variant": "plain"

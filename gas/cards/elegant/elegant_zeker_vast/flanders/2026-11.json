@@ -1,14 +1,14 @@
 {
- "_seen_on": "2026-11-20",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
-   "text": "texts/2026-11/767a3ebe50ffb7897191a1f7bdeb9b4830d7ab0fd2e4c6014ae3465ce0b107d4.txt",
+   "text": "texts/2026-11/2836ee09d39debab7e8bfc303b11c00ab9e6a911e8b71599313907534821813f.txt",
    "url": "https://www.elegant.be/tariefkaarten",
    "variant": "text"
   },
   {
    "pdf": "93024bf98a05774bd4072d31cfc391b332644307c8400ea13991885d4cc8a739",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-11/64d4543df4fe6e2f31954e3e23a2e1932f83880ba813c472c860256ac1478468.txt",
    "url": "https://cdn.elegant.be/Pricing/TariffCharts/Current/Zeker%20%26%20Vast%20Gas_Residential.pdf",
    "variant": "layout"

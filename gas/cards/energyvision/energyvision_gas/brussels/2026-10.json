@@ -8,7 +8,7 @@
   },
   {
    "pdf": "268b2f4243ff2e316a74b5849d9994fb63e67ff1f64c6b2c9f67cb4e81238441",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
    "text": "texts/2026-11/7ac6676e2a5c8a05c46fa02dd98412654b22056fb2fa05607298009fc33b2136.txt",
    "url": "https://www.brusol.be/sites/default/files/2026-09/EV-1026-GSG-BXL-nl.pdf",
    "variant": "layout"

@@ -1,5 +1,5 @@
 {
- "_seen_on": "2026-11-20",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
    "text": "texts/2026-11/d92801e828b9cfacdcc1111b4bd7fd9278ee3913ca2346709d7ab6d012c76bb7.txt",
@@ -13,8 +13,8 @@
   },
   {
    "pdf": "dff0463d305f1c5ab6bd4346671c6c1a7c0992d9776a9e6186272f52dfbc9bc5",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=ec5473fed08d30e3",
-   "text": "texts/2026-11/6041263151b46eadb14a01518746342cc6deff2caa5e38001f1147ec9788eb1f.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=8a57662878ed5256",
+   "text": "texts/2026-11/44ae3ad00d48b26fd700b1899c283a2e8ba7eef4703a94fb709a8c0834127b2f.txt",
    "url": "https://www.belvus.be/public/tariefkaarten/2026-11/Tariefkaart_FlexOnline_GAS.pdf",
    "variant": "plain"
   }
