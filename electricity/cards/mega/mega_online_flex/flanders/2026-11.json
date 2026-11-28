@@ -1,18 +1,18 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
- "_seen_on": "2026-11-22",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
-   "text": "texts/2026-11/1fa2df2672677743c8efa90f2c4a74fab75e91111a4c0280c27189ed1314f9c0.txt",
+   "text": "texts/2026-11/5ea8c5cb936269a83acc5aac9e7c9f1cfc92322f54d59b68c8598c86a6f9ce66.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
    "pdf": "9d3f3cfc994e16516ccd15be7427410c5dea94062d9c897d1e7eb395db9ac9f0",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-11/30dd466e4d39bc94f54eeff05a8cbe573247da37098a89632c9e0a461f278b59.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-11/499406e56d2bc5a87a70da3df481143cf0ec654dfb8754ae72c754dc83d0198c.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-112026-Online0111-Green.pdf",
    "variant": "plain"
   }

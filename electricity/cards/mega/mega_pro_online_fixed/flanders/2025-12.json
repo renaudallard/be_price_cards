@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-09-29",
  "_sources": [
   {
    "pdf": "56a317bee0e638d8b76c7b2918ad60eb58133c0264d9af81595bb37ea753ab68",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-09/a5629edb481b05e6154fd46b62f2492773c670c95fba5ebf3c10e24cc76ef3e5.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-09/569f1ab066e08840e3acd3c9ba013a58e0cf1acd96437bb42671abfa18fac761.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-122025-Online0112-Fixed.pdf",
    "variant": "plain"
   }

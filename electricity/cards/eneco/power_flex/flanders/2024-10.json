@@ -1,20 +1,20 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-10-20",
  "_sources": [
   {
    "pdf": "f4a25c0e99dd038a846c9be746787e57572dccd82d05e2593c364c6155aad939",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-10/fc8066777b81a1aa77d329ce40c507e5cfba3faec2f55700c678437f49562552.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-10/3626fd9397d8cacb9a9fca0e995222f1124ecc1eb60f99358d6964aa144b464d.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012410_NL_ENECO_POWER_FLEX.pdf",
    "variant": "plain"
   },
   {
    "pdf": "a61c34ed5112fb892069e886ed309553528f7e0601a992965e8e34464601b01b",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-10/9ed2639f47a7f9c89bf586f4b6d0dd1cbdae606b2e9317292cecb8575ca1f46f.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-10/950f3f503b07c024c866cf04a2437700289f21c4d846895defa49623c42d0b90.txt",
    "url": "https://cdn.eneco.be/downloads/nl/general/tk/BC_032_012411_NL_ENECO_POWER_FLEX.pdf",
    "variant": "plain"
   }

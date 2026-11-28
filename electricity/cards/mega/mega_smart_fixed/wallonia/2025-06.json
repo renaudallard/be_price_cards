@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-11-04",
@@ -11,8 +11,8 @@
   },
   {
    "pdf": "b6972a59c641824be6242c3aa2f39b67d173fb346aad84ccceb2964e37d915df",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-11/2117eeb5ef9547db869fae727355a3cf6e6583ad4324da0f3e39d7f7dc17d547.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-11/90dd0aadde3a3939eda01e380a51dcb2a594616768255b34dbb398c7d0ad0d9a.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-062025-Smart0106-Fixed.pdf",
    "variant": "plain"
   }

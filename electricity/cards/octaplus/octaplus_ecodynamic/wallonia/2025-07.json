@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-10-20",
@@ -16,15 +16,15 @@
   },
   {
    "pdf": "fe41f40dcc357c223ed5692286e81e37999c9a4d92f605ac7b49001e51f68532",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
    "text": "texts/2026-10/e6da13f411ebe633d34b26d023e46a33db3bdf522b3a6451e976ba85286eaf26.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-07 E OCTA+ECODYNAMIC RE WL FR.pdf",
    "variant": "aligned"
   },
   {
    "pdf": "fe41f40dcc357c223ed5692286e81e37999c9a4d92f605ac7b49001e51f68532",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-10/5bb735702bf89af77e96e63162bce75db48e815073318ec989f76616b1d7b3c8.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-10/cef81233fb022601afa9e3a8c9929eb72493029ab2cc835ab00174aa9adbf543.txt",
    "url": "https://srv.octaplus.be/websiterest/getTariffSheet?RequestedPDF=2025-07 E OCTA+ECODYNAMIC RE WL FR.pdf",
    "variant": "plain"
   }

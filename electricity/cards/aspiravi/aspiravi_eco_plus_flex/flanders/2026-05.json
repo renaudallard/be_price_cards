@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-09-29",
@@ -11,15 +11,15 @@
   },
   {
    "pdf": "e7686354150eda8e2cb676cebb8885c59ff2c8eea0ef56cb589d8ae976399211",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-09/4cadd5990f5c76801ce4f6fdcdf03298a39a1d3f89c065c494ff0212e0ebee73.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-09/8e0878b8583f00b52393d47ee74197fd7464d14ca77b3fcf614f5d997076687e.txt",
    "url": "https://aspiravi-energy.be/wp-content/uploads/2026/05/900027_Eco_Plus_flex_huishoudelijk-formule-2026-v3.pdf",
    "variant": "plain"
   },
   {
    "pdf": "b09452ceb733235d473ca61d4869f76434b3d83dab7e90ca24fe4444b2ed78cb",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-09/4e15ee6f7c470360053742ebe546f15684788810b14fbc6fe734d27996ce7d88.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-09/4742f4166b377ec708d8b9e3e123620d66a02107d8506b2950a367c5daa84fdc.txt",
    "url": "https://aspiravi-energy.be/wp-content/uploads/2026/06/900027_Eco_Plus_flex_huishoudelijk-formule-2026-06.pdf",
    "variant": "plain"
   }

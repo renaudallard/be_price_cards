@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-11-04",
@@ -11,8 +11,8 @@
   },
   {
    "pdf": "2e9260a79afcf532a1295bf62c67a8cc49a3d5cccbbc7f617e6ab7253e3050de",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-11/f7077ae3ea9ab45a306d2dd7447528dc05480dd8094fa83895a25e81b3ff0d87.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-11/b6d8eac722d9b1fa99e5119e5ad1f681ce16607bb1217629fdc23cbcf2994123.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-092024-Smart0109-Fixed.pdf",
    "variant": "plain"
   }

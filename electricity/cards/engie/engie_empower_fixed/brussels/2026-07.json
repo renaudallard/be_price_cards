@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "5b4d162188f2a2e279c8403a68356459f303a7d18eb7e92e0ea6404eef777be6",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-09/779c4e3202398b00de0c5a006545b52de6f178970d9f393c65b7da6b0f2cb4aa.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-09/6fa745af2361fb5df829dd2a9737eb7310d4bb5731c01cf7ca58f5f71b7d95d3.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_EMPOWER_R_GREEN_C_F_00_B_F&monthOffset=2&segment=R&language=F",
    "variant": "plain"
   }

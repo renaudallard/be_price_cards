@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-10-20",
@@ -11,15 +11,15 @@
   },
   {
    "pdf": "5c95e311cb1e7fed446690ad7327d5c17f5cf2d8436c6faa2ed74893522420b9",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-10/f6f16dc3770e0bb705c9073222dd8dd2803d5354fba2eeed299d34cb089c7260.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-10/0533b82f4b9f7350b3cba150fe2606bf33d5748071d34a782129e181ce765092.txt",
    "url": "https://aspiravi-energy.be/wp-content/uploads/2024/10/TariffCard-Website-History_900027_Eco_Plus_flex_huishoudelijk-juni-24.pdf",
    "variant": "plain"
   },
   {
    "pdf": "83b1aca78bb6b7f78d9869c4c08381c44bfea5dc607a8483f244f40a753b5e6b",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-10/cadef4ec3b8b8a4ae8b7e62d8fcaddbae10bceebb7c48dc3b2a6caf297f9f2ce.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-10/b894a970a1c702a0dcdbf9667ac4e11ecae8a1b7f23685b9c212e43ebe774162.txt",
    "url": "https://aspiravi-energy.be/wp-content/uploads/2024/10/TariffCard-Website-History_900027_Eco_Plus_flex_huishoudelijk_mei-24.pdf",
    "variant": "plain"
   }

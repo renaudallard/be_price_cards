@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-09-29",
  "_sources": [
   {
    "pdf": "f8998eceb12ecc3c4d760ee1a7d7fde24e09d99efd3d5eb89f8e3ef8b1016287",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-09/0a2d2214451d08aaa993eb5d99d01cd61fbc7f01ad7aa253d824ccd8ac144678.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-09/c8734e40c3ec00d1f875c47d47f0022726e13c89594941f61e2b32a006f607c2.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-112025-Dynamic0111.pdf",
    "variant": "plain"
   }

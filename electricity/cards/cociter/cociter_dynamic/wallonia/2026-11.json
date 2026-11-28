@@ -1,18 +1,18 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
- "_seen_on": "2026-11-22",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
-   "text": "texts/2026-11/84930871f466892a2c2d8a2d3b759312fe33b7b0152f30738d57b0894a64a9a1.txt",
+   "text": "texts/2026-11/cea50ee224e5662c2ba24fac9c7545daef3bfcc3205e9aa6660469ba3c5773b0.txt",
    "url": "https://www.cociter.be/electricite/cartes-tarifaires/",
    "variant": "text"
   },
   {
    "pdf": "f9e57329dca5697b95f673a73546d1bf4a750d1ef575287d75d62b97c6fd04ee",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-11/6d2fdb9d123a45becc0753788b5d02b0466a56b0362f26ac3cfaa7853f67aed0.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-11/4ae5efa27637091adb01129080d3c4211f8f486a69ca5fce23529051775c29bc.txt",
    "url": "https://www.cociter.be/wp-content/uploads/RCDyn_SM3_Coop-2611-fr.pdf",
    "variant": "plain"
   }
@@ -121,7 +121,7 @@
   "factor_transition": null,
   "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": "Le prix de l'injection varie chaque quart d'heure. Il est calculé en fonction de l'indice QUARTER HOURL Y BELPEX** avec la \nformule suivante : \nType de compteur FORMULE DE PRIX \nCompteur SMR3 (0,097 x QUARTER HOURL Y BELPEX – 2,1)",
+  "formula": "Le prix de l'injection varie chaque quart d'heure. Il est calculé en fonction de l'indice QUARTER HOURLY BELPEX** avec la \nformule suivante : \nType de compteur FORMULE DE PRIX \nCompteur SMR3 (0,097 x QUARTER HOURLY BELPEX – 2,1)",
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,

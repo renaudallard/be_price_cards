@@ -1,20 +1,20 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-11-04",
  "_sources": [
   {
    "pdf": "a06c3e22b7912d3cc3a3340855c5c51dbac1bbed8bef915f9bc9f28726bfedb7",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-11/7ae439e4a3adabc6077efea7d3a54035baf187156e151b706e70f90edbc8d6f4.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-11/4495857c81c2e5ed5e5e8171fd55221ed1b1279e2026491a4c68c018ebe2f84e.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-082025-Cosy0108.pdf",
    "variant": "plain"
   },
   {
    "pdf": "f42aade2657e18f2f69b5d634891a7bbd4a038578af929f9dcc0b5ff0a502f5c",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-11/65c289fc0df7e591b820314e7d650467291cee36e1ce19a368ac02e9b2edbce2.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-11/a5d59cd597d969aa8466fab1a2445c9e3ecb97bfed567365f71c50d6bca1f2cb.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-092025-Cosy0109.pdf",
    "variant": "plain"
   }

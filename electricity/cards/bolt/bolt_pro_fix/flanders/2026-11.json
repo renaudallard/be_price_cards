@@ -1,17 +1,17 @@
 {
- "_cached_at": "2026-11-26T15:47:24.861417+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
- "_seen_on": "2026-11-26",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
-   "text": "texts/2026-11/7288a2577e3a4143bf2eaab6c99245cc902157bd4d00ac34e3e2c168d705c3c2.txt",
+   "text": "texts/2026-11/05e2564504f50ef92cec48e381b6f7c44cb50998738fecb90c8b1958b86312a6.txt",
    "url": "https://www.boltenergie.be/fr/listes-des-prix",
    "variant": "text"
   },
   {
    "pdf": "52c46e25a33905e30fb99a7873581e088b85658e9ad8d5fd808bb1ffe78c83e7",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
    "text": "texts/2026-11/5ab677d7a14558e49f3aa4b1ad25f79c1c47bdf4a42b67d0577eab4f97dcc6e7.txt",
    "url": "https://files.boltenergie.be/pricelists/fix/fix_pro_el_fr_202611.pdf",
    "variant": "layout"

@@ -1,18 +1,18 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
- "_seen_on": "2026-11-22",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
-   "text": "texts/2026-11/1fa2df2672677743c8efa90f2c4a74fab75e91111a4c0280c27189ed1314f9c0.txt",
+   "text": "texts/2026-11/5ea8c5cb936269a83acc5aac9e7c9f1cfc92322f54d59b68c8598c86a6f9ce66.txt",
    "url": "https://www.mega.be/fr/energie/cartes-tarifaires",
    "variant": "text"
   },
   {
    "pdf": "531f21841b2637f28d1c0269cadace1930b1c8998eca55ceee6b6d132a3219de",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-11/4f86aff0e18453795669eb4ea59700a51fd00f76c083b3289a531b9f689eac97.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-11/b5c992880c6ae3717ad348817a35ce2f7f887ba5c3e1766252a24f688a5252f0.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-BX-112026-Zen0111-Fix.pdf",
    "variant": "plain"
   }

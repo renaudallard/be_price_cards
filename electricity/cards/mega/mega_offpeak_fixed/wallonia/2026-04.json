@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-09-12",
@@ -11,8 +11,8 @@
   },
   {
    "pdf": "d36a277fdb48495d149bd0f9322150f1f2342099f6339e2cf955eb0f0eb831e0",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-09/51bdb00f3f7aa7104b562cc43e35b5beace2bb244c47042c9e3642308429b654.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-09/a1df96e4263f41cb2673b56444773858a93b88bf475cffa7e3706dc95f6c50c4.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-WL-042026-Offpeak-Bi0104-Fix.pdf",
    "variant": "plain"
   }

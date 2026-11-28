@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-09-12",
  "_sources": [
   {
    "pdf": "7870d6889dd27905bd5e3f4d87c2b5313def795f5b07dd2c26bb4feb3e194689",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-09/d4d8322647adc3e1209c93af29fe5bc9762bd51f1cc250d7508961a41dc2dde9.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-09/af45c4080ae30dedb23cd82e2ae77d4715796e2fb02d14cefe74343d4464d4fa.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-BX-062026-Zen0106-Fixed.pdf",
    "variant": "plain"
   }

@@ -1,13 +1,13 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-10-29",
  "_sources": [
   {
    "pdf": "a3cca01d88f1a0282ca3c5c4183a30209de918c7f006e47963f0316ac9200f53",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-10/36aeff783ed67da8539a37a9429a27eddfbd326e7a8234a92431b1e03d9bfa42.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-10/5e270eafb483fbeb1094b42dc1b0236913f7d073a432d73ca7566d6f5eef301e.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2B-VL-102026-Smart0110-Fixed.pdf",
    "variant": "plain"
   }

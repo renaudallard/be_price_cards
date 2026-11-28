@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-11-04",
@@ -11,8 +11,8 @@
   },
   {
    "pdf": "29c12b29aca09e2cec3b3fca00a30b85c7d9b35be05c0403c256456641f3ce64",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-11/b39e317c5527bc974c908af315c24cfbcc08642de0453b65aa77dfa8c6bef2d7.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-11/1497c46a42415ca986946b3357131858c7ad6bec7b9a6b4e7f5fd84b1159c741.txt",
    "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000CEbf3AAD&date=2025-06&region=Flanders&inline=true",
    "variant": "plain"
   }

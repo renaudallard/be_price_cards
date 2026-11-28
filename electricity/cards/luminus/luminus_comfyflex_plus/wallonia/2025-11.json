@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-10-29",
@@ -11,8 +11,8 @@
   },
   {
    "pdf": "7e935625924b3a9ec6e1b755a8f896b1a2f1b21a9e674fcbb2dbda07bf2b31bf",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-10/7ee375ab3e58adee3b1d0646bb43d8f7dd15edd4c06062412b85d949714783d2.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-10/b62a6d8187d5b872bfc0343f7bfbc1b4cc7305e7d2f3b8add25881a10cdd3b1b.txt",
    "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000BygB1AAJ&date=2025-11&region=Wallonia&inline=true",
    "variant": "plain"
   }

@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-09-12",
@@ -11,15 +11,15 @@
   },
   {
    "pdf": "f93f8d0b6313ac864e4c5239074d0872e246568b1deb7ea62b50ee95f2cda1d2",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-09/13f9ae4e66af035801d81e121eb772d4483cdd037a6763339a5028fdaa8911de.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-09/04fb49338a9a9e1c4b68576c3d011f882608601c8087c7683ea163d08019947f.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-072026-Offpeak-Bi-Var.pdf",
    "variant": "plain"
   },
   {
    "pdf": "647abbf062463dc4c92acf9b8a39c3c7a12b6ddf48a921b2bddcc37b169f0e19",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-09/68029ba76403a42da1cbb7ee4ebf711aa4e7548d2bd2de9fe14fd7b904de71cd.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-09/d47d8fb4e3a7cf203522047b69d7b163567a91d1a7bcbcee64a71aca47d78e60.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-082026-Offpeak-Bi-Var.pdf",
    "variant": "plain"
   }

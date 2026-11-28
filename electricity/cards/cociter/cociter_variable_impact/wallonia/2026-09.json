@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-10-05",
@@ -11,15 +11,15 @@
   },
   {
    "pdf": "92d1007eb43342f41716483da07b48df2eec62500b86fcc368f3402e4e154662",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-10/704c56c2ef3d4b6a6b25cd6bd3a55ae7c2243ab35008b2e203097456468f9023.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-10/950d06d216e03bffe6f4bb584561d2b845395e454b23dc13e89915985230927b.txt",
    "url": "https://www.cociter.be/wp-content/uploads/RCVaI_YMR_Coop-2609-fr.pdf",
    "variant": "plain"
   },
   {
    "pdf": "312c62f416aaf15c95457b6969d87684f06455f44b50e6ec0fef7fb0f8f7b7b0",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-10/3944aaf84e50d2f0e7e3578c27d3a6af5a17ea7e999542a0cf137e3d1c3a29da.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-10/7bbcf6f94cd3c939511abe83796f580f8ff20b4136643db76c7767d139d7498d.txt",
    "url": "https://www.cociter.be/wp-content/uploads/RCVaI_YMR_Coop-2610-fr.pdf",
    "variant": "plain"
   }
@@ -140,7 +140,7 @@
   "factor_transition": null,
   "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": "Le prix de l'injection varie chaque quart d'heure. Il est calculé en fonction de l'indice QUARTER HOURL Y BELPEX *** avec \nla formule suivante : \nType de compteur FORMULE DE PRIX \nCompteur pouvant effectuer des mesures par quart d'heure (0,097 x QUARTER HOURL Y BELPEX – 2,1)",
+  "formula": "Le prix de l'injection varie chaque quart d'heure. Il est calculé en fonction de l'indice QUARTER HOURLY BELPEX *** avec \nla formule suivante : \nType de compteur FORMULE DE PRIX \nCompteur pouvant effectuer des mesures par quart d'heure (0,097 x QUARTER HOURLY BELPEX – 2,1)",
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,

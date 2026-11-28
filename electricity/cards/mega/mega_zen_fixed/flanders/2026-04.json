@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-09-12",
@@ -11,8 +11,8 @@
   },
   {
    "pdf": "9dcf5a387a0aceaf3552010fc7c5a209e7299bb8552b1d869572e8ffc0622714",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-09/a7cb28f4118d395a2e8af0781432d8009ef58d8d4c8504d5dfc642dc557e389d.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-09/1985289bd66f3fa5b5fc935becc83838b408e6d0458cc542d41792d1a82b63db.txt",
    "url": "https://my.mega.be/resources/tarif/Mega-FR-EL-B2C-VL-042026-Zen0104-Fixed.pdf",
    "variant": "plain"
   }

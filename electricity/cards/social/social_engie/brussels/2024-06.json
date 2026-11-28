@@ -1,20 +1,20 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-10-20",
  "_sources": [
   {
    "pdf": "0230c7f68a6a84a6b073cc9201a6a5867533f30ec36c5ba2c0f9a721300b7bf7",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
    "text": "texts/2026-10/a3347337cc8e471f3725085a2863bfd1ea2263bc3931dd43e7cefce73e2f5a48.txt",
    "url": "https://www.creg.be/sites/default/files/assets/Tarifs/Social/E-TSS-FR-2024-Q2.pdf",
    "variant": "plain"
   },
   {
    "pdf": "ade777eebc89c237e4a172e723f3166e5f5fbbcb522cc552379dc1de36c4ab76",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-10/034efa902750b518741af7dccf5d8459168eed5bdf4fcc534b297a9e7341d150.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-10/c042d786a8a0a002833ab7f9fd3bd68e30c60ac1620db5cc6064388bce2ab254.txt",
    "url": "https://www.engie.be/api/engie/be/ms/pricing/v1/public/pricesAndConditionsPDF?document=E_SOCIAL_R_GREY_C_F_00_B_F&monthOffset=28&segment=R&language=F",
    "variant": "plain"
   }

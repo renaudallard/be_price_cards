@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-09-12",
@@ -11,8 +11,8 @@
   },
   {
    "pdf": "acdf1a3793d7685d2d600c85342c09df40ceb40188b698ffb4c84943625979dc",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-09/ae759022d5ac10039dd3a1eafaba771bbdf9cbc32c0b1fa37b3b0970fe863f7b.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-09/1ba4e7709b0d4c959a65f3f9c91b6787c1ad2bc146b0f4fdd28d53c3f32d7247.txt",
    "url": "https://www.cociter.be/wp-content/uploads/2026/09/RCDyn_SM3_Coop-2605-fr.pdf",
    "variant": "plain"
   }
@@ -121,7 +121,7 @@
   "factor_transition": null,
   "fixed_for_term": false,
   "floor_at_zero": false,
-  "formula": "Le prix de l'injection varie chaque quart d'heure. Il est calculé en fonction de l'indice QUARTER HOURL Y BELPEX** avec la \nformule suivante : \nType de compteur FORMULE DE PRIX \nCompteur SMR3 (0,097 x QUARTER HOURL Y BELPEX – 2,1)",
+  "formula": "Le prix de l'injection varie chaque quart d'heure. Il est calculé en fonction de l'indice QUARTER HOURLY BELPEX** avec la \nformule suivante : \nType de compteur FORMULE DE PRIX \nCompteur SMR3 (0,097 x QUARTER HOURLY BELPEX – 2,1)",
   "minimum": null,
   "month_indexed": false,
   "offpeak": null,

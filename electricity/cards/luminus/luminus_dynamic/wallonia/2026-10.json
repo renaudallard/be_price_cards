@@ -1,5 +1,5 @@
 {
- "_cached_at": "2026-11-22T15:25:12.682175+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
  "_seen_on": "2026-10-30",
@@ -11,15 +11,15 @@
   },
   {
    "pdf": "7b0152bf909b0db297f7bd0cb13293f2bd78ea9320fac6100fc79039d1637278",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-10/78115526b91729340797c85ff4ecd292745cbe7ed26e4fa4259f249bdb20dec7.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-10/1ef85de7bac1b38dc1a8785503223379dbfe7ae6b12b4c8a3588dc9899f903ad.txt",
    "url": "https://www.luminus.be/api-next/get-pricelist/?documentSlug=dynamic&energyType=electricity&language=fr&tabValue=Wallonia",
    "variant": "plain"
   },
   {
    "pdf": "1b868013472fabc5b63200cc42c18176a81a5c12e4d82091129c7eab01406860",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
-   "text": "texts/2026-10/44fb194b0284e286ac8be639410514835631ffee2929b8560fbc495672188fa9.txt",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
+   "text": "texts/2026-10/13d94c4b4789abb67f4ef0218525981121e6801633704d783dabae1f87a295b0.txt",
    "url": "https://www.luminus.be/api/pricelist/pdf?language=FR&productId=a1p0800000CVjzAAAT&date=2026-10&region=Wallonia&inline=true",
    "variant": "plain"
   }

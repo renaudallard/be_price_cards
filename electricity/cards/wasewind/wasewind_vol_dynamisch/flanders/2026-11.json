@@ -1,62 +1,17 @@
 {
- "_cached_at": "2026-11-27T15:36:13.798768+00:00",
+ "_cached_at": "2026-11-28T14:31:46.666190+00:00",
  "_probe_key": null,
  "_schema_version": 93,
- "_seen_on": "2026-11-27",
+ "_seen_on": "2026-11-28",
  "_sources": [
   {
-   "text": "texts/2026-11/2450b7bfdc1470482a995ba8995a0b179c0fe1690c841067633a4287fdae7124.txt",
-   "url": "https://www.fluvius.be/nl/factuur-en-tarieven/netkosten/netkosten-afname-elektriciteit",
-   "variant": "text"
-  },
-  {
-   "text": "texts/2026-11/355173d479336ccb557787a150edb07fee18170b1848f5f353945cad921a642a.txt",
-   "url": "https://www.fluvius.be/nl/publicatie/fluvius-antwerpen-distributienettarief-afname-elektriciteit-01012026-31122026",
-   "variant": "text"
-  },
-  {
-   "text": "texts/2026-11/3b8632d09a75f73076b86837a4e9c44df171aa1b498c1ff259d7c6ccb6fbdf3f.txt",
-   "url": "https://www.fluvius.be/nl/publicatie/fluvius-halle-vilvoorde-distributienettarief-afname-elektriciteit-01012026-31122026",
-   "variant": "text"
-  },
-  {
-   "text": "texts/2026-11/88298c73687c1806b77cf8e2492cf6ae7ecc9b0d2c0a2a279f3a191b53671cc9.txt",
-   "url": "https://www.fluvius.be/nl/publicatie/fluvius-imewo-distributienettarief-afname-elektriciteit-01012026-31122026",
-   "variant": "text"
-  },
-  {
-   "text": "texts/2026-11/d7422ad8515592c5ba08d8770d6157d5a001fc3b020f8797ede8b82872b316d0.txt",
-   "url": "https://www.fluvius.be/nl/publicatie/fluvius-kempen-distributienettarief-afname-elektriciteit-01012026-31122026",
-   "variant": "text"
-  },
-  {
-   "text": "texts/2026-11/2afa8e21c9b3b9edc42fecf81de636c34ca058d132cb23cd73bd94ddbd9c5c6f.txt",
-   "url": "https://www.fluvius.be/nl/publicatie/fluvius-limburg-distributienettarief-afname-elektriciteit-01012026-31122026",
-   "variant": "text"
-  },
-  {
-   "text": "texts/2026-11/73f43007363f1efdc5447a097596a9d5e27f1bd95bcff66d33a92d8971db4f6c.txt",
-   "url": "https://www.fluvius.be/nl/publicatie/fluvius-midden-vlaanderen-distributienettarief-afname-elektriciteit-01012026-31122026",
-   "variant": "text"
-  },
-  {
-   "text": "texts/2026-11/232269d977609958e07f8efb877895cc823e523fcbc002846d1f8ab399467af0.txt",
-   "url": "https://www.fluvius.be/nl/publicatie/fluvius-west-distributienettarief-afname-elektriciteit-01012026-31122026",
-   "variant": "text"
-  },
-  {
-   "text": "texts/2026-11/c261fc8b3d61e8507185b54c564fd23cd8ae4e5edff08579284f809c725d906f.txt",
-   "url": "https://www.fluvius.be/nl/publicatie/fluvius-zenne-dijle-distributienettarief-afname-elektriciteit-01012026-31122026",
-   "variant": "text"
-  },
-  {
-   "text": "texts/2026-11/73243c672915e9114bc25bf88ebfca128a3f918a00c2ea3a1f8d6137a26b3d68.txt",
+   "text": "texts/2026-11/d64300a2153fffb238295e1217b882fa2ab845b1fb6dc8a6cc22d2b72fe4a062.txt",
    "url": "https://www.wasewind.be/tariefkaarten-2026-incl.-btw-vol-dynamisch",
    "variant": "text"
   },
   {
    "pdf": "d6ada25f494824cbb8a0cad8fb5d3118123c7578574987a70b4cb0f3d6c30ed3",
-   "readers": "pypdf==6.21.4 pdfplumber==0.11.9 render=5902b8c7c2857095",
+   "readers": "pypdf==7.2.0 pdfplumber==0.11.9 render=f5457ab13056546f",
    "text": "texts/2026-11/aeca26a181dba41a87690216d32ad4d69af57e4c4242d658cb7abd80b0a4419a.txt",
    "url": "https://www.wasewind.be/frontend/files/userfiles/files/Tariefkaarten/Tarieven%202026/Tariefkaart%20WW-DY-HH-2611.pdf",
    "variant": "layout:min480"
